@@ -12,7 +12,6 @@ All content is written in **Markdown**, versioned with Git, and designed to be:
 - easy to translate and maintain,
 - openly accessible to educators.
 
----
 
 ## 🎯 Purpose of this repository
 
@@ -24,7 +23,6 @@ The goal of this repository is to:
 
 This repository focuses on **content**, not on presentation or delivery platforms.
 
----
 
 ## 📚 What you’ll find here
 
@@ -44,7 +42,6 @@ Reusable educational resources used across programs and documents:
 - images and diagrams,
 - references and sources.
 
----
 
 ## 🌍 Languages & translations
 
@@ -54,7 +51,6 @@ Reusable educational resources used across programs and documents:
 Translation guidelines and workflows are documented in:
 TRANSLATIONS.md
 
----
 
 ## 🔄 Versioning & releases
 
@@ -63,7 +59,6 @@ This repository follows a **continuous update** model.
 - Content is updated continuously on `main`.
 - Releases represent stable versions of the curriculum used in classes, partnerships, or public distribution.
 
----
 
 ## 🤝 Contributing
 
@@ -75,7 +70,6 @@ We welcome contributions from:
 
 All contributions are expected to follow our pedagogical and editorial standards.
 
----
 
 ## 📄 License
 
@@ -92,7 +86,6 @@ as long as you:
 - attribute My First Bitcoin,
 - share derivative works under the same license.
 
----
 
 ## 🧠 About My First Bitcoin
 
@@ -101,5 +94,3 @@ as long as you:
 Learn more:
 - 🌐 https://myfirstbitcoin.org
 - 🧡 https://github.com/MyFirstBitcoin
-
-Dis-moi ce que tu veux faire ensuite 👍
