@@ -12,21 +12,21 @@ Let’s take a look at the diﬀerence between on-chain transactions (which we d
 
 ##### On-Chain Transactions
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/3ae035cab0815091c1e56d76367c189cec0b3a09-225x131.svg)
+![ ]
 
 These are transactions that happen directly on the Bitcoin blockchain. They take about 10 minutes to confirm, and the fees depend on the size of the transaction in virtual bytes. They are more secure slower, since they require the consensus of the network.
 
 ##### Oﬀ-chain Transactions (Lightning Network)
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/31947c30d73861a2d1fa3f2d573dbe7f5f144a1e-229x169.svg)
+![ ]
 
 These transactions happen on a separate network built on top of the Bitcoin blockchain. They settle faster and with lower fees.
 
 They are commonly used where considerations like the speed and cost of transactions are more important. Compared to on-chain transactions, they are less secure.
 
 
-|  |  |  |
+| Payment Network | Bitcoin Network | Lightning Network |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Definition | A decentralized digital network that uses cryptography to secure financial transactions. | A second layer payment protocol that operates on top of the Bitcoin blockchain, enabling faster and cheaper transactions. |
+| Advantages | Decentralized and secure. No chargebacks or fraud. Can be used pseudonymously. Global acceptance. | Faster and cheaper transactions. Increased scalability. Off-chain transactions do not clog the blockchain. |
+| Disadvantages | Slow transaction times. High fees for certain types of transactions. Complex for beginners. | Can require trust in the channel operators. Not yet as widely adopted as Bitcoin. Requires on-chain transaction to open and close channels. |

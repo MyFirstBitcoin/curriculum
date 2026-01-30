@@ -2,7 +2,7 @@
 
 #### 5.1.1 The Nakamoto Consensus Mechanism
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/700460790b2c5b031d52fa830facab9508a07c85-290x216.svg)
+![ ]
 
 So, how does Bitcoin work? Bitcoin has lots of features, and the rabbit hole goes deep — very deep. Fortunately, if you're entering the Bitcoin world for the first time, you do not have to perfectly understand how it works to start using it.
 
@@ -36,7 +36,7 @@ To better understand the decentralization of Bitcoin, we need to dive deeper int
 
 ##### 1. Miners: The Architects of Security
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/173d7b5dc4b3564af12a14b930f9b19b123648c4-164x164.svg)
+![ ]
 
 Miners are the backbone of Bitcoin. They work behind the scenes to maintain and secure the network through a mechanism called Proof-of-Work (PoW).
 
@@ -48,7 +48,7 @@ Bitcoin miners are distributed all over the world, safeguarding the network agai
 
 ##### 2. Nodes: Gatekeepers of Validation
 
-![Bitcoin Nodes](https://cdn.sanity.io/images/vje9ehw2/production/c8cd0ada6731528c81ae1f05f6b996580b71d66a-267x138.svg)
+![Bitcoin Nodes]
 
 Bitcoin nodes are run by ordinary people across the planet. These participants serve as the Bitcoin network's gatekeepers by running Bitcoin software on their computers on which they keep a copy of the entire ledger. Nodes validate transactions and ensure that all participants adhere to the consensus rules.
 
@@ -74,7 +74,7 @@ Bitcoin's decentralization can be thought of as a synergetic orchestra, a balanc
 
 The decentralized ledger, maintained by nodes, guarantees transparency, while the proof-of-work mechanism provides security and deters centralization in mining; users experience financial sovereignty and empowerment, free from the control of the fiat system; developers, guided by consensus, ensure the protocol adapts to meet the evolving needs of humanity; Bitcoin projects, in their own unique ways, contribute to the broader mission of collective freedom.
 
-![Networks](https://cdn.sanity.io/images/vje9ehw2/production/a41475c0bced626c88025045b41b4e135bea2856-344x235.svg)
+![Networks]
 
 As you can see, each participant in this decentralized orchestra plays a vital role in shaping Bitcoin's adoption and empowering humanity, contributing to the resilience and longevity of Bitcoin and creating a trust-free, borderless and empowering ecosystem.
 

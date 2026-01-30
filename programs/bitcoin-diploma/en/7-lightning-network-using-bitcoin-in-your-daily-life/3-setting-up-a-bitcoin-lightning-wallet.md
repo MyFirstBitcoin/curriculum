@@ -13,7 +13,7 @@ Setting up a self-custodial Bitcoin Lightning wallet very similar to setting up 
 1. You must then confirm that you have indeed saved your recovery phrase. To do this, enter the words of your seed phrase in the same order.
 1. As an additional measure of security, some wallets allow you to choose a secure password. You can now start sending and receiving bitcoin on Lightning.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/b4a1b1216bcf1d7146ae9217a694eae743a2bcae-503x182.svg)
+![ ]
 
 *Note: If you are using a custodial wallet, you will not need to follow some of these steps. Using a custodial wallet comes with risk, as you will not be in control of your private key, which means you will not be in control of the money you keep in your wallet.
 

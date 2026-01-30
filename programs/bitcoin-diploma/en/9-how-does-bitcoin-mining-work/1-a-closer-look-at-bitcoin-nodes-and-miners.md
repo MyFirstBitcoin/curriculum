@@ -1,6 +1,6 @@
 # 9.1 A Closer Look at Bitcoin Nodes and Miners
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/01493739ff42fd9d3aea7a816d600a8ac82b60d2-326x227.svg)
+![ ]
 
 Bitcoin nodes may sound technical, but they are just software running a copy of the Bitcoin ledger on a piece of hardware. When you run your own Bitcoin node, you gain sovereignty over the validation of your own transactions, but also a voice in shaping the rules of the Bitcoin network.
 
@@ -53,9 +53,9 @@ Once a miner finds the correct block hash, they share it with the network, along
 **Miners' Rewards for sucessfully completing one block halve every 210 000 blocks, or an average of every four years.**
 
 
-|  |  |  |  |  |
+| 2009 | 2012 | 2016 | 2020 | 2024 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| 50 BTC | 25 BTC | 12.5 BTC | 6.25 BTC | 3.125 BTC |
 
 
 Bitcoin halvings are an essential part of the Bitcoin protocol that helps maintain its scarcity and value over time. As you now know, there is a fixed supply of 21,000,000 bitcoin in total. This supply wasn’t fully available from the day Bitcoin launched — in fact, the full supply has not yet reached circulation. Instead, this supply enters the Bitcoin ledger progressively, following a schedule the network agrees to. Satoshi Nakamoto cleverly designed the block reward system as a way to distribute new bitcoin little by little, without the need for a central authority. In Bitcoin’s early days, miners got a sweet 50 bitcoin reward for each block they mined! This incentive motivated early miners to invest in powerful equipment and electricity for their mining operations.
@@ -68,7 +68,7 @@ To keep the network stable and manage new bitcoin supply, the block reward is ha
 > _Circulating supply_ refers to the total available amount of a currency. With Bitcoin, the total circulating supply is the number of coins that have been mined and are incirculation at any given time.
 
 
-![ Bitcoin Supply Schedule](https://cdn.sanity.io/images/vje9ehw2/production/2238d89d77f3576e74038aeaf3a30bbb5d516337-292x200.svg)
+![ Bitcoin Supply Schedule]
 
 After each halving event, miners receive a reduced bitcoin reward, which progressively lowers the issuance rate of new coins. This reduction doesn’t necessarily mean miners make less of a profit: they also earn the sum of the transaction fees for the block they mine and, additionally, Bitcoin's price tends to increase as the emission of new coins slows down—miners receive a smaller amount of bitcoin, but each unit is very likely to be worth more!
 
@@ -83,14 +83,14 @@ Halving events are pre-programmed into the Bitcoin protocol, making the supply s
 The following table outlines the details of upcoming Bitcoin halvings, including the expected date of the next halving event, the block number at which it will happen, the block reward per mined block until the following halving, and the percentage of the total supply that will be mined.
 
 
-|  |  |  |  |  |
+| Event | Date | Block | Reward | Percentage Mined |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 5th Halving | 2028 | 1,050,000 | 1.5625 BTC | 98.44 % |
+| 6th Halving | 2032 | 1,260,000 | 0.78125 BTC | 99.22 % |
+| 7th Halving | 2036 | 1,470,000 | 0.390625 BTC | 99.61 % |
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/a94a869a8feb74fea4a0ab195518b4a2db5cc60b-325x200.svg)
+![ ]
 
 As more bitcoin are mined, the circulating supply and the percentage of the total supply that has been mined will keep increasing until the total supply of 21,000,000 is reached — which will happen in the year 2140. The reduced new supply, combined with rising demand, can boost Bitcoin’s price (relative to fiat currency). This benefits early adopters and also motivates miners to continue securing the network and contributing their computing power and resources.
 
@@ -100,7 +100,7 @@ As more bitcoin are mined, the circulating supply and the percentage of the tota
 
 In Bitcoin, a valid block hash is like a special code that miners try to find. It's a unique number that helps keep track of each block in the blockchain that stores information about transactions. The blocks connect in a chain from the first one (the so-called Genesis Block) to the latest, making a public record of all transactions.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/66808cf35b75a866c0fc6c7923ff27a435c49417-238x81.svg)
+![ ]
 
 This block hash is crucial because it links each block to the one before it, making it easy for anyone to check the complete history of transactions. It's a bit like a fingerprint for each block, ensuring the information is correct and secure. The block hash acts as a way to confirm that the data in the block hasn't been changed.
 
@@ -150,7 +150,7 @@ PoW keeps Bitcoin safe by making it prohibitively expensive for anyone with mali
 1. **Broadcast valid blocks**: After finding a valid blockhash, they broadcast the new block to the network.
 1. **Earn Rewards**: Lastly, they receive newly created bitcoin according to the supply schedule as well as the transaction fees for successfully adding the block to the blockchain.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/f421b4fb55b14efb91037d75a0bff4fcd6799f95-435x243.svg)
+![ ]
 
 Multiple miners can work on creating new blocks simultaneously. The first miner to discover a block hash that meets the target set by the network announces it to the network, and the nodes then check the transactions in that miner’s candidate block to make sure they are valid. If the transactions are indeed valid, the block is added to the blockchain. The other blocks created by the other miners at the time are not added and are discarded. This process helps maintain consensus within the network and prevents double-spending.
 

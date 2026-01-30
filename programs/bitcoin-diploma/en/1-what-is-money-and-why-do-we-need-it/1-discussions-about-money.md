@@ -6,24 +6,24 @@ Consider practical uses like acquiring necessities such as food and desired item
 
 ##### Why do we need money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### What is money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### Who controls money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### What gives money its “value”?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### What question do you have about money?  
 Write down your question here to share with the class.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 
 > **Note**
@@ -50,7 +50,7 @@ _Aristotle_
 
 #### Discussion: What is Money?
 
-![The only diﬀerence between these two notes is your belief that one has more value than the other.](https://cdn.sanity.io/images/vje9ehw2/production/61a586ec4403e3873db4d9cac41091955e85d382-254x58.svg)
+![The only diﬀerence between these two notes is your belief that one has more value than the other.](The only diﬀerence between these two notes is your belief that one has more value than the other.)
 
 _The only diﬀerence between these two notes is your belief that one has more value than the other_
 

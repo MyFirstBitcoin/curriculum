@@ -28,20 +28,20 @@ We define an asset as having **_economic intrinsic value_** only if it can be de
 The following table lays out whether or how various assets have value or intrinsic value.
 
 
-|  |  |  |
+|  | Value | Intrinsic Value |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| US Dollar | Yes | Yes |
+| Stocks / Shares | Yes | Yes |
+| An intangible asset | Yes | Possibly |
+| Options on securities | Yes | Yes |
+| Gold | Yes | No |
+| Shares in gold miners | Yes | Yes |
+| Gold Derivatives | Yes | Yes |
+| Bitcoin | Yes | No |
+| Shares in bitcoin miners | Yes | Yes |
+| Bitcoin Derivatives | Yes | Yes |
+| Oxygen in the atmosphere | No | No |
+| Water in the oceans | No | No |
 
 
 Having economic intrinsic value tells you nothing about the philosophical position, although you don't need to know as nothing has philosophical intrinsic value (see the following section).

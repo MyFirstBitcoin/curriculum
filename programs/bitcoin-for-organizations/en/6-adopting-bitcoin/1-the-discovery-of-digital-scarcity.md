@@ -73,14 +73,14 @@ At any moment, the probability that Rogue mines the next block is 200/550 = 0.36
 Rogue then gives up. Why?
 
 
-|  |  |  |  |  |
+| Catch up blocks | 1% | 10% | 36% (Rogue) | 51% |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 1 | 0.010101 | 0.111111 | 0.562500 | 1.0 |
+| 2 | 0.010102 | 0.012346 | 0.316406 | 1.0 |
+| 3 | 1.0e-06 | 0.001372 | 0.177919 | 1.0 |
+| 4 | 1.0e-08 | 0.000152 | 0.100113 | 1.0 |
+| 5 | 1.0e-10 | 0.000017 | 0.056314 | 1.0 |
+| 6 | 1.0e-12 | 1.9e-06 | 0.031676 | 1.0 |
 
 
 **Source**: Based on a table in Grokking Bitcoin by Kalle Rosenbaum

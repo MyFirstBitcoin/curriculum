@@ -9,20 +9,20 @@ Money should maintain its value over time, making it useful as a method to save 
 **What's your store of value?**
 
 
-|  |  |  |  |
+|  | BTC (USD) | Gold (USD) | USD (EUR) |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| March 14, 2019  | $3,846 | $1,293 | €0.8817 |
+| March 14, 2020 | $5,258 | $1,529 | €0.90056 |
+| Gain/Loss | +36.71% | +18.25% | +2.14% |
 
 
-![Medium of Exchange](https://cdn.sanity.io/images/vje9ehw2/production/aead92abee9e3b6c02ae559a47fd785f685c0b9a-201x56.svg)
+![Medium of Exchange]
 
 ##### Medium of Exchange
 
 With money, you don’t have to find someone who wants exactly what you have to trade. Instead, you can use money to buy and sell anything you want. This makes trading and commerce much more convenient and eﬃcient.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/25bbbd1195134518c04e0c09f3a25e41ae346aa5-179x130.svg)
+![](#)
 
 _Consumers know the value of something when you assign a price (monetary value) to it._
 

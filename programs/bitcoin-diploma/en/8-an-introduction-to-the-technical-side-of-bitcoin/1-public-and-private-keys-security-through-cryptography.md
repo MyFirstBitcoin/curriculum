@@ -24,13 +24,13 @@ In traditional private-key cryptography, John and Arel would have to first share
 
 However, if someone else is in possession of the key and intercepts the message, they could decrypt it and read it.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/578998f8718bff7313573166e3e27cef5d35ae29-239x176.svg)
+![ ]
 
 Public/private key cryptography, the type used in Bitcoin, has solved this problem. With public key cryptography, John and Arel don’t need to share a password or encryption method with each other. Instead, they each have two diﬀerent keys: a **public key** (which is safe to share with anyone) and a **private key** (which should be kept private).
 
 In this case, when John wants to send a message to Arel, he can use Arel’s **public key** to encrypt his own message before sending it to Arel. When Arel receives the message, only he is able to decrypt it with his **private key**. No one else, even if they intercept the message, will be able to read the message. The chances to steal the key are also much lower, because not even John and Arel need to share their private keys with each other.
 
-![Digital Signatures](https://cdn.sanity.io/images/vje9ehw2/production/dda8792135d7e95c6b3a1cf75a2486c44076e802-225x192.svg)
+![Digital Signatures]
 
 So, the main advantage of public/private key cryptography over private is that it allows for secure communication without the need for the sender and receiver to first share a secret key (or another encryption method like Pigpen Cipher), which could be intercepted by a third party.
 
@@ -50,7 +50,7 @@ In Bitcoin, public/private key cryptography is not used to send encrypted messag
 
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/db62915ab9b0b151f726115e764e7cb257d35bfc-238x144.svg)
+![ ]
 
 * Bitcoin transactions involve transferring the ownership of a certain amount of bitcoin from one address to another.
 * Encryption is used to ensure that only the real holder of the bitcoin has the authority to send their money to someone else. It ensures their property is guarded against malicious actors.
@@ -86,7 +86,7 @@ Please don’t be intimidated by the technical terms and mathematical concepts a
 > The information you give the function is called the **input**. The new information the function creates is called the **output**. Functions help computers do tasks and solve problems.
 
 
-![Function Machine](https://cdn.sanity.io/images/vje9ehw2/production/fa83a3f9e47b6d7d02981de8cf366ac6a2d20410-207x142.svg)
+![Function Machine]
 
 Think of it like a recipe for making a salad. The recipe (or function) tells you what ingredients to use and how to mix them together to make the salad. You can put different ingredients in, but the recipe will always give you the salad as the output. Functions can be used to help make things easier and more efficient.
 
@@ -96,7 +96,7 @@ The functions used in a Bitcoin transaction include verifying the authenticity o
 
 ##### What is a one-way function?
 
-![Smoothies](https://cdn.sanity.io/images/vje9ehw2/production/20a9235191832319c0cac3d29377e537d3c784d6-207x126.svg)
+![Smoothies]
 
 A one-way function uses a set of instructions to process information and turns it into something new — like a smoothie recipe turns ingredients into a new drink. But, just as you can’t un-blend a smoothie to get the original ingredients back, you can’t reverse the one-way function to get the original information back.
 
@@ -112,7 +112,7 @@ Public/private key cryptography, of which the public key is a part, relies on th
 > _Hashing_ is like creating a fingerprint for digital data. It is the process of taking a digital message and turning it into a fixed length code, which serves as a unique identifier. Just like a fingerprint can identify a person, a hash can identify a digital message. Hashes are used in many applications, including Bitcoin transactions.
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/354e09cbfc97315829fc093f1be277fa81706fc0-163x281.svg)
+![ ]
 
 **How Hashing Is Used in Bitcoin Transactions**
 
@@ -140,7 +140,7 @@ The output always looks the same for the same message. If you change the message
 
 Curious about how hashing works? Scan the QR code to instantly generate a SHA256 hash from any word, sentence, or input you choose. Hash functions are like digital fingerprints: they're one-way, meaning once something is hashed, it can't be reversed. Try it out and see for yourself!
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/0e8a875dc59ab084342fb9932ecbf6d260029e86-474x117.svg)
+![ ]
 
 The **output**, or hash, is always the same length, no matter how long the original information was. Bitcoin uses a few specific types of hash function called **SHA-256** and **RIPEMD160**.
 
@@ -165,7 +165,7 @@ The process of encoding the **public key** through hashing is used to improve th
 
 ##### Properties of a hashing function
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/a888338bb7065cc78a73d07797d00e1079a04a83-238x217.svg)
+![ ]
 
 * **Deterministic**: The same ingredients always yield the same smoothie.
 * **Pre-Image Resistance**: You can’t reassemble a strawberry from a smoothie.

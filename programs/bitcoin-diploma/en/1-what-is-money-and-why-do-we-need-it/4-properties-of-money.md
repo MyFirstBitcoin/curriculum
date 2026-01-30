@@ -31,15 +31,15 @@ To determine how well diﬀerent items meet the specific characteristics of mone
 * **Divisibility:** Can the money be divided into smaller units?
 
 
-|  |  |  |  |  |  |
+| Characteristic of Good Money | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Durable |  |  |  |  |  |
+| Portable |  |  |  |  |  |
+| Uniform |  |  |  |  |  |
+| Acceptable |  |  |  |  |  |
+| Scarce |  |  |  |  |  |
+| Divisible |  |  |  |  |  |
+| Total |  |  |  |  |  |
 
 
 

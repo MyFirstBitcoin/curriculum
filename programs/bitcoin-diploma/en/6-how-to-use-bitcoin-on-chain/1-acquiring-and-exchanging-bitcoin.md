@@ -13,7 +13,7 @@ Below, we’ll explore exchanging fiat currency for bitcoin and vice versa, thro
 
 #### 6.1.1 Peer-to-Peer: In Person
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/29cef0eb475b328f7b7712db1657c8b44d33b39c-163x105.svg)
+![ ]
 
 Engaging in peer-to-peer (P2P) transactions to buy and sell bitcoin in person involves directly exchanging your fiat currency (or any other goods or services) for bitcoin with another individual, eliminating the need for a bank or other party to be involved in the transaction.
 
@@ -23,7 +23,7 @@ Both parties agree on the exchange amount and rate. The buyer provides the cash,
 
 #### 6.1.2 P2P: Online
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/849e81cc846544778d6920e1ba56914fd88f3fb4-144x92.svg)
+![ ]
 
 While it's easier to do P2P exchanges in person by meeting with the other individual directly in the real world, this carries some risk — just like any other in-person trade for cash does. This is why some people choose to exchange bitcoin virtually, wherever they are thanks to the internet.
 
@@ -43,7 +43,7 @@ Centralized exchanges are companies that allow clients to buy and sell bitcoin d
 
 ##### Centralized Exchanges and Their Trade-Oﬀs
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/e4ac17d18375e28eb070d052b6598bed20078f79-144x163.svg)
+![ ]
 
 It’s important to note that when buying bitcoin through a centralized exchange, you are often required to provide personal information and verify your identity. This creates a risk of identity theft and exposes your personal information to potential threats. Additionally, centralized exchanges hold your bitcoin for you, which means you are not in control of your money until you withdraw your funds.
 

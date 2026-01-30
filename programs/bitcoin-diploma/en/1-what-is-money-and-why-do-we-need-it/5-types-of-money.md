@@ -1,6 +1,6 @@
 # 1.5 Types of Money
 
-![Not all money is the same](https://cdn.sanity.io/images/vje9ehw2/production/b287744282c168a6c4e54938fe16b0083a994087-130x216.svg)
+![Not all money is the same](Not all money is the same)
 
 _Not all money is the same_
 
@@ -19,7 +19,7 @@ Digital currencies, on the other hand, can be used for online transactions and i
 
 Electronic currencies are digital versions of regular money, like dollars or euros, and can be used to buy and sell things online via **digital payment rails.**
 
-![Payment rails](https://cdn.sanity.io/images/vje9ehw2/production/25254a0a30b6fa62e3128473280586fb3a766f0a-170x97.svg)
+![Payment rails]
 
 Payment rails are the infrastructure enabling the movement of electronic currencies and other digital assets from one place to another.
 

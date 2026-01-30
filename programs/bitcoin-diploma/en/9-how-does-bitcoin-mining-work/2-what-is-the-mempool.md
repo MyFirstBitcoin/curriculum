@@ -6,7 +6,7 @@ Imagine you are waiting in line at a restaurant. Your name is added to a list of
 
 The **mempool** is where transactions wait to be confirmed into a block.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/601fdb412519d6124cf0d88b8292f5464339deb8-188x105.svg)
+![ ]
 
 When a node first receives a transaction from a peer, it has to verify that the transaction is legit. Nobody wants faulty or deceptive transactions.
 
@@ -23,7 +23,7 @@ The main purpose of the **mempool** is to:
 
 ##### How Are Transactions Verified and Added to the Mempool?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/b92f229e8e7a41e22315e07e20a65f9048a24faf-169x102.svg)
+![ ]
 
 When new transactions are broadcast to the Bitcoin network, nodes verify these transactions to make sure they are valid and that the funds have not been spent before. Once these transactions are verified, the nodes will add them to their mempool. The nodes will then share the transactions with other nodes to double check. Finally, if the majority of nodes agree, the transactions will be made available for miners to select and include them in a block. There are several reasons why a transaction might not be confirmed after 72 hours:
 

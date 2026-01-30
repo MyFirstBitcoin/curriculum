@@ -4,7 +4,7 @@ A Bitcoin transaction is a transfer of ownership of bitcoin to a new owner. Note
 
 To "send" bitcoin, the sender signs a message with their private key, signaling to the network that the rightful owner of the bitcoin has transferred its ownership to the recipient.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/c9f81e633eb05c0deb15db6a4372c15e00b001ef-306x142.svg)
+![ ]
 
 The bitcoin will now be tied to the recipient's address, giving them ownership of the bitcoin, so that only the new owner can spend them by using their private key.
 
@@ -20,14 +20,14 @@ Let’s say Jim owes Eliana 0.5 BTC and is ready to pay her back. Both have digi
 
 _It’s important to note that once the transaction is complete, it cannot be reversed._
 
-![How a Bitcoin Transaction Works](https://cdn.sanity.io/images/vje9ehw2/production/ebdcc4745c35de408e0ed55b7da3ebc543624f1e-502x131.svg)
+![How a Bitcoin Transaction Works]
 
 
 
 
 > **Note – Receiving Bitcoin Transactions**
 >
-> ![](https://cdn.sanity.io/images/vje9ehw2/production/1ab3d028204d69a33e5f2e42faaa341a86ad8e4c-133x288.svg)
+> ![]
 >
 > To receive bitcoin, you will need to provide the sender with a Bitcoin public address. This is a unique string of letters and numbers that represent your wallet and is used to identify it on the Bitcoin network.
 >
@@ -47,7 +47,7 @@ Next, we will take a look at sending bitcoin transactions.
 
 > **Note – Sending Bitcoin Transactions**
 >
-> ![](https://cdn.sanity.io/images/vje9ehw2/production/1ab3d028204d69a33e5f2e42faaa341a86ad8e4c-133x288.svg)
+> ![]
 >
 > To send bitcoin, you will need a few things: a Bitcoin wallet, the recipient’s public address, and the amount of bitcoin you want to send.
 >

@@ -8,7 +8,7 @@ Imagine you are stranded in a desert and you only have one bottle of water left.
 > Scarcity forces us to weigh the pros and cons of how we use our resources and make trade-offs.
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/efeb3cc1fde4a7c677a8615f9ba0f85d795db13b-158x141.svg)
+![ ]
 
 In this situation, you might decide to ration it and take small sips over a longer period of time to make it last as long as possible. Alternatively, you might decide to drink as much as you can in one go, satisfying your thirst momentarily, but this burst of hydration may not be enough to give you the energy to find more water in the future. Regardless of which choice you make, you are faced with a difficult decision.
 
@@ -33,7 +33,7 @@ Scarcity influences our choices. Understanding it can improve our decision-makin
 > Time preference refers to the idea that people generally prefer to have something NOW rather than later.
 
 
-![Time preference (low/high)](https://cdn.sanity.io/images/vje9ehw2/production/22ab6c337c9ceac48d9dc873deceb883850ba9a8-179x94.svg)
+![Time preference (low/high)]
 
 **Consider the following example of time preference:**
 

@@ -250,11 +250,11 @@ An important consideration is the custody solution used, which and what types of
 River offers one solution and offers this guide to the options available:
 
 
-|  |  |  |  |  |
+|  | Institutional Custody | Self-Custody | Collaborative Custody | Exchange-Traded Funds (ETFs) |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Definition | Holding bitcoin with a third-party vendor | Storing your own keys and managing your own wallet | Distributing responsibility of custody between yourself and a third party | Exposure to bitcoin through a derivative product |
+| Advantages | Low overhead, well-established security standards | No counterparty risk, very secure if done properly | Flexible, minimal counterparty risk, and very secure | Low overhead well-established custody and management |
+| Disadvantages | Counterparty risk | High overhead, risk of loss due to internal error | High overhead | Counterparty risk, no ability yo to convert to real bitcoin, accounter as a security |
 
 
 1. _**Institutional Custody:** Many businesses and institutional investors prefer outsourcing custody to third parties. Numerous established firms provide institutional-grade bitcoin custody services, including River, which employs a 100% full-reserve custody model. While outsourcing bitcoin custody to an institutional provider is a relatively safe and established practice, it does come with counterparty risk._

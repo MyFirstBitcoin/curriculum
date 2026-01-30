@@ -3,11 +3,11 @@
 > A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990s. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we’re trying a decentralized non-trust-based system.  
 _Satoshi Nakamoto_
 
-![Bitcoin prehistory](https://cdn.sanity.io/images/vje9ehw2/production/b69517023003a4f83b2b07a14bc47233e4bc186a-443x315.svg)
+![Bitcoin prehistory](Bitcoin prehistory)
 
 _Bitcoin prehistory - It’s the result of 40 years of research, development and demand_
 
-![0.3.19](https://cdn.sanity.io/images/vje9ehw2/production/a791232544ea43fa7808907b4df3042b88325c21-190x142.svg)
+![0.3.19]
 
 As we saw in Chapter 4, multiple Cypherpunks attempted to create an alternative money system. This chapter continues the story of one of them: a visionary mind by the name of “Satoshi Nakamoto.” This anonymous person (man, woman, or group), long before Bitcoin, was engaging in discussions on cryptography and computer science on hacker forums to find practical solutions to replace the fiat system.
 
@@ -18,7 +18,7 @@ Nakamoto's vision was clear: to create a purely peer-to-peer version of electron
 
 > **Note**
 >
-> ![Bitcoin Genesis Block](https://cdn.sanity.io/images/vje9ehw2/production/cc25af9313356d8b53bc4c720995871ec183c40c-258x177.svg)
+> ![Bitcoin Genesis Block]
 >
 > Fast forward to January 3rd, 2009: on that day, Nakamoto mined the first Bitcoin block, known as the "genesis block." This marked the oﬃcial launch of the Bitcoin network, a new trustless money system secured through a decentralized ledger. In the months and years that followed, more and more enthusiasts started to join and contribute to the idea.
 >

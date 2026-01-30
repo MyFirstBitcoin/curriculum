@@ -10,7 +10,7 @@ In the simplest terms, Bitcoin is money. Bitcoin is not an investment but rather
 
 Holding bitcoin won’t make you rich because it won’t give you a return of more bitcoin. Its value, measured against any fiat currency, does go up; but this is only because of its growing adoption and the devaluation of fiat currencies.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/5976e3278b36539db0d123217b477f4a3bbe9a85-387x138.svg)
+![ ]
 
 Bitcoin is a new form of money: it is “The Internet of Money," which means that it is open for anyone to join and start exchanging value with other users. Even the most isolated and poorest communities in the world finally have access to a monetary system. Just like everyone who has a phone and an internet connection can use a search engine, Bitcoin makes it possible for everyone with a phone and internet connection to access a new, global monetary system.
 
@@ -18,7 +18,7 @@ Bitcoin is a new form of money: it is “The Internet of Money," which means tha
 * **Financial Inclusion**: 2.5 billion unbanked people can access money via a phone or computer.
 * **Increased Privacy**: Bitcoin transactions are public but your identity is not.
 
-![Principles of Bitcoin](https://cdn.sanity.io/images/vje9ehw2/production/e6f9f7207c5292f14f74c1896c73ab8fbc2406c2-262x145.svg)
+![Principles of Bitcoin]
 
 Bitcoin is completely digital and borderless. It doesn’t matter where you are located because it lives on computers and smartphones from all over the world. Lots of users worldwide run the Bitcoin software and a copy of its ledger.
 
@@ -42,13 +42,13 @@ The next stage is when confidence in a currency's stability solidifies. This is 
 
 Bitcoin is progressively moving toward becoming a medium of exchange. With growing merchant acceptance and the development of the protocol, Bitcoin transactions are becoming more eﬃcient and commonplace in daily commerce. Each day, more and more ordinary citizens and businesses are using Bitcoin as a medium of exchange.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/2bba97b58a40ab6e6ead2bb6b7dd2d4b5440aab1-504x87.svg)
+![ ]
 
 In the final stage, a currency achieves the status of unit of account, serving as a common measure for pricing goods and services. This is the stage in which it becomes the standard metric against which all other values are measured.
 
 The journey toward becoming a unit of account is a more extended (long-term) process. The world currently measures goods and services only in fiat currencies. Therefore, Bitcoin needs broader adoption and integration into various financial systems. However, the foundation is already laid as businesses and individuals begin to consider and denominate values in Bitcoin.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/487872e59f3f440f88ef2c768ea0821f689834f1-503x249.svg)
+![ ]
 
 As you can see, Bitcoin is well on its way in this evolutionary cycle of sound money. When Bitcoin becomes fully integrated into the global financial system, it could become a standard unit of account, reshaping the entire global monetary system.
 
@@ -72,17 +72,17 @@ As you learned in Chapter 1, humanity has over time figured out that real sound 
 ##### Bitcoin vs Gold vs US Dollar
 
 
-|  |  |  |  |
+| Properties of Money | Gold | Fiat | Bitcoin |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Durability | High | Moderate | High |
+| Portability | Moderate | High | High |
+| Divisibility | Moderate | Moderate | High |
+| Fungibility | High | High | High |
+| Scarcity | Moderate | Low | High |
+| Verifiable | Moderate | Moderate | High |
+| Established History | High | Moderate | Low |
+| Censorship Resistant | Moderate | Moderate | High |
+| Smart/Programmable | Low | Moderate | High |
 
 
 Bitcoin is a type of smart money that's programmable, can't be easily confiscated, and has all the qualities that make it great for saving and easy for merchants who want fast transactions. It has the good aspects of gold — such as its scarcity — but it also has the benefits of fiat currencies because you can divide it and carry it around easily. Plus, it brings in new features that are well adapted to our digital world.
@@ -98,15 +98,15 @@ What do you think? Bitcoin is not yet widely recognized and adopted, but is it s
 Now that we have discussed Bitcoin in greater detail, let’s return to our money comparison table from Chapter 1 and see how Bitcoin compares with other forms of money:
 
 
-|  |  |  |  |  |  |
+| Characteristic of Good Money | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Durable |  |  |  |  |  |
+| Portable |  |  |  |  |  |
+| Uniform |  |  |  |  |  |
+| Acceptable |  |  |  |  |  |
+| Scarce |  |  |  |  |  |
+| Divisible |  |  |  |  |  |
+| Total |  |  |  |  |  |
 
 
 
@@ -122,13 +122,13 @@ In the fiat world, people rely on governments, banks, and established payment pr
 
 Because of this system, people are accustomed to placing the responsibility for their finances in the hands of others. For example, most people rely on someone else to help them, especially when something goes wrong (like losing access to your bank account).
 
-![“Bitcoin has already won”](https://cdn.sanity.io/images/vje9ehw2/production/0cfbe38f225ea7e1fe8279d54517828e0f124e7f-482x156.svg)
+![“Bitcoin has already won”](“Bitcoin has already won”)
 
 _“Bitcoin has already won”_
 
 As you now know, the Bitcoin monetary system is very diﬀerent. Bitcoin operates in a specific way, and rulers have been replaced by an autonomous system of rules. There is no dictator or leader, which also means that no one will dictate what you need to do, or fix the mistakes you make. If you want the newfound freedom and empowerment of Bitcoin, you will need to learn how it works and integrate the technology in a way that works for you personally.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/94d513dfefbba63f0b8aaeb546462fac4da296a5-504x208.svg)
+![ ]
 
 With Bitcoin, you are fully in control of your funds, but with this additional control comes increased responsibility. For example, losing access to your bitcoin by losing your keys to your digital wallet means you have lost your savings — permanently. There's no customer service hotline to call or anyone else to turn to: when there is a problem, you need to take care of it yourself.
 

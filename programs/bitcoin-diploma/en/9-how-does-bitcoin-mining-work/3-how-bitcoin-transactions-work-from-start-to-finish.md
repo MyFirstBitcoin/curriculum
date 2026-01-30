@@ -13,7 +13,7 @@ Now that you know about public/private key cryptography and the roles of nodes a
 1. The majority of nodes agree that the block is valid and add it to the blockchain. Gerardo receives the confirmed bitcoin at his receiving address.
 1. As additional blocks are progressively added to the blockchain, the number of confirmations for the transaction grows. As the number of confirmations for the transaction increases, Gerardo can rest assured of its success and irreversible nature.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/d9b90fafe63546c337c4a1cb706036b3a15036fa-457x274.svg)
+![ ]
 
 
 > **Callout**

@@ -85,14 +85,14 @@ One of the most pivotal concepts discussed by the Cypherpunks was digital cash. 
 In the years that followed, diﬀerent Cypherpunks attempted to build on each other's ideas to create a workable solution for a digital currency free from government control. The table below describes several key innovations the Cypherpunks developed in their quest to create digital cash:
 
 
-|  |  |  |
+| Name and Date | Description | Limitations |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| E-Cash (1982) | David Chaum's E-Cash was an early concept of electronic cash, focusing on privacy through cryptographic techniques. | Required a central authority, raising concerns about a single point of failure and potential censorship. |
+| DigiCash (1990) | DigiCash, founded by David Chaum, aimed to create a digital form of currency with an emphasis on privacy. | The centralized model contributed to its eventual bankruptcy in 1998. |
+| B-Money (1996) | B-Money, proposed by Wei Dai, was a theoretical proposal for an anonymous, distributed electronic cash system. | Never implemented, remaining a conceptual idea. Lacked a practical implementation. |
+| HashCash (1998) | HashCash, developed by Adam Back, was a proof-of-work system designed to limit email spam and denial-of-service attacks. | Did not directly address the double-spending problem associated with digital currencies. |
+| Bit Gold (1998) | Bit Gold, proposed by Nick Szabo, described a decentralized digital currency system with elements of proof-of-work. | Never implemented, remained a theoretical concept. |
+| e-Gold (2004) | e-Gold was a centralized digital currency backed by physical gold, allowing users to buy and transfer e-Gold units. | Legal issues led to its closure in 2009, highlighting challenges associated with centralized digital currencies. |
 
 
 Despite the Cypherpunks' numerous attempts over the decades to create a digital currency free from the control of any one group or government, their eﬀorts faced practical challenges and couldn't fully materialize in the real world. The Cypherpunks concluded that it was not easy to build a digital form of cash that was secure, scalable, and had the potential to become widely adopted.

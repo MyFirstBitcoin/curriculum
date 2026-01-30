@@ -15,13 +15,13 @@ Banking and payments have been strongly related ever since banks emerged. Many i
 Until the 19th century the involvement of banks in payments, other than as issuers of paper money backed by gold, was much lower as most transactions were made in cash. By the middle of the century paper cheques, supported by banks, had emerged and become the primary means of exchange in the United States for larger transactions as a replacement for cash. The advent of the telegraph created the opportunity for Western Union to pioneer the first money transfer service in 1871. Historically, the main roles of banks were as custodians of money through the provision of bank accounts, and as providers of credit to individuals and businesses.
 
 
-|  |  |  |
+| Payment Service Provider | Is PSP a Bank? | Does PSP require Banks |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Bank of America | Yes | Yes |
+| Westen Union | No | Yes |
+| Visa | No | Yes |
+| PayPal | No | Yes |
+| Bitcoin | No | No |
 
 
 The rise of digital communications and the internet have generated huge innovation in payments both inside the banking system and outside, PayPal is an example of these new payment providers. However, until the advent of stable coins on blockchain ledgers, the banking system still lay underneath all payments solutions. USDt, also known as Tether, now allows the banking system to be disintermediated from payments denominated in and valued by the market as US Dollars. Payment disintermediation is one element of technology that may change banking and payments. Another more consequential change for the role of banks could be driven by the emergence and growth of value transfer denominated in an entirely different unit of money - bitcoin.

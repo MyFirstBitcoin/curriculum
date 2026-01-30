@@ -9,7 +9,7 @@ If students do not have smartphones, the teacher will provide one for students t
 
 > **Note – Class Exercise: Option 1 — Download a new wallet**
 >
-> ![](https://cdn.sanity.io/images/vje9ehw2/production/e2d93d393acee8fe8a8364040fe068da8bd50486-139x473.svg)
+> ![]
 >
 > **How to create and use a Bitcoin wallet:**
 >

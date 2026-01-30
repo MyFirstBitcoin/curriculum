@@ -157,10 +157,10 @@ Fidelity also observed that bitcoin’s volatility is declining over time. This 
 High price volatility, measured by the standard deviation of returns, is also well-understood by investors as a by-product of high performing assets. As shown in the table below, for the period from 2020 to early 2024, bitcoin investors have been well-compensated for its volatility, showing a Sharpe ratio of 0.96 versus 0.65 for the S&P 500. The Sortino ratio is perhaps more instructive, since it only considers downside standard deviation of returns or “bad” volatility. Its value of 1.86 shows that the majority of volatility over the four years was to the upside. This is despite some significant price drawdowns over the period.
 
 
-|  |  |  |  |  |
+| Feb 2020 - Feb 2024 | CAGR | Std. Deviation | Sharpe Ratio | Sortino Ratio |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| S&P500 | 13.6% | 19.56% | 0.65 | 1.01 |
+| Bitcoin | 58.0% | 72.9% | 0.96 | 1.86 |
 
 
 Source: Fidelity Digital Assets; Bloomberg, period studied 31 Jan 2020 to 29 March 2024

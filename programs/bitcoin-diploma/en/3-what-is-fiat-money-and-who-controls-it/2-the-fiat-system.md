@@ -66,7 +66,7 @@ This process leads to a debt-driven monetary system as banks create new currency
 
 This is where the central bank comes in as a lender of last resort, providing new currency to prevent bank failures and keep the illusion going. The central bank achieves this by repurchasing assets or injecting currency directly into banks’ balances. In essence, banks are rescued from failure through the constant injection of new currency by central banks, resulting in boom-and-bust cycles.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d21e0444a0cbe32257dab683033980849122e5c7-130x44.svg)
+![]
 
 * **Banks borrow money from depositors at an interest rate** (let’s say 5%)
 * **Banks lend this money to borrowers at a higher interest rate** (let’s say 9%)
@@ -140,10 +140,6 @@ You do not need to be a math expert to understand the main concept of reserve ba
 
 #### 3.2.3 Who Controls the Fiat System and How Do They Benefit?
 
-![Coming Money Trust](https://cdn.sanity.io/images/vje9ehw2/production/b8c7316277272b0ec0ad5c4657baa3124eb5916e-230x350.svg)
-
-_1912 cartoon by Alfred Owen Crozier, who opposed the re-establishment of a national central back, which Senator Nelson Aldrich proposed. In the 1913, the Federal Reserve banks that he feared were created._
-
 There are four main the government, the central bank, the financial sector and wealthy individuals.
 
 Together, they control the fiat system.
@@ -194,7 +190,7 @@ Exchange rate policies, supply shocks, and price controls serve as additional to
 
 > **Note – Too Big To Fail**
 >
-> ![Lehman Brothers go brankrupt](https://cdn.sanity.io/images/vje9ehw2/production/91f12951f02c70403c08d699af0f3fe7a42fb996-280x187.svg)
+> ![Lehman Brothers go brankrupt]
 >
 > ”Too big to fail” refers to financial institutions so large and interconnected that their failure would have catastrophic repercussions for the entire financial system. During the 2008 financial crisis, several large banks were deemed “too big to fail,” leading the U.S. government to intervene and provide bailouts to prevent their collapse.
 >

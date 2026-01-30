@@ -31,13 +31,13 @@ A good example of how base layer protocols become difficult to change over time 
 This separation of the problems of interconnectivity allows protocols to be developed independently from the layers above and below it. Rather than having to reinvent solutions for each layer, Bitcoin the network can rely on the underlying capabilities of the network delivered at the physical and data link layers.
 
 
-|  |  |
+| Layer | TCP/IP Original |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Application | Uses Domain Name System (DNS) to identify neighbouring nodes. Port 8333 signals Bitcoin protocol. |
+| Transport | UDP for FIBRE comms between miners for low latency. TCP for P2P communications between nodes. |
+| Transport | TOR Routing: Enables anonymity and privacy. Broadcast Protocol: Routes trafic across the network. |
+| Link | Operates over any medium (e.g., Ethernet, Wi-Fi, etc.) |
+| Physical | Physical transmission via wireless, Ethernet, or other hardware interfaces. |
 
 
 ##### Bitcoin is a neutral protocol to transfer value like HTTPS is a protocol to transfer information

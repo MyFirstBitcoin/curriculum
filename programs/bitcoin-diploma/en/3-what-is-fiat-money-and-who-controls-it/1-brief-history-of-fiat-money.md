@@ -1,25 +1,25 @@
 # 3.1 Brief History of Fiat Money
 
-|  |  |  |  |  |  |  |
+| 1815-1933 | 1913 | 1933 | 1934 | 1944 | 1971 | 1980 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
+| The Gold Standard | Creation of “The Federal Reserve” | Executive Order 6102 | Gold Reserve Act | Bretton Woods Agreement | Nixon Shock | Money lost 96% of its value |
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/5762f452555981a55484b93bea6e904a7e0aafd1-184x101.svg)
+![ ]
 
 In the 19th century, civilizations worldwide thrived on a sound money standard, where precious metals like gold and silver were favored due to their scarcity, durability, and recognizability. As international trade grew, carrying large amounts of metal across the globe became increasingly challenging, leading to the emergence of gold and silver warehouses. These warehouses securely stored people's valuable metals and provided paper certificates redeemable for specific amounts of gold or silver. In exchange for depositing their money, individuals received paper certificates directly tied to the exact amount of gold or silver they stored. This direct link between paper certificates and tangible commodity money marked the early stages of what we now recognize as banks.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/c715ba8dfdb3292748f1b8cca61808a922415ff9-504x197.png)
+![ ]( )
 
 _History of 928 New York Avenue and the historic Shopping District of Alamogordo New Mexico_
 
 Initially, banks aimed to safeguard clients' money, but later engaged in risky lending practices by issuing certificates for gold they didn't have. This practice led to the new threat of bank runs, where clients sought to withdraw their metal money simultaneously in case of loss of trust. If the bank had issued more paper than they had gold, they would fail on their promise to redeem certificates for metal and go bankrupt.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/53b6f06800b50633a701d75b087aacc4f0b4a29d-166x94.svg)
+![ ]
 
 To address this risk, banks collaborated with governments to establish a system legalizing re-lending. In 1913, the United States Congress created the Federal Reserve, a central bank responsible for generating new paper certificates and bailing out troubled banks. Globally, governments recognized the value of gold and silver, leading to conflicts and wars for control. In the years leading up to World War II, leaders like Lenin, Stalin, Churchill, Roosevelt, Mussolini, and Hitler seized gold for strategic purposes.
 
-![Executive Order 6102](https://cdn.sanity.io/images/vje9ehw2/production/01c958023bf1419d6fd8aea101cbbdabcc21fd05-232x127.svg)
+![Executive Order 6102]
 
 In the early 1930s, a significant change occurred in the way money was backed by assets in the United States. At that time, most people stored their wealth in gold. However, in 1933, President Roosevelt issued Executive Order 6102, which demanded that every citizen give up their gold. This was not a voluntary exchange — people were required to surrender their gold, and faced severe penalties if they refused.
 
@@ -35,4 +35,4 @@ This marked a significant shift, leading to the adoption of a fiat money system 
 
 In conclusion, the story of the transition from a sound money standard to an unsound, fiat standard is one of outright—yet legal—fraud and theft of citizens’ gold by governments and banks. As real, hard money ended up in their coﬀers, the people were left with pieces of paper whose only value comes from these very governments mandating its use by decree.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/62a666265abae7bdb621dcfdea0a6a8c973d181c-352x411.svg)
+![ ]

@@ -7,7 +7,7 @@ In this chapter, we will take a closer look at the technical side of Bitcoin. We
 
 Learning the technical side Bitcoin is a long journey that not everyone may want to take, even if they decide to use it as money. While we do encourage you to keep learning about the technical aspects of Bitcoin, we will keep this chapter focused on basic key concepts.
 
-![Mechanics of the Bitcoin Protocol](https://cdn.sanity.io/images/vje9ehw2/production/d0577af887c5c05de9aea79478297dac6a960053-504x176.svg)
+![Mechanics of the Bitcoin Protocol]
 
 
 > **Info**

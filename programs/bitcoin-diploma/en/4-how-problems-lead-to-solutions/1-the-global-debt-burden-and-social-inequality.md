@@ -13,14 +13,14 @@ Jaime is a college student who lives in a small apartment. He works part-time at
 At the beginning of 2023, he budgeted $10,000 for his living expenses for the entire year, including rent, food, and other necessities. This is how his ledger looks for January 2026:
 
 
-|  |  |  |  |  |
+| Date | Description | Amount | Type | Balance |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 01/01/2026 | Starting Balance |  |  | $1,600 |
+| 01/01/2026 | Rent for January | $800 | Debit | $800 |
+| 01/05/2026 | Groceries | $100 | Debit | $700 |
+| 01/15/2026 | Part-time paycheck | $500 | Credit | $1,200 |
+| 01/20/2026 | Gas for car | $350 | Debit | $850 |
+| 01/30/2026 | Textbooks | $150 | Debit | $700 |
 
 
 This ledger shows that Jaime’s starting balance was $1,600 out of which he spent (a debit) $800 to pay rent for the month. He then spent $100 on groceries and received $500 (a credit) in pay for his part-time job, bringing his balance to $1200. He then spent money on gas and textbooks, bringing his balance down to $700 at the end of the month.
@@ -43,7 +43,7 @@ Jaime: _“Wow, that’s really interesting, Grandpa. How did you experience thi
 
 Grandfather: _“Oh, Jaime, everything was just much cheaper when I was young. A loaf of bread would only cost $0.18, and you could buy a gallon of gasoline for just $0.29. It is unbelievable how much the cost of living has gone up.”_
 
-![A Dollar's Worth](https://cdn.sanity.io/images/vje9ehw2/production/13aaa72af543090dc32790da2e80b030d5e7592f-482x483.svg)
+![A Dollar's Worth](A Dollar's Worth)
 
 _The purchasing power of the U.S. dollar has fallen sharply over the last century due to rising inflation and money supply. _
 
@@ -52,15 +52,15 @@ After the conversation with his grandfather, Jaime goes home to take another loo
 The following table shows Jaime’s costs in the first and second years, as well as the percentage increase in price.
 
 
-|  |  |  |  |
+| Item | Cost Year #1 | Cost Year #2 | % Increase |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| Rent | $4,000 | $4,500 | 12.5% |
+| Groceries | $2,000 | $2,300 | 15% |
+| Necessities | $4,000 | $4,200 | 5% |
+| Total | $10,000 | $11,000 | 10% |
 
 
-![1938 Cost of living](https://cdn.sanity.io/images/vje9ehw2/production/2c7c17d229c387890d26035b97a1d4d648fbf99e-190x255.svg)
+![1938 Cost of living]
 
 In order for Jaime to live under the same standard of living, he will need to work more hours per week in Year #2 to earn an additional $1,000.
 
@@ -76,7 +76,7 @@ Instead, most choose to spend their money immediately because its value decrease
 
 As seen in the graph, the average individual's salary growth remains stagnant for decades when adjusted for inflation, despite being much more productive. This means that all that added value due to increased productivity is being eaten up by inflation, instead of rewarding working people.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/60c6c99233468b9cc28ded7f9bb69edd0040f214-291x227.svg)
+![ ]
 
 Jaime's example is just one among many. In the fiat world, it's quite common for governments to create money out of thin air to further their own agenda, leaving individuals worldwide to bear the consequences. The prices of everyday items, from bread to housing, and from groceries to holidays, increase each year. While the rich benefit from inflation due to owning appreciating assets, ordinary folks who save in cash see their hard-earned money lose its value. The result? People and families worldwide struggle as their purchasing power decreases.
 
@@ -94,7 +94,7 @@ Superpowers like the United States gain a competitive edge due to this phenomeno
 
 Under the fiat system, wealth does not distribute itself evenly. Instead, it tends to concentrate in the hands of a select few. This phenomenon is like playing a game of Monopoly where a handful of players possess almost all the hotels and properties while the majority struggle to stay afloat. The fiat system has become a wealth concentration tool for certain groups. Money printing allows governments to inject more currency into the economy through their collaboration with central banks, and the first recipients of this newly created money are those with existing wealth and status — powerful entities and individuals. These groups benefit from the freshly printed money before its negative eﬀects, start to manifest in the economy.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/63779302cafc2ed3a79eaa4ee7e1e1e3f698c627-207x275.svg)
+![ ]
 
 Wealth inequality is not just about the haves and have-nots; it is about suppressing economic mobility. Those from less privileged backgrounds find it increasingly challenging to climb the economic ladder, akin to starting a race with a heavy backpack. Then the wealthy use their influence to skew government policy in their favor, increasing the gap further. This makes things harder for regular people, leading to social unrest, a lack of trust in institutions, and communities falling apart like a house of cards. The fiat system's instability manifests in economic uncertainty, political unrest, and global crises when the Western world faces an economic downturn.
 
@@ -127,6 +127,6 @@ The consequences mentioned earlier, from wealth inequality to societal unrest, w
 > I don’t believe we shall ever have good money again until we take the thing out of the hands of government… all we can do, is by some sly, roundabout way, introduce something that they can’t stop.  
 _Friedrich Hayek, Nobel Prize Winner of Economics_
 
-![Global Reserve Currencies](https://cdn.sanity.io/images/vje9ehw2/production/6eca4acc65ec319c9477a8578ce2f97d974ce865-477x263.svg)
+![Global Reserve Currencies](Global Reserve Currencies)
 
 _The changing roles of global reserve currencies over the past five centuries, alongside the relative standings of great empires._

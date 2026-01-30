@@ -8,7 +8,7 @@ That's why we have created the My First Bitcoin Education Network, an innovative
 
 Let's hear their stories and learn how this Bitcoin Diploma has changed communities from all over the world!
 
-![The Node Network Map](https://cdn.sanity.io/images/vje9ehw2/production/6880e485d16674bce49608bffb04e4a8e87ece9b-1033x536.svg)
+![The Node Network Map]
 
 
 ---
@@ -18,13 +18,13 @@ Let's hear their stories and learn how this Bitcoin Diploma has changed communit
 
 **Since 2023, Bitcoin Indonesia has been quietly transforming its country. Co-founder Diana explains more about the impact of independent Bitcoin education in Asia.**
 
-![Bitcoin Indonesia](https://cdn.sanity.io/images/vje9ehw2/production/0b2d44887e2a40e22c8587721056e4ccfe1be010-171x57.svg)
+![Bitcoin Indonesia]
 
 https://bitcoinindonesia.xyz/
 
 “In September 2023, we hosted the first Bitcoin Indonesia Conference. When the last guest left and the chairs were stacked, we looked around and realized: nothing tangible remained. No lasting presence, no ongoing education. So a few of us, local Bitcoiners and friends, decided that we wanted a conference every day. That’s how Bitcoin Indonesia was born.
 
-![Physical classes in Bitcoin House Bali](https://cdn.sanity.io/images/vje9ehw2/production/74007baed3ccc5a90a4278fd29aa02d8dfd2d3e2-185x228.svg)
+![Physical classes in Bitcoin House Bali]
 
 By May 2024, we opened a physical hub: the Bitcoin House Bali. It’s where we started to orange-pill our local community. About half a year later, we connected with the My First Bitcoin team when the curriculum was translated by another community member. At first, we were skeptical, and thought that we could build a better program on our own: the Diploma was too long. Now, we believe that the Bitcoin Diploma is a shortcut in Bitcoin Education. It was rocket fuel. Besides benefiting from the curriculum, the teacher training program with a Full Node and also the Online School for digital classes have been very useful! We joined the Node Network, and the rest is history.
 
@@ -32,7 +32,7 @@ We’ve now graduated over 2 students across Bali, Bandung, and Surabaya, and ho
 
 We’ve made the curriculum our own: translated it to Bahasa, added stories about the collapse of the local currency, the Rupiah, and explained satoshis through durian economics. The Rupiah is not divisible into cents or pennies, so we compare Bitcoin with a durian: as one fruit, with many pods and seeds in it. At the end of the cohorts, we celebrate every graduation as something special: with certificates, speeches, balloons, medals, and barbecues. Because when someone chooses to spend 10 weeks learning about financial freedom, that deserves to be rewarded.
 
-![Bitcoin Diploma Surabaya](https://cdn.sanity.io/images/vje9ehw2/production/d4b0e3f0926251df25d69d8b65e34b2593cfa7ab-2013x889.jpg)
+![Bitcoin Diploma Surabaya]
 
 Our classes are diverse: from 15-year-olds to elders, from tech-savvy investors to people who have never owned a laptop in their life. Some students had wanted to commit suicide because of shitcoin scams, and after joining the program they became part of our team and are spreading the word. Or others lost all their money in banking scams. They are now part of the closed loop circular economy. It’s been remarkable to see how students, who grew up in a communist country without critical thinking, start talking to each other about what they’re learning for the first time – instead of only reading aloud what’s written in the books.
 
@@ -43,9 +43,9 @@ My biggest take-away to share with other educators is to make the lessons fun, a
 We always say that the My First Bitcoin program is so much better than you might think. We were very skeptical in the beginning and thought we’d never do it. It turned out to be one of the best decisions for the project.”
 
 
-|  |  |  |  |  |
+| Country | Language | Cohorts | Graduates | Classroom |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Indonesia | Bahasa and English | 15 | 239 | In-person and Online |
 
 
 
@@ -56,7 +56,7 @@ We always say that the My First Bitcoin program is so much better than you might
 
 **What began as a simple WhatsApp group in Kenya has transformed into a global Bitcoin education movement, impacting over 300 lives across continents. Bitcoin education initiative The Core has been proven a life changer. Founder Felix Mukungu shares his journey.**
 
-![The Core](https://cdn.sanity.io/images/vje9ehw2/production/66132fdc11faeeef71023a3ebe6ab0b9b421ab10-1738x1511.webp)
+![The Core]
 
 https://www.thecore.africa/
 
@@ -66,9 +66,9 @@ Eventually, we moved to Google Classroom, hosting calls twice a week for a tight
 
 As an online platform, we found the Bitcoin Diploma and the Online School very useful. The Learning Management System (LMS) allows us to embed videos, slides, quizzes, assignments, and discussions. It’s a professional setup, and students take it seriously. They receive notifications as reminders to complete tasks. Besides that, the General Assemblies with other nodes have been very inspiring. You join and see what’s happening in other communities. You come out of these monthly meetings very motivated. The network of builders inspired to continue building.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/68e61a1ea93bf93b9c1021b11f59e968fb1596a8-503x149.svg)
+![ ]
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/cf5fdc8a0cebec0a462f98bf3a79bef936b984da-247x499.svg)
+![ ]
 
 Now, we run structured Bitcoin Diploma cohorts every Tuesday, Wednesday, and Thursday. Over 300 students have gone through our six cohorts, with content delivered in 23 live sessions. We gift students sats, hand out certificates, and celebrate every step of the journey with our Bitcoin Pathfinders threads on X.
 
@@ -81,6 +81,6 @@ Our biggest highlight? A physical graduation, a side event during the African Bi
 **My advice to anyone teaching the Bitcoin Diploma?** Start simple. Choose a low time preference. Create proof-of-work. Build first, apply for funding later.
 
 
-|  |  |  |  |  |
+| Country | Language | Cohorts | Graduates | Classroom |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Kenya | English | 8 | 516 | Online |

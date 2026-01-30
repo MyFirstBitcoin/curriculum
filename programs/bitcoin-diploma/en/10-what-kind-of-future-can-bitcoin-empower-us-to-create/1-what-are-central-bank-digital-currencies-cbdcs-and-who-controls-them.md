@@ -18,6 +18,6 @@ Now, most of the fiat money in circulation is already digital — the difference
 
 CBDCs, however, give governments unlimited power to control how money is used in their jurisdiction, limiting the ability of individuals to spend their money however they choose. Some even argue that CBDCs would enable powerful governments to centrally enforce tyrannical policies on a global scale at the flick of a switch, without the need for human enforcement agents. Instead of having to order around a group of diﬀerent banks, they could instantly track and block any circulation of money happening in their country.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/09aeb5041d0ce6fa11e94c029def3b48d632bfa3-309x204.svg)
+![ ]
 
 Both CBDCs and Bitcoin are digital but, beyond this commonality, they represent very different forms of money with distinct philosophies, leading to varied outcomes for humanity.

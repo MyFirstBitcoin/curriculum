@@ -8,7 +8,7 @@ Let’s look at a few examples of the Lightning Network in action.
 
 Below, both Marcia and Eve have 5 units of currency each. Marcia wants to send 2 of her units to Eve but she doesn't have a direct channel with her, so she sends 2 units to Jeﬀ, who is well connected to the network. Jeﬀ then passes on the 2 units to Eve, who now has 7 units. Marcia now has 3 units. And that’s it! The transaction is done.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/a45f29d32babb448dafec3d541203195e66b8293-1962x434.jpg)
+![ ]
 
 Jeﬀ acts as an intermediary in this scenario, where Marcia and Eve can't transact directly: perhaps they don't want to open a direct channel because they don't intend to transact often, for instance if Marcia is visiting a diﬀerent town. The beauty of the Lightning protocol is that neither Marcia nor Eve need to trust that Jeﬀ will relay the funds: thanks to cryptography, only the intended, legitimate recipient can claim the funds; there is no way for Jeﬀ or any other node to intercept them in transit.
 
@@ -28,27 +28,27 @@ In summary, **on-chain transactions are slower but more secure, while oﬀ-chain
 Mina has a serious love for McDonald's: she goes there for breakfast, lunch, and dinner every day! But with so many diﬀerent payment options available, she’s not sure which one is the best choice. Luckily, she’s learned a little bit about Bitcoin and the Lightning Network. After comparing the tables below, Mina has no doubt that using a Lightning payment method is the way to go.
 
 
-|  |  |  |
+| Benefits | Lightning Network | Traditional Banking System |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Speed | Fast | Slow |
+| Transparency | Transparent | Opaque |
+| Security | Secure | Vulnerable |
+| Transaction fees | Low | High |
+| Financial inclusion | High | Limited |
+| Scability | High | Low |
+| Privacy | High | Moderate |
+| Interoperability | High | Low |
+| Legal compliance | Moderate | High |
+| Cost-effectiveness | High | Moderate |
 
 
 
-|  |  |  |
+| Visa, Inc. | Bitcoin On-chain | Lightning Network |
 | --- | --- | --- |
-|  |  |  |
+| Capacity of 65000 transactions per second. | Capacity of 7 transaction per second. | Capacity of millions transactions per second. |
 
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/65141160d0eb5eebc56b684053dbd2e22607c9d2-438x226.svg)
+![ ]
 
 Mina is also a fan of fast, secure, and cost-eﬀective transactions, so she decided to use Lightning for her purchases at McDonald’s. With Lightning, she can enjoy her meals even more knowing that her payments are processed instantly, securely, and with low fees. Plus, she doesn't need to open a bank account, which can be diﬃcult or inaccessible in remote areas. Through the Lightning Network, Bitcoin oﬀers financial inclusion to millions of unbanked individuals across the world!
 
@@ -70,7 +70,7 @@ It’s important to note that getting confirmation on the blockchain for the clo
 
 Now that we have set up our Lightning wallet and read about how to use the Lightning Network to send transactions, we are going to play a game where we send satoshis (the smallest unit of bitcoin) to other students in the class over the Lightning Network.
 
-![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/production/20a49be467bbe04f8108b38bbf25144522708c3b-504x245.svg)
+![Lightning Network Map]
 
 https://mempool.space/graphs/lightning/nodes-channels-map
 

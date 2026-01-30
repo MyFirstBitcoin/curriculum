@@ -1,6 +1,6 @@
 # 6.2 An Introduction to Bitcoin Wallets
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/efa3a794eb1e9a63b9b6e1aca376f157d41ca62a-153x143.svg)
+![ ]
 
 Unlike physical money, bitcoin are not actually contained in a Bitcoin wallet. Instead, they live on the distributed ledger that the Bitcoin network constantly verifies and secures. So, how can you own bitcoin?
 
@@ -16,10 +16,10 @@ With that in mind, let’s take a look at two concepts we refer to when using th
 Before detailing the diﬀerent types of Bitcoin wallets and their characteristics, let’s make an important distinction between self-custodial and custodial wallets, as shown in the table below. You can see the benefits and risks of using each wallet type and who controls the bitcoin in each case. Self-custodial means the user holds the private keys, which means they are in true possession of their bitcoin; with the second kind, a third party holds the bitcoin for the user.
 
 
-|  |  |  |  |
+| Wallet Type | Who controls my bitcoin? | Benefits | Risks |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
+| Self-Custodial | The user | Complete control over funds and transactions, no approval process or account freeze, no corporate or government control, protected against arbitrary confiscation, like keeping money at home. | No recovery if recovery phrase is lost, less customer support, full responsibility falls on the user. |
+| Custodial Wallets | The third-party provider | Easy recovery if access is lost, easier customer support. | Funds are always connected to the internet, more vulnerable to hacking and breaches. Custodial control means the custodian can freeze accounts. |
 
 
 In a self-custodial wallet (also called non-custodial wallet), you are the only one with the keys to the wallet and you have full control over what goes in and out. On the other hand, in a custodial wallet someone else holds the private key, giving them full access to move any bitcoin that provider controls on your behalf.
@@ -31,13 +31,13 @@ In a self-custodial wallet (also called non-custodial wallet), you are the only 
 It’s important to choose the right type of wallet for each individual’s needs. Sometimes, people find it hard to distinguish whether they are installing a self-custodial or a custodial wallet. This table shows the diﬀerences in the installation process.
 
 
-|  |  |  |  |  |  |
+| Wallet Type | Step 1: Choose a Wallet | Step 2: Install the Wallet | Step 3: Create a New Wallet | Step 4: Secure Your Seed Phrase | Step 5: Start Using Your Wallet |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Self-Custodial | Choose a self-custodial wallet provider | Follow the wallet provider's instructions | Generate a recovery phrase | Store the recovery phrase in a secure location | Start using the wallet to receive and send bitcoin |
+| Custodial Wallets | Choose a custodial wallet provider | Follow the wallet provider's instructions | Create an account with the wallet provider | N/A (wallet provider holds the private keys) | Start using the wallet to receive and send bitcoin |
 
 
-![Not your Keys not your Coins](https://cdn.sanity.io/images/vje9ehw2/production/0e5946a9eef3f7f9e8061c9bc58990072a149582-121x121.svg)
+![Not your Keys not your Coins]
 
 “Not your keys, not your coins” is a popular saying among bitcoin holders. It refers to the idea that if you don’t have direct control over the private keys associated with your Bitcoin wallet, you don’t have true ownership of the coins.
 
@@ -54,13 +54,13 @@ Depending on where your private key is created and stored, we commonly use diﬀ
 **The different names we give Bitcoin wallets depending on their structure:**
 
 
-|  |  |  |  |  |
+| Wallet Type | Description | Advantages | Disadvantages | Example User |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Online Wallet | A wallet accessed through a web browser | Accessible from any device with an internet connection | Less secure because it can be hacked or compromised | Someone who needs to access their wallet frequently and doesn’t have a lot of funds to store |
+| Mobile Wallet | A wallet installed on a mobile device | Easy to use | Can be lost if the device is stolen or hacked | Someone who needs to make transactions on the go and doesn’t have a lot of funds to store |
+| Desktop Wallet | A wallet installed on a desktop computer | Convenient and can be accessed from anywhere | Can be hacked if the computer is infected with malware | Someone who wants to store a large amount of bitcoin and is comfortable with using a desktop computer |
+| Hardware Wallet | A physical device that stores bitcoin offline | More secure than online wallets and can be used offline | Funds could be unrecoverable | Someone who wants to store a large amount of bitcoin and is willing to pay for the added security of a hardware wallet |
+| Paper Wallet | A physical record of a Bitcoin wallet's private and public keys | Very secure and can be used offline | Can be lost or stolen if the physical record is lost or stolen | Someone who wants to store a large amount of bitcoin and is willing to take the added precautions to ensure its security |
 
 
 Because the keys can be moved from one device to another, the “status” of your Bitcoin wallet is not definitive. For example, if I generate the keys of my Bitcoin wallet on a computer and later upload them to my phone, the “desktop wallet” then becomes a “mobile wallet.”

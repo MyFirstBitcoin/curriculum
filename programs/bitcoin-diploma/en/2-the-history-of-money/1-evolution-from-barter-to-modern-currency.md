@@ -35,7 +35,7 @@ As you and your community become more involved in trade, you realize the limitat
 > _Many diﬀerent_ commodities have historically been used by diﬀerent societies—from cattle and shells to wheat or salt. Eventually, most advanced societies settled on precious metals—especially gold and silver—as the best forms of commodity money.
 
 
-![Promissory note for twenty Spanish dollars](https://cdn.sanity.io/images/vje9ehw2/production/4f00d9ec90fbb9c0ce02747c6a6a27aac2d96270-286x177.svg)
+![Promissory note for twenty Spanish dollars](Promissory note for twenty Spanish dollars)
 
 _Promissory note for twenty Spanish dollars_
 
@@ -45,7 +45,7 @@ In an eﬀort to address these issues, you and your community start to use paper
 
 These paper receipts, which have their origins in Ancient China, are a convenient and easily exchangeable form of currency. They are backed by gold and other valuable metals and can be converted into these metals, as they were from the 17th to the 20th century. This allows you to have a more portable, easily transferable form of money while still maintaining the value and security of precious metals.
 
-![Dollar linked to gold](https://cdn.sanity.io/images/vje9ehw2/production/9c24b43ac07ca0dda8aa461bf552dd67b3036de8-410x82.svg)
+![Dollar linked to gold]
 
 #### 2.1.3 Transition from Sound to Unsound Money
 
@@ -65,7 +65,7 @@ However, you also begin to see the downsides of this centralization, including i
 
 Until World War I, we were able to convert our paper money into a preset amount of gold. However, the two world wars and the 1929 economic crisis put an end to that. In 1944, the Bretton Woods agreement was signed, establishing the U.S. dollar as the world’s reserve currency and fixing the value of the U.S. dollar to the price of gold at a rate of $35 per ounce. Other countries’ currencies are pegged to the dollar, which helps stabilize international financial markets.
 
-![Bretton Woods System](https://cdn.sanity.io/images/vje9ehw2/production/8bbc9d762c02634e3d177fd2c6593dded33b0a83-257x276.svg)
+![Bretton Woods System]
 
 Unfortunately, the system began to break down in the late 1960s, leading to the Nixon Shock in 1971, when the US government suspended the dollar's convertibility into gold.
 
@@ -99,7 +99,7 @@ We’ve come a long way from the introduction of the first credit card back in t
 
 It’s like opening up a world of endless possibilities, and the excitement of discovering what it oﬀers is palpable... or so we thought. Little did we know that our reliance on credit would have painful aftereﬀects — like raising the overall cost of goods and incentivizing an economy doomed to fail.
 
-![Card payments](https://cdn.sanity.io/images/vje9ehw2/production/76069a1ff8d175d26b3a69d83cf45effa878bea3-503x228.svg)
+![Card payments]
 
 As technology advances, so does the way we handle money. The internet has become a central tool in the financial world, with online banking and e-commerce websites making it possible to manage and spend money entirely online.
 

@@ -29,13 +29,13 @@ And then try to work back from the endpoint to consider how the transformation f
 Finally, convert observations from the above exercise into risks pertinent to your organization. Consider second and third order factors. It is likely that each observation may contain a number of risks. The risks could be both threats and opportunities.
 
 
-|  |  |
+| Action | Method |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Identify Risks | Thought experiment |
+| Identify Impacts | Application to your organization |
+| Evaluate Impacts | Likelihood / Magnitude tables |
+| Manage Impacts | Acceptance, mitigation, embrace/exploitation |
+| Monitor Risks | Periodic review and rebase |
 
 
 

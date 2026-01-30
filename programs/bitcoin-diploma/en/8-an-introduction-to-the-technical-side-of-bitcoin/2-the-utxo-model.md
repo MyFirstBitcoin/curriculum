@@ -2,7 +2,7 @@
 
 ##### What are UTXOs?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/f34962a29b04842b5d9b38ba1cefcfd89d3ab2aa-233x159.svg)
+![ ]
 
 Don't be scared of the strange name. You can think of UTXOs as diﬀerent "sizes" of bitcoin, just like thephysical bills or coins in your wallet represent diﬀerent amounts. For instance, at the story you pay for a $6 item with a $10 bill and get back $4 in change. UTXOs function similarly.
 
@@ -22,7 +22,7 @@ The balance of your Bitcoin wallet is the sum of all your UTXOs. So, the sum of 
 
 In conclusion, each time you make a transaction, you use one or more of your existing UTXOs to spend bitcoin and new UTXOs are created (for both you as the recipient).
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/d8bba28a93d04ba56a5ab494ae35ef7e32c6054e-500x137.svg)
+![ ]
 
 When a transaction is made, the amount of bitcoin sent is divided into multiple outputs, each of which is associated with a new Bitcoin address (a new UTXO).
 
@@ -32,7 +32,7 @@ When sending bitcoin to someone, you will use one or more UTXOs as the source of
 
 ##### Here's an example of how this works:
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/629683a3eca4b29cf4831b571bd7e53e9d05310c-237x161.svg)
+![ ]
 
 1. Alice wants to send Bob 5 BTC
 1. She combines two of her UTXOs for a value of 6 BTC
@@ -44,7 +44,7 @@ If Alice attempts to use one of her already spent outputs to make another transa
 
 Below are screenshots of two real transactions. What observations can you make when you look at the two transactions below? Do the inputs match the outputs? Can you describe the details of the transaction? Is there a connection between the two screenshots? And which transaction occurred first?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/c97a46bc952adc47b51df029a93ab664303d32d6-234x165.svg)
+![ ]
 
 In this chapter you've learned more about the technical side of Bitcoin. You've gained a deeper understanding of the protocol's security through cryptography, learned what a hashing function is, and, finally, seen how transactions actually work in the UTXO-based model.
 

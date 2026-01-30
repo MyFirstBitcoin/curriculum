@@ -7,7 +7,7 @@ Even though paying with a credit card or an app can seem easy to understand for 
 
 > **Note – How Payment Processing Works**
 >
-> ![](https://cdn.sanity.io/images/vje9ehw2/production/d347eb92091b6683896ed0e8a3a31ef704d4e686-484x243.svg)
+> ![]
 
 
 Each intermediary charges a fee so, while it may seem easy, fast, and cheap, these fees can quickly add up for a small business owner — more than 3% of the price, which is a big amount for them.
@@ -17,7 +17,7 @@ And that’s not to mention currency exchange fees!
 
 > **Note – Credit Card Processing Fees**
 >
-> ![](https://cdn.sanity.io/images/vje9ehw2/production/0f33a3af20976f3e18fcfee92b7663ad09d311f3-471x130.svg)
+> ![]
 
 
 With Bitcoin and the Lightning Network, businesses can receive instant payments from all over the world via an open, secure, internet-native, borderless, and censorship-resistant monetary system.
@@ -28,7 +28,7 @@ Next, we will look at a few ways merchants can easily accept payments in bitcoin
 
 #### 7.5.1 Online: Payment Plugins — Ecommerce
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/65bf95a762f4777125535c67336726d63b830cc4-380x237.svg)
+![ ]
 
 BTCPay Server is an open-source payment processor that allows merchants to accept payments in bitcoin with little technical knowledge. It’s completely free and doesn’t charge any commission.
 
@@ -50,7 +50,7 @@ Check out BTCPayServer [https://btcpayserver.org/](https://btcpayserver.org/) fo
 
 #### 7.5.2 In Person: Find a Merchant in Your Area
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/3a81050928ccda4ddde0bb63f6d3f9ec0b53a365-295x197.svg)
+![ ]
 
 Brick and mortar shops can also use BTCPay Server to accept payments, or they can simply download a Bitcoin wallet and accept Bitcoin payments directly from their phone.
 
@@ -68,7 +68,7 @@ Some businesses focus on buying and selling gift cards in exchange for bitcoin. 
 
 #### 7.5.4 Circular Economies and Bitcoin as a Medium of Exchange
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/504ecae59bf8228352713e9783dfbc5289bbdbce-190x58.svg)
+![ ]
 
 A circular economy is made up of participants who decide to support one another by trying to buy from and sell to each other as much as possible. For instance, a community of farmers exchanging their produce instead of going to the supermarket.
 
@@ -82,9 +82,9 @@ When applied to Bitcoin, a circular economy is built by supporting local merchan
 
 **The first Bitcoin circular economy** ever created is located in Arnhem, Netherlands. It was created way before the Lightning Network existed — but back then, on-chain fees were really low!
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/46c3f02223ef571e9562c92db6fe5653a1bedb59-332x186.svg)
+![ ]
 
-![El Zonte](https://cdn.sanity.io/images/vje9ehw2/production/2d1a40539ae58bababc935923f1a955df4c7d361-176x249.svg)
+![El Zonte]
 
 **The second one** was Bitcoin Beach, located in El Zonte, El Salvador. It was the first to leverage the power of the Lightning Network to provide the community, which was mostly unbanked, with instant digital payments directly with their smartphones!
 

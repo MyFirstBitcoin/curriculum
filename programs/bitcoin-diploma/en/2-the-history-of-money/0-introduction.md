@@ -3,7 +3,7 @@
 > Money was not evolved by design but arose out of the market process. It was not created by governments. It emerged over time as a spontaneous order.  
 _Murrray Rothbard_
 
-![The History of Money](https://cdn.sanity.io/images/vje9ehw2/production/56a8e194e9112cad7b1a03b3fe690a71ef1e74de-504x76.svg)
+![The History of Money]
 
 Imagine a time long ago when people didn't have the coins or paper bills we use today. Back then, they had a unique way of trading things – using items like shells or precious metals like gold as a kind of special currency. This might sound strange, but it was their version of money, something everyone agreed had value.
 

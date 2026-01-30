@@ -17,23 +17,23 @@ Please answer the following questions:
 
 ##### Why do we need money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### What is money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### Who controls money?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### What gives money its “value”?
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 ##### Write down the student questions that were selected during Chapter 1 and answer now.
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/production/731ad81d71f74940c6059ba086bf9a803a951dfb-503x222.svg)
+![ ]
 
 1. Go back to the first activity in Chapter 1 and compare your new answers to your old answers.
 1. Compare and discuss the original answers and questions. Did something change?

@@ -3,7 +3,7 @@
 > We’re building the Visa network for Bitcoin. But what I think is powerful is, unlike Visa, anybody can build on top of it.  
 _Elizabeth Stark_
 
-![Bitcoin is a decentralized system built layer by layer — from hardware to applications, running on a global network.](https://cdn.sanity.io/images/vje9ehw2/production/c9969c88eca59bf5e6aa525e27c33c24dbd2a71f-231x92.svg)
+![Bitcoin is a decentralized system built layer by layer — from hardware to applications, running on a global network.](Bitcoin is a decentralized system built layer by layer — from hardware to applications, running on a global network.)
 
 _Bitcoin is a decentralized system built layer by layer — from hardware to applications, running on a global network._
 
