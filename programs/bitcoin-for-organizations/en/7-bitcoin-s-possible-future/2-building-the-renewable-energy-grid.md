@@ -41,7 +41,7 @@ The other alternative is to try to reduce demand at peak usage times**.** Howeve
 
 The challenges of connecting Wind farms to the grid usually includes several steps; access study, detailed impact analysis, implementation plan and connection agreement. This process can take many years. As an example, the diagram below shows the total wind farm capacity waiting for a grid assessment in mid 2024 in Europe:
 
-![Total wind energy on the waiting list for grid connection assessment](Total wind energy on the waiting list for grid connection assessment)
+![Total wind energy on the waiting list for grid connection assessment](https://cdn.sanity.io/images/vje9ehw2/staging/11496fd3ba30cedeaae9db73171d78d9748cd5cb-809x766.png)
 
 _Total wind energy on the waiting list for grid connection assessment. Source: windeurope.org_
 

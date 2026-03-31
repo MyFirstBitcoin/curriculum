@@ -12,7 +12,7 @@ Does this mean Bitcoin has missed its chance to achieve widespread acceptance? O
 
 In 1962 sociology professor Everett Rogers suggested a model for the adoption of innovation in his book, _Diffusion of Innovations_. His ideas rapidly became very popular with academics and business practitioners alike and are still widely cited today.
 
-![Adoption curve]
+![Adoption curve](https://cdn.sanity.io/images/vje9ehw2/staging/2fe9bc1474778073724015da4979f543f4e07773-537x311.svg)
 
 The Rogers Model proposes five key elements of technology adoption, grouping these into types of consumers adopting a new innovation and mapping them on a bell curve distribution. Rogers’ five categories of adopters are grouped according to social status. These are:
 
@@ -22,7 +22,7 @@ The Rogers Model proposes five key elements of technology adoption, grouping the
 * **Late Majority** (34% of users) – This group is more cautious and may adopt a higher degree of scepticism than earlier consumers.
 * **Laggards** (16% of users) – This group is the most averse to change. They may tend to adopt a new technology only by necessity or as a result of older technologies or methods becoming obsolete.
 
-![The chasm]
+![The chasm](https://cdn.sanity.io/images/vje9ehw2/staging/24d699f4c383b79eb436e96d36c50223ce7fdd3c-565x384.svg)
 
 The move from Early Adopters to Early Majority is sometimes described as ‘Crossing the Chasm’. This idea was popularised by Geoffrey A. Moore in his eponymously titled book, released in 1991. The move symbolises a transition of consumers from technology enthusiasts and visionaries, to pragmatists who adopt the technology due to a combination of necessity and convenience. Moore argues that crossing the chasm is the most challenging step for a new technology but, once achieved, it heralds a new phase with the technology entering mainstream adoption and with significant momentum behind it.
 
@@ -151,7 +151,7 @@ However, a study of other disruptive technologies shows us that adoption is not 
 
 Therefore, applying the adoption of a disruptive technology to an S-Curve model is useful.
 
-![The S-Surve of Adoption](The S-Surve of Adoption)
+![The S-Surve of Adoption](https://cdn.sanity.io/images/vje9ehw2/staging/fb6494f78bf48b9cf88ac89417a1581644ba71d8-542x333.svg)
 
 _Source: Investaura_
 

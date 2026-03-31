@@ -76,9 +76,9 @@ Other barriers to partial or full banking services that may present themselves t
 
 One of the reasons cited in the World Bank Global Findex Database for why people do not have bank accounts is lack of trust in the banking institutions that are available to them.
 
-![Lack of money is often a barrier]
+![Lack of money is often a barrier](https://cdn.sanity.io/images/vje9ehw2/staging/7c5c0a2dd3df773ba3be9aeea2c1f8ca8310be43-523x303.svg)
 
-![Lebanon could be headed for a cash crisis](Lebanon could be headed for a cash crisis)
+![Lebanon could be headed for a cash crisis](https://cdn.sanity.io/images/vje9ehw2/staging/6e42bf6d41907262d6185fea6ba5d257e9fbbf3a-1999x1164.png)
 
 _Source : https://www.cnbc.com/2019/10/23/lebanon-protests-fears-of-a-cash-crisis-as-banks-remain-shut.html_
 
@@ -92,7 +92,7 @@ There may be a lack of trust in the safety or accessibility of money placed with
 
 Lack of trust may also extend beyond money. Banks usually require a lot of personal information from customers. We hear regular reports of institutions being hacked and losing data to criminals, and as such customers rightfully ask ‘do I trust my bank to keep my data safe?’
 
-![Santander staff and 30 million customers hacked](Santander staff and 30 million customers hacked)
+![Santander staff and 30 million customers hacked](https://cdn.sanity.io/images/vje9ehw2/staging/6b0182422ce2ed2bb38c22c745b1758659836e42-630x592.png)
 
 _Source: https://www.bbc.co.uk/news/articles/c6ppv06e3n8o_
 
@@ -103,7 +103,7 @@ Further issues of trust also arise with data:
 
 For some people there may be a lack of trust in the quality of money. The article below shows how trusting a bank even with USD can become problematic.
 
-![Argentine currency controls](Argentine currency controls)
+![Argentine currency controls](https://cdn.sanity.io/images/vje9ehw2/staging/24b945262bc52f517056e8063ae3d9bc63286383-1902x1520.png)
 
 _Source: https://en.wikipedia.org/wiki/Argentine_currency_controls_(2011%E2%80%932015)_
 

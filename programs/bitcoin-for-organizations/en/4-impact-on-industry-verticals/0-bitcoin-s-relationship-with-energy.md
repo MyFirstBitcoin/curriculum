@@ -6,7 +6,7 @@ _According to the Cambridge University Electricity Consumption Index (CBECI), Bi
 
 #### 4.1.0 Introduction – Bitcoin’s Energy Debate
 
-![In 2020 Bitcoin will consume more power than the world does today]
+![In 2020 Bitcoin will consume more power than the world does today](https://cdn.sanity.io/images/vje9ehw2/staging/02833207718ef7dd689839b6da7a4dbc3a222683-671x733.png)
 
 The Bitcoin network’s relationship with energy is perhaps its most controversial and misunderstood attribute. In a world where political discourse is increasingly sensitive to mankind’s impact on the environment due to increased industrialisation and trends in consumer behaviour, the emergence of a technology that harnesses a large amount of energy for its operations is bound to attract significant public scrutiny. However, much of that scrutiny is not particularly informative, and in many cases is wildly-inaccurate, as the tweet from the World Economic Forum above demonstrates.
 
@@ -154,7 +154,7 @@ Bitcoin mining, with its unique need for cheap and abundant electricity, has inc
 
 
 
-![Bitcoin doesn't waste energy. It uses wasted energy.]
+![Bitcoin doesn't waste energy. It uses wasted energy.](https://cdn.sanity.io/images/vje9ehw2/staging/83fdab61e09fec09da7448f396e100c3aca342b4-455x587.png)
 
 Seeking stranded energy is essential for Bitcoin miners from a commercial standpoint because it lowers costs, enhances environmental sustainability, and ensures operational stability in a volatile energy market. This strategy not only makes mining more profitable but also positions the industry as a key player in grid management and renewable energy development.
 

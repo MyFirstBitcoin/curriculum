@@ -47,7 +47,7 @@ With the advent of new accounting rules, every fiduciary now has a responsibilit
 
 [Bitcointreasuries](https://bitcointreasuries.net/) maintains a list of all known major Bitcoin holders including private and public companies, Governments and investment funds.
 
-![bitcointreasuries.net](bitcointreasuries.net)
+![bitcointreasuries.net](https://cdn.sanity.io/images/vje9ehw2/staging/a62756f2dbb6391f9a97d99031d2096e64c47423-1882x1882.png)
 
 _Snapshot Q3 2025 of bitcointreasuries.net_
 
@@ -329,7 +329,7 @@ Areas to consider and discuss with any potential supplier of a custodial solutio
 
 As with any new solution under consideration for adoption, a decision needs to be made on how this can best be achieved. One approach is to map the criticality of the technology or service to the business against the potential to use it as a competitive differentiation. This can help determine the appropriate resources to invest in it
 
-![CRM System / Legacy applications]
+![CRM System / Legacy applications](https://cdn.sanity.io/images/vje9ehw2/staging/7d369ee74337217ae91bbb5898ea873735c765d8-493x149.svg)
 
 * Solutions that are critical to the business obviously need to always work, and internal resources will need to be assigned to ensure continuity of service. Paying your workers is critical, but not something you could market as a competitive advantage. You may decide to outsource this function but put strict KPIs in place on availability and performance, or run an in-house payroll system on internal IT infrastructure designed for high uptime.
 * Likewise traditional treasury assets need to be managed, accounted for in financial reports and hopefully support the ongoing viability of the business by maintaining or even increasing in value through shrewd investment.

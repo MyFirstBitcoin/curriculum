@@ -129,7 +129,7 @@ We already see within the bitcoin economy the seemingly contradictory effects of
 
 Here is a, non-exhaustive, list of specific issues upon which governments might want to consider the effects of this internationalisation:
 
-![Astronaut falling into a black hole](Astronaut falling into a black hole)
+![Astronaut falling into a black hole](https://cdn.sanity.io/images/vje9ehw2/staging/f150d17ea569fdf4f6854bcfba11c7cf9f1d9374-172x215.jpg)
 
 _Astronaut falling into a black hole (schematic illustration of the spaghettification effect)_
 

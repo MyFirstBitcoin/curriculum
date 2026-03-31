@@ -33,7 +33,7 @@ A cryptographic hash function is a mathematical algorithm that takes inputs of a
 * It is easy to verify but exceedingly difficult to reverse the process to determine the input
 * A minor modification of the data completely alters the outputs
 
-![Hash function]
+![Hash function](https://cdn.sanity.io/images/vje9ehw2/staging/7c8a3db12ec6210a440a241e0bec1af419d89d7b-515x331.svg)
 
 Hashing is an integral part of the Bitcoin protocol. SHA-256, used in Bitcoin, was created by the NSA and is an example of a cryptographic hashing algorithm.
 
@@ -54,7 +54,7 @@ Elliptic curve cryptography was introduced in 1985 by two scientists, N. Koblitz
 
 The equation for an elliptic curve looks something like:
 
-![Elliptic curve]
+![Elliptic curve](https://cdn.sanity.io/images/vje9ehw2/staging/a30483f84b1a10c35de9854c9a6fad78fd0cb9b0-451x285.webp)
 
 This has some useful properties:
 

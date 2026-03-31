@@ -72,7 +72,7 @@ The current fiat banking system is not a direct comparison to Bitcoin. To achiev
 
 Estimating the energy used to maintain this infrastructure is extremely difficult, but Galaxy Digital Mining attempted to do so in a report dated May 2021.
 
-![Estimated Annual Energy Consumption (TWh/yr)]
+![Estimated Annual Energy Consumption (TWh/yr)](https://cdn.sanity.io/images/vje9ehw2/staging/30024cf0daaf683d2eb0d82e79ca83717b5d5dea-493x261.svg)
 
 As can be seen from the chart - the estimates for Bitcoin energy usage compare favorably with these two alternatives.
 
@@ -89,7 +89,7 @@ _Nic Carter_
 
 Bitcoin does use a substantial amount of energy to protect the network, but how does this compare to other energy uses?
 
-![Industrial and residential uses of electricity, a comparison.]
+![Industrial and residential uses of electricity, a comparison.](https://cdn.sanity.io/images/vje9ehw2/staging/d41118b2e2667ae60cf57c27b3b18951bdfe118e-544x298.svg)
 
 The University of Cambridge puts together a live update on Bitcoin's energy consumption and provides us with a current (2022) estimate;
 

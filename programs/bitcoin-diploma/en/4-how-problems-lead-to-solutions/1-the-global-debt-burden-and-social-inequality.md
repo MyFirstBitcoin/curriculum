@@ -1,13 +1,16 @@
 # 4.2 The Global Debt Burden and Social Inequality
 
-#### 4.2.1 Impact on Individuals — Loss of Purchasing Power
+> I don’t believe we shall ever have good money again until we take the thing out of the hands of government… all we can do, is by some sly, roundabout way, introduce something that they can’t stop.  
+_Friedrich Hayek, Nobel Prize Winner of Economics_
 
-Jaime is a college student who lives in a small apartment. He works part-time at a coffee shop to pay for his living expenses and tuition. As soon as he began living independently, Jaime became good at managing his own ledger.
+#### Impact on Individuals — Loss of Purchasing Power
+
+Jaime is a college student who lives in a small apartment. He works part-time at a coffee shop to pay for his living expenses and tuition. As soon as he began living independently, Jaime became good at managing his own **ledger**.
 
 
-> **Callout**
+> **Definition – Definition of ledger**
 >
-> **A ledger** is a detailed record of all of your monetary transactions, both income and expenses. Whether it’s money you’re earning or spending, a ledger helps you keep track of it all.
+> A **ledger** is a detailed record of all of your monetary transactions, both income and expenses. Whether it’s money you’re earning or spending, a ledger helps you keep track of it all.
 
 
 At the beginning of 2023, he budgeted $10,000 for his living expenses for the entire year, including rent, food, and other necessities. This is how his ledger looks for January 2026:
@@ -43,9 +46,11 @@ Jaime: _“Wow, that’s really interesting, Grandpa. How did you experience thi
 
 Grandfather: _“Oh, Jaime, everything was just much cheaper when I was young. A loaf of bread would only cost $0.18, and you could buy a gallon of gasoline for just $0.29. It is unbelievable how much the cost of living has gone up.”_
 
-![A Dollar's Worth](A Dollar's Worth)
 
-_The purchasing power of the U.S. dollar has fallen sharply over the last century due to rising inflation and money supply. _
+> **Callout**
+>
+> The purchasing power of the U.S. dollar has fallen sharply over the last century due to rising inflation and money supply.
+
 
 After the conversation with his grandfather, Jaime goes home to take another look at his ledger. He quickly discovers that he needs to budget an additional $1,000 for 2024 to be able to buy the same basket of goods and services that he purchased in the previous year. This means that his purchasing power has decreased by $1,000 as he now has to spend more money to buy the same goods and services. While his cost of living skyrockets every year, Jaime’s salary only increases very little.
 
@@ -59,8 +64,6 @@ The following table shows Jaime’s costs in the first and second years, as well
 | Necessities | $4,000 | $4,200 | 5% |
 | Total | $10,000 | $11,000 | 10% |
 
-
-![1938 Cost of living]
 
 In order for Jaime to live under the same standard of living, he will need to work more hours per week in Year #2 to earn an additional $1,000.
 
@@ -76,7 +79,9 @@ Instead, most choose to spend their money immediately because its value decrease
 
 As seen in the graph, the average individual's salary growth remains stagnant for decades when adjusted for inflation, despite being much more productive. This means that all that added value due to increased productivity is being eaten up by inflation, instead of rewarding working people.
 
-![ ]
+![Growth in Productivity and Hourly Compensation (1948-2017)](https://cdn.sanity.io/images/vje9ehw2/staging/e04a5ed869189c0284fd18816a9a599d21fa9a14-256x140.svg)
+
+_Growth in Productivity and Hourly Compensation (1948-2017). NOTE: Compensation includes wages and benefits for production and non-supervisory workers._
 
 Jaime's example is just one among many. In the fiat world, it's quite common for governments to create money out of thin air to further their own agenda, leaving individuals worldwide to bear the consequences. The prices of everyday items, from bread to housing, and from groceries to holidays, increase each year. While the rich benefit from inflation due to owning appreciating assets, ordinary folks who save in cash see their hard-earned money lose its value. The result? People and families worldwide struggle as their purchasing power decreases.
 
@@ -94,8 +99,6 @@ Superpowers like the United States gain a competitive edge due to this phenomeno
 
 Under the fiat system, wealth does not distribute itself evenly. Instead, it tends to concentrate in the hands of a select few. This phenomenon is like playing a game of Monopoly where a handful of players possess almost all the hotels and properties while the majority struggle to stay afloat. The fiat system has become a wealth concentration tool for certain groups. Money printing allows governments to inject more currency into the economy through their collaboration with central banks, and the first recipients of this newly created money are those with existing wealth and status — powerful entities and individuals. These groups benefit from the freshly printed money before its negative eﬀects, start to manifest in the economy.
 
-![ ]
-
 Wealth inequality is not just about the haves and have-nots; it is about suppressing economic mobility. Those from less privileged backgrounds find it increasingly challenging to climb the economic ladder, akin to starting a race with a heavy backpack. Then the wealthy use their influence to skew government policy in their favor, increasing the gap further. This makes things harder for regular people, leading to social unrest, a lack of trust in institutions, and communities falling apart like a house of cards. The fiat system's instability manifests in economic uncertainty, political unrest, and global crises when the Western world faces an economic downturn.
 
 Under the fiat system, debt has become the norm for humanity. Governments, institutions, businesses, and individuals worldwide find themselves immersed in a sea of debt.
@@ -106,27 +109,18 @@ The constant and rapid depreciation of fiat money leads to consumerism, the cons
 
 It becomes clear that the fiat system is not just an economic mechanism. Rather, it is a system that shapes human society as a whole. From the concentration of power to global dynamics, wealth disparities, and societal norms, the fiat system directly influences how nations operate and how regular citizens navigate their lives.
 
+#### The Global Debt Burden
+
+As a result of the fiat system, governments around the world are trapped in a growing web of debt, often called the “global debt spiral.” Imagine borrowing more than you could ever repay. This is happening at a massive scale. Governments continue to take on more debt than they can handle, driven by ongoing spending, borrowing, and short-term thinking, pushing many nations closer to financial instability.
+
+As of today, the U.S. federal government has added about $13 trillion in new debt since 2019. Total debt has risen from roughly $23 trillion in late 2019 to around $37 trillion today. Governments worldwide are not slowing down their borrowing. In fact, it is increasing, with 2023 projected to be one of the highest debt-adding years since 2021 during the COVID pandemic.
+
+So what does this mean for individuals and societies already dealing with the effects of the fiat system? The debt spiral is like a snowball rolling downhill, growing larger over time, with little political will to stop it.
+
+The consequences, from rising inequality to social unrest, are unlikely to disappear. Instead, the global debt burden continues to grow, making future conditions increasingly difficult.
+
 #### Discussion: Consequences of the Fiat System
 
 1. Are there any other consequences that individuals and society as a whole experience as a result of the fiat system?
-1. What are the consequences of the fiat system in your country? What has happened throughout history, and how did that aﬀect the people in your country?
+1. What are the consequences of the fiat system in your country? What has happened throughout history? How did that affect the people in your country?
 1. Personal examples: interactive session
-
-
-
-#### 4.2.3 The Global Debt Burden
-
-As a result of the fiat system, governments across the globe find themselves stuck in an enormous web of debt, caught up in what is called, ”The global debt spiral.” Imagine a scenario where you borrow more money than you can ever hope to repay. This is happening on a massive scale worldwide. Governments, drowning in debt, have been caught in a dangerous game of accumulating more debt than they can ever pay back. It's a story of reckless spending, borrowing, and a lack of foresight that now pushes nations around the world to the brink of financial disaster.
-
-As of today, the U.S. federal government has added a staggering $13 trillion of new debt since 2019. Total debt has skyrocketed from about $23 trillion during the fourth quarter of 2019 to an astronomical $37 trillion today. The pace at which governments globally churn out new debt isn't slowing down; in fact, it's accelerating. The year 2023 was projected to be the most debt-additive year since the turbulent times of 2021, marked by the COVID pandemic.
-
-So, what does this mean for the individuals and societies that already need to deal with the consequences of the fiat system? The debt spiral they are caught up in is like a snowball rolling down a hill—it just keeps getting bigger, and there is no political will to stop it.
-
-The consequences mentioned earlier, from wealth inequality to societal unrest, won't fade away. Instead, the global debt burden has reached a point of no return, ensuring that things are destined to get worse.
-
-> I don’t believe we shall ever have good money again until we take the thing out of the hands of government… all we can do, is by some sly, roundabout way, introduce something that they can’t stop.  
-_Friedrich Hayek, Nobel Prize Winner of Economics_
-
-![Global Reserve Currencies](Global Reserve Currencies)
-
-_The changing roles of global reserve currencies over the past five centuries, alongside the relative standings of great empires._

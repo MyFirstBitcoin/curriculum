@@ -2,7 +2,7 @@
 
 #### 7.4.0 Introduction
 
-![HTTP/1.1]
+![HTTP/1.1](https://cdn.sanity.io/images/vje9ehw2/staging/aaa601f5809d610ab73750a71d4a3db5b63b06b8-744x462.png)
 
 Tim Berners-Lee saw commercial traffic on the web as an inevitability, and was setting up systems to accommodate it before the market even existed. In the very first draft RFC (Request for Comment) defining HTTP, the error code 402 was included to handle payment requests. Even if this would remain unused for decades, its very existence shows that the web’s early architects viewed transactions as a core part of the concept.
 

@@ -107,7 +107,7 @@ In the absence of traditional measures of valuation, how should we consider the 
 
 Analyst Jesse Myers4 at OnRamp suggests that because bitcoin can be thought of as new base money that can reprice all other asset classes, then the Total Addressable Market (TAM) for bitcoin is the entire world’s wealth (around $900T), that is, all value held in equities, bonds, real estate, money markets etc.
 
-![Global Wealth is Stored in Physical and Financial Assets](Global Wealth is Stored in Physical and Financial Assets)
+![Global Wealth is Stored in Physical and Financial Assets](https://cdn.sanity.io/images/vje9ehw2/staging/240016790a659a5d834cf466bf3ef6e95af22f47-520x291.svg)
 
 _Source: Jesse Myers, onceinaspecies.com; hope.com/resources (The Digital Gold Rush, presentation for H.C Wainwright, September 2024)_
 
@@ -138,7 +138,7 @@ There is publicly available information on the impact of bitcoin on portfolios a
 
 The chart below shows rolling 3-year correlations of bitcoin relative to stocks and bonds, from July 2013 to March 2024. It shows that, while correlations between stocks and bonds are increasing. A rolling 3-year correlation to stocks of 0.53 and to bonds of 0.26 through to March 2024 shows significant potential for diversification in a multi-asset portfolio.
 
-![Magnificent Seven: 1-Year Volatility](Magnificent Seven: 1-Year Volatility)
+![Magnificent Seven: 1-Year Volatility](https://cdn.sanity.io/images/vje9ehw2/staging/01315f33b572413f91dcb09c4e05af461dd4e4ee-545x305.svg)
 
 _Source: Fidelity Investments and Bloomberg Finance LP. Stocks represented by the S&P 500; Bonds represented by the Bloomberg U.S. Aggregate Bond Index;_
 
@@ -148,7 +148,7 @@ From a returns perspective, Fidelity observed that since August 1, 2010 to March
 
 Bitcoin’s price volatility is often cited as a reason that investment managers steer clear of bitcoin as a portfolio constituent. It is a slightly odd criticism, since managing price volatility of individual assets within a portfolio is a well-understood attribute of a competent portfolio manager. Furthermore, Fidelity found that bitcoin’s annual price volatility is not dramatically different to the ‘magnificent seven’ group of high-performing technology stocks.10 At the end of 2023, there were 92 S&P stocks more volatile than bitcoin.
 
-![Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Aug. 1, 2010 - March 31, 2024)](Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Aug. 1, 2010 - March 31, 2024))
+![Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Aug. 1, 2010 - March 31, 2024)](https://cdn.sanity.io/images/vje9ehw2/staging/138d47c7442f1ca390d082ff2ba000b6d842e51d-545x305.svg)
 
 _Source: Fidelity Digital Assets; Bloomberg, March 2024_
 

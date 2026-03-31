@@ -12,7 +12,7 @@ This section contains some commonly used metrics for analysing Bitcoin activity 
 
 Address metrics are useful to monitor over time as they indicate the level of activity on the Bitcoin network. For instance, as Bitcoin becomes more adopted, the number of active addresses increases. We can examine this further by distilling the number of addresses that hold a minimum specified amount of Bitcoin, say 0.1 BTC, by a certain time period, such as one year. While this provides a view of Bitcoin adoption over time, it is imperfect since an individual can hold multiple Bitcoin addresses. Conversely, exchanges or ETFs may appear as single entities when holding funds for large numbers of individuals.
 
-![Bitcoin: Addresses Hodling > X BTC by Year](Bitcoin: Addresses Hodling > X BTC by Year)
+![Bitcoin: Addresses Hodling > X BTC by Year](https://cdn.sanity.io/images/vje9ehw2/staging/b88a9239820e45ed50ce00812170e2bb4d02b5d2-1407x766.png)
 
 _Addresses Hodling Bitcoin > X BTC by Year. Source: Bitcoin Magazine Pro._
 
@@ -20,7 +20,7 @@ By comparing addresses with the current market price of BTC it is possible to vi
 
 For example, the **Percent Unrealised Profit** chart below shows the proportion of all ledger addresses with an unrealised profit measured in US dollars. Note that, since the chart below was taken at close to Bitcoin’s all-time high, the percentage of addresses showing an unrealised profit is close to one hundred per cent. We can also see that prolonged periods of Percent Unrealised Profit below one standard deviation from the mean are unusual. Therefore, a drop below this line may suggest a good entry point for buyers.
 
-![Percent Unrealised Profit](Percent Unrealised Profit)
+![Percent Unrealised Profit](https://cdn.sanity.io/images/vje9ehw2/staging/f306f03f31ce4faada8bf34137dd76f9d550697a-1041x491.png)
 
 _Percent Unrealised Profit. Source: checkonchain.com_
 
@@ -34,7 +34,7 @@ For instance, by examining the value of BTC holdings since they were last transa
 
 By further grouping ledger data into age bands, we can show how the amount of BTC moves between addresses over time, which creates wave-like patterns on a chart known as **HODL waves**.
 
-![Bitcoin HODL Waves](Bitcoin HODL Waves)
+![Bitcoin HODL Waves](https://cdn.sanity.io/images/vje9ehw2/staging/ce108e45a1a7217e081101e4a276ee2d9e95a22e-1129x577.png)
 
 _Bitcoin HODL Waves. Source: Bitcoin Magazine Pro._
 
@@ -52,7 +52,7 @@ Mining metrics are useful for understanding the security, economic incentives an
 
 The **Hashrate** of the Bitcoin network is perhaps the commonly referred to indicator of the network health and strength of security. Since the process of mining secures the network and confirms that transactions on the ledger are valid, the greater the level of computing (or hashing) power there is, the harder it would be for a malicious actor to overpower and attack the network.
 
-![Bitcoin Hashrate](Bitcoin Hashrate)
+![Bitcoin Hashrate](https://cdn.sanity.io/images/vje9ehw2/staging/fcb4a24c431a37580d3d6c4ec62b664e7e41c362-1134x584.png)
 
 _Bitcoin Hashrate. Source: Bitcoin Magazine Pro._
 

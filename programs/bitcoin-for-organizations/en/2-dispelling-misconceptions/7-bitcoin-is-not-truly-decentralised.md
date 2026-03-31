@@ -7,7 +7,7 @@ As the quote above from a fairly recent post by the International Monetary fund 
 
 ##### Introduction
 
-![Trilemma]
+![Trilemma](https://cdn.sanity.io/images/vje9ehw2/staging/ff9d3a607afc6bf60f358eef412a749ce3e47c40-161x167.svg)
 
 Decentralisation is a critical aspect of Bitcoin. The ability to maintain the rules of the protocol such as scarcity and distribution without a central authority ensures that it can act as permissionless money for a global society.
 
@@ -25,7 +25,7 @@ Bitcoin is an open-source protocol that anyone is free to look at, download, cop
 
 ##### How Does an idea Make Its Way Into Bitcoin Core?
 
-![How Does an idea Make Its Way Into Bitcoin Core?](How Does an idea Make Its Way Into Bitcoin Core?)
+![How Does an idea Make Its Way Into Bitcoin Core?](https://cdn.sanity.io/images/vje9ehw2/staging/49f70d059c9dbe19a6e4500e9abd8db66ca97bff-1300x1439.png)
 
 _Source: https://river.com/learn/what-is-bitcoin-core/_
 

@@ -2,7 +2,7 @@
 
 Most of us are familiar with the TCP/IP protocols in use today as the foundation for the internet. Their origins date back to the late 70’s when scientists were exploring alternative designs to Arpanet – an even earlier network conceived by the U.S Department of Defense to enable resource sharing between remote computers. TCP/IP became the protocol standard for Arpanet in 1983, which led to it becoming the dominant networking model by the end of the 1990’s and the foundation for the internet that Bitcoin runs on today. Let’s look at some of the developments along the way:
 
-![OSI Model and TCP/IP]
+![OSI Model and TCP/IP](https://cdn.sanity.io/images/vje9ehw2/staging/8d32211b8664749e51d804d1efbfe9fb9bd134d5-506x269.svg)
 
 At the same time as the TCP/IP model was being developed, a similar but more comprehensive framework was being developed by the International Standards Organisation (ISO) and the Telecoms industry (CCITT). The process to develop new protocols or suggest changes was slow and unwieldy in comparison to the more decentralised approach used to develop TCP/IP, leading to the dominance of this approach today.
 

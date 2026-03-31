@@ -65,7 +65,7 @@ Security focused technology companies are well-placed to understand and apply th
 
 ##### Bitcoin as the pioneer and leader of this space.
 
-![BTC Dominance Chart]
+![BTC Dominance Chart](https://cdn.sanity.io/images/vje9ehw2/staging/dba31f468cd99b7bb3115f853b80fa7e5ec605ec-1155x562.png)
 
 Bitcoin is the pioneer technology and stood alone in the first years of its existence. The crypto industry grew up around it with competitors either trying to replace it or to use the underlying technologies to create new solutions. This has occurred in waves of adoption and has occurred twice in Bitcoins’ history as shown in the chart above. Both times the dominance of Bitcoin has recovered as these ‘alt-coins’ have failed to deliver on their promises. Gaining an understanding of why this occurs as a repeated pattern will help to guide internal investments as well as providing consulting opportunities for customers.
 
@@ -73,7 +73,7 @@ Bitcoin is the pioneer technology and stood alone in the first years of its exis
 
 ##### Blockchain trilemma and trade-offs
 
-![Blockchain trilemma: Decentralization, Scale and Security.]
+![Blockchain trilemma: Decentralization, Scale and Security.](https://cdn.sanity.io/images/vje9ehw2/staging/ab07123b7dbd93e216b01a726508b67cc7fcca82-250x249.svg)
 
 The blockchain trilemma refers to the challenge of achieving three critical aspects of blockchain technology: security, scalability, and decentralisation. The trilemma suggests that optimising one aspect often compromises the others, making it difficult to achieve all three simultaneously. Bitcoin optimises for security, with the hash rate protecting the network only growing higher, and decentralisation, allowing for a truly global network that has no central authority overseeing it. This is at the expense of scalability, the number of transactions supported per second is relatively low. This problem is left to be solved at the higher layers such as Lightning, in a similar way to the TCP/IP multi-layered approach.
 

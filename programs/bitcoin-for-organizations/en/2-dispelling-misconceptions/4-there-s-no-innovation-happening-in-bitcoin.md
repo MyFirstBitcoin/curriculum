@@ -41,4 +41,4 @@ Cashu is a bearer token that can be stored on a device such as a mobile phone; t
 
 There are likely to be many more layer 2 applications built in the future, with many layer 3 applications in turn built on top of each of those.As an example of the incredible number of applications being built on top of Lightning, below is an extract from a Lightning Network Research Report by River, 2023:
 
-![The Lightning Network Industry Market Map 2023]
+![The Lightning Network Industry Market Map 2023](https://cdn.sanity.io/images/vje9ehw2/staging/a5d3bdf5b343b7ae7e44663cf6e56a76a4bdec2d-501x706.svg)

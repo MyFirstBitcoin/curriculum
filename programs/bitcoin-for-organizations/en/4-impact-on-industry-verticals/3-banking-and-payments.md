@@ -60,7 +60,7 @@ _Henry Ford_
 
 Most banks are involved in credit creation and this along with related consumer and global banking activities underpin a large source of earnings.
 
-![Bank of America Segment Breakdown]
+![Bank of America Segment Breakdown](https://cdn.sanity.io/images/vje9ehw2/staging/256daecdec95db37e565dbb1c7a64df7b13b62fd-456x305.svg)
 
 Friedrich Hayek, Nobel prize-winning economist, argued that the centralisation of money that occurred during the 20th century was an underlying driver of the centralisation of nation states. The rise of Bitcoin may push this into reverse, something which many people support and indeed to which politicians pay lip service, but have been seemingly unable to deliver.
 

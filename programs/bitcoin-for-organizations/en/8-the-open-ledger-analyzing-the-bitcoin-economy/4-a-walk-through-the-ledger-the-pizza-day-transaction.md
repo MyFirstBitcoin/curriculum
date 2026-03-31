@@ -10,7 +10,7 @@ The ’Pizza Day’ transaction can be viewed by anyone and has the following tr
 
 Entering this transaction ID into mempool.space reveals the following:
 
-![Transaction]
+![Transaction](https://cdn.sanity.io/images/vje9ehw2/staging/d9b23ca4a14b433f0540a0920a1a1eb9662cad37-1126x268.png)
 
 
 
@@ -22,11 +22,11 @@ The Block Height: 57,043
 
 The Number of Confirmations: 838,645 (this is the number blocks added to the ledger after this transaction)
 
-![Inputs & Outputs]
+![Inputs & Outputs](https://cdn.sanity.io/images/vje9ehw2/staging/dde2d64b67678116d039740c63ba279c27cc8703-1149x571.png)
 
 
 
-![Address]
+![Address](https://cdn.sanity.io/images/vje9ehw2/staging/c6d7be3be795a922e7850718408570234b206615-573x253.png)
 
 Number of Transaction Inputs: 131
 
