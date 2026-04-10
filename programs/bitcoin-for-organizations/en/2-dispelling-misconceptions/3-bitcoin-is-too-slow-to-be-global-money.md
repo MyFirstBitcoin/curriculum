@@ -1,7 +1,7 @@
 # 2.3 Bitcoin is too slow to be global money
 
 > Visionaries see a future of telecommuting workers, interactive libraries and multimedia classrooms. They speak of electronic town meetings and virtual communities…..The truth is no online database will replace your daily newspaper, no CD-ROM can take the place of a competent teacher and no computer network will change the way government works.  
-_Clifford Stroll, Newsweek article, 1995_
+_Clifford Stroll_
 
 17 years later, Newsweek ceased print publication and became exclusively available online. Imagine being alive in 1974 when the Transmission Control Protocol (TCP) was first created.
 
@@ -10,7 +10,7 @@ No one foresaw the smartphone, with all its apps, sitting in your hand. No one s
 The internet did not emerge as a one and done, but rather gradually as an evolution of protocols and layers. These evolutions have built on, but mainly not changed TCP.
 
 > So as I look at transitioning to the communication platforms of the future, I see that the beauty of Internet protocols is you get the separation of the layers between service and technology.  
-_Michael K Powell, Chairman of the Federal Communications Commission, 2001-2005_
+_Michael K Powell_
 
 
 

@@ -1,7 +1,7 @@
 # 2.7 Bitcoin is not truly decentralised
 
 > Crypto’s complexity arises from attempts at decentralisation—by distributing power and governance in the system, there is theoretically no need for trusted intermediaries like financial institutions. That was the premise of the initial Bitcoin white paper, which offered a cryptographic solution intended to allow payments to be sent without involving any financial institution or other trusted intermediary. However, Bitcoin became centralized very quickly and now depends on a small group of software developers and mining pools to function  
-[_IMF: The superficial allure of crypto: Sep 2022_](https://www.imf.org/en/Publications/fandd/issues/2022/09/Point-of-View-the-superficial-allure-of-crypto-Hilary-Allen)
+_International Monetary Fund_
 
 As the quote above from a fairly recent post by the International Monetary fund shows, the mainstream financial industry continues to claim that Bitcoin is not decentralised, as well as confusing Bitcoin with other crypto assets.
 
@@ -23,13 +23,11 @@ In this context, we are interested in decentralisation of:
 
 Bitcoin is an open-source protocol that anyone is free to look at, download, copy or suggest changes to. It is available in a GitHub library, the source code having been launched originally in 2009 By Satoshi Nakamoto. Anyone is free to download the code and run a node, the majority of which run the original Bitcoin core software, which has been updated over time.
 
-##### How Does an idea Make Its Way Into Bitcoin Core?
-
 ![How Does an idea Make Its Way Into Bitcoin Core?](https://cdn.sanity.io/images/vje9ehw2/staging/49f70d059c9dbe19a6e4500e9abd8db66ca97bff-1300x1439.png)
 
 _Source: https://river.com/learn/what-is-bitcoin-core/_
 
-As the diagram above describes, Bitcoin Core development follows the best practices of open source development. At any time, there can be any number of developers writing or reviewing code changes. They need to listen to the concerns of the node operators and miners, as well as the user base before making any critical change to the code, which will be reviewed and agreed on as shown in the above flowchart before finding their way into the code.
+Bitcoin Core development follows the best practices of open source development. At any time, there can be any number of developers writing or reviewing code changes. They need to listen to the concerns of the node operators and miners, as well as the user base before making any critical change to the code, which will be reviewed and agreed on as shown in the above flowchart before finding their way into the code.
 
 The rules of Bitcoin are then encoded in this Bitcoin Core software, which runs on each node. Anyone can suggest a change to the rules – the rules are code, but they are not _just_ code, they are _agreed-upon_ code. If changed unilaterally, the new code is no longer part of consensus and is no longer part of Bitcoin. Changing something with Bitcoin and remaining in consensus is tricky. Suggested changes to the code fall into one of three categories:
 

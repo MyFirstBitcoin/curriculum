@@ -2,7 +2,9 @@
 
 #### 6.2.0 Introduction
 
-_So I have some Bitcoin. What can I do with it?_ Many of us have heard a question like this (perhaps with a hint of snark) from those sceptical of whether Bitcoin will achieve broad-based acceptance as money. It is a common (and correct) observation from within traditional finance and the mainstream media that, so far at least, the technology is not widely accepted, despite more than 15 years of continuous operation.
+**So I have some Bitcoin. What can I do with it?**
+
+Many of us have heard a question like this (perhaps with a hint of snark) from those sceptical of whether Bitcoin will achieve broad-based acceptance as money. It is a common (and correct) observation from within traditional finance and the mainstream media that, so far at least, the technology is not widely accepted, despite more than 15 years of continuous operation.
 
 Does this mean Bitcoin has missed its chance to achieve widespread acceptance? Or, are we still early in the adoption cycle for this technology? Can we examine the take-up of other ground-breaking technologies over history to provide a marker for Bitcoin’s current progress and a signpost for future adoption? Is there a commonly available framework to help with these questions?
 
@@ -12,7 +14,9 @@ Does this mean Bitcoin has missed its chance to achieve widespread acceptance? O
 
 In 1962 sociology professor Everett Rogers suggested a model for the adoption of innovation in his book, _Diffusion of Innovations_. His ideas rapidly became very popular with academics and business practitioners alike and are still widely cited today.
 
-![Adoption curve](https://cdn.sanity.io/images/vje9ehw2/staging/2fe9bc1474778073724015da4979f543f4e07773-537x311.svg)
+![Adoption curve](https://cdn.sanity.io/images/vje9ehw2/staging/1b99d9ba1f1a29ba8ceb2074e19269a2ff7a773d-500x190.svg)
+
+_Relationship between types of adopters classifed by innovativeness and their location on the adoption curve (Source: Everett M. Rogers, Diffusions of Innovations)_
 
 The Rogers Model proposes five key elements of technology adoption, grouping these into types of consumers adopting a new innovation and mapping them on a bell curve distribution. Rogers’ five categories of adopters are grouped according to social status. These are:
 
@@ -22,9 +26,9 @@ The Rogers Model proposes five key elements of technology adoption, grouping the
 * **Late Majority** (34% of users) – This group is more cautious and may adopt a higher degree of scepticism than earlier consumers.
 * **Laggards** (16% of users) – This group is the most averse to change. They may tend to adopt a new technology only by necessity or as a result of older technologies or methods becoming obsolete.
 
-![The chasm](https://cdn.sanity.io/images/vje9ehw2/staging/24d699f4c383b79eb436e96d36c50223ce7fdd3c-565x384.svg)
+![The chasm](https://cdn.sanity.io/images/vje9ehw2/staging/77137ca58f6a6ece70f8f91fdce3112cc15fbe6c-530x354.svg)
 
-The move from Early Adopters to Early Majority is sometimes described as ‘Crossing the Chasm’. This idea was popularised by Geoffrey A. Moore in his eponymously titled book, released in 1991. The move symbolises a transition of consumers from technology enthusiasts and visionaries, to pragmatists who adopt the technology due to a combination of necessity and convenience. Moore argues that crossing the chasm is the most challenging step for a new technology but, once achieved, it heralds a new phase with the technology entering mainstream adoption and with significant momentum behind it.
+The move from Early Adopters to Early Majority is sometimes described as **Crossing the Chasm**. This idea was popularised by Geoffrey A. Moore in his eponymously titled book, released in 1991. The move symbolises a transition of consumers from technology enthusiasts and visionaries, to pragmatists who adopt the technology due to a combination of necessity and convenience. Moore argues that crossing the chasm is the most challenging step for a new technology but, once achieved, it heralds a new phase with the technology entering mainstream adoption and with significant momentum behind it.
 
 
 
@@ -151,9 +155,9 @@ However, a study of other disruptive technologies shows us that adoption is not 
 
 Therefore, applying the adoption of a disruptive technology to an S-Curve model is useful.
 
-![The S-Surve of Adoption](https://cdn.sanity.io/images/vje9ehw2/staging/fb6494f78bf48b9cf88ac89417a1581644ba71d8-542x333.svg)
+![The S-Surve of Adoption](https://cdn.sanity.io/images/vje9ehw2/staging/9bb0e135c31f888703da2b5b1197324e3fb8fd7b-493x291.svg)
 
-_Source: Investaura_
+_The S-Surve of Adoption (Source: Investaura)_
 
 It is important to note that the gradient of the graph is an approximation and the rate of adoption of each technology cycle will vary. However, the S-Curve does show that the duration of phases are not equal, with the Early Majority and Late Majority phases collectively taking much less time than the Innovators and Early Adopters. In the example above, the Innovators and Early Adopters account for around 40% of overall duration. This compares with around 25% of overall duration for the Early Majority and Late Majority, despite those phases accounting for 80% of market penetration collectively.
 

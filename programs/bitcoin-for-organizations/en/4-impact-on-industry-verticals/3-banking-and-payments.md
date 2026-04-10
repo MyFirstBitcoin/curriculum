@@ -1,14 +1,14 @@
 # 4.3 Banking and Payments
 
 > Broad money represents the big set of money that people and businesses directly use to transact with each other, store our savings in, and define as our ‘money’  
-_Lyn Alden, Broken Money_
+_Lyn Alden_
 
 
 
 #### 4.3.0 Introduction
 
 > Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.  
-_Stewart Brand – Writer_
+_Stewart Brand_
 
 Banking and payments have been strongly related ever since banks emerged. Many institutions are engaged to some degree in both activities. In the 2020s the largest banks rank alongside the largest payments services companies and often have significant cross-shareholdings. For example as at December 2023, Bank of America, which founded Visa in 1958 as BankAmericard, owned 1.53% of Visa Inc. Morgan Stanley owned 3.26% (source: Wikipedia).
 
@@ -33,7 +33,7 @@ The purpose of this chapter is to consider what the rise of Bitcoin may mean for
 #### 4.3.1 Risk
 
 > The most important causes of change are not to be found in political manifestos or in the pronouncements of dead economists, but in the hidden factors that alter the boundaries where power is exercised. Often, subtle changes in climate, topography, microbes, and technology alter the logic of violence.  
-_James Dale Davidson, The Sovereign Individual: Mastering the Transition to the Information Age, 1997_
+_James Dale Davidson_
 
 We are not concerned here with the usual financial or operational business risks that banking, payment services and other companies may need to monitor and manage. In this section we consider strategic business risks that could emerge and how the rise of Bitcoin may drive a once in a century transformation of the industry. If we were to rank industries by likelihood and impact with respect to being affected by the rise of this technology, then banking and payments would sit right at the top of the list.
 
@@ -60,7 +60,9 @@ _Henry Ford_
 
 Most banks are involved in credit creation and this along with related consumer and global banking activities underpin a large source of earnings.
 
-![Bank of America Segment Breakdown](https://cdn.sanity.io/images/vje9ehw2/staging/256daecdec95db37e565dbb1c7a64df7b13b62fd-456x305.svg)
+![Bank of America Segment Breakdown](https://cdn.sanity.io/images/vje9ehw2/staging/917de3f8e82bfe92c2707b17ff02ea0d62c4b75b-418x174.svg)
+
+_Bank of America Segment Breakdown (Source: Bank of America 10-K)_
 
 Friedrich Hayek, Nobel prize-winning economist, argued that the centralisation of money that occurred during the 20th century was an underlying driver of the centralisation of nation states. The rise of Bitcoin may push this into reverse, something which many people support and indeed to which politicians pay lip service, but have been seemingly unable to deliver.
 
@@ -69,24 +71,24 @@ Prior to the 20th century emperors, kings, queens and governments were always co
 Since the early part of the 20th century experiments were undertaken to remove the ‘realness’ of money, culminating in its full dissociation from reality in 1971 when the dollar’s convertibility to gold was “temporarily” suspended.
 
 > I have directed Secretary Connally to suspend temporarily the convertibility of the American dollar except in amounts and conditions determined to be in the interest of monetary stability and in the best interests of the United States.  
-_Richard Nixon, US President, August 1971_
+_Richard Nixon_
 
 Money is a technology and Bitcoin, as a digital money, may be one of the biggest technology innovations in human history.
 
 > ...money is, at root, technology as much as any other basic machine like the wedge, lever or wheel.  
-_Business Insider, 2012._
+_Business Insider_
 
 Comparable in scale to the invention of farming, the printing press or gunpowder. Excluding altruism, money motivates all voluntary human action and therefore it is possible that a new solution in this technology for 8 billion people may turn out to be the most impactful technology innovation in human history.
 
 Money is power, it is a technology, and as such it is superordinate to law, and therefore by deduction it is also superordinate to lawmaking institutions. The decentralisation of money will drive the decentralisation of power.
 
 > One of the penalties paid for the blessings of stability of the currency is that the law finds itself unprepared for unexpected and revolutionary changes in the monetary system.  
-_LEGAL THEORIES OF MONEY PHANOR J. EDER, 1934_
+Phanor _J. Eder_
 
 Today nations specify one or more moneys as legal tender. If the market were to determine something else as a preferred money either locally or internationally then governments may face a situation where the demand for the local tender currency is outpaced by the demand for the global, neutral ‘real’ money. We will again observe that real money is a market determined good which may cause legislative change, and is not itself created by law. Nations could always choose to keep tender laws that specify the less demanded money, but would be well-advised to consider the self-harming consequences of making such choices :
 
 > History shows it is not​ possible to insulate yourself from the consequences of others holding money that is harder than yours.  
-_Saifedean Ammous, The Bitcoin Standard: The Decentralized Alternative to Central Banking, 2018_
+_Saifedean Ammous_
 
 The argument presented above shows how a decentralised, global and neutral money can drive decentralisation of power. Now we turn to how Bitcoin, a decentralised monetary communications technology, may also be a precursor of the decentralisation of non monetary communications and media.
 
@@ -95,7 +97,7 @@ The argument presented above shows how a decentralised, global and neutral money
 #### 4.3.3 Disintermediation of Payments
 
 > If you try to unwind the credit bubble but [the banks] are completely essential for payments and hence for commerce... there's no a priori... reason why that should [be]  
-_Allen Farrington, Mr Obnoxious podcast_
+_Allen Farrington_
 
 Bitcoin’s design both on its base layer blockchain, some open second layers, and apps on higher layers enables individuals to transact digital value with one another without relying on third parties. It has not previously been possible to have disintermediated digital payments. However, designing the capability for peer to peer payments does not imply that all or even most payments will end up as such. The extent to which payments become peer to peer as Bitcoin’s footprint grows will emerge from the market. The market is, in part, shaped by those that offer services, which could include existing banking and payments institutions. If these institutions do not participate then the market will simply emerge with new players growing to supply the services demanded.
 

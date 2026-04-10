@@ -44,4 +44,4 @@ Whilst many ideas for improvements (BIPs) have been proposed and adopted, Bitcoi
 
 ##### Notes
 
-1. For an explanation of the Byzantine Generals problem - see https://en.wikipedia.org/wiki/Byzantine_fault
+1. For an explanation of the Byzantine Generals problem - see [https://en.wikipedia.org/wiki/Byzantine_fault](https://en.wikipedia.org/wiki/Byzantine_fault)

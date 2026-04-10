@@ -8,7 +8,7 @@ The key innovation that Hashcash created was tying real world resources- computa
 
 Although the solution met some of the criteria that Adam believed was needed in a digital cash system; it was anonymous, resilient and trustless, each hashcash was not reusable and not truly scarce. He suggested other ways that these issues could be addressed using external third parties.
 
-##### BItGold
+##### BitGold
 
 Nick Szabo built on the concept of Hashcash and proof of work to propose an alternate solution, which he described in a mailing list a year after Hashcash was published, in 1998.
 

@@ -1,7 +1,7 @@
 # 7.1 The Potential Future for Bitcoin
 
 > The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve  
-_Satoshi Nakamoto, February 2009_
+_Satoshi Nakamoto_
 
 
 

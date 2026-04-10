@@ -1,7 +1,7 @@
 # 5.1 Bitcoin’s impact on IT leaders
 
 > Every informed person needs to know about Bitcoin because it might be one of the world’s most important developments.  
-_Leon Luow, Nobel Peace Prize nominee_
+_Leon Luow_
 
 
 
@@ -28,8 +28,8 @@ On the positive side, Bitcoin could benefit any company by:
 
 Any IT leader needs to take the time to understand Bitcoin, the potential impact and risks associated with it, as well as potential benefits, to be able to provide guidance and leadership for the business.
 
-> Bitcoin is a remarkable cryptographic achievement… The ability to create something which is not duplicable in the digital world has enormous value… Lots of people will build businesses on top of that.  
-_Eric Schmidt, Executive Chairman of Google_
+> Bitcoin is a remarkable cryptographic achievement. The ability to create something which is not duplicable in the digital world has enormous value. Lots of people will build businesses on top of that.  
+_Eric Schmidt_
 
 
 

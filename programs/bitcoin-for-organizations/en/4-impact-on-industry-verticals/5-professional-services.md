@@ -2,8 +2,8 @@
 
 #### 4.5.0 Introduction
 
-> I think that the Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, but that will soon be developed, is a reliable e-cash, a method whereby on the Internet you can transfer funds from A to B without A knowing B or B knowing A. The way I can take a $20 bill, hand it over to you, and then there’s no record of where it came from. You may get that without knowing who I am. That kind of thing will develop on the Internet and that will make it even easier for people using the Internet.  
-_Milton Friedman 1999_
+> I think that the Internet is going to be one of the major forces for reducing the role of government. The one thing that’s missing, but that will soon be developed, is a reliable e-cash, a method whereby on the Internet you can transfer funds from A to B without A knowing B or B knowing A. The way I can take a $20 bill, hand it over to you, and then there’s no record of where it came from. You may get that without knowing who I am.  
+_Milton Friedman_
 
 Many companies and people missed the importance of the internet when it first started and continued to do so as it evolved to deliver the wide range of capabilities we take for granted today, that have revolutionised many aspects of our lives. Early users - around the time of this quote - struggling to send emails over a slow dial-up modem would have found it hard to imagine walking around with a mobile device providing on-demand access to the broad range of applications available today.
 
@@ -55,7 +55,7 @@ Depending on the type of business, corporations could be impacted by both asset 
 
 Professional services firms should be aware of the growing number of corporates that are adding bitcoin to their balance sheets, and why, for example MicroStrategy, and Metaplanet.Understanding the advantages of being able to use your balance sheet as a driver of shareholder value adds value to the advice that a professional services firm can provide to its clients.
 
-##### **Regulations**
+##### Regulations
 
 Numerous regulatory developments around the world regarding digital assets have given investors more confidence in bitcoin as an investment. With ever increasing market data and price history, digital asset-friendly regulations such as the European Union's (E.U.) Markets in Crypto Assets (MiCA) legal framework, and the U.S. SEC’s approval of a spot bitcoin exchange-traded product in January 2024 have offered investors and companies some assurance and clarity for which they have been looking.
 

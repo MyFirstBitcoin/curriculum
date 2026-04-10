@@ -1,14 +1,14 @@
 # 7.3 Banking the Un(der)banked
 
 > Banking, in the broad sense, is a series of legal and technological layers that people developed on top of commodity money.  
-_Lynn Alden, Broken Money, 2023_
+_Lynn Alden_
 
 
 
 #### 7.3.1 Introduction
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.  
-_Satoshi Nakamoto, Bitcoin Whitepaper, 2008_
+_Satoshi Nakamoto_
 
 The quotation above from the start of the abstract in the Bitcoin whitepaper outlines why banks are not necessary for payments in a world with Bitcoin.
 
@@ -25,7 +25,7 @@ We also highlight the need for access to a monetary system for non-human legal e
 #### 7.3.2 Factors affecting access to banking
 
 > To meet our needs and enjoy our basic rights and freedoms, we need access to a monetary system. We need food, clothing, and shelter, as well as access to hygiene and healthcare. We need money to pay for these.  
-_Resistance Money, Andrew M Bailey, Bradley Rettler, Craig Warmke 2024_
+_Resistance Money, Andrew M Bailey, Bradley Rettler, Craig Warmke_
 
 The main factors that determine if and to what extent people are underbanked can be grouped into 5 categories :
 
@@ -74,13 +74,15 @@ Other barriers to partial or full banking services that may present themselves t
 
 ##### Trust
 
-One of the reasons cited in the World Bank Global Findex Database for why people do not have bank accounts is lack of trust in the banking institutions that are available to them.
+One of the reasons cited in the World Bank Global Findex Database for why people do not have bank accounts is lack of trust in the banking institutions that are available.
 
-![Lack of money is often a barrier](https://cdn.sanity.io/images/vje9ehw2/staging/7c5c0a2dd3df773ba3be9aeea2c1f8ca8310be43-523x303.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/9843e84242da2768e9b55fd9dc441ac0fea6372b-488x217.svg)
+
+_Lack of money is often a barrier (Source: Global Findex Database 2021)_
 
 ![Lebanon could be headed for a cash crisis](https://cdn.sanity.io/images/vje9ehw2/staging/6e42bf6d41907262d6185fea6ba5d257e9fbbf3a-1999x1164.png)
 
-_Source : https://www.cnbc.com/2019/10/23/lebanon-protests-fears-of-a-cash-crisis-as-banks-remain-shut.html_
+_https://www.cnbc.com/2019/10/23/lebanon-protests-fears-of-a-cash-crisis-as-banks-remain-shut.html_
 
 There may be a lack of trust in the safety or accessibility of money placed with the bank. Here are some examples of questions that may lie underneath a lack of trust:
 
@@ -182,7 +184,7 @@ Bitcoin’s ethical differences provide opportunities for some people who curren
 #### 7.3.4 Conclusion
 
 > Coleman has written an essay called “Let Them Have Bank Accounts,” in which he questions the fixed notion that the answer to poor people’s financial problems is to get them all to open bank accounts. “This assumption fails to frame the problem from the bottom up rather than the top down,” Coleman says. “It’s like providing pots and pans as the solution to hunger.”  
-_Lisa Servon, The Unbanking of America: How the New Middle Class Survives, 2017_
+_Lisa Servon_
 
 Being unbanked is mainly confined to the Global South, although some sections of society even in developed economies are also unbanked. However, being underbanked is an issue that is faced by almost everyone on the planet.
 

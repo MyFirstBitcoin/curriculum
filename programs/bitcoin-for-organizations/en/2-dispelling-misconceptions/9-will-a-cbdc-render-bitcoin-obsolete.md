@@ -1,7 +1,7 @@
 # 2.9 Will a CBDC render Bitcoin obsolete?
 
 > One of the arguments that are offered in favor of a digital currency (CBDC) in particular - you wouldn't need stablecoins (and) you wouldn't need cryptocurrencies if you had a digital US currency  
-_Jerome Powell, US Federal Reserve Chair, July 2022._
+_Jerome Powell_
 
 
 
@@ -28,12 +28,12 @@ Within a CBDC environment, the user – which could be a citizen or corporate en
 It is fair to suggest that the drive to implement a CBDC is, at least in part, a reaction to the success of the Bitcoin network. Bitcoin showed it is possible, using a distributed ledger, to transfer value globally, peer-to-peer, and without the permission required of a third-party, i.e. a bank. In a speech to the London School of Economics in March 2016, the Deputy Governor of Bank of England alluded to Bitcoin being such a catalyst for research into a CBDC.
 
 > **The main point here is that the important innovation in bitcoin isn’t the alternative unit of account** – it seems very unlikely that, to any significant extent, we’ll ever be paying for things in bitcoins, rather than pounds, dollars or euros – **but its settlement technology, the so-called “distributed ledger”. This allows transfers to be verifiably recorded without the need for a trusted third party.** It is potentially valuable when there is no such institution and when verifying such information on a multilateral basis is costly. Acting as a trusted third party is precisely what a central bank does. It performs that role only for one particular asset, central bank money (i.e. reserve deposits held largely by commercial banks at the central bank). But the function goes right to the heart of what central banks do and how they came about. **And if a private-sector digital currency uses the technology to substitute for a third-party clearer, the central bank counterpart would do the opposite.**  
-_Jim Broadbent, Deputy Governor, Bank of England, 2016_
+_Jim Broadbent_
 
 While Bitcoin has shown the world that globally decentralised settlement is possible, it has also demonstrated to central banks that they must react and develop a competing technology or risk losing control of the monetary system. It also revealed additional possibilities; if a government or central bank has unrestricted access to a complete ledger of currency transactions, this opens the door for dramatically increased surveillance of citizens’ spending and, perhaps, the ability to control spending behaviour.
 
 > In cash, we don’t know who’s using a $100 bill today; we don’t know who is using a 1000 peso bill today. **A key difference with the CBDC is that the central bank will have absolute control on the rules and regulations that will determine the use of that expression of central bank liability. And also we will have the technology to enforce that.**  
-_Augustin Carstens, General Manager, Bank of International Settlements, 2020._
+_Augustin Carstens_
 
 The desire to explore the programmable nature of CBDCs as a tool for increased surveillance and control is particularly attractive to governments that lean toward authoritarian policies. This is the case in China, where a CBDC project is being rolled out gradually and tested alongside a social credit scoring system.
 

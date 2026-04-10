@@ -39,11 +39,11 @@ The other alternative is to try to reduce demand at peak usage times**.** Howeve
 
 ##### Stranded energy
 
-The challenges of connecting Wind farms to the grid usually includes several steps; access study, detailed impact analysis, implementation plan and connection agreement. This process can take many years. As an example, the diagram below shows the total wind farm capacity waiting for a grid assessment in mid 2024 in Europe:
+The challenges of connecting Wind farms to the grid usually includes several steps; access study, detailed impact analysis, implementation plan and connection agreement. This process can take many years. As an example, the diagram below shows the total wind farm capacity waiting for a grid assessment in mid 2024.
 
-![Total wind energy on the waiting list for grid connection assessment](https://cdn.sanity.io/images/vje9ehw2/staging/11496fd3ba30cedeaae9db73171d78d9748cd5cb-809x766.png)
+![Total wind energy on the waiting list for grid connection assessment](https://cdn.sanity.io/images/vje9ehw2/staging/47c8e509b367a51a036409fe4fd0b7c845ae550a-1694x1410.png)
 
-_Total wind energy on the waiting list for grid connection assessment. Source: windeurope.org_
+_Total wind energy on the waiting list for grid connection assessment (Source: windeurope.org)_
 
 ##### Grid connection
 
@@ -93,7 +93,7 @@ At any given time, Bitcoin mining machines around the world are looking to creat
 ##### Demand flexibility of Mining Operations
 
 > Bitcoin miners are unique energy buyers in that they offer highly flexible and easily interruptible load, provide payout in a globally liquid cryptocurrency, and are completely location agnostic, requiring only an internet connection. These combined qualities constitute an extraordinary asset, an energy buyer of last resort that can be turned on or off at a moment’s notice anywhere in the world.  
-_Jack Dorsey, Square_
+_Jack Dorsey_
 
 In addition to geographic flexibility, Bitcoin miners can also provide demand flexibility. Bitcoin mining makes it profitable to overbuild renewable sources of energy production, since it allows that surplus supply to be monetised. Every community that wants reliable power needs overbuilt electric capacity anyway, and for wind and solar and hydro that’s even more important because they are variable. However, overbuilding is usually not very cost effective, unless you can use it for something profitable and useful when it’s not otherwise needed. Bitcoin miners are a unique solution to that problem, can make overbuilding profitable, and thus play the indirect role of an energy storage solution.
 
@@ -178,7 +178,7 @@ The Bitcoin and energy markets are converging, and the ownership of assets is li
 
 
 
-#### Appendix - References
+###### Appendix - References
 
 1. [https://www.btcpolicy.org](https://www.btcpolicy.org/)
 1. [https://www.da-ri.org/articles/how-bitcoin-mining-saved-texans-18-billion](https://www.da-ri.org/articles/how-bitcoin-mining-saved-texans-18-billion)

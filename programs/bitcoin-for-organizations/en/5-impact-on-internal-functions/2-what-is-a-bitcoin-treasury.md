@@ -1,7 +1,7 @@
 # 5.2 What is a Bitcoin Treasury
 
-> This investment reflects our belief that Bitcoin, as the world’s most widely-adopted cryptocurrency, is a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash. Since its inception over a decade ago, Bitcoin has emerged as a significant addition to the global financial system, with characteristics that are useful to both individuals and institutions. MicroStrategy has recognized Bitcoin as a legitimate investment asset that can be superior to cash and accordingly has made Bitcoin the principal holding in its treasury reserve strategy.  
-_Michael Saylor, CEO, MicroStrategy_
+> Bitcoin, as the world’s most widely-adopted cryptocurrency, is a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash. Since its inception over a decade ago, Bitcoin has emerged as a significant addition to the global financial system, with characteristics that are useful to both individuals and institutions. MicroStrategy has recognized Bitcoin as a legitimate investment asset that can be superior to cash and accordingly has made Bitcoin the principal holding in its treasury reserve strategy.  
+_Michael Saylor_
 
 
 
@@ -29,7 +29,7 @@ Bitcoin is evolving to potentially meet all three of these functions, but the fo
 * Companies have also been creating their own bitcoin treasury reserves since 2020 when both Square and MicroStrategy announced their plans to do so, and smaller companies have been following their lead.
 
 > We really felt we were on a $500M melting ice cube, once the real yield on our treasury got to more than negative 10%, we realized that everything we are doing on P&L is irrelevant.  
-_Michael Saylor, MicroStrategy CEO_
+_Michael Saylor_
 
 Creating a Bitcoin treasury has solved the problem that MicroStrategy had and has helped it to increase value to shareholders since it implemented this strategy in 2020. This approach can provide similar benefits to companies large and small in any geographic location.
 
@@ -51,10 +51,7 @@ With the advent of new accounting rules, every fiduciary now has a responsibilit
 
 _Snapshot Q3 2025 of bitcointreasuries.net_
 
-As the above diagram shows, there are many companies that have adopted Bitcoin, not always as a part of their treasury strategy. With the exception of MicroStrategy and Tesla, the larger holders have been companies involved with the Bitcoin industry so this might be expected. However, as the concept and the benefits have become better understood, companies outside the Bitcoin space have also started to adopt it. Let’s look at some of these:
-
-> Our investment in Bitcoin is part of our new capital allocation strategy, which seeks to maximize long-term value for our shareholders. This investment reflects our belief that Bitcoin, as the world’s most widely-adopted cryptocurrency, is a dependable store of value and an attractive investment asset with more long-term appreciation potential than holding cash. Since its inception over a decade ago, Bitcoin has emerged as a significant addition to the global financial system, with characteristics that are useful to both individuals and institutions. MicroStrategy has recognized Bitcoin as a legitimate investment asset that can be superior to cash and accordingly has made Bitcoin the principal holding in its treasury reserve strategy.  
-_Michael J. Saylor, CEO, MicroStrategy, August 2020_
+As the diagram shows, there are many companies that have adopted Bitcoin, not always as a part of their treasury strategy. With the exception of MicroStrategy and Tesla, the larger holders have been companies involved with the Bitcoin industry so this might be expected. However, as the concept and the benefits have become better understood, companies outside the Bitcoin space have also started to adopt it.
 
 ##### Square
 
@@ -75,7 +72,7 @@ One of the owners of Tahini’s, a restaurant chain based in Canada, was already
 In the four years since adopting this strategy, the chain has outperformed the majority of Wall Street in terms of returns. By installing Bitcoin ATMs and running Bitcoin Meetups, the business has also built up a loyal following of Bitcoiners.
 
 > The main problem that we have right now is that dollars are devaluating. Central banks will say inflation is only 5%. But that really depends on what you want to buy. Poultry is up 45%, beef is up 25%, imported goods and spices are up 65%, oils are up 110%, since March 2020, when the pandemic was accelerating. So it made sense to put our money into bitcoin and that will outstrip any inflation rates we see for the coming decade.  
-_Tahini Owner, Nov 2021._
+_Tahini Owner_
 
 #### Nation state adoption
 
@@ -266,11 +263,11 @@ For a business just getting started with bitcoin as a treasury asset, a safe and
 
 Another example approach is Square:
 
-##### Custody
+###### Custody
 
 As part of Cash App’s launch into enabling customers to buy and sell bitcoin, we invested heavily in building out our cryptocurrency infrastructure to help protect our customers’ funds. Cryptocurrencies like bitcoin require private keys to access and move funds, and securing these private keys is important because transfers are irrevocable. Since launching bitcoin support, we have developed a robust approach to bitcoin cold storage, and we recognize the importance of sharing our work with the community. As a result, we’ve ​open-sourced​ documentation, code, and tools for “​Subzero​”, our Hardware Security Module-backed solution for protecting bitcoin holdings. However, there are several third party providers readily available for those looking to outsource the custody’
 
-##### Insurance
+###### Insurance
 
 Although this investment is held in cold storage, in order to further protect our bitcoin holdings Square maintains a Crime insurance policy to protect against internal or external theft of bitcoin both in hot wallet and cold storage. There are different types of insurance available to protect against loss of cryptocurrency depending on whether the assets are held in hot wallets or cold storage. Crime programs cover theft or digital loss of physical assets in hot or cold storage, whereas Specie programs cover only loss of assets in cold storage on specifically designated premises and may not cover against all cases of insider theft. It is important to evaluate where the digital assets are stored and what level of insurance coverage is provided before selecting a custodian.
 
@@ -393,7 +390,7 @@ Whilst there are risks to any changes to the business, starting a Bitcoin treasu
 
 
 
-#### 5.2.11 Appendices
+###### Appendices
 
 1. [https://www.investing.com/news/cryptocurrency-news/heres-how-much-bitcoin-btc-elon-musks-tesla-and-spacex-currently-hodls-3637633](https://www.investing.com/news/cryptocurrency-news/heres-how-much-bitcoin-btc-elon-musks-tesla-and-spacex-currently-hodls-3637633)
 1. [https://blockchain-today.medium.com/crypto-sovereigns-how-el-salvador-is-leading-the-charge-in-government-adoption-of-digital-cc13720ae3f8](https://blockchain-today.medium.com/crypto-sovereigns-how-el-salvador-is-leading-the-charge-in-government-adoption-of-digital-cc13720ae3f8)

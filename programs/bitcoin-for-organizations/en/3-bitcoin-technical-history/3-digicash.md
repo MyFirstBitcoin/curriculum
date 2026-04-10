@@ -7,7 +7,7 @@ He designed an anonymous mailing protocol using public key cryptography that ‘
 Chaum saw digital payments in the same light – recognising that ‘traceable financial transactions made by an individual can reveal a great deal about the individual’s whereabouts, associations and lifestyle’. In 1980 he patented a digital cash system secured by cryptography which would form the basis of cryptocurrency. He also started exploring the idea of using cryptography to create a fully decentralised economy based around the decentralisation of messaging and payments.
 
 > Governments are good at cutting off the heads of centrally controlled networks like Napster, but pure P2P networks like Gnutella and TOR seem to be holding their own.  
-_Satoshi Nakamoto, 2008_
+_Satoshi Nakamoto_
 
 Decentralised systems with no central authority – peer-to-peer - provides several advantages:
 

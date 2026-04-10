@@ -39,7 +39,7 @@ Absolute mathematical scarcity had never existed in usable form before Bitcoin a
 Breakthrough discoveries such as the wheel, electricity, trigonometry, the laws of thermodynamics or the principles of flight happened just once in mankind’s development. Those discoveries continue to exist whether they are embraced or ignored. Bitcoin educator Knut Svanholm describes below how the discovery of mathematical scarcity can be considered a once-only event.
 
 > Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself.  
-_Knut Svanholm, bitcoin author and educator_
+_Knut Svanholm_
 
 Viewing Bitcoin as a discovery also makes the identity of Satoshi Nakomoto less relevant. For instance, we do not have to trust who Pythagoras was, or what his moral principles were. It does not matter because Pythagoras’ Theorem can be verified with a paper and pencil, similar to the way the Bitcoin network can be verified by running open-source code.
 
@@ -54,17 +54,17 @@ Each time this claim is made, it should be seen as an attack on Bitcoin. These a
 So far, all of these attacks have failed, further serving to demonstrate Bitcoin’s resistance to obsolescence.
 
 > Every day that goes by and Bitcoin hasn’t collapsed due to legal or technical problems, that brings new information to the market. It increases the chance of Bitcoin’s eventual success and justifies a higher price.  
-_Hal Finney, software developer, cryptographer and receiver of the first Bitcoin transaction._
+_Hal Finney_
 
 Supporters of other digital assets at times lament that Bitcoin’s core code lacks additional functionality such as support for smart contracts or other ‘Web3’ related applications. This should not be a concern as Bitcoin focuses on a single use case - money. The money use case is worth hundreds of trillions of dollars globally. After 15 years of reliable operation, Bitcoin has shown it is the overwhelmingly dominant digital monetary network and protocol. It appears to have won the money use case. And, the longer this situation continues, the longer it is likely to continue. This is a phenomenon known as the Lindy Effect.
 
 
-> **Note**
+> **Definition – The Lindy Effect**
 >
-> The Lindy Effect states that the lifespan of a non-perishable good increases in line with its current age. Bitcoin, being more than 15 years old, stands alone as the reliable, global, decentralised, non-sovereign monetary network. As new transactions are settled, new blocks are mined and added to the ledger, worldwide confidence grows in the network’s resilience and immutability. This improved confidence becomes a self-reinforcing cycle, helping to lengthen the time that users are content to store their wealth on the network.
+> The **Lindy Effect** states that the lifespan of a non-perishable good increases in line with its current age.
 
 
-
+Bitcoin, being more than 15 years old, stands alone as the reliable, global, decentralised, non-sovereign monetary network. As new transactions are settled, new blocks are mined and added to the ledger, worldwide confidence grows in the network’s resilience and immutability. This improved confidence becomes a self-reinforcing cycle, helping to lengthen the time that users are content to store their wealth on the network.
 
 #### 2.10.4 Bitcoin is a protocol
 
@@ -72,11 +72,11 @@ Bitcoin is often described as not just value for the internet, but the ‘intern
 
 The software that controls internet-based communication is made up of a series or ‘stack’ of protocols, built in layers. The base layer, Internet Protocol (IP), and its complementary, the Transmission Control Protocol (TCP), together define the rules around how packets of data move around a network. On top of TCP/IP are several ‘application-layer’ protocols which define the rules governing how particular applications are used, for instance, FTP for file transfer, SMTP for email and HTTP for browser-based communication.
 
-These protocols are all several decades old and show no sign of being toppled by a competing technology. Of course, the chances of the internet protocol stack changing significantly in the medium term are not zero. However, should a business not invest in internet-based technologies in case a new electronic communications technology comes along?
+These protocols are decades old and show no sign of being replaced. While it’s possible the internet stack could change over time, should a business avoid investing in internet-based technologies just in case something new comes along?
 
 Upgrades to existing protocols are normal. The internet application layer protocol HTTP was extended in the 1990s to use encryption for secure communication and became HTTPS. In the same way, we should expect the Bitcoin protocol to incorporate enhancements in future that, for instance, improve privacy or security.
 
-To sum up, as well as being the world’s first open, non-sovereign monetary network, Bitcoin is also a protocol or set of rules for value transfer. It is not a proprietary product.
+As well as being the world’s first open, non-sovereign monetary network, Bitcoin is also a protocol or set of rules for value transfer. It is not a proprietary product.
 
 Bitcoin also represents the application of a discovery, that of absolute mathematical scarcity. It is winning the money use case because it has remained simple, secure and predictable for more than 15 years.
 
@@ -85,4 +85,4 @@ A protocol like Bitcoin is a set of rules for communication much in the same way
 Bitcoin will also adapt because it is an open technology that will accept enhancements as the majority of network participants demand.
 
 > Bitcoin is the new Bitcoin  
-_Andreas Antonopoulos, Bitcoin educator and author_
+_Andreas Antonopoulos_

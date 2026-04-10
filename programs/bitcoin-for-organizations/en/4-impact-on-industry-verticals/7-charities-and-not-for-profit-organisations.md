@@ -1,7 +1,7 @@
 # 4.7 Charities and Not for Profit Organisations
 
 > It is more socially injurious for the millionaire to spend his surplus wealth in charity than in luxury. For by spending it on luxury, he chiefly injures himself and his immediate circle, but by spending it in charity he inflicts a graver injury upon society.  
-_J A Hobson, Work and Wealth, 1914_
+_John A. Hobson_
 
 
 
@@ -10,7 +10,7 @@ _J A Hobson, Work and Wealth, 1914_
 
 
 > Governments will not only lose their power to tax many forms of income and capital; they are also destined to lose their power of compulsion over money.  
-_James Dale Davidson, The Sovereign Individual: Mastering the Transition to the Information Age, 1997_
+_James Dale Davidson_
 
 
 
@@ -31,7 +31,7 @@ However, there are also opportunities for charitable and not for profit organisa
 
 
 > I’m obliged to pay so much to the poor by law, that I am not of ability to bestow in voluntary contributions….this checks and weakens the charitable principle within; and this principle, by not being exercised … grows weaker and weaker, and, in time, perhaps, is quite extinguished  
-_Thomas Alcock, Observations on the defects of the poor laws, 1752_
+_Thomas Alcock_
 
 
 
@@ -54,7 +54,7 @@ During the 20th century the state came to be the dominant provider of health and
 
 
 > It is repugnant to a civilised community for hospitals to have to rely upon private charity.  
-_Aneurin Bevan, UK Health Minister, 1948_
+_Aneurin Bevan_
 
 
 
@@ -75,7 +75,7 @@ The current and future advancement in global technology and productivity means t
 
 
 > Change is the law of life. And those who look only to the past or present are certain to miss the future  
-_John F Kennedy, US President_
+_John F. Kennedy_
 
 
 

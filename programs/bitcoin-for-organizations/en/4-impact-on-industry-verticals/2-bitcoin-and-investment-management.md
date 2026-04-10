@@ -107,9 +107,9 @@ In the absence of traditional measures of valuation, how should we consider the 
 
 Analyst Jesse Myers4 at OnRamp suggests that because bitcoin can be thought of as new base money that can reprice all other asset classes, then the Total Addressable Market (TAM) for bitcoin is the entire world’s wealth (around $900T), that is, all value held in equities, bonds, real estate, money markets etc.
 
-![Global Wealth is Stored in Physical and Financial Assets](https://cdn.sanity.io/images/vje9ehw2/staging/240016790a659a5d834cf466bf3ef6e95af22f47-520x291.svg)
+![Global Wealth is Stored in Physical and Financial Assets](https://cdn.sanity.io/images/vje9ehw2/staging/002f8682ffe20f52bfe381a39199f99887ed0ecf-520x255.svg)
 
-_Source: Jesse Myers, onceinaspecies.com; hope.com/resources (The Digital Gold Rush, presentation for H.C Wainwright, September 2024)_
+_Global Wealth is Stored in Physical and Financial Assets (Sources: onceinaspecies.com; hope.com)_
 
 Of course, the capture of a majority or even a large portion of the world’s wealth is not expected to happen anytime soon. This is a multi-decade story. So, in the meantime, how can we track that the Bitcoin network is trending in the right direction, so that this investment thesis for bitcoin (lower case b for the asset) remains intact?
 
@@ -138,9 +138,9 @@ There is publicly available information on the impact of bitcoin on portfolios a
 
 The chart below shows rolling 3-year correlations of bitcoin relative to stocks and bonds, from July 2013 to March 2024. It shows that, while correlations between stocks and bonds are increasing. A rolling 3-year correlation to stocks of 0.53 and to bonds of 0.26 through to March 2024 shows significant potential for diversification in a multi-asset portfolio.
 
-![Magnificent Seven: 1-Year Volatility](https://cdn.sanity.io/images/vje9ehw2/staging/01315f33b572413f91dcb09c4e05af461dd4e4ee-545x305.svg)
+![Magnificent Seven: 1-Year Volatility](https://cdn.sanity.io/images/vje9ehw2/staging/9cb2e06f38f965a6af3e316f61b1d7a0c8185301-431x238.svg)
 
-_Source: Fidelity Investments and Bloomberg Finance LP. Stocks represented by the S&P 500; Bonds represented by the Bloomberg U.S. Aggregate Bond Index;_
+_Magnificent Seven: 1-Year Volatility (Source: Fidelity Investments and Bloomberg Finance)_
 
 The total market capitalization of bitcoin didn’t exceed $100B until mid-2016. Therefore measuring early correlations may be less meaningful since the bitcoin market lacked depth, liquidity and pricing efficiency in early years, especially prior to January 2018 when the first bitcoin futures contracts began trading.
 
@@ -148,9 +148,9 @@ From a returns perspective, Fidelity observed that since August 1, 2010 to March
 
 Bitcoin’s price volatility is often cited as a reason that investment managers steer clear of bitcoin as a portfolio constituent. It is a slightly odd criticism, since managing price volatility of individual assets within a portfolio is a well-understood attribute of a competent portfolio manager. Furthermore, Fidelity found that bitcoin’s annual price volatility is not dramatically different to the ‘magnificent seven’ group of high-performing technology stocks.10 At the end of 2023, there were 92 S&P stocks more volatile than bitcoin.
 
-![Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Aug. 1, 2010 - March 31, 2024)](https://cdn.sanity.io/images/vje9ehw2/staging/138d47c7442f1ca390d082ff2ba000b6d842e51d-545x305.svg)
+![Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Aug. 1, 2010 - March 31, 2024)](https://cdn.sanity.io/images/vje9ehw2/staging/e0c3f08d79e20f41e8f60b3d03c92e1567c03d29-522x235.svg)
 
-_Source: Fidelity Digital Assets; Bloomberg, March 2024_
+_Rolling 3-Year Correlations of Bitcoin, Stocks, and Bonds (Source: Fidelity Digital Assets; Bloomberg)_
 
 Fidelity also observed that bitcoin’s volatility is declining over time. This is to be expected as the market matures. A deeper and more liquid market allows for greater capital inflows with less impact on the market price.
 
@@ -162,8 +162,6 @@ High price volatility, measured by the standard deviation of returns, is also we
 | S&P500 | 13.6% | 19.56% | 0.65 | 1.01 |
 | Bitcoin | 58.0% | 72.9% | 0.96 | 1.86 |
 
-
-Source: Fidelity Digital Assets; Bloomberg, period studied 31 Jan 2020 to 29 March 2024
 
 The bottom line is that bitcoin is a volatile asset. This is to be expected because it is new and on a long voyage of price discovery and user adoption. Professional investors are well-equipped to embrace this volatility and, given the potential for supernormal returns, manage it accordingly. They can determine the appropriate allocation, in line with their own investment framework and appetite for risk. And, to smooth out short-term volatility, holding bitcoin for at least one, 4-year, halving cycle could be an appropriate minimum holding period.
 
@@ -229,17 +227,16 @@ What if, like the rise of the internet, we can’t simply choose to opt-out?
 
 
 
-**Notes**
+###### Notes
 
-1. Boom or Bust, Bitcoin a valuation framework, Brian Leemoon, Wilkes University, December 2017. [https://www.researchgate.net/publication/321831572_Bitcoin_Valuation_Framework_Pub](https://www.researchgate.net/publication/321831572_Bitcoin_Valuation_Framework_Pub)
-1. Please note that the SWOT analysis is not intended to be exhaustive. This is an abridged example. Others may have different opinions of Bitcoin’s strengths, weaknesses etc. That is what makes a market!
-1. The Bullish Case for Bitcoin, March 2, 2018 by Vijay Boyapati contains a comparison of the monetary properties of Bitcoin, Gold and Fiat. [https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
-1. Bitcoin’s potential full valuation is considered in this February 2023 article by Jesse Myers. [https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation](https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation)
+1. [Boom or Bust, Bitcoin a valuation framework](https://www.researchgate.net/publication/321831572_Bitcoin_Valuation_Framework_Pub), Brian Leemoon, Wilkes University, December 2017.
+1. [The Bullish Case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1), March 2, 2018 by Vijay Boyapati contains a comparison of the monetary properties of Bitcoin, Gold and Fiat.
+1. [Bitcoin’s potential full valuation](https://www.onceinaspecies.com/p/bitcoins-full-potential-valuation), Jesse Myers, February 2003.
 1. There are many resources providing data and charts on the Bitcoin network. Bitbo is one example: [https://charts.bitbo.io/index/](https://charts.bitbo.io/index/)
-1. The world’s top assets by market capitalisation are tracked here. [https://companiesmarketcap.com/assets-by-market-cap/](https://companiesmarketcap.com/assets-by-market-cap/)
-1. The Nakamoto Portfolio is a list of tools, research and open-source code that can help analysts assess the impact of bitcoin on portfolios. [https://nakamotoportfolio.com/nakamoto/start](https://nakamotoportfolio.com/nakamoto/start)
-1. Considerations for including bitcoin in investment portfolios White Paper | Fidelity Institutional [https://institutional.fidelity.com/app/literature/white-paper/9911508/considerations-for-including-bitcoin-in-investment-portfolios.html](https://institutional.fidelity.com/app/literature/white-paper/9911508/considerations-for-including-bitcoin-in-investment-portfolios.html)
+1. The world’s top assets by market capitalisation are tracked here: [https://companiesmarketcap.com/assets-by-market-cap/](https://companiesmarketcap.com/assets-by-market-cap/)
+1. [The Nakamoto Portfolio](https://nakamotoportfolio.com/nakamoto/start) is a list of tools, research and open-source code that can help analysts assess the impact of bitcoin on portfolios.
+1. [Considerations for including bitcoin in investment portfolios](https://institutional.fidelity.com/app/literature/white-paper/9911508/considerations-for-including-bitcoin-in-investment-portfolios.html), Fidelity Institutional
 1. Correlation reveals the strength of return relationships between investments. A perfect linear relationship is represented by a correlation of 1, while a perfect negative relationship has a correlation of -1. A correlation of 0 indicates no relationship between the investments. Correlation is a critical component to asset allocation and can be a useful way to measure the diversity of a portfolio.
-1. A Closer Look at Bitcoin’s Volatility Fidelity Digital Assets, May 1, 2024 [https://www.fidelitydigitalassets.com/research-and-insights/closer-look-bitcoins-volatility](https://www.fidelitydigitalassets.com/research-and-insights/closer-look-bitcoins-volatility)
+1. [A Closer Look at Bitcoin’s Volatility](https://www.fidelitydigitalassets.com/research-and-insights/closer-look-bitcoins-volatility), Fidelity Digital Assets
 1. United States Inflation Rate from TradingEconomics.com; source: U.S. Bureau of Labor Statistics [https://tradingeconomics.com/united-states/inflation-cpi](https://tradingeconomics.com/united-states/inflation-cpi)
-1. Bitcoin ETFs Are Making History: Wall Street Rushes In, But Opportunities Remain for Smart Investors, Yahoo Finance, Aug 28, 2024. [https://finance.yahoo.com/news/bitcoin-etfs-making-history-wall-132117187.html](https://finance.yahoo.com/news/bitcoin-etfs-making-history-wall-132117187.html)
+1. [Bitcoin ETFs Are Making History: Wall Street Rushes In, But Opportunities Remain for Smart Investors](https://finance.yahoo.com/news/bitcoin-etfs-making-history-wall-132117187.html), Yahoo Finance, Aug 28, 2024.

@@ -1,7 +1,7 @@
 # 2.1 Bitcoin has no intrinsic value
 
 > In the absence of the gold standard, there is no way to protect savings from confiscation through inflation. There is no safe store of value.  
-_Alan Greenspan, Chairman of the Federal Reserve, 1987 to 2006_
+_Alan Greenspan_
 
 “Bitcoin has no intrinsic value” is a statement often used by critics. It sounds intelligent and objective, but it is neither. It is either rooted in deliberate or ignorant semantic confusion or it is an oxymoronic statement of opinion. We explore why.
 
@@ -99,7 +99,7 @@ This has been done more or less successfully by different countries. At the more
 What the difference also highlights is the dependence upon political processes to construct the idea upon which the money rests, and thus how dependent people are on the competence of the state within which they happen to live. Unfortunately, in all countries, political processes are unpredictable, and that’s not a great start for underpinning such an important foundation for our economies. Even worse, political processes, driven by humans, are inevitably open to being influenced by the very thing (money) which in this implementation they are supposed to underpin. This forms a feedback loop which when combined with innate unpredictability generates instability. The ability for the money to influence its own underpinning political processes also creates very perverse incentives for governments and other politically or financially powerful groups or individuals. These incentives have arguably been causing, but certainly contributing to, a general degradation in politics and a decline in the perceived fairness of the system. The Great Financial Crash of 2008-2009 and its aftermath were a symptom of this decline.
 
 > The State is that organization in society which attempts to maintain a monopoly of the use of force and violence in a given territorial area  
-_Murray Rothbard, Anatomy of the State_
+_Murray Rothbard_
 
 For all its faults, however, at least this underpinning of money is of the same nature as money itself – it is virtual – an idea - namely human belief in state power (or the value placed by humans on avoiding the consequences of breaking the law set by the entity which has the monopoly of violence in that territory). Neither states nor state power are intrinsic to physical reality. In the absence of a human mind there is no such thing as a state or state power. Even the paper money, now a low proportion of money in existence, is clearly just a token of the idea, no one really values the paper itself, and it is not directly underpinned by any physical item anyone values.
 

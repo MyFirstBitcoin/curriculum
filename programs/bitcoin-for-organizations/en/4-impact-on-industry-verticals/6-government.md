@@ -8,7 +8,7 @@ _James Dewar_
 #### 4.6.0 Introduction
 
 > Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.  
-_Stewart Brand – Writer_
+_Stewart Brand_
 
 The purpose of this chapter is to point out to governments, government agencies, and government employees that ignoring Bitcoin is burying your head in the sand and hoping that either it is coercible or it will fail. If neither of these outcomes eventuate then it will hugely transform the incentive structures for all future human action. The people who inhabit the geography of existing nation states whose governments act first to understand and enact appropriate policy could gain a substantial advantage.
 
@@ -31,7 +31,7 @@ By learning about Bitcoin governments can plot a chart for the benefit of their 
 #### 4.6.1 Technology vs Law
 
 > The most important causes of change are not to be found in political manifestos or in the pronouncements of dead economists, but in the hidden factors that alter the boundaries where power is exercised. Often, subtle changes in climate, topography, microbes, and technology alter the logic of violence.  
-_James Dale Davidson, The Sovereign Individual: Mastering the Transition to the Information Age, 1996_
+_James Dale Davidson_
 
 History is replete with examples of technology innovation changing how human societies evolved and were governed. The Sovereign Individual, a 1997 book by James Dale Davidson and William Rees-Mogg, explores how technology changes drove the change in the West from a world governed by the Church to one of the nation states we inhabit today. They identify the key technology innovations as the emergence of the printing press and the use of gunpowder as a fuel for violence which changed the returns to violence at scale.
 
@@ -57,7 +57,7 @@ Successful technologies are a kind of “truth”. As such, law has been unable 
 #### 4.6.2 Decentralisation
 
 > There can be little doubt also that the ability of central governments to resort to this kind of finance is one of the contributory causes in the advance of the most undesirable centralisation of government.  
-_F A Hayek, Denationalisation of Money, 1976_
+_Friedrich A. Hayek_
 
 Hayek argued that the centralisation of money that occurred during the 20th century was an underlying driver of the centralisation of nation states. The rise of Bitcoin may push this into reverse, something which many people support and indeed to which politicians pay lip service, but have been seemingly unable to deliver.
 
@@ -66,24 +66,24 @@ Prior to the 20th century emperors, kings, queens and governments were always co
 Since the early part of the 20th century experiments were undertaken to remove the ‘realness’ of money, culminating in its full dissociation from reality in 1961 when the dollar’s convertibility to gold was “temporarily” suspended.
 
 > I have directed Secretary Connally to suspend temporarily the convertibility of the American dollar except in amounts and conditions determined to be in the interest of monetary stability and in the best interests of the United States.  
-_Richard Nixon, US President, August 1971_
+_Richard Nixon_
 
 Money is a technology and Bitcoin, as a digital money, may be one of the biggest technology innovations in human history.
 
 > ...money is, at root, technology as much as any other basic machine like the wedge, lever or wheel.  
-_Business Insider, 2012._
+_Business Insider_
 
 Perhaps money is comparable in scale to the invention of farming, the printing press or gunpowder. Excluding altruism, money motivates all voluntary human action and therefore it is possible that a new solution in this technology for 8 billion people may turn out to be the most impactful technology innovation in human history.
 
 Money is power, it is a technology, and as such it is superordinate to law, and therefore by deduction it is also superordinate to lawmaking institutions. The decentralisation of money will drive the decentralisation of power.
 
 > One of the penalties paid for the blessings of stability of the currency is that the law finds itself unprepared for unexpected and revolutionary changes in the monetary system.  
-_LEGAL THEORIES OF MONEY PHANOR J. EDER, 1934_
+Phanor _J. Eder_
 
 Today nations specify one or more moneys as legal tender. If the market were to determine something else as a preferred money either locally or internationally then governments may face a situation where the demand for the local tender currency is outpaced by the demand for the global, neutral ‘real’ money. We will again observe that real money is a market determined good which may cause legislative change, and is not itself created by law. Nations could always choose to keep tender laws that specify the less demanded money, but would be well-advised to consider the self-harming consequences of making such choices :
 
 > History shows it is not​ possible to insulate yourself from the consequences of others holding money that is harder than yours.  
-_Saifedean Ammous, The Bitcoin Standard: The Decentralized Alternative to Central Banking, 2018_
+_Saifedean Ammous_
 
 The argument presented above shows how a decentralised, global and neutral money can drive decentralisation of power. Now we turn to how Bitcoin, a decentralised monetary communications technology, may also be a precursor of the decentralisation of non monetary communications and media.
 
@@ -117,6 +117,10 @@ The Bitcoin community has developed as a global social network. Domicile may var
 
 ##### Consequences of internationalisation
 
+![Astronaut falling into a black hole](https://cdn.sanity.io/images/vje9ehw2/staging/f150d17ea569fdf4f6854bcfba11c7cf9f1d9374-172x215.jpg)
+
+_Astronaut falling into a black hole (schematic illustration of the spaghettification effect)_
+
 It would seem unconscionable for any of the free world to implement policies that restricted people’s freedom of movement to the level of making moving to other countries illegal. Such an authoritarian move would signal the demise of the developed world and history would suggest that it would not be sustainable long before revolution.
 
 Given the above, the combination of the non-geographic nature of Bitcoin and the global social network will unleash an unprecedented competitive force onto nation state governments to deliver value for money services to their citizens or face a falling customer base. This need not be a ‘race to the bottom’ as some may cast it, but rather an explosion of diversity, and with a strong emphasis on high quality and productive delivery in return for taxes raised at whatever level the market will bear.
@@ -128,10 +132,6 @@ The decentralisation inward, and the stretch outward may pull some nation states
 We already see within the bitcoin economy the seemingly contradictory effects of being at once both a localising and a globalising force. There is more globalism, less intermediation and more decentralisation with both more localised and international economies and social networks, with much less in between.
 
 Here is a, non-exhaustive, list of specific issues upon which governments might want to consider the effects of this internationalisation:
-
-![Astronaut falling into a black hole](https://cdn.sanity.io/images/vje9ehw2/staging/f150d17ea569fdf4f6854bcfba11c7cf9f1d9374-172x215.jpg)
-
-_Astronaut falling into a black hole (schematic illustration of the spaghettification effect)_
 
 * Taxation / budgets
 * Money supply / banking system
@@ -156,12 +156,12 @@ The existing monetary system is a significant underlying cause of the growth of 
 
 
 
-> “Bitcoin appears to provide a number of benefits across an ESG framework. Throughout its short history, new and innovative ways of leveraging the network and its native asset continue to emerge, such as helping to stabilize energy grids, reduce greenhouse gas emissions, and even assist with providing sustainable heat to commercial and residential properties.”  
-_KPMG US, “Bitcoin’s Role in the ESG Imperative”, 2023_
+> Bitcoin appears to provide a number of benefits across an ESG framework. Throughout its short history, new and innovative ways of leveraging the network and its native asset continue to emerge, such as helping to stabilize energy grids, reduce greenhouse gas emissions, and even assist with providing sustainable heat to commercial and residential properties.  
+_KPMG_
 
 
 
-As the KPMG research paper above concludes, Bitcoin may be a critical contributor to helping to mitigate climate change due to its economically viable interaction with energy production and use. The paper also notes significant Social and Governance benefits associated with Bitcoin,
+Bitcoin may be a critical contributor to helping to mitigate climate change due to its economically viable interaction with energy production and use. The paper also notes significant Social and Governance benefits associated with Bitcoin,
 
 In a world where money cannot be created to drive consumption of resources, the resources available will be consumed in a more efficient and less wasteful way. We are likely to see a change in the balance of economic incentives between new production and “repair and reuse” with the latter rising relatively. This would drive a reduction in consumerism without economic calamity as the money is no longer based on debt. We would see more sustainable use of resources and growth in wealth for those that work, consume less than they earn and save that excess in hard money.
 
@@ -170,7 +170,7 @@ In a world where money cannot be created to drive consumption of resources, the 
 ##### Global South / developing world - financial exclusion and poorly run national currencies
 
 > Some of us are born into monetary regimes with good policies and wise rulers…But many of us suffer under poor or poorly run monetary regimes…we have as little control of which monetary institutions we’re born into as we have over the biological mothers who bear us.  
-_Resistance Money, Andrew Bailey, Bradley Rettler, Craig Warmke 2024_
+_Resistance Money, Andrew Bailey, Bradley Rettler, Craig Warmke_
 
 In the Global South we observe from the perspective of poorly run currencies with high inflation, low international convertibility and low levels of financial inclusion. In many sizable countries half or more of the population are unbanked. A neutral, permissionless and fixed supply global currency has much to offer to such populations.
 
@@ -184,8 +184,8 @@ Excluding substantial numbers of the global population from having access to glo
 
 #### 4.6.5 Evaluating policy options
 
-> “Change is the law of life. And those who look only to the past or present are certain to miss the future”   
-_John F Kennedy, US President_
+> Change is the law of life. And those who look only to the past or present are certain to miss the future  
+_John F. Kennedy_
 
 Whatever response governments take to this issue, the depth and breadth of its implications mean that the rise of Bitcoin should be added to national risk registers.
 
@@ -217,7 +217,7 @@ There may be areas where injecting some topic-specific and internationally coord
 
 ##### 4.6.5.4 Embrace - Innovator
 
-> “If it’s going to win, back it. History is kind to leaders that back winners.”  
+> If it’s going to win, back it. History is kind to leaders that back winners.  
 _James Dewar_
 
 If Bitcoin does continue to rise as a global money the early winners will be :
