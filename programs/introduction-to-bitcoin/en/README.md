@@ -35,14 +35,14 @@ No technical or financial background is required.
 
 ## 📚 Curriculum structure
 
-| Module | Number | Section |
-|--------|--------|---------|
-| **[Introduction to Bitcoin](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/introduction-to-bitcoin/en)** | 1.1 | [Why Does Money Matter?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/1-why-does-money-matter.md) |
-|  | 1.2 | [What Is Money?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/2-what-is-money.md) |
-|  | 1.3 | [What’s Wrong with Our Money?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/3-what-s-wrong-with-our-money.md) |
-|  | 1.4 | [What Is Bitcoin?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/4-what-is-bitcoin.md) |
-|  | 1.5 | [How Do You Use Bitcoin?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/5-how-do-you-use-bitcoin.md) |
-|  | 1.6 | [What’s Next?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/6-what-s-next.md) |
+| Number | Section |
+|--------|---------|
+| 1.1 | [Why Does Money Matter?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/1-why-does-money-matter.md) |
+| 1.2 | [What Is Money?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/2-what-is-money.md) |
+| 1.3 | [What’s Wrong with Our Money?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/3-what-s-wrong-with-our-money.md) |
+| 1.4 | [What Is Bitcoin?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/4-what-is-bitcoin.md) |
+| 1.5 | [How Do You Use Bitcoin?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/5-how-do-you-use-bitcoin.md) |
+| 1.6 | [What’s Next?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/introduction-to-bitcoin/en/6-what-s-next.md) |
 
 ## Notes
 
