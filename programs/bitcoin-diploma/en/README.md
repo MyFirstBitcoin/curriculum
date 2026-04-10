@@ -84,10 +84,10 @@ No technical or financial background is required.
 |  | 10.2 | [The Philosophy of Bitcoin](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/10-what-future-can-bitcoin-build/2-the-philosophy-of-bitcoin.md) |
 |  | 10.3 | [The Benefits of Bitcoin](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/10-what-future-can-bitcoin-build/3-the-benefits-of-bitcoin.md) |
 |  | 10.4 | [An Empowered Future](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/10-what-future-can-bitcoin-build/4-an-empowered-future.md) |
-| **[Back matter](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/bitcoin-diploma/en/11-back-matter)** | 11.1 | [Real World Case Studies](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/1-real-world-case-studies.md) |
-|  | 11.2 | [Additional Resources](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/2-additional-resources.md) |
-|  | 11.3 | [Key Concepts](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/3-key-concepts.md) |
-|  | 11.4 | [Glossary](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/4-glossary.md) |
+|  |  | [Real World Case Studies](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/1-real-world-case-studies.md) |
+|  |  | [Additional Resources](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/2-additional-resources.md) |
+|  |  | [Key Concepts](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/3-key-concepts.md) |
+|  |  | [Glossary](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/11-back-matter/4-glossary.md) |
 
 ## Notes
 
