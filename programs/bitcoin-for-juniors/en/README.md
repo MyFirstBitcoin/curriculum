@@ -36,9 +36,9 @@ No prior Bitcoin or economics background is required.
 
 | Module | Number | Section |
 |--------|--------|---------|
-| **[Front matter](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/bitcoin-for-juniors/en/0-front-matter)** | 0.1 | [Foreword](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/1-foreword.md) |
-|  | 0.2 | [FAQ](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/2-faq.md) |
-|  | 0.3 | [Introduction](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/3-introduction.md) |
+|  |     | [Foreword](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/1-foreword.md) |
+|  |     | [FAQ](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/2-faq.md) |
+|  |     | [Introduction](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/0-front-matter/3-introduction.md) |
 | **[Exchange, value, and price](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/bitcoin-for-juniors/en/1-exchange-value-and-price)** | 1.1 | [Ship Rekt](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/1-exchange-value-and-price/1-ship-rekt.md) |
 |  | 1.2 | [Going, Going, Gone](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/1-exchange-value-and-price/2-going-going-gone.md) |
 |  | 1.3 | [What Is Value?](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-for-juniors/en/1-exchange-value-and-price/3-what-is-value.md) |
