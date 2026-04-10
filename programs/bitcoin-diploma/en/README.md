@@ -37,8 +37,8 @@ No technical or financial background is required.
 
 | Module | Number | Section |
 |--------|--------|---------|
-| **[Front matter](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/bitcoin-diploma/en/0-front-matter)** | 0.1 | [The Bitcoin Diploma Story](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/0-front-matter/1-the-bitcoin-diploma-story.md) |
-|  | 0.2 | [Foreword](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/0-front-matter/2-foreword.md) |
+|  |     | [The Bitcoin Diploma Story](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/0-front-matter/1-the-bitcoin-diploma-story.md) |
+|  |     | [Foreword](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/0-front-matter/2-foreword.md) |
 | **[What is money](https://github.com/MyFirstBitcoin/curriculum/tree/main/programs/bitcoin-diploma/en/1-what-is-money)** | 1.0 | [Introduction](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/1-what-is-money/0-introduction.md) |
 |  | 1.1 | [Discussions About Money](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/1-what-is-money/1-discussions-about-money.md) |
 |  | 1.2 | [Definition of Money](https://github.com/MyFirstBitcoin/curriculum/blob/main/programs/bitcoin-diploma/en/1-what-is-money/2-definition-of-money.md) |
