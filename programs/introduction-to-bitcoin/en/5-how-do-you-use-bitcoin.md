@@ -18,6 +18,7 @@ Here are some options for wallets that your can try yourself. As always, do your
 
 ##### Self-custodial wallets
 
+
 | Name | Description | Source |
 | --- | --- | --- |
 | Bluewallet | A powerhouse mobile wallet that stays simple. It offers 4-click setup, a clean "Send/Receive" UI, and "Watch-Only" tracking for hardware wallets, all while keeping your on-chain Bitcoin strictly separate and secure. | bluewallet.io |
@@ -26,12 +27,15 @@ Here are some options for wallets that your can try yourself. As always, do your
 | Aqua | A "Bitcoin Superapp" focused on daily spending. It features a streamlined interface for Bitcoin, Lightning, and Liquid. | aqua.net |
 | Manna | A modern, "all-in-one" protocol powerhouse. It offers a clean, self-custodial interface that seamlessly handles on-chain Bitcoin, Lightning, and Liquid payments, plus unique social features like encrypted chat and a built-in "BTC Map" to find local shops that accept your sats. | mannabitcoin.com |
 
+
 ##### Custodial wallets
+
 
 | Name | Description | Source |
 | --- | --- | --- |
 | Blink | An amazing "entry-level" Bitcoin wallet for daily use. It features a custodial setup for instant Lightning payments, a "Dollar Account" to avoid price volatility, a "Learn-to-Earn" system that pays you sats for quizzes, and a built-in merchant map to find local shops that accept Bitcoin. | blink.sv |
 | Wallet of Satoshi | One of The world’s simplest Lightning wallet for zero-config payments. It features an instant custodial setup (no seed phrase required to start), a streamlined "Scan-to-Pay" interface, and a personal Lightning Address, making it a great choice for small, everyday transactions. | walletofsatoshi.com |
+
 
 For getting started, any of the self-custodial wallets mentioned are well-regarded options that walk you through the seed phrase creation process.
 

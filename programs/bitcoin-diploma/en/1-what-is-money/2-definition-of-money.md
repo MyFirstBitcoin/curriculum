@@ -12,9 +12,9 @@ In other words, money itself doesn't have the power to satisfy human wants; it's
 
 > **Callout**
 >
-> Money _represents_ the value _BY_ which goods are exchanged.
+> Money represents the value BY which goods are exchanged.
 >
-> Money _IS NOT_ the value _FOR_ which goods are exchanged.
+> Money IS NOT the value FOR which goods are exchanged.
 
 
 
@@ -25,13 +25,13 @@ In other words, money itself doesn't have the power to satisfy human wants; it's
 > It is a way of exchanging value between two or more parties.
 
 
-There are many different types of transactions, ranging from simple exchanges (such as buying a sandwich at a deli) to more complex financial transactions (such as buying a house or investing in stocks or bonds).
+There are many different types of transactions, ranging from simple exchanges (such as buying a sandwich at a deli) to more complex financial transactions (such as buying a house or investing in st
 
 Transactions can be conducted in person, over the phone, online, or through other means, and they can involve a wide range of parties, including individuals, businesses, and financial institutions.
 
 
 > **Callout – Summary**
 >
-> Money makes trade easy because people accept it as payment.
+> Money makes trade easy because people accep
 >
 > It also helps us measure and compare value.

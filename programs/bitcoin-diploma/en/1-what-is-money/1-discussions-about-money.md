@@ -29,7 +29,7 @@ Try to be specific in your examples, balancing creativity with realism.
 
 > **Note**
 >
-> Share and compare your lists to determine the five most essential reasons for needing money. Identify common ideas that appear across the different lists.
+> Share and compare your lists to determine the five most essential reasons for needing money. Identify common ideas that appear across the
 >
 > Reflect on any unique ideas you had that did not make the final list but are still worth considering. Jot down these additional insights.
 

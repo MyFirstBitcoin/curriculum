@@ -1,0 +1,10 @@
+# 8.3 L'avenir des métriques on-chain
+
+> Beaucoup de gens pensent que la décentralisation signifie une perte de contrôle. Ce n'est tout simplement pas vrai. Vous pouvez améliorer le contrôle si vous considérez le contrôle comme la maîtrise des événements et non des personnes. Ainsi, plus vous avez de personnes qui contrôlent les événements – plus vous avez de personnes qui se soucient de contrôler les événements, plus vous avez de personnes qui travaillent de manière proactive pour créer des événements favorables.  
+_Wilbur L. Creech_
+
+L'avenir des indicateurs on-chain dans la formulation des données macroéconomiques est très prometteur, surtout à mesure que l'économie du Bitcoin continue de croître en taille et en importance.
+
+Contrairement aux indicateurs économiques traditionnels qui reposent souvent sur des rapports différés, des enquêtes ou des données opaques, les données on-chain offrent des enregistrements en temps réel, transparents et immuables des transferts de valeur. À mesure que le Bitcoin s'intègre davantage au commerce mondial, les volumes de transactions on-chain, l'activité des utilisateurs et les interactions sur le réseau pourraient servir de substituts en temps réel pour la consommation, les transferts de fonds et les flux de capitaux.
+
+La nature ouverte du registre Bitcoin signifie effectivement que n'importe qui peut utiliser ses données pour compiler et rendre compte des tendances ou divergences macroéconomiques sans avoir à se fier aux rapports provenant de sources gouvernementales centralisées ou « officielles ». Alors que les indicateurs décrits dans ce module servent déjà d'indicateurs avancés du sentiment des investisseurs et de l'appétit pour le risque, à l'avenir, ils pourraient constituer des éléments essentiels pour des modèles économiques plus larges du marché et du comportement des consommateurs. Ceux-ci pourraient être générés en temps réel et selon une approche ascendante, remettant en question les méthodes conventionnelles de construction des modèles économiques.
