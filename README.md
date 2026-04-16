@@ -26,30 +26,18 @@ This repository focuses on **content**, not on presentation or delivery platform
 
 ## 📚 What you’ll find here
 
-### 1. Programs
+### Programs
 Complete, structured educational programs, such as:
 - **Bitcoin Diploma**
 - **Bitcoin for Organizations**
 
 Each program is organized into chapters and sections and is available in multiple languages.
 
-### 2. One-pagers
-Short, standalone documents (one page) designed to explain a single Bitcoin concept clearly and be shared easily.
-
-### 3. Resources
-Reusable educational resources used across programs and documents:
-- glossary,
-- images and diagrams,
-- references and sources.
-
 
 ## 🌍 Languages & translations
 
 - English is currently the **reference language**.
 - Other languages mirror the same structure.
-
-Translation guidelines and workflows are documented in:
-TRANSLATIONS.md
 
 
 ## 🔄 Versioning & releases
