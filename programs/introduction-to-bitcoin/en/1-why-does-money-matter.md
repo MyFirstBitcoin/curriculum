@@ -15,3 +15,8 @@ Whether or not you agree with Ford, the question is worth sitting with: what don
 This course is built around that question.
 
 By the end of it, you'll have a clear understanding of what money actually is, why the current system has serious problems, what Bitcoin is, and how you can start using it.
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/9621f0158ec499932d6891e21f23c9bca306af18-1377x768.svg)
+
+
+---

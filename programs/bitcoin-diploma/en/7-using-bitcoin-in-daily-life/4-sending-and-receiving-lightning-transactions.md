@@ -1,6 +1,6 @@
 # 7.4 Sending and Receiving Lightning Transactions
 
-With a Lightning wallet, using Bitcoin is fast, cheap, and private, making transactions between two people easy. You can quickly send and receive bitcoin for everyday things like buying coffee or shopping.
+With a Lightning wallet, using Bitcoin is fast, cheap, and private, making transactions between two people easy. You can quickly send and receive bitcoin for everyday things like buying coffee.
 
 Let’s look at a few examples of the Lightning Network in action.
 
@@ -48,7 +48,7 @@ Now Mina can pay the café instantly using Lightning. The payment happens off th
 | Cost-effectiveness | High | Moderate |
 
 
-In simple terms, on-chain transactions happen directly on the Bitcoin blockchain and can take more time and fees. Lightning transactions happen off-chain, allowing fast and low-cost payments while still using bitcoin.
+On-chain transactions happen directly on the Bitcoin blockchain and can take more time and fees. Lightning transactions happen off-chain, allowing fast and low-cost payments while still using bitcoin.
 
 
 | Visa, Inc. | Bitcoin On-chain | Lightning Network |
@@ -60,13 +60,7 @@ In simple terms, on-chain transactions happen directly on the Bitcoin blockchain
 
 https://mempool.space/graphs/lightning/nodes-channels-map
 
-This is a map of the entire Lightning Network. Thanks to thousands of Lightning node runners, you can send sats to any user with a Bitcoin Lightning wallet, wherever they are in the world. The payment will arrive in a few seconds and will only cost a few cents.
-
-**Check it out for yourself!**
-
-
----
-
+This is a map of the entire Lightning Network. Thanks to thousands of Lightning node runners, you can send sats to any user with a Bitcoin Lightning wallet, wherever they are in the world. The payment will arrive in a few seconds and will only cost a few cents. **Check it out for yourself!**
 
 #### Activity: Lightning Relay Race
 

@@ -38,8 +38,6 @@ To better understand the decentralization of Bitcoin, we need to dive deeper int
 
 ##### 1. Miners: The Architects of Security
 
-![ ](https://cdn.sanity.io/images/vje9ehw2/staging/e9d1728c47b7f769af79edbeeba097c9de253aa0-164x164.svg)
-
 Miners are the backbone of Bitcoin. They work behind the scenes to maintain and secure the network through a mechanism called Proof-of-Work (PoW).
 
 These players are armed with special computers that boast heavy computational power. They make this power available to the Bitcoin network, competing with each other in a worldwide lottery to add new blocks of transactions to Bitcoin’s decentralized ledger (the blockchain). Their commitment ensures the the ledger's immutability and guards against malicious attacks.
@@ -49,8 +47,6 @@ The decentralized nature of mining means that anyone can participate — in prac
 Bitcoin miners are distributed all over the world, safeguarding the network against centralization and ensuring Bitcoin's security stays robust and distributed.
 
 ##### 2. Nodes: Gatekeepers of Validation
-
-![Bitcoin Nodes](https://cdn.sanity.io/images/vje9ehw2/staging/aaca4f0fcdedbbf9fd2bfb064ee70b480bc966d3-267x138.svg)
 
 Bitcoin nodes are run by ordinary people across the planet. These participants serve as the Bitcoin network's gatekeepers by running Bitcoin software on their computers on which they keep a copy of the entire ledger. Nodes validate transactions and ensure that all participants adhere to the consensus rules.
 
@@ -70,10 +66,6 @@ The beauty of this decentralized development prevents a single entity from monop
 
 Bitcoin projects involve diverse groups, from mission-driven nonprofits and corporations to groups and individuals who create valuable content. These people work together on a specific goal or focus within the bigger Bitcoin mission toward collective freedom. Bitcoin projects play a crucial role in shaping and promoting the adoption of Bitcoin, working toward a future that prioritizes the empowerment and freedom of the human race.
 
-
----
-
-
 #### The Symphony
 
 Bitcoin's decentralization can be thought of as a synergetic orchestra, a balancing act where all the different musicians make the most beautiful music together. There is no boss in the Bitcoin network: miners, nodes, users, developers, and projects perform their roles with autonomy and collaboration.
@@ -82,16 +74,12 @@ The decentralized ledger, maintained by nodes, guarantees transparency, while th
 
 Each participant in this decentralized orchestra plays a vital role in shaping Bitcoin's adoption and empowering humanity, contributing to the resilience and longevity of Bitcoin and creating a trust-free, borderless and empowering ecosystem.
 
+![Networks](https://cdn.sanity.io/images/vje9ehw2/staging/a9129cf63654e10793f6767f8617e820a3a09f19-344x235.svg)
+
 
 > **Callout – Summary**
 >
 > The symphony of decentralization in Bitcoin resonates as a testament to Satoshi Nakamoto's vision and the immense passion of a global community seeking freedom and empowerment.
-
-
-![Networks](https://cdn.sanity.io/images/vje9ehw2/staging/a9129cf63654e10793f6767f8617e820a3a09f19-344x235.svg)
-
-
----
 
 
 #### Activity: Consensus

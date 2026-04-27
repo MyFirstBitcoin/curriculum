@@ -6,15 +6,15 @@ You have ownership of your bitcoin only if you control the private keys allowing
 
 Let’s take a look at two concepts we refer to when using the term **wallet**:
 
-* A master private key (like a password) from which your public keys (like email addresses) are generated [m dash] you can share your public address with others to receive and send bitcoin, but you must never share your private key!
-* The mobile or desktop interface from which you can interact with the Bitcoin network to retrieve your bitcoin balance, send and receive transactions, and broadcast them to the network. Diﬀerent types of wallets, along with their benefits and tradeoﬀs, will be described in the next sections.
+* A master private key, like a password, from which your public keys, like email addresses, are generated. You can share your public address with others to receive and send bitcoin, but you must never share your private key!
+* The mobile or desktop interface used to interact with the Bitcoin network, check your bitcoin balance, send and receive transactions, and broadcast them to the network. Different types of wallets, along with their benefits and tradeoffs, will be described in the next sections.
 
 #### Self-Custodial vs Custodial Wallets
 
 Before detailing the different types of Bitcoin wallets and their characteristics, let’s make an important distinction between self-custodial and custodial wallets. Each type has its own benefits, risks, and level of control over the bitcoin. Self-custodial means the user holds the private keys and truly controls their bitcoin; with custodial wallets, a third party holds the bitcoin for the user.
 
 
-| Wallet Type | Who controls? | Benefits | Risks |
+| Type | Control | Benefits | Risks |
 | --- | --- | --- | --- |
 | Self-Custodial | The user | Complete control over funds and transactions, no approval process or account freeze, no corporate or government control, protected against confiscation. | No recovery if recovery phrase is lost, full responsibility falls on the user. |
 | Custodial | The third-party provider | Easy recovery if access is lost, easier customer support. | Funds are connected to the Internet, more vulnerable to hacking. The custodian can freeze accounts. |
@@ -29,7 +29,7 @@ In a self-custodial wallet (also called non-custodial wallet), you are the only 
 It’s important to choose the right type of wallet for each individual’s needs. Sometimes, people find it hard to distinguish whether they are installing a self-custodial or a custodial wallet. This table shows the diﬀerences in the installation process.
 
 
-| Wallet Type | Step 1: Choose | Step 2: Install | Step 3: Create | Step 4: Secure |
+| Type | Step 1: Choose | Step 2: Install | Step 3: Create | Step 4: Secure |
 | --- | --- | --- | --- | --- |
 | Self-Custodial | Choose a self-custodial wallet | Follow the wallet instructions | Generate a recovery phrase | Store the recovery phrase in a secure location |
 | Custodial | Choose a custodial wallet | Follow the wallet instructions | Create an account | N/A |
@@ -43,16 +43,12 @@ For what follows, we’ll be talking about self-custodial wallets only, where th
 
 Don’t worry if it seems complicated or you don’t understand everything — this is a journey, and you will understand better the more you start using Bitcoin!
 
-
----
-
-
 #### Different Types of Bitcoin Wallets
 
 Where your private key is created and stored determines how we describe Bitcoin wallets. If keys are on your smartphone, it’s a **mobile wallet**. If they’re stored securely on a dedicated device, it’s a **hardware wallet**.
 
 
-| Wallet Type | Description | Advantages | Disadvantages | Example User |
+| Type | Description | Advantages | Disadvantages | Example User |
 | --- | --- | --- | --- | --- |
 | Online Wallet | Accessed through a web browser | Accessible from any device with an internet connection | Less secure because it can be hacked or compromised | Needs to access their wallet frequently and doesn’t have a lot of funds to store |
 | Mobile Wallet | Installed on a mobile device | Easy to use | Can be lost if the device is stolen or hacked | Needs to make transactions on the go and doesn’t have a lot of funds to store |

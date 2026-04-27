@@ -10,7 +10,7 @@ Eine selbstbestimmte Zukunft ist eine, in der Menschen weltweit die volle Kontro
 
 ###### Ein verlässliches Wertaufbewahrungsmittel
 
-Bitcoins digitale Knappheit macht es langfristig zum verlässlichsten Wertaufbewahrungsmittel, was immer mehr Menschen dazu ermutigt, es als Mittel zur Vorsorge für die Zukunft zu nutzen.
+Bitcoins digitale Knappheit macht es langfristig zum verlässlichsten Wertaufbewahrungsmittel, was immer mehr Menschen dazu ermutigt, es als Mittel zur Zukunftsvorsorge zu nutzen.
 
 ###### Veränderungen in der Geldpolitik
 
@@ -22,12 +22,8 @@ Das manipulationssichere und unveränderliche Protokoll aller Transaktionen auf 
 
 ###### Eine Revolution im Überweisungsmarkt
 
-Der Überweisungsmarkt umfasst die Übertragung von Geldern von einer Partei zur anderen, oft über internationale Grenzen hinweg. Trotz sinkender Kosten bleiben Überweisungen im Vergleich zu inländischen Banktransfers relativ teuer, insbesondere bei kleineren Beträgen. Das Lightning Network bietet nahezu sofortige und kostengünstige weltweite Transaktionen und eignet sich daher hervorragend für den Überweisungsmarkt. Es adressiert die hohen Kosten und andere Herausforderungen, die mit Überweisungen verbunden sind, wie langsame Abwicklungszeiten und Einschränkungen bei den Geschäftszeiten.
+Der Überweisungsmarkt umfasst die Übertragung von Geldern von einer Partei zur anderen, oft über internationale Grenzen hinweg. Trotz sinkender Kosten bleiben Überweisungen im Vergleich zu inländischen Banktransfers relativ teuer, insbesondere bei kleineren Beträgen. Das Lightning Network bietet nahezu sofortige und kostengünstige weltweite Transaktionen und eignet sich daher hervorragend für den Überweisungsmarkt. Es adressiert die hohen Kosten und andere Herausforderungen im Zusammenhang mit Überweisungen, wie langsame Abwicklungszeiten und Einschränkungen bei den Geschäftszeiten.
 
-###### Überfluss an Energie
+###### Im Überfluss vorhandene Energie
 
-![Bitcoin Energy Sources](https://cdn.sanity.io/images/vje9ehw2/staging/ce3227dea8e575945b113d8d36ff9ca4f8b9005d-775x926.png)
-
-_Bitcoin Energiequellen. Quelle: batcoinz.com / @dsbatten_
-
-Wenn es viel erschwingliche Energie gibt, geht es Gesellschaften gut, und viele Branchen und Gemeinschaften können den steigenden Energiebedarf in Haushalten, Unternehmen und neuen Technologien decken. Das Bitcoin-Mining motiviert Miner dazu, überschüssige Energie zu nutzen, die normalerweise aus nachhaltigen Energiequellen wie Solar-, Wind- und Wasserkraft ungenutzt bleiben würde. Bitcoin-Miner können auf diese günstige überschüssige Energie zugreifen, um durch Mining-Aktivitäten neue Bitcoin zu erzeugen, das Netzwerk zu sichern und überschüssige Energie, die sie erzeugen, wieder ins Stromnetz einzuspeisen, wenn sie benötigt wird.
+Wenn es viel erschwingliche Energie gibt, gedeihen Gesellschaften, und viele Branchen und Gemeinschaften können den steigenden Bedarf an Strom in Haushalten, Unternehmen und neuen Technologien decken. Das Bitcoin-Mining motiviert Miner dazu, überschüssige Energie zu nutzen, die normalerweise aus nachhaltigen Energiequellen wie Solar-, Wind- und Wasserkraft ungenutzt bleiben würde. Bitcoin-Miner können auf diese günstige überschüssige Energie zugreifen, um durch Mining-Aktivitäten neue Bitcoin zu erzeugen, das Netzwerk zu sichern und überschüssige Energie, die sie erzeugen, bei Bedarf wieder ins Stromnetz einzuspeisen.

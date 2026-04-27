@@ -26,9 +26,7 @@ As you and your community become more involved in trade, you realize the limitat
 
 > **Callout**
 >
-> Many different commodities have been used by societies throughout history, from cattle and shells to wheat or salt.
->
-> Eventually, most advanced societies chose precious metals, especially gold and silver, as the best forms of commodity money.
+> Many different commodities have been used by societies throughout history, from cattle and shells to wheat or salt. Eventually, most advanced societies chose precious metals, especially gold and silver, as the best forms of commodity money.
 
 
 However, as you begin to use metal coins more frequently, you encounter some drawbacks. They can be heavy and inconvenient to carry in large transactions, and you notice that some people are engaging in fraud by melting down the coins and creating new ones with cheaper metals mixed in, which lowers the real value of the coin relative to its nominal value (the value it is supposed to represent) and causes prices to rise, which ultimately undermines trust in the whole monetary system.

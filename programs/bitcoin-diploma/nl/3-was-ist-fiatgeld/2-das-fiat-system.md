@@ -1,190 +1,190 @@
 # 3.2 Das Fiat-System
 
-> Das grundlegende Problem mit herkömmlicher Währung ist das ganze Vertrauen, das erforderlich ist, damit sie funktioniert. Der Zentralbank muss vertraut werden, dass sie die Währung nicht entwertet, aber die Geschichte der Fiatwährungen ist voller Brüche dieses Vertrauens.  
+> Het fundamentele probleem met conventioneel geld is al het vertrouwen dat nodig is om het te laten werken. De centrale bank moet worden vertrouwd om de munt niet te ontwaarden, maar de geschiedenis van fiatvaluta’s staat vol met schendingen van dat vertrouwen.  
 _Satoshi Nakamoto_
 
-Die Menschheit ist vom soliden Geld, das von vielen kontrolliert wurde, zum unsoliden Geld übergegangen, das von wenigen kontrolliert wird. Aber wie funktioniert dieses System eigentlich genau?
+De mensheid is overgestapt van gezond geld dat door velen werd beheerd naar ongezond geld dat door enkelen wordt gecontroleerd. Maar hoe werkt dit systeem precies?
 
-#### Ein Geldsystem durch Dekret
+#### Een Monetair Systeem bij Besluit
 
-Das Fiat-System ist durch seinen verpflichtenden Charakter gekennzeichnet, da es den Menschen durch gesetzliche Zahlungsmittelgesetze aufgezwungen wird. Der lateinische Begriff fiat bedeutet „durch Dekret“ und bezieht sich somit auf eine Anordnung, die von einer Autorität erlassen wird.
+Het fiatsysteem wordt gekenmerkt door zijn verplichte aard, opgelegd aan mensen via wetten op wettig betaalmiddel. De Latijnse term fiat betekent “bij besluit” en verwijst dus naar een bevel uitgevaardigd door een autoriteit.
 
-Im Gegensatz zu Geld, das durch materielle Werte wie Gold gedeckt ist, bezieht Fiatgeld seinen Wert aus seiner erzwungenen Monopolstellung und dem Vertrauen der Öffentlichkeit in das Geld- und Finanzsystem. In diesem Sinne ist Fiatgeld mit einem Konzertticket vergleichbar: Sein Wert liegt nicht im Papier selbst, sondern in der Zusicherung, dass die Band (die Regierung und ihre Zentralbank) eine großartige Show liefern wird (wirtschaftliche Stabilität gewährleistet).
+In tegenstelling tot geld dat wordt gedekt door tastbare activa zoals goud, ontleent fiatgeld zijn waarde aan zijn afgedwongen monopoliepositie en het vertrouwen van het publiek in het monetaire en financiële systeem. In die zin is fiatgeld vergelijkbaar met een concertkaartje: de waarde zit niet in het papieren kaartje zelf, maar in de zekerheid dat de band (de overheid en haar centrale bank) een geweldige show zal geven (economische stabiliteit zal bieden).
 
-Alle wichtigen Währungen wie Dollar, Euro, Pfund, Yuan, Peso und andere fallen unter die Kategorie Fiatgeld.
+Alle grote valuta’s zoals dollars, euro’s, ponden, yuans, peso’s en andere vallen onder de categorie fiatgeld.
 
 
-> **Definition – Definition von Gesetz über das gesetzliche Zahlungsmittel**
+> **Definition – Definitie van wettig betaalmiddel**
 >
-> **Gesetzliches Zahlungsmittel**: ein Gesetz, das alle Bürger verpflichtet, eine bestimmte Art von Währung zu akzeptieren.
+> **Wettig betaalmiddel**: een wet die het voor alle burgers verplicht maakt om een bepaald soort geld te accepteren.
 
 
-##### Vorteile von Fiatgeld
+##### Voordelen van Fiatgeld
 
-* **Einfache Handhabung**: Fiatgeld ist praktisch für alltägliche Transaktionen.
-* **Geringere Kosten und Risiken**: Fiatgeld erfordert keine aufwendige Sicherung wie Gold, was es günstiger und sicherer macht.
+* **Gebruiksgemak**: Fiatgeld is handig voor dagelijkse transacties.
+* **Lagere kosten en risico’s**: Fiatgeld vereist geen zware beveiliging zoals goud, waardoor het goedkoper en veiliger is.
 
-##### Nachteile von Fiatgeld
+##### Nadelen van Fiatgeld
 
-* **Inflationsrisiken**: Regierungen können Fiatgeld nach Belieben drucken, wodurch die Währung entwertet und die Preise steigen, was die Kaufkraft der Sparer verringert. In einigen historischen Fällen hat ein solcher Missbrauch zu Hyperinflation geführt.
-* **Zentralisierte Kontrolle und Manipulation**: Kleine Gruppen können das System beeinflussen und manipulieren, was zu politisch motiviertem Debanking und Enteignungen führen kann.
-* **Kontrahentenrisiko**: Wenn die Regierung in Schwierigkeiten gerät und das Vertrauen der Öffentlichkeit verloren geht, kann die Währung an Wert verlieren.
+* **Inflatierisico’s**: Overheden kunnen fiatgeld naar believen bijdrukken, waardoor de munt in waarde daalt en prijzen stijgen, wat de koopkracht van spaarders vermindert. In sommige historische gevallen heeft dergelijk misbruik geleid tot hyperinflatie.
+* **Gecentraliseerde controle en manipulatie**: Kleine groepen kunnen het systeem beïnvloeden en manipuleren, wat kan leiden tot politiek gemotiveerd uitsluiten van banken en inbeslagname.
+* **Tegenpartijrisico**: Als de overheid in de problemen komt en het publiek het vertrouwen verliest, kan de munt haar waarde verliezen.
 
-Bevor Fiatgeld eingeführt wurde, prägten Regierungen Münzen aus wertvollen und knappen physischen Rohstoffen wie Gold oder Silber, oder sie druckten Papiergeld, das gegen einen festen Betrag dieser Rohstoffe eingelöst werden konnte. Dies ist als rohstoffgedecktes System bekannt.
+Voordat fiatgeld bestond, sloegen overheden munten uit waardevolle en schaarse fysieke grondstoffen zoals goud of zilver, of drukten ze papiergeld dat kon worden ingewisseld voor een vaste hoeveelheid van die grondstoffen. Dit staat bekend als een door grondstoffen gedekt systeem.
 
-Im Fiat-System ist es eher so, als hätte man Monopoly-Geld. Fiatgeld besteht aus Papier, das von der Zentralbank ausgegeben wird, und sein Wert wird von der Regierungspolitik beeinflusst. Die Regierung und die Zentralbanken agieren wie die „Bankiers“ im Monopoly-Spiel: Sie kontrollieren, wie das System funktioniert, wer was bekommt und wie viel das Geld wert ist. Mit anderen Worten: Der Wert von Fiatgeld hängt vom Vertrauen in die Regierung ab, das Geldsystem verantwortungsvoll zu verwalten.
+In het fiatsysteem lijkt het meer op Monopoliegeld. Fiatgeld bestaat uit papier dat wordt uitgegeven door de centrale bank, en de waarde ervan wordt beïnvloed door het overheidsbeleid. De overheid en centrale banken gedragen zich als de “bankiers” van het Monopolyspel: zij bepalen hoe het systeem werkt, wie wat krijgt en hoeveel geld waard is. Met andere woorden, de waarde van fiatgeld hangt af van het vertrouwen in de overheid om het monetaire systeem verantwoordelijk te beheren.
 
 
-> **Callout – Zusammenfassung**
+> **Callout – Samenvatting**
 >
-> Das Fiat-System ist ein Vertrauensspiel, bei dem der Wert unseres Geldes auf den Versprechen der Verantwortlichen beruht und die Menschen nur hoffen können, dass ihre Regierung zum Wohle aller handelt.
+> Het fiatsysteem is een vertrouwensspel waarin de waarde van ons geld rust op de beloften van degenen die de leiding hebben en waar mensen alleen maar kunnen hopen dat hun overheid handelt in het belang van iedereen.
 
 
-#### Ein System, das durch Schulden angetrieben wird
+#### Een Systeem Aangedreven door Schulden
 
-> Es ist gut genug, dass die Menschen der Nation unser Bank- und Geldsystem nicht verstehen, denn wenn sie es täten, glaube ich, gäbe es noch vor morgen früh eine Revolution.  
+> Het is maar goed dat de mensen van het land ons bank- en monetaire systeem niet begrijpen, want als ze dat wel deden, geloof ik dat er voor morgenochtend een revolutie zou uitbreken.  
 _Henry Ford_
 
-**Fraktionelles Reservesystem** ist ein Schlüsselelement im Fiat-System. Es bedeutet, dass Banken gesetzlich berechtigt sind, einen erheblichen Teil der Einlagen ihrer Kunden zu verleihen, sodass die Bank zu jedem Zeitpunkt tatsächlich nur einen kleinen Prozentsatz des Geldes hält, das ihre Kunden dort eingezahlt zu haben glauben. Hast du dich jemals gefragt, warum Banken ihren Kunden so viele Dienstleistungen anbieten, die über die reine Verwahrung der Einlagen hinausgehen? Es mag großzügig erscheinen, aber man muss bedenken, dass Banken Unternehmen sind und ihr Hauptziel darin besteht, Gewinn zu erzielen. Aber wie machen sie Gewinn, wenn sie Geld verleihen?
+**Fractioneel reservebankieren** is een belangrijk onderdeel van het fiatsysteem. Het betekent dat banken wettelijk zijn toegestaan om een aanzienlijk deel van de deposito’s van hun klanten uit te lenen, zodat de bank op elk moment slechts een klein percentage van het geld daadwerkelijk in kas heeft dat hun klanten denken te hebben gestort. Heb je je ooit afgevraagd waarom banken zoveel diensten aanbieden aan hun klanten, naast alleen het veilig bewaren van hun geld? Hoewel het misschien lijkt alsof ze gul zijn, is het belangrijk te onthouden dat banken bedrijven zijn en hun primaire doel winst maken is. Maar hoe maken ze winst als ze mensen geld laten lenen?
 
-###### Banken erzielen auf viele Arten Einnahmen
+###### Banken genereren inkomsten op verschillende manieren
 
-* Sie verlangen Zinsen auf die Kredite, die sie vergeben.
-* Sie verlangen Gebühren für Dienstleistungen wie die Nutzung von Geldautomaten und Kontoführung.
-* Sie verdienen Geld durch Investitionen, etwa durch den Kauf und Verkauf von Wertpapieren oder Investitionen in Immobilien.
-* Sie behalten einen Prozentsatz der Kredite als Reserve und investieren oder verleihen den Rest.
-* Sie zahlen Zinsen auf Einlagen und erheben Gebühren auf Giro- und Sparkonten.
-* Wenn eine Bank eine Einzahlung erhält, ist sie verpflichtet, nur einen Bruchteil (die Mindestreserve) zu halten und darf den verbleibenden Teil verleihen.
+* Rente vragen over leningen die ze verstrekken.
+* Kosten in rekening brengen voor diensten zoals het gebruik van geldautomaten en het beheren van rekeningen.
+* Geld verdienen door te investeren, bijvoorbeeld door effecten te kopen en verkopen of te investeren in vastgoed.
+* Een percentage van de leningen in reserve houden en de rest investeren of uitlenen.
+* Rente betalen op deposito’s en kosten rekenen op betaal- en spaarrekeningen.
+* Wanneer een bank een storting ontvangt, is zij verplicht slechts een fractie (de reserveverplichting) aan te houden en mag zij wettelijk het resterende deel uitlenen.
 
-Dieser Prozess führt zu einem schuldengetriebenen Geldsystem, da Banken mit jedem Kredit neues Geld schaffen und so die gesamte Geldmenge erhöhen. Mit fortschreitendem fraktionellen Reservesystem steigt die Gesamtverschuldung in der Wirtschaft, was zur Inflation beiträgt. Das System beruht auf einem kontinuierlichen Kreislauf der Geldschöpfung durch Kreditvergabe, vergleichbar mit einer stetigen Dosis für einen Süchtigen: Solange alle mitspielen, hält die Illusion. Wenn jedoch Banken bei der Kreditvergabe zu gierig werden und das Vertrauen in das Bankensystem verloren geht, kann das gesamte System schnell in sich zusammenbrechen.
+Dit proces leidt tot een door schulden gedreven monetair systeem, omdat banken bij elke lening nieuw geld creëren en zo de totale geldhoeveelheid vergroten. Naarmate fractioneel reservebankieren doorgaat, stijgt de totale schuld in de economie, wat bijdraagt aan inflatie. Het systeem is afhankelijk van een voortdurende cyclus van geldcreatie door middel van leningen, vergelijkbaar met een constante toevoer van drugs voor een verslaafde: zolang iedereen blijft meedoen, blijft de illusie bestaan. Maar als banken te hebzuchtig worden met hun leenpraktijken en mensen het vertrouwen in het banksysteem verliezen, kan het hele systeem snel in elkaar storten.
 
-Hier kommt die Zentralbank als Kreditgeber letzter Instanz ins Spiel, indem sie neues Geld bereitstellt, um Bankenpleiten zu verhindern und die Illusion aufrechtzuerhalten. Die Zentralbank erreicht dies, indem sie Vermögenswerte zurückkauft oder direkt Geld in die Bilanzen der Banken einspeist. Im Wesentlichen werden Banken durch die ständige Zuführung von neuem Geld durch die Zentralbanken vor dem Scheitern gerettet, was zu Boom-und-Bust-Zyklen führt.
+Hier komt de centrale bank in beeld als kredietverstrekker in laatste instantie, die nieuw geld verstrekt om bankfaillissementen te voorkomen en de illusie in stand te houden. De centrale bank doet dit door activa terug te kopen of direct geld in de balansen van banken te injecteren. In wezen worden banken gered van faillissement door de voortdurende injectie van nieuw geld door centrale banken, wat leidt tot periodes van hoog- en laagconjunctuur.
 
-1. **Banken leihen sich Geld von Einlegern zu einem Zinssatz** (sagen wir 5 %)
-1. **Banken verleihen dieses Geld an Kreditnehmer zu einem höheren Zinssatz** (sagen wir 9 %)
-1. **Banken zahlen Zinsen aus den erhaltenen Zinsen durch Kreditvergabe** (9 % - 5 % = 4 %) und behalten den Rest als Gewinn
+1. **Banken lenen geld van spaarders tegen een rente** (stel 5%)
+1. **Banken lenen dit geld uit aan kredietnemers tegen een hogere rente** (stel 9%)
+1. **Banken betalen rente uit de ontvangen rente op leningen** (9% - 5% = 4%) en houden de rest als winst
 
 
-> **Note – Wie Banken Geld schaffen**
+> **Note – Hoe Banken Geld Creëren**
 >
-> Geschäftsbanken schaffen neues Fiatgeld, wenn sie Kredite vergeben.
+> Commerciële banken creëren nieuw fiatgeld wanneer zij leningen verstrekken.
 >
-> 1. **Boom**
->   * Die Geldmenge wächst, wenn Banken neue Kredite vergeben
->   * Menschen und Unternehmen leihen und geben mehr Geld aus
->   * Die Nachfrage steigt und die Preise erhöhen sich
->   * Investitionen nehmen zu, oft über das hinaus, was die reale Wirtschaft tragen kann
-> 1. **Krise**
->   * Die Nachfrage verlangsamt sich und Investitionen beginnen zu scheitern
->   * Vermögenspreise fallen
->   * Kreditnehmer haben Schwierigkeiten, ihre Kredite zurückzuzahlen
->   * Banken erleiden Verluste, da Sicherheiten an Wert verlieren
-> 1. **Intervention der Zentralbank**
->   * Zentralbanken schaffen neues Geld, um Banken und das Finanzsystem zu stützen
-> 1. **Der Zyklus wiederholt sich**
->   * Die Kreditvergabe weitet sich erneut aus und eine neue Boomphase beginnt
+> 1. **Hoogconjunctuur**
+>   * De geldhoeveelheid groeit naarmate banken nieuwe leningen verstrekken
+>   * Mensen en bedrijven lenen en geven meer uit
+>   * De vraag stijgt en de prijzen gaan omhoog
+>   * Investeringen nemen toe, vaak meer dan de echte economie aankan
+> 1. **Klap**
+>   * De vraag vertraagt en investeringen beginnen te mislukken
+>   * De prijzen van activa dalen
+>   * Leners hebben moeite om hun leningen terug te betalen
+>   * Banken lijden verliezen omdat onderpand in waarde daalt
+> 1. **Ingrijpen van de centrale bank**
+>   * Centrale banken creëren nieuw geld om banken en het financiële systeem te ondersteunen
+> 1. **De cyclus herhaalt zich**
+>   * De kredietverlening groeit opnieuw, waarmee een nieuwe haussefase begint
 
 
-###### Die imaginären Fahrräder
+###### De Denkbeeldige Fietsen
 
-Stell dir vor, du hast ein Fahrrad und verleihst es an einen Banker. Anstatt es einfach zu benutzen, beginnt der Banker, dasselbe Fahrrad gleichzeitig vielen anderen Menschen zu versprechen. Jeder glaubt, er könne das Fahrrad benutzen, wann immer er möchte. In Wirklichkeit gibt es aber nur ein Fahrrad. Alle anderen Fahrräder sind nur Versprechen.
+Stel je voor dat je een fiets hebt en die uitleent aan een bankier. In plaats van hem gewoon te gebruiken, begint de bankier dezelfde fiets aan veel andere mensen tegelijk te beloven. Iedereen denkt dat hij de fiets kan gebruiken wanneer hij maar wil. Maar in werkelijkheid is er nog steeds maar één fiets. Alle andere fietsen zijn slechts beloften.
 
-Anfangs scheint alles in Ordnung zu sein. Nicht jeder möchte das Fahrrad zur gleichen Zeit fahren, daher glauben die Leute, dass genügend Fahrräder vorhanden sind. Deshalb fühlen sich alle sicher und schmieden weiter Pläne.
+In het begin lijkt alles goed te gaan. Niet iedereen wil tegelijkertijd fietsen, dus mensen denken dat er genoeg fietsen beschikbaar zijn. Daardoor voelt iedereen zich zeker en blijft plannen maken.
 
-Doch eines Tages wollen plötzlich alle gleichzeitig fahren. Sie erscheinen alle und erwarten ihr Fahrrad, und plötzlich wird das Problem deutlich: Es gibt nur ein echtes Fahrrad. Die meisten bekommen nicht, was ihnen versprochen wurde.
+Maar op een dag besluit iedereen tegelijk te willen fietsen. Ze komen allemaal opdagen in de verwachting hun fiets te krijgen, en dan wordt het probleem ineens duidelijk: er is maar één echte fiets. De meeste mensen krijgen niet wat hun beloofd was.
 
-Das moderne Bankwesen funktioniert ähnlich. Banken behalten nur einen kleinen Teil des Geldes, das Menschen einzahlen, und verleihen den Rest an andere. Das bedeutet, dass Banken viel mehr Ansprüche auf Geld schaffen, als sie tatsächlich halten.
+Moderne banken werken op een vergelijkbare manier. Banken houden slechts een klein deel van het geld dat mensen storten aan en lenen de rest uit aan anderen. Dit betekent dat banken veel meer aanspraken op geld creëren dan het daadwerkelijke geld dat ze bezitten.
 
-Meistens funktioniert dieses System, weil die Menschen ihr Geld nicht gleichzeitig abheben. Wenn jedoch viele Menschen gleichzeitig ihr Geld abheben wollen, kann die Bank all diese Versprechen nicht erfüllen. Das nennt man einen Bankenansturm.
+Meestal werkt dit systeem omdat mensen niet allemaal tegelijk hun geld opnemen. Maar als veel mensen tegelijk hun geld willen opnemen, kan de bank niet aan al die beloften voldoen. Dit heet een bankrun.
 
-Wenn das passiert, kann das Finanzsystem instabil werden, und diejenigen, die am wenigsten finanziellen Schutz haben, leiden oft am meisten.
+Als dit gebeurt, kan het financiële systeem instabiel worden, en degenen die het vaak het zwaarst te verduren krijgen zijn juist de mensen met de minste financiële bescherming.
 
-#### Wer kontrolliert das Fiat-System?
+#### Wie bestuurt het fiatsysteem?
 
-##### Die Regierung
+##### De Overheid
 
-Die Regierung ist wie der Regisseur der Fiat-Show. Neben der Steuererhebung wird sie durch neue Schulden (Anleihen) finanziert, die vom Finanzministerium ausgegeben werden. Wenn die Nachfrage nach diesen Anleihen nicht ausreicht, kauft die Zentralbank die verbleibenden Schulden auf. Das bedeutet, dass sie die Staatsausgaben weiter erhöhen können, ohne die Menschen durch Steuererhöhungen zu verärgern. Das mag für die Regierung gut erscheinen, hat aber für alle anderen einen Preis: Es ist, als hätte man eine Kreditkarte, bei der jemand anderes die Rechnung bezahlt. Staatsschulden sind nur ein Versprechen, die Menschen in Zukunft stärker zu besteuern.
+De overheid is als de regisseur van de fiatshow. Naast het innen van belastingen wordt ze gefinancierd door nieuwe schulden (obligaties) die door de schatkist worden uitgegeven. Wanneer er onvoldoende vraag is naar deze obligaties, koopt de centrale bank de resterende schuld op. Dit betekent dat ze de overheidsuitgaven kunnen blijven verhogen zonder mensen boos te maken door de belastingen te verhogen. Dit lijkt misschien gunstig voor de overheid, maar het heeft een prijs voor iedereen: het is alsof je een creditcard krijgt waarvan iemand anders de rekening betaalt. Overheidsschuld is gewoon een belofte om de mensen in de toekomst meer te belasten.
 
-##### Wohlhabende Einzelpersonen
+##### Welgestelde individuen
 
-Auch sie profitieren stark vom Fiat-System. Da ihre Ersparnisse überwiegend in Vermögenswerten gehalten werden, steigt ihre Kaufkraft sogar, während die Währung (die Recheneinheit) an Wert verliert. Außerdem nutzen sie ihre im Wert steigenden Vermögenswerte als Sicherheiten, um günstige Kredite aufzunehmen, die sie wiederum in Vermögenswerte investieren. Da sie „näher an der Geldpresse“ sind, spüren sie die Folgen der Währungsabwertung kaum.
+Zij profiteren ook sterk van het fiatsysteem. Omdat hun spaargeld vooral in activa zit, neemt hun koopkracht zelfs toe naarmate de munt (de rekeneenheid) in waarde daalt. Bovendien gebruiken ze hun in waarde stijgende activa als onderpand om goedkope schulden aan te gaan, die ze vervolgens weer in activa investeren. Omdat ze 'dichter bij de geldprinter' staan, merken ze nauwelijks iets van de gevolgen van geldontwaarding.
 
-##### Finanzsektor (Banken)
+##### Financiële sector (banken)
 
-Banken und andere Finanzinstitute kontrollieren das Fiat-System nicht direkt, profitieren aber enorm davon. Dank der Existenz einer Zentralbank, die die Banken rettet, um den Zusammenbruch des gesamten Systems zu verhindern, sind sie praktisch frei von Konsequenzen und daher motiviert, durch immer riskantere Teilreservekredite höhere Gewinne zu erzielen. Das ist die Grundlage des zuvor beschriebenen Boom-und-Bust-Zyklus.
+Banken en andere financiële instellingen controleren het fiatsysteem niet direct, maar profiteren er enorm van. Dankzij het bestaan van een centrale bank, die banken zal redden om te voorkomen dat het hele systeem instort, zijn ze vrijwel vrij van consequenties en worden ze juist gestimuleerd om steeds risicovoller te lenen voor hogere winsten. Dit is de basis van de eerder besproken hausse-en-krachcyclus.
 
-##### Die Zentralbank
+##### De Centrale Bank
 
-Auch sie profitieren stark vom Fiat-System. Da ihre Ersparnisse überwiegend in Vermögenswerten gehalten werden, steigt ihre Kaufkraft sogar, während die Währung (die Recheneinheit) an Wert verliert. Außerdem nutzen sie ihre im Wert steigenden Vermögenswerte als Sicherheiten, um günstige Kredite aufzunehmen, die sie wiederum in Vermögenswerte investieren. Da sie „näher an der Geldpresse“ sind, spüren sie die Folgen der Währungsabwertung kaum.
+Zij profiteren ook sterk van het fiatsysteem. Omdat hun spaargeld vooral in activa zit, neemt hun koopkracht zelfs toe naarmate de munt (de rekeneenheid) in waarde daalt. Bovendien gebruiken ze hun in waarde stijgende activa als onderpand om goedkope schulden aan te gaan, die ze vervolgens weer in activa investeren. Omdat ze 'dichter bij de geldprinter' staan, merken ze nauwelijks iets van de gevolgen van geldontwaarding.
 
-###### Wie sie profitieren
+###### Hoe ze profiteren
 
-Diese Gruppen profitieren auf unterschiedliche Weise und schaffen ein komplexes Netz aus Kontrolle und Einfluss. Die Regierung erhält Zugang zu Finanzmitteln und kann es vermeiden, sofort fiskalisch verantwortungsvoll zu handeln, Wohlhabende und Banken erzielen mühelos Gewinne, und die Zentralbank hält das System am Laufen, während sie Unabhängigkeit vortäuscht. Währenddessen trägt der Rest der Bevölkerung die Last des gesamten Systems, da ihre Bargeldersparnisse Jahr für Jahr langsam dahinschmelzen.
+Deze groepen profiteren op verschillende manieren, waardoor een complex web van controle en invloed ontstaat. De overheid krijgt toegang tot financiering en stelt het moment van financiële verantwoordelijkheid uit, rijke individuen en banken verdienen moeiteloos hun winst, en de centrale bank houdt de show draaiende terwijl ze onafhankelijkheid veinzen. Ondertussen draagt de rest van de bevolking de lasten van het hele systeem, terwijl hun spaargeld jaar na jaar langzaam verdampt.
 
-Am Ende inszenieren die Strippenzieher des Fiat-Systems eine Show, bei der wenige stark profitieren und viele zurückbleiben und sich fragen, wie sie jemals aufholen sollen.
+Uiteindelijk regisseren de poppenspelers van het fiatsysteem een voorstelling waarin enkelen enorm profiteren ten koste van de velen, die zich afvragen hoe ze ooit nog kunnen bijbenen.
 
 
-> **Note – Die Rolle der Zentralbanken**
+> **Note – De Rol van Centrale Banken**
 >
-> Zentralbanken gestalten still und leise, wie eine Wirtschaft funktioniert. Ihre offizielle Aufgabe ist es, Stabilität und Integrität zu gewährleisten, doch ihre Methoden offenbaren eine dunklere Seite.
+> Centrale banken bepalen stilletjes hoe een economie werkt. Hun officiële taak is zorgen voor stabiliteit en integriteit, maar hun methoden onthullen een duisterdere kant.
 >
-> Zentralbanken arbeiten eng mit Regierungen zusammen und ziehen die Fäden der Geldpolitik, indem sie die Geldmenge mit Instrumenten wie Zinssätzen steuern. In Krisenzeiten drucken sie Geld aus dem Nichts und schleusen es über Geschäftsbanken in die Wirtschaft, sodass alles in Ordnung erscheint.
+> Centrale banken werken nauw samen met overheden en trekken aan de touwtjes van het monetaire beleid, waarbij ze de geldhoeveelheid sturen met instrumenten zoals rentevoeten. In tijden van crisis drukken ze geld uit het niets en pompen dat via commerciële banken in de economie, waardoor het lijkt alsof alles in orde is.
 >
-> Sie sind nicht nur neutrale Aufseher; Zentralbanken regulieren Geschäftsbanken, setzen die Spielregeln fest und greifen ein, um sie als Kreditgeber letzter Instanz zu retten, wenn sie in Schwierigkeiten geraten. Dieses Kontrollnetz wirkt zwar schützend, macht die Wirtschaft und die Banken aber noch abhängiger von ihnen.
+> Ze zijn niet zomaar neutrale toezichthouders; centrale banken reguleren commerciële banken, bepalen de spelregels en grijpen in om ze te redden als ze in de problemen komen, als kredietverstrekker in laatste instantie. Dit web van controle lijkt beschermend, maar maakt de economie en banken juist nog afhankelijker van hen.
 
 
-Zu verstehen, woher Billionen an Konjunkturhilfen kommen und wer entscheidet, wie sie verteilt werden, ist entscheidend, um das größere Finanzsystem zu begreifen. Regierungen nutzen verschiedene Werkzeuge, um die Geldmenge zu bestimmten Zeitpunkten zu steuern.
+Begrijpen waar biljoenen dollars aan stimuleringsgeld vandaan komen en wie beslist hoe dat wordt verdeeld, is essentieel om het bredere financiële systeem te begrijpen. Overheden gebruiken verschillende instrumenten om de geldhoeveelheid op specifieke momenten te sturen.
 
-Zentralbanken und Regierungen können geld- und fiskalpolitische Instrumente einsetzen, um die Geldmenge und die Wirtschaft zu beeinflussen. Zum Beispiel nutzt die US-Notenbank (Fed) die Geldpolitik, um Zinssätze anzupassen und so die Geldmenge zu steuern. Die Fiskalpolitik hingegen nutzt Ausgaben und Steuern, um die wirtschaftliche Aktivität zu beeinflussen.
+Centrale banken en overheden kunnen monetaire en fiscale beleidsinstrumenten gebruiken om de geldhoeveelheid en de economie te beïnvloeden. Zo gebruikt de Amerikaanse Federal Reserve (de Fed) monetair beleid om de rente aan te passen, wat invloed heeft op de hoeveelheid geld in omloop. Fiscaal beleid daarentegen draait om het gebruik van uitgaven en belastingen om de economische activiteit te sturen.
 
-###### Zielwerte der Geldpolitik
+###### Doelrentes Monetair Beleid
 
-* Arbeitslosigkeit unter 6,5 %
-* 2 % - 3 % jährliches Wachstum des Bruttoinlandsprodukts
-* Kerninflationsrate zwischen 2,0 % - 2,5 %
+* Werkloosheid onder de 6,5%
+* 2% - 3% jaarlijkse groei van het bruto binnenlands product
+* Kerninflatie tussen 2,0% - 2,5%
 
-###### Expansive Fiskalpolitik
+###### Expansief Fiscaal Beleid
 
-* Zielt darauf ab, den Konsum und die Investitionen von Unternehmen zu erhöhen, um die Gesamtnachfrage und das Wirtschaftswachstum zu steigern.
-* Staatliche Ausgaben erhöhen
-* Steuern senken
+* Richt zich op het verhogen van de consumentenbestedingen en bedrijfsinvesteringen om de totale vraag en economische groei te stimuleren.
+* Overheidsuitgaven verhogen
+* Belastingen verlagen
 
-###### Restriktive Fiskalpolitik
+###### Contractief Fiscaal Beleid
 
-* Zielt darauf ab, den Konsum und die Investitionen von Unternehmen zu verringern, um ein nicht nachhaltiges Wirtschaftswachstum zu bremsen und hohe Inflation zu verhindern oder zu reduzieren.
-* Staatliche Ausgaben senken
-* Steuern erhöhen
+* Richt zich op het verlagen van de consumentenbestedingen en bedrijfsinvesteringen om een onhoudbare economische groei af te remmen en hoge inflatie te voorkomen of te verminderen.
+* Overheidsuitgaven verlagen
+* Belastingen verhogen
 
 
-> **Note – Zu groß, um zu scheitern**
+> **Note – Te groot om te falen**
 >
-> „Too big to fail“ bezeichnet Finanzinstitute, die so groß und miteinander vernetzt sind, dass ihr Scheitern katastrophale Folgen für das gesamte Finanzsystem hätte. Während der Finanzkrise 2008 galten mehrere große Banken als „too big to fail“, was dazu führte, dass die US-Regierung eingriff und Rettungspakete bereitstellte, um ihren Zusammenbruch zu verhindern.
+> “Te groot om te falen” verwijst naar financiële instellingen die zo groot en onderling verbonden zijn dat hun faillissement catastrofale gevolgen zou hebben voor het hele financiële systeem. Tijdens de financiële crisis van 2008 werden verschillende grote banken als “te groot om te falen” beschouwd, waardoor de Amerikaanse overheid moest ingrijpen en steunpakketten moest verstrekken om hun ondergang te voorkomen.
 >
-> Während der Finanzkrise 2008 löste der Zusammenbruch der Investmentbank Lehman Brothers einen Dominoeffekt aus, der beinahe zum Zusammenbruch des Versicherungsgiganten AIG und zu einem massiven Einbruch an den Aktienmärkten führte. Die US-Regierung musste eingreifen und anderen großen Finanzinstituten Rettungspakete gewähren, um weiteres Chaos zu verhindern und die Gesamtwirtschaft zu schützen. Dies verankerte das Konzept „too big to fail“, das schließlich 2011 in der internationalen Bankenregulierung Basel III mit der Einführung der G-SIBs (Global Systemically Important Banks) kodifiziert wurde.
+> Tijdens de financiële crisis van 2008 veroorzaakte het faillissement van investeringsbank Lehman Brothers een domino-effect dat bijna leidde tot de ondergang van verzekeringsgigant AIG en tot een enorme daling van de aandelenmarkt. De Amerikaanse overheid moest ingrijpen en steunpakketten verstrekken aan andere grote financiële instellingen om verdere chaos te voorkomen en de bredere economie te beschermen. Dit verstevigde het concept “te groot om te falen”, dat uiteindelijk werd vastgelegd in het internationale bankbeleid in Basel III (2011) met de oprichting van de G-SIB's: Globaal Systemisch Belangrijke Banken.
 
 
-Wechselkurspolitik, Angebotsschocks und Preiskontrollen dienen als zusätzliche Instrumente zur Regulierung der Geldmenge und beeinflussen Handel und Wirtschaft. Obwohl diese Maßnahmen theoretisch darauf abzielen, Preise zu stabilisieren und die Inflation zu kontrollieren, führen solche Eingriffe oft zu Boom-und-Bust-Zyklen, die viele Unternehmen und die Ersparnisse zahlreicher Familien vernichten.
+Wisselkoersbeleid, aanbodschokken en prijscontroles dienen als aanvullende instrumenten om de geldhoeveelheid te reguleren en handel en economie te beïnvloeden. Hoewel deze beleidsmaatregelen er in theorie op gericht zijn om prijzen te stabiliseren en inflatie te beheersen, leidt de interventie vaak tot op- en neergangscycli, die veel bedrijven en het spaargeld van vele gezinnen vernietigen.
 
-Zu wissen, wie diese Maßnahmen funktionieren, ist entscheidend, um die Grenzen zentralisierter Fiat-Geldsysteme zu verstehen. Solange du das Problem nicht verstehst, wirst du die Lösung nicht erkennen.
+Weten hoe deze beleidsmaatregelen werken is essentieel om de beperkingen van gecentraliseerde fiatgeldsystemen te begrijpen. Totdat je het probleem begrijpt, zul je de oplossing niet herkennen.
 
 
 ---
 
 
-#### Aktivität: Teilreserve-Bankwesen
+#### Activiteit: Fractioneel Reservebankieren
 
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
 
-Dies ist eine Übung im Unterricht, bei der individuelle Handlungen von Menschen und Banken anhand des Teilreserve-Bankwesens untersucht werden. Ziel ist es, aus erster Hand zu erleben, wie dieses Instrument die Geldmenge erhöht.
+Dit is een klassikale oefening waarin individuele handelingen van mensen en banken worden onderzocht met behulp van het fractioneel reservebankieren. Het doel is om uit eerste hand te ervaren hoe dit instrument de geldhoeveelheid vergroot.
 
-###### Wichtige Punkte
+###### Belangrijkste Punten
 
-1. Ein Bruchteil = ein Teil eines Ganzen.
-1. Das Teilreserve-Bankwesen ist ein Instrument, das Banken nutzen, um mehr zu verleihen, als sie tatsächlich vorrätig oder „in Reserve“ halten.
-1. Je geringer der Reservebetrag, desto größer ist das Risiko für Banken in Bezug auf Bankanstürme oder Zahlungsausfälle.
-1. Dieses Instrument kann sowohl mit gedecktem Geld (wie Gold) als auch mit ungedecktem Geld (wie Fiatgeld) verwendet werden.
-1. Die Möglichkeit, die Geldmenge auszuweiten, kombiniert mit Rettungspaketen und Versicherungsprogrammen wie der FDIC, führt zu einem moralischen Risiko für Banken. Sie haben einen Anreiz, riskantere Entscheidungen zu treffen, da sie die Gewinne behalten, aber ihre Verluste von allen getragen werden.
+1. Een fractie = een deel van een geheel.
+1. Fractioneel reservebankieren is een instrument dat banken gebruiken om meer uit te lenen dan ze daadwerkelijk aanhouden, ofwel “in reserve” houden.
+1. Hoe kleiner het reservebedrag, hoe groter het risico voor banken op bankruns of wanbetaling.
+1. Dit instrument kan worden gebruikt met gezond geld (zoals goud) of met ongezond geld (zoals fiatgeld).
+1. De mogelijkheid om de geldhoeveelheid uit te breiden, gecombineerd met reddingsoperaties en verzekeringsprogramma's zoals de FDIC, leidt tot moreel risico voor banken. Zij hebben een prikkel om risicovollere beslissingen te nemen omdat zij de winsten behouden, maar de verliezen door iedereen worden gedragen.
 
-###### Tipp für Schüler
+###### Studententip
 
-Du musst kein Mathe-Experte sein, um das Grundkonzept des Reserve-Bankwesens oder dessen Risiken zu verstehen.
+Je hoeft geen wiskunde-expert te zijn om het hoofdconcept van reservebankieren of de risico's ervan te begrijpen.

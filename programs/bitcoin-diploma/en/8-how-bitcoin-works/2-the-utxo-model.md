@@ -13,7 +13,7 @@ Your wallet balance is simply the total value of all the UTXOs you control.
 
 > **Callout – Privacy**
 >
-> It is important to note that you should not make others aware of your UTXOs because when someone knows them, they can track your transactions and will ultimately know how much money you own.
+> You should not make others aware of your UTXOs because when someone knows them, they can track your transactions and will ultimately know how much money you own.
 
 
 ###### Example

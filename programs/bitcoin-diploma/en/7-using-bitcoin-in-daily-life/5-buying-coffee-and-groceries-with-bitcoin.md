@@ -10,9 +10,7 @@ Even though paying with a credit card or an app can seem easy to understand for 
 > Customer → Merchant → Payment Gateway → Processor → Card Network → Issuing Bank → Card Network → Merchant Bank → Merchant
 
 
-Each intermediary charges a fee so, while it may seem easy, fast, and cheap, these fees can quickly add up for a small business owner — more than 3% of the price, which is a big amount for them.
-
-And that’s not to mention currency exchange fees!
+Each intermediary charges a fee so, while it may seem easy, fast, and cheap, these costs can quickly add up for a small business owner, often exceeding 3% of the price. And that’s not to mention currency exchange fees!
 
 ##### Credit Card Processing Fees
 
@@ -24,27 +22,17 @@ And that’s not to mention currency exchange fees!
 
 With Bitcoin and the Lightning Network, businesses can receive instant payments from all over the world via an open, secure, internet-native, borderless, and censorship-resistant monetary system.
 
-Next, we will look at a few ways merchants can easily accept payments in bitcoin.
-
 #### Online
 
-BTCPay Server is an open-source payment processor that allows merchants to accept payments in bitcoin with little technical knowledge. It’s completely free and doesn’t charge any commission.
+**BTCPay Server** is an open-source payment processor that allows merchants to accept payments in bitcoin with little technical knowledge. It’s completely free and doesn’t charge any commission. Online businesses can integrate BTCPay Server seamlessly by adding the BTCPay plugin to their website. Because BTCPay Server is an open-source project, not a company, you can contribute to the project once you learn more about it and computer programming. Check out [BTCPayServer.org](https://btcpayserver.org/) for more information on how to use this payment system for your in-person or online business.
 
-Online businesses can integrate BTCPay Server seamlessly by adding the BTCPay plugin to their website.
+##### BTCPay Server: How is it different?
 
-Because BTCPay Server is an open-source project, not a company, you can contribute to the project once you learn more about it and computer programming.
-
-Check out [BTCPayServer.org](https://btcpayserver.org/) for more information on how to use this payment system for your in-person or online business.
-
-
-> **Info – BTCPay Server: How is it different?**
->
-> * **Free and open-source**: Made free to free. MIT License. No transaction, subscription or processing costs. Fully open-source. Payments are direct, peer to peer.
-> * **Decentralized**: Anyone can deploy a server. Become a self-hosted payment processor and receive payments directly to your wallet. Help your freinds or community and process payments for them. An unlimited amount of stores can be attached to a single BTCPay Server.
-> * **Private, No middleman**: Trusted third parties are security holes. BTCPay eliminates them. Payments are P2P, direct. Data is not shared. There is no KYC/ALM.
-> * **Secure**: Your private key is never required. Non-custodial. BTCPay only needs xpubkeys (publickey) to generate invoices. Code is open-source and can be inspected by security auditors and developers.
-> * **Censorship-resistant**: No central point of failure. Nobody is controlling it except for the user running it. You can run it on your own hardware.
-
+* **Free and open-source**: Made free to free. MIT License. No transaction, subscription or processing costs. Fully open-source. Payments are direct, peer to peer.
+* **Decentralized**: Anyone can deploy a server. Become a self-hosted payment processor and receive payments directly to your wallet. Help your freinds or community and process payments for them. An unlimited amount of stores can be attached to a single BTCPay Server.
+* **Private, No middleman**: Trusted third parties are security holes. BTCPay eliminates them. Payments are P2P, direct. Data is not shared. There is no KYC/ALM.
+* **Secure**: Your private key is never required. Non-custodial. BTCPay only needs xpubkeys (publickey) to generate invoices. Code is open-source and can be inspected by security auditors and developers.
+* **Censorship-resistant**: No central point of failure. Nobody is controlling it except for the user running it. You can run it on your own hardware.
 
 #### In Person
 
@@ -74,17 +62,11 @@ When applied to Bitcoin, a circular economy is built by supporting local merchan
 
 The first Bitcoin circular economy ever created is located in Arnhem, Netherlands. It was created way before the Lightning Network existed — but back then, on-chain fees were really low!
 
-![El Zonte](https://cdn.sanity.io/images/vje9ehw2/staging/dc4d0487cd415fcb6720ddb0c179da600cefe0f2-1931x2830.jpg)
-
 The second one was Bitcoin Beach, located in El Zonte, El Salvador. It was the first to leverage the power of the Lightning Network to provide the community, which was mostly unbanked, with instant digital payments directly with their smartphones!
 
 Today, hundreds of circular economies are being created all around the world, powered by Bitcoin, the Lightning Network, and educational resources.
 
 On [BTCMap.org](https://btcmap.org/communities), you can also look for Bitcoin communities where you will meet other Bitcoin users and find businesses that accept Bitcoin. Some of our teachers and students have actually added businesses and circular economies to BTCmap.org — and once you are ready, you can too!
-
-As we wrap up Module 7, you've gained insights into using Bitcoin in your daily life through the Lightning Network. The Lightning Network makes transactions quicker and more accessible, offering a preview of how Bitcoin will continue to change and evolve in layers.
-
-In Module 8, we will begin investigating the technical side of Bitcoin. From cryptography to nodes, miners, and more, get ready to take a closer look at how Bitcoin really works.
 
 ###### Resources
 

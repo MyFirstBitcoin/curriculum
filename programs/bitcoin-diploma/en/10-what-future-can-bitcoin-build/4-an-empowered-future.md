@@ -8,10 +8,6 @@ By taking the control of money out of the hands of centralized parties and inste
 
 This is a fundamentally new world. And you can be a part of creating this reality. By using Bitcoin, running your own node, and helping your fellow humans learn more about the future of money, you are voting for a different world.
 
-
----
-
-
 #### Activity: Final Discussion — How Did Your Perspective Change?
 
 Please answer the following questions:
@@ -32,7 +28,7 @@ Please answer the following questions:
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Write down the student questions that were selected during Module 1 and answer now.
+###### Write down the questions that were selected during Module 1 and answer now
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 

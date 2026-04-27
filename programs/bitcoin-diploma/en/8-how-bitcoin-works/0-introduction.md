@@ -9,13 +9,12 @@ Learning Bitcoin’s technical side is a long journey that not everyone needs to
 
 The Bitcoin network is a shared record of transactions stored across many computers called nodes. This record, known as the Bitcoin ledger, is pseudonymous. It does not include personal details like names or ages, only transaction data and Bitcoin addresses. The ledger tracks every transaction since the blockchain began.
 
+##### Mechanics of the Bitcoin Protocol
 
-> **Note – Mechanics of the Bitcoin Protocol**
->
-> * Proof-of-Work
-> * Cryptographic Time-Stamps
-> * Difficulty Adjustment
-> * Peer-to-Peer Network Architecture
-> * Hash Functions & Merkle Trees
-> * Public Key Cryptography
-> * Block Subsidy Halving
+* Proof-of-Work
+* Cryptographic Time-Stamps
+* Difficulty Adjustment
+* Peer-to-Peer Network Architecture
+* Hash Functions & Merkle Trees
+* Public Key Cryptography
+* Block Subsidy Halving

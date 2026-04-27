@@ -10,6 +10,6 @@ Being **independent** means no one can block your transactions, freeze your fund
 
 One misconception is that Bitcoin is out of reach for most people because of its price. But you don't need to buy a whole bitcoin. Just as a dollar breaks into 100 cents, a bitcoin breaks into 100 million units called satoshis. You can own a meaningful amount of bitcoin for just a few dollars.
 
-The network itself runs on three participants: **users** who send and receive bitcoin, **nodes** which verify every transaction and enforce the rules, and **miners** who compete to add new blocks of transactions to the record.
+The network runs on three participants: users who send and receive bitcoin, nodes that verify transactions and enforce the rules, and miners who add new blocks to the record. That record, the blockchain, is public, permanent, and visible to anyone. No middlemen, no gatekeepers, full transparency.
 
-That record, the blockchain, is public, permanent, and visible to anyone. No middlemen, no gatekeepers, full transparency.
+![](https://cdn.sanity.io/images/vje9ehw2/staging/18d17fe303b58a38ae9cbd9e6f0e2078fa1b3828-1377x768.svg)

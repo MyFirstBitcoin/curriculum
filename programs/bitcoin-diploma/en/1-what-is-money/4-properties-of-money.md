@@ -27,7 +27,7 @@ By tallying up the scores for each item, you can determine which one is best sui
 * **Divisibility:** Can the money be divided into smaller units?
 
 
-| Characteristic of Good Money | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
+|  | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
 | --- | --- | --- | --- | --- | --- |
 | Durable |  |  |  |  |  |
 | Portable |  |  |  |  |  |

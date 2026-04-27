@@ -14,7 +14,7 @@ Let’s say Jim owes Eliana 0.5 BTC and is ready to pay her back. Both have digi
 1. Jim uses his wallet software to create the transaction, which includes Eliana’s address, the amount to be transferred (0.5 BTC), and a fee for the miner. Higher fees make it more likely that a miner will include the transaction in the next block.
 1. After signing the transaction, it is broadcast to the network, where it is verified by nodes. They check whether Jim has enough funds and is the rightful owner of the coins he means to spend. If he does not, they reject the transaction immediately.
 1. Once the transaction is verified, miners choose whether to add the transaction to the next block, usually based on the selected fee. Once the transaction makes it into a block, it is added to the blockchain and the funds are transferred to Eliana's address.
-1. Ownership has been transferred to Eliana. She can now use her private key to spend the received funds.
+1. Ownership has been transferred to Eliana. She can now use her private key to spend the funds.
 
 _It’s important to note that once the transaction is complete, it cannot be reversed._
 
@@ -64,10 +64,6 @@ The transaction is confirmed by the Bitcoin Network and usually takes about 10 m
 > On-chain transactions are the safest way to transact with bitcoin because of the decentralized verification provided by the network.
 >
 > However, on-chain transactions are slower and can be significantly more expensive than other options (which we will discuss in Module 7) due to the miner fee.
-
-
-
----
 
 
 #### Activity: Transactions In Action

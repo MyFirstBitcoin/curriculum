@@ -6,10 +6,6 @@ Much like how email allows us to send and receive messages instantly and without
 
 The currencies we use are becoming more and more digital; today, only a small fraction of the money supply remains in the form of coins and paper bills. Banks and banking services provide their customers with applications to seamlessly exchange money over the internet. But where does the money come from?
 
-
----
-
-
 ##### Resources
 
 

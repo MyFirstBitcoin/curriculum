@@ -1,41 +1,41 @@
 # 1.4 Eigenschaften des Geldes
 
-Geld funktioniert nur dann gut, wenn es bestimmte Schlüsseleigenschaften besitzt. Es muss nützlich sein zum Kaufen und Verkaufen (Tauschmittel), zum Sparen für später (Wertaufbewahrungsmittel) und zum Messen von Preisen (Recheneinheit). Diese Eigenschaften machen Geld zuverlässig und wichtig.
+Geld werkt goed alleen als het bepaalde belangrijke eigenschappen heeft. Het moet bruikbaar zijn om mee te kopen en verkopen (ruilmiddel), sparen voor later (waardemiddel), en prijzen meten (rekeneenheid). Deze eigenschappen maken geld betrouwbaar en belangrijk.
 
-* **Haltbarkeit** bezieht sich auf die Fähigkeit des Geldes, physischem Verfall zu widerstehen und über die Zeit zu bestehen. Das stellt sicher, dass Geld in einem akzeptablen und erkennbaren Zustand in der Wirtschaft zirkulieren kann. Gold ist ein haltbares Material, das Abnutzung standhält und daher eine gute Darstellung der Haltbarkeitseigenschaft von Geld ist.
-* **Teilbarkeit** bezieht sich auf die Fähigkeit des Geldes, in kleinere Einheiten geteilt zu werden, sodass Menschen es für Einkäufe in unterschiedlichen Beträgen verwenden können. Papiergeld kann leicht in kleinere Stückelungen unterteilt werden und ist daher ein gutes Beispiel für die Teilbarkeit von Geld.
-* **Transportierbarkeit** bezieht sich darauf, wie einfach Geld transportiert und mitgenommen werden kann. Das ermöglicht es Menschen, Geld zum Kauf und Verkauf von Waren und Dienstleistungen problemlos zu verwenden. Kreditkarten sind transportabel, da sie leicht im Portemonnaie oder in der Tasche mitgeführt werden können, und sind daher ein gutes Beispiel für die Transportierbarkeit von Geld.
-* **Akzeptanz** bezieht sich auf die weitverbreitete Annahme von Geld als Zahlungsmittel, sodass Menschen es mit Vertrauen zum Kauf und Verkauf von Waren und Dienstleistungen verwenden können. Der US-Dollar wird weithin als Zahlungsmittel akzeptiert und ist daher ein gutes Beispiel für die Akzeptanzeigenschaft von Geld.
-* **Knappheit** bezieht sich darauf, wie schwierig es ist, mehr Einheiten des Geldes herzustellen, was hilft, seinen Wert zu erhalten und verhindert, dass wir mehr Geld ausgeben müssen, um die gleiche Menge an Waren zu kaufen. Sammlermarken, insbesondere seltene und wertvolle, können eine gute Form von Geld sein, weil sie knapp sind und im Wert steigen können. Briefmarkensammler nutzen ihre Marken oft als Möglichkeit, ihr Vermögen zu investieren und ihr Portfolio zu diversifizieren.
-* **Fungibilität** bezieht sich auf die Austauschbarkeit von Geld, sodass eine Einheit Geld einer anderen Einheit mit demselben Wert entspricht. Geld sollte einheitlich sein. Kupfermünzen sind in Größe und Gewicht einheitlich und sind daher ein gutes Beispiel für die Einheitlichkeit von Geld. Ein Cent ist immer ein Cent.
+* **Duurzaamheid** verwijst naar het vermogen van geld om fysieke slijtage te weerstaan en lang mee te gaan. Dit zorgt ervoor dat geld in de economie kan circuleren in een acceptabele en herkenbare staat. Goud is een duurzaam materiaal dat bestand is tegen slijtage, waardoor het een goede weergave is van de duurzaamheid van geld.
+* **Deelbaarheid** verwijst naar het vermogen van geld om in kleinere eenheden te worden verdeeld, zodat mensen het kunnen gebruiken om aankopen van verschillende bedragen te doen. Papieren geld kan gemakkelijk worden verdeeld in kleinere coupures, waardoor het een goede weergave is van de deelbaarheid van geld.
+* **Draagbaarheid** verwijst naar het gemak waarmee geld kan worden vervoerd en meegenomen. Dit stelt mensen in staat om geld te gebruiken om goederen en diensten te kopen en verkopen zonder moeite. Creditcards zijn draagbaar, omdat ze gemakkelijk in een portemonnee of tas kunnen worden meegenomen, waardoor ze een goede weergave zijn van de draagbaarheid van geld.
+* **Acceptatie** verwijst naar de brede acceptatie van geld als betaalmiddel, zodat mensen het met vertrouwen kunnen gebruiken om goederen en diensten te kopen en verkopen. De Amerikaanse dollar wordt wereldwijd breed geaccepteerd als betaalmiddel, waardoor het een goede weergave is van de acceptatie van geld.
+* **Schaarste** verwijst naar hoe moeilijk het is om meer eenheden van het geld te maken, wat helpt om de waarde te behouden en voorkomt dat we meer geld moeten uitgeven om dezelfde hoeveelheid goederen te kopen. Postzegels, vooral zeldzame en waardevolle, kunnen een goede vorm van geld zijn omdat ze schaars zijn en in waarde kunnen stijgen. Postzegelverzamelaars gebruiken hun postzegels vaak als een manier om hun vermogen te investeren en hun portefeuille te diversifiëren.
+* **Fungibiliteit** verwijst naar de inwisselbaarheid van geld, zodat één eenheid geld gelijkwaardig is aan een andere eenheid van dezelfde waarde. Geld moet uniform zijn. Koperen munten zijn uniform in grootte en gewicht, waardoor ze een goede weergave zijn van de uniformiteit van geld. Eén cent is altijd één cent.
 
-#### Übung
+#### Oefening
 
-Verschiedene Vermögenswerte haben unterschiedliche Eigenschaften und erfüllen die Funktionen von Geld in unterschiedlichem Maße. Die Gesellschaft entscheidet letztlich, welcher Vermögenswert als Geld verwendet wird, basierend darauf, wie gut ein bestimmtes Gut diese Funktionen erfüllt.
+Verschillende bezittingen hebben verschillende eigenschappen en vervullen de functies van geld in verschillende mate. De samenleving bepaalt uiteindelijk welk bezit als geld wordt gebruikt, op basis van hoe goed een bepaald goed deze functies vervult.
 
-Um zu bestimmen, wie gut verschiedene Gegenstände die spezifischen Eigenschaften von Geld erfüllen, kannst du jeden Gegenstand unten auf einer Skala von 1 bis 5 für jede Eigenschaft bewerten (0 = Schlecht; 3 = Okay; 5 = Ausgezeichnet).
+Om te bepalen hoe goed verschillende items voldoen aan de specifieke kenmerken van geld, kun je elk item hieronder een score geven van 1 tot 5 voor elk kenmerk (0 = Slecht; 3 = Oké; 5 = Uitstekend).
 
-Indem du die Punktzahlen für jeden Gegenstand zusammenzählst, kannst du bestimmen, welcher am besten als Geld geeignet ist.
+Door de scores voor elk item op te tellen, kun je bepalen welk item het meest geschikt is om als geld te dienen.
 
-**Verwende die folgenden Fragen** um zu bestimmen, wie gut die verschiedenen Gegenstände in der Tabelle die Eigenschaften von Geld erfüllen.
+**Gebruik de volgende vragen** om te bepalen hoe goed de verschillende items in de tabel voldoen aan de kenmerken van geld.
 
-* **Haltbarkeit:** Kann das Geld Abnutzung und Verschleiß im Laufe der Zeit standhalten?
-* **Transportierbarkeit:** Kann das Geld leicht transportiert und an verschiedenen Orten verwendet werden?
-* **Fungibilität:** Ist das Geld mit anderen Formen von Geld austauschbar?
-* **Akzeptanz:** Wird das Geld weithin als Zahlungsmittel akzeptiert?
-* **Knappheit:** Ist das Geld knapp und schwer zu vermehren?
-* **Teilbarkeit:** Kann das Geld in kleinere Einheiten geteilt werden?
+* **Duurzaamheid:** Kan het geld slijtage door de tijd weerstaan?
+* **Draagbaarheid:** Kan het geld gemakkelijk worden vervoerd en gebruikt op verschillende locaties?
+* **Fungibiliteit:** Is het geld inwisselbaar met andere vormen van geld?
+* **Acceptatie:** Wordt het geld breed geaccepteerd als betaalmiddel?
+* **Schaarste:** Is het geld schaars en moeilijk om meer van te maken?
+* **Deelbaarheid:** Kan het geld worden verdeeld in kleinere eenheden?
 
 
-| Eigenschaft von gutem Geld | Kühe | Scharfe Soße | Diamanten | Papiergeld | Bitcoin |
+|  | Koeien | Pittige saus | Diamanten | Papiergeld | Bitcoin |
 | --- | --- | --- | --- | --- | --- |
-| Haltbar |  |  |  |  |  |
-| Transportabel |  |  |  |  |  |
-| Einheitlich |  |  |  |  |  |
-| Akzeptiert |  |  |  |  |  |
-| Knapp |  |  |  |  |  |
-| Teilbar |  |  |  |  |  |
-| Gesamt |  |  |  |  |  |
+| Duurzaam |  |  |  |  |  |
+| Draagbaar |  |  |  |  |  |
+| Uniform |  |  |  |  |  |
+| Acceptabel |  |  |  |  |  |
+| Schaars |  |  |  |  |  |
+| Deelbaar |  |  |  |  |  |
+| Totaal |  |  |  |  |  |
 
 
-*** Bitte fülle die Spalte für Bitcoin nicht aus; wir werden später im Kurs darauf zurückkommen.**
+*** Vul de kolom voor Bitcoin alstublieft niet in; we komen hier later in de cursus op terug.**

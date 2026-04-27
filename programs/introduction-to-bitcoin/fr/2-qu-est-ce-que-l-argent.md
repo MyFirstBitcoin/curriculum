@@ -1,19 +1,30 @@
 # Qu'est-ce que l'argent ?
 
-**L'argent n'a pas de valeur intrinsèque.**
+**La monnaie n'a pas de valeur intrinsèque.**
 
-Cela peut sembler étrange, mais réfléchissez-y : personne ne veut de l'argent pour lui-même. Nous le voulons pour ce qu'il permet d'acheter. Un billet de 10 $ n'est qu'un morceau de papier. Ce qui le rend utile, c'est que d'autres personnes l'accepteront en échange de choses que nous désirons réellement.
+Cela peut sembler étrange, mais réfléchissez-y : personne ne veut de la monnaie pour elle-même. Nous la voulons pour ce qu'elle permet d'acheter. Un billet de 10 € n'est qu'un morceau de papier. Ce qui le rend utile, c'est que d'autres personnes l'accepteront en échange de choses que nous désirons réellement.
 
-C'est ce qui distingue l'argent du troc.
+C'est ce qui distingue la monnaie du troc.
 
-Dans un système de troc, l'échange ne fonctionne que lorsque les deux personnes veulent ce que l'autre possède. Si vous cultivez des pommes et que je cultive des bananes, nous pouvons échanger, mais seulement si vous voulez vraiment des bananes. L'argent résout ce problème en offrant à chacun un moyen commun qu'il peut utiliser avec n'importe qui, à tout moment.
+Dans un système de troc, l'échange ne fonctionne que si les deux personnes veulent ce que l'autre possède. Si tu cultives des pommes et que je cultive des bananes, nous pouvons échanger, mais seulement si tu veux vraiment des bananes. La monnaie résout ce problème en offrant à chacun un moyen d'échange commun, utilisable avec n'importe qui, à tout moment.
 
 **Pour qu'une chose fonctionne bien comme monnaie, elle doit remplir trois fonctions.**
 
-Elle doit être largement acceptée comme **moyen d'échange.** Elle doit servir d' **unité de compte**, nous donnant une façon commune de mesurer et de comparer la valeur de différentes choses. Et elle doit **conserver la valeur**, c'est-à-dire qu'elle doit garder son pouvoir d'achat dans le temps.
+Elle doit être largement acceptée comme **moyen d'échange.** Elle doit servir d' **unité de compte**, nous donnant une façon partagée de mesurer et comparer la valeur de différentes choses. Et elle doit **conserver la valeur**, c'est-à-dire qu'elle doit garder son pouvoir d'achat dans le temps.
 
-Au fil de l'histoire, de nombreuses choses ont servi de monnaie : coquillages, sel, perles, métaux précieux. L'or et l'argent sont finalement devenus dominants parce qu'ils étaient rares, durables et acceptés partout dans le monde. Mais transporter de l'or est peu pratique, alors les banques ont commencé à émettre des billets comme reçus, chacun représentant de l'or stocké dans un coffre. Cette période est connue sous le nom d'étalon-or.
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79a255a184addffceb0a03f3b978bc92cf1be07a-1377x768.svg)
 
-Avec le temps, les gouvernements ont commencé à imprimer plus de billets qu'ils n'avaient d'or pour les garantir. Puis, en 1971, les États-Unis ont officiellement mis fin à la convertibilité du dollar en or, un événement connu sous le nom de choc Nixon. À partir de ce moment, l'argent est devenu ce que les économistes appellent la monnaie fiduciaire. Le mot « fiat » signifie « par décret ». Notre argent n'est plus garanti par aucun actif physique. Il existe seulement parce que le gouvernement le décrète.
+
+---
+
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2c92d3140342fa73f9a8cf2629a2f10edb4b956a-1377x768.svg)
+
+Au fil de l'histoire, de nombreuses choses ont servi de monnaie : coquillages, sel, perles, métaux précieux. L'or et l'argent sont finalement devenus dominants car ils étaient rares, durables et acceptés partout dans le monde. Mais transporter de l'or n'est pas pratique, alors les banques ont commencé à émettre des billets en papier comme reçus, chacun représentant de l'or stocké dans un coffre. Cette période est connue sous le nom d'étalon-or.
+
+Avec le temps, les gouvernements ont commencé à imprimer plus de billets qu'ils n'avaient d'or pour les garantir. Puis, en 1971, les États-Unis ont officiellement mis fin à la convertibilité du dollar en or, un événement connu sous le nom de Nixon Shock. À partir de ce moment-là, la monnaie est devenue ce que les économistes appellent la monnaie fiduciaire. Le mot fiduciaire signifie « par décret ». Notre monnaie n'est plus adossée à aucun actif physique. Elle existe uniquement parce que le gouvernement le décrète.
 
 **Nous sommes passés d'une monnaie garantie par quelque chose à une monnaie garantie par quelqu'un.**
+
+
+---

@@ -4,13 +4,23 @@ A Bitcoin wallet is simply an app that lets you send, receive, and manage your b
 
 ###### Who actually holds your bitcoin?
 
+![](https://cdn.sanity.io/images/vje9ehw2/staging/0b3a21664386a27441afee165ab5b3078d5627ed-1377x768.svg)
+
 With a **self-custodial wallet**, you are in full control.
 
-When you set it up, it generates a **seed phrase**: a sequence of 12 or 24 ordinary words in a specific order. That seed phrase is the master key to your funds. Write it down on paper and store it somewhere safe, completely offline. Never photograph it, email it, or save it digitally. Anyone who has those words has access to your bitcoin, and if you lose them without a backup, the bitcoin is gone permanently.
+When you set it up, it generates a **seed phrase:** a sequence of 12 or 24 ordinary words in a specific order. This phrase is your backup, from which your wallet’s private keys are derived. Anyone who has it can restore your wallet and control your funds.
+
+
+
+Write it down on paper and store it somewhere secure, completely offline. Never take a photo of it, email it, or save it digitally. Remember: whoever has those words has access to your bitcoin, and if you lose them without a backup, your bitcoin is gone permanently.
 
 With a **custodial wallet**, a company holds your bitcoin on your behalf, like a bank.
 
 Setup is easier and you don’t need to manage a seed phrase, making these wallets a good option for small amounts and everyday spending. The tradeoff is that you are trusting that company with your funds, and if they freeze accounts, get hacked, or shut down, you may lose access.
+
+
+---
+
 
 A useful phrase in the Bitcoin world: **not your keys, not your coins.**
 
@@ -21,11 +31,11 @@ Here are some options for wallets that your can try yourself. As always, do your
 
 | Name | Description | Source |
 | --- | --- | --- |
-| Bluewallet | A powerhouse mobile wallet that stays simple. It offers 4-click setup, a clean "Send/Receive" UI, and "Watch-Only" tracking for hardware wallets, all while keeping your on-chain Bitcoin strictly separate and secure. | bluewallet.io |
-| Blockstream Wallet | A security-focused wallet that prioritizes safety. It offers an easy "Singlesig" setup for beginners, a sleek "Send/Receive" interface, and seamless pairing with the Jade hardware wallet, all while supporting both Bitcoin and the Liquid network. | blockstream.com/app |
-| Bull Bitcoin | A high-privacy, Bitcoin-only wallet designed for seamless spending. It features an "Dual-Wallet" system for both long-term savings and daily payments, real-time fee data from Mempool.space, and "Watch-Only" support for hardware wallets. | wallet.bullbitcoin.com |
-| Aqua | A "Bitcoin Superapp" focused on daily spending. It features a streamlined interface for Bitcoin, Lightning, and Liquid. | aqua.net |
-| Manna | A modern, "all-in-one" protocol powerhouse. It offers a clean, self-custodial interface that seamlessly handles on-chain Bitcoin, Lightning, and Liquid payments, plus unique social features like encrypted chat and a built-in "BTC Map" to find local shops that accept your sats. | mannabitcoin.com |
+| Bluewallet | A powerful yet simple mobile wallet with quick setup, an intuitive Send/Receive interface, and watch-only tracking for hardware wallets, keeping your on-chain Bitcoin separate and secure. | bluewallet.io |
+| Blockstream Wallet | A security-focused wallet with simple singlesig setup, an intuitive Send/Receive interface, and seamless Jade pairing, supporting both Bitcoin and the Liquid network. | blockstream.com/app |
+| Bull Bitcoin Wallet | A privacy-focused, Bitcoin-only wallet with a dual-wallet system for savings and spending, real-time fee data, and watch-only hardware wallet support. | wallet.bullbitcoin.com |
+| Aqua Wallet | A Bitcoin “superapp” for everyday spending, with a streamlined interface for Bitcoin, Lightning, and Liquid. | aqua.net |
+| Manna | A modern, all-in-one wallet with a clean self-custodial interface for Bitcoin, Lightning, and Liquid, plus encrypted chat and a built-in BTC Map to find places that accept sats. | mannabitcoin.com |
 
 
 ##### Custodial wallets
@@ -33,8 +43,8 @@ Here are some options for wallets that your can try yourself. As always, do your
 
 | Name | Description | Source |
 | --- | --- | --- |
-| Blink | An amazing "entry-level" Bitcoin wallet for daily use. It features a custodial setup for instant Lightning payments, a "Dollar Account" to avoid price volatility, a "Learn-to-Earn" system that pays you sats for quizzes, and a built-in merchant map to find local shops that accept Bitcoin. | blink.sv |
-| Wallet of Satoshi | One of The world’s simplest Lightning wallet for zero-config payments. It features an instant custodial setup (no seed phrase required to start), a streamlined "Scan-to-Pay" interface, and a personal Lightning Address, making it a great choice for small, everyday transactions. | walletofsatoshi.com |
+| Blink | An entry-level Bitcoin wallet for daily use with instant custodial Lightning payments, and a built-in merchant map for finding local Bitcoin-accepting shops. | blink.sv |
+| Wallet of Satoshi | One of the world’s simplest Lightning wallets, with instant custodial setup, a streamlined Scan-to-Pay interface, and a personal Lightning Address for easy everyday transactions. | walletofsatoshi.com |
 
 
 For getting started, any of the self-custodial wallets mentioned are well-regarded options that walk you through the seed phrase creation process.
@@ -42,3 +52,6 @@ For getting started, any of the self-custodial wallets mentioned are well-regard
 For smaller, everyday payments, Blink and Wallet of Satoshi are custodial Lightning wallets. They are fast, cheap, and beginner-friendly.
 
 The **Lightning Network** is a layer built on top of the Bitcoin blockchain designed for quick, low-cost transactions, ideal for day-to-day use.
+
+
+---

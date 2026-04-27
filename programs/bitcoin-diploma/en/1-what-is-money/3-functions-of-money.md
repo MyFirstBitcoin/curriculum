@@ -19,8 +19,6 @@ Money should maintain its value over time, making it useful as a method to save 
 
 ##### Medium of Exchange
 
-![Medium of Exchange](https://cdn.sanity.io/images/vje9ehw2/staging/15e19b74c9a0c3ae6c873e2681f3bdafdf8edc10-201x56.svg)
-
 With money, you don’t have to find someone who wants exactly what you have to trade. Instead, you can use money to buy and sell anything you want. This makes trading and commerce much more convenient and efficient.
 
 ##### Unit of Account
@@ -32,23 +30,13 @@ If you wanted to buy a new car, you could compare prices from different dealersh
 These three functions are what allow economies to become complex and dynamic. Without money, it would be much harder to buy and sell goods and services, and our economy would be much less developed.
 
 
-> **Callout**
+> **Info**
 >
 > People understand the value of something when it has a price expressed in money.
 
 
-#### Exercise
+#### Exercise: What function of money is this an example of?
 
-#### What function of money is this an example of?
-
-###### Evan decided to save a portion of his weekly paychecks to buy a puppy
-
-____________________________________
-
-###### Adam buys two slices of pizza for $8.30
-
-____________________________________
-
-###### Marc can’t decide whether to buy concert tickets for $75 or buy a ski pass for $95
-
-____________________________________
+* Evan decided to save a portion of his weekly paychecks to buy a puppy
+* Adam buys two slices of pizza for $8.30
+* Marc can’t decide whether to buy concert tickets for $75 or buy a ski pass for $95

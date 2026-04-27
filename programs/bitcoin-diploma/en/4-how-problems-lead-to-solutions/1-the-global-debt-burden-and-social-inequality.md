@@ -10,7 +10,7 @@ Jaime is a college student who lives in a small apartment. He works part-time at
 
 > **Definition – Definition of ledger**
 >
-> A **ledger** is a detailed record of all of your monetary transactions, both income and expenses. Whether it’s money you’re earning or spending, a ledger helps you keep track of it all.
+> A **ledger** is a record of all your monetary transactions, including income and expenses. Whether you’re earning or spending money, a ledger helps you keep track of it.
 
 
 At the beginning of 2023, he budgeted $10,000 for his living expenses for the entire year, including rent, food, and other necessities. This is how his ledger looks for January 2026:

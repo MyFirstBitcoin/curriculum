@@ -22,3 +22,6 @@ Independent, community-led bitcoin education will change the world. It already h
 
 For a better world,  
 My First Bitcoin team, 2026
+
+
+---

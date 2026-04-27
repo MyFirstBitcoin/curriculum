@@ -1,58 +1,54 @@
 # 1.1 Diskussionen über Geld
 
-Beginnen wir damit, die folgenden fünf Fragen zu beantworten.
+Laten we beginnen met het beantwoorden van de volgende vijf vragen.
 
-Denke an praktische Verwendungen wie das Beschaffen von Notwendigkeiten wie Nahrung und gewünschten Gegenständen.
+Denk aan praktische toepassingen zoals het verkrijgen van basisbehoeften zoals voedsel en gewenste spullen. Probeer specifiek te zijn in je voorbeelden en creativiteit te combineren met realisme.
 
-Versuche, in deinen Beispielen konkret zu sein und Kreativität mit Realismus auszubalancieren.
-
-###### Warum brauchen wir Geld?
+###### Waarom hebben we geld nodig?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Was ist Geld?
+###### Wat is geld?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Wer kontrolliert das Geld?
+###### Wie beheert het geld?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Was verleiht dem Geld seinen „Wert“?
+###### Wat geeft geld zijn 'waarde'?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Welche Fragen hast du zum Thema Geld?
+###### Welke vragen heb je over geld?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
 > **Note**
 >
-> Teilt und vergleicht eure Listen, um die fünf wichtigsten Gründe für die Notwendigkeit von Geld zu bestimmen. Identifiziert gemeinsame Ideen, die in den
->
-> Denke über einzigartige Ideen nach, die es nicht auf die endgültige Liste geschafft haben, aber dennoch bedenkenswert sind. Notiere dir diese zusätzlichen Erkenntnisse.
+> Breid de discussie uit naar de groep door lijsten te delen en te vergelijken om de vijf belangrijkste redenen te vinden waarom we geld nodig hebben. Zoek naar overeenkomsten binnen de klas. Denk na over je eigen unieke ideeën die niet op de lijst staan maar toch waardevol zijn, en noteer deze.
 
 
 
 
-#### Diskussion: Warum brauchen wir Geld?
+#### Discussie: Waarom hebben we geld nodig?
 
-Teilt euch in Gruppen auf und:
+Verdeel in groepen en:
 
-* Teilt und diskutiert die Antworten auf die ersten vier Fragen. Schreibt eure Lieblingsantworten auf.
-* Teilt die Antworten auf die letzte Frage und stimmt über eine Lieblingsfrage eines Schülers ab. Schreibt das Ergebnis auf.
-* Geht am Ende des Bitcoin-Diploms die Antworten und Fragen noch einmal durch.
+* Deel en bespreek de antwoorden op de eerste vier vragen. Schrijf de favoriete antwoorden op.
+* Deel de antwoorden op de laatste vraag en stem op één favoriete vraag. Noteer het resultaat.
+* Kom aan het einde van de cursus terug op de antwoorden en vragen.
 
-Jetzt, da ihr ein klareres Verständnis dafür habt, warum Geld notwendig ist, werden die kommenden Module untersuchen, was Geld ist, wie es sich im Laufe der Zeit entwickelt hat, wer es beeinflusst und welche neueste Form es gibt. Bezieht euch immer wieder auf eure Listen vom ersten Tag im Unterricht, um Verbindungen zwischen euren Erkenntnissen und der Entwicklung von Geldschöpfung, Definition und Nutzung im Laufe der Zeit herzustellen.
+Nu je een duidelijker beeld hebt van waarom geld nodig is, zullen de komende modules onderzoeken wat geld is, hoe het zich door de tijd heeft ontwikkeld, wie er invloed op heeft, en de nieuwste vorm ervan. Blijf je lijsten van deze eerste lesdag erbij pakken om verbanden te leggen tussen je inzichten en de evolutie van geldcreatie, definitie en gebruik door de tijd heen.
 
-#### Diskussion: Was ist Geld?
+#### Discussie: Wat is geld?
 
-* Bitte esst das Stück Süßigkeit, das auf eurem Tisch liegt, noch nicht.
-* Wer wäre bereit, seine Süßigkeit gegen einen 1-US-Dollar-Schein zu tauschen?
-* Lasst eure Hände oben, wenn ihr immer noch bereit wärt, eure Süßigkeit gegen einen Monopoly-Dollar-Schein statt gegen euer Stück Süßigkeit zu tauschen.
-* Warum oder warum nicht?
-* Was macht einen Schein so begehrenswert und einen anderen wertlos wie Müll?
-* Was verleiht dem Geld seinen „Wert“?
-* Woher kommt das Geld und wer entscheidet, wie viel davon gedruckt wird?
-* Warum druckt man nicht einfach mehr Geld und verteilt es gleichmäßig an alle?
+* Eet het snoepje dat op je bureau ligt nog niet op, alsjeblieft.
+* Wie zou bereid zijn zijn of haar snoepje te ruilen voor een biljet van 1 Amerikaanse dollar?
+* Houd je hand omhoog als je nog steeds bereid zou zijn je snoepje te ruilen voor een biljet van 1 dollar van Monopoly in plaats van je snoepje.
+* Waarom wel of niet?
+* Wat maakt het ene biljet zo gewild en het andere waardeloos?
+* Wat geeft geld zijn 'waarde'?
+* Waar komt geld vandaan en wie beslist hoeveel ervan gedrukt wordt?
+* Waarom drukken we niet gewoon meer geld en verdelen we het gelijk over iedereen?

@@ -1,14 +1,10 @@
 # 2.2 Moneda digital
 
-A diferencia de las monedas tradicionales, las monedas digitales existen únicamente en forma electrónica. Se almacenan y se intercambian mediante computadoras y software especializado.
+A diferencia del dinero tradicional, las monedas digitales existen únicamente en forma electrónica. Se almacenan e intercambian utilizando computadoras y software especializado.
 
-Al igual que el correo electrónico nos permite enviar mensajes instantáneamente y sin costos de envío, las monedas digitales nos permiten enviar y recibir valor instantáneamente y con muy poco costo.
+De manera similar a cómo el correo electrónico nos permite enviar y recibir mensajes al instante y sin costos de envío, las monedas digitales hacen posible enviar y recibir valor de forma instantánea y a muy bajo costo.
 
-Las monedas que usamos hoy en día se están volviendo cada vez más digitales. Solo una pequeña fracción del suministro de dinero realmente existe en forma de monedas y billetes de papel. Los bancos y los servicios bancarios proporcionan a sus usuarios aplicaciones para intercambiar dinero sin problemas a través de Internet. Pero, ¿de dónde viene el dinero?
-
-
----
-
+Las monedas que usamos son cada vez más digitales; hoy en día, solo una pequeña fracción del dinero circulante permanece en forma de monedas y billetes. Los bancos y servicios bancarios ofrecen a sus clientes aplicaciones para intercambiar dinero fácilmente por internet. Pero, ¿de dónde viene ese dinero?
 
 ##### Recursos
 

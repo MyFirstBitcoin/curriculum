@@ -6,11 +6,9 @@ When you run your own node, you verify Bitcoin transactions yourself instead of 
 
 You can think of a Bitcoin node as a digital traffic officer with a few important jobs.
 
-First, it keeps a copy of the blockchain, which is the history of all Bitcoin transactions.
-
-Second, nodes connect with other nodes around the world and share information. One example is the list of new transactions waiting to be confirmed, which is called the mempool.
-
-Third, nodes check that every transaction follows Bitcoin’s rules. If a transaction is invalid, the node rejects it.
+1. It keeps a copy of the blockchain, which is the history of all Bitcoin transactions.
+1. Nodes connect with other nodes around the world and share information. One example is the list of new transactions waiting to be confirmed, which is called the mempool.
+1. Nodes check that every transaction follows Bitcoin’s rules. If a transaction is invalid, the node rejects it.
 
 Nodes also help new nodes join the network by sharing the blockchain with them. However, every new node still checks all the rules independently.
 
@@ -64,13 +62,13 @@ About every 210,000 blocks (roughly every 4 years), the block reward is cut in h
 > **Circulating supply** refers to the total available amount of a currency. With Bitcoin, the total circulating supply is the number of coins that have been mined and are incirculation at any given time.
 
 
+![ Bitcoin Supply Schedule](https://cdn.sanity.io/images/vje9ehw2/staging/8184cb1c032cab6fd5219e903f8dddc20bdde779-292x200.svg)
+
 
 > **Definition – Bitcoin supply schedule**
 >
 > The **Bitcoin supply schedule** is the predetermined and public plan for the release of new bitcoin into circulation, designed to maintain Bitcoin’s scarcity over time.
 
-
-![ Bitcoin Supply Schedule](https://cdn.sanity.io/images/vje9ehw2/staging/8184cb1c032cab6fd5219e903f8dddc20bdde779-292x200.svg)
 
 After each halving event, the bitcoin reward that miners receive for adding a block is cut in half. This reduces the rate at which new bitcoins are created.
 
@@ -78,7 +76,7 @@ Miners still earn transaction fees from the transactions included in the block t
 
 Halvings are built into the Bitcoin protocol and happen automatically about every four years. Because of this, Bitcoin’s supply schedule is predictable and transparent.
 
-The table below shows upcoming halvings, including the approximate date, the block number when they occur, the new block reward, and the percentage of the total bitcoin supply that will have been mined.
+The table shows upcoming halvings, including the approximate date, the block number when they occur, the new block reward, and the percentage of the total bitcoin supply that will have been mined.
 
 
 | Event | Date | Block | Reward | Mined |
@@ -89,10 +87,6 @@ The table below shows upcoming halvings, including the approximate date, the blo
 
 
 As more bitcoin are mined, the circulating supply keeps increasing until the maximum supply of 21,000,000 bitcoins is reached, which is expected around the year 2140. Because fewer new bitcoins are created over time, if demand increases, the price of Bitcoin can rise. This also encourages miners to keep securing the network by contributing their computing power.
-
-
----
-
 
 #### What is a valid block hash in Bitcoin?
 
@@ -124,11 +118,7 @@ This adjustment ensures that, on average, a new block is added to the blockchain
 > The **difficulty level** in Bitcoin mining measures how hard it is to find a valid block hash. The network adjusts this difficulty every 2,016 blocks (about every two weeks) so that new blocks are added to the blockchain about every 10 minutes. The higher the difficulty, the harder it is for miners to find a valid block.
 
 
-
-> **Info**
->
-> By finding a valid block hash, a miner proves they have done the work required to add a new block to the blockchain. This process is called Proof of Work (PoW). It is the security mechanism that allows Bitcoin to confirm transactions and add new blocks to the blockchain. The miner who finds the valid hash first earns a reward in bitcoin, which includes the block reward and the transaction fees from the transactions included in that block.
-
+By finding a valid block hash, a miner proves they have done the work required to add a new block to the blockchain. This process is called **Proof of Work** (PoW). It is the security mechanism that allows Bitcoin to confirm transactions and add new blocks to the blockchain. The miner who finds the valid hash first earns a reward in bitcoin, which includes the block reward and the transaction fees from the transactions included in that block.
 
 Proof of Work (PoW) helps keep Bitcoin secure by making it extremely expensive for anyone to try to cheat or take control of the network. Instead, it is far more profitable to follow the rules.
 

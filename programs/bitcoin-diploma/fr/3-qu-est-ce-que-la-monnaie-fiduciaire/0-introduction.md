@@ -3,7 +3,7 @@
 > L'histoire de l'humanité est celle de la perte de valeur de la monnaie.  
 _Milton Friedman_
 
-Nous avons vu dans le module précédent comment la monnaie a évolué au fil du temps et comment notre système monétaire est passé d'une monnaie saine à une monnaie non saine, façonnant le monde dans lequel nous vivons aujourd'hui. Ce module approfondit la manière dont ces évolutions ont conduit au système fiduciaire actuel et explique comment ce système fonctionne.
+Nous avons vu dans le module précédent comment la monnaie a évolué au fil du temps et comment notre système monétaire est passé d'une monnaie saine à une monnaie dépréciée, façonnant le monde dans lequel nous vivons aujourd'hui. Ce module approfondit la manière dont ces évolutions ont conduit au système fiduciaire actuel et explique son fonctionnement.
 
 ###### Alors, comment le système fiduciaire que nous utilisons aujourd'hui est-il apparu ?
 

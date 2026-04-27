@@ -1,54 +1,42 @@
 # 1.3 Funktionen des Geldes
 
-> Geld erfüllt bei einem Tausch nur eine momentane Funktion; und wenn die Transaktion schließlich abgeschlossen ist, wird sich immer herausstellen, dass eine Art von Ware gegen eine andere getauscht wurde.  
+> Geld vervult slechts een tijdelijke functie bij een ruil; en wanneer de transactie uiteindelijk is afgerond, zal altijd blijken dat het ene soort goed is geruild voor het andere.  
 _Jean-Baptiste Say_
 
-Wenn es um den Kauf und Verkauf von Waren und Dienstleistungen geht, ist Geld der Hauptakteur. Geld erfüllt mehrere wichtige Funktionen in der Welt, wie zum Beispiel:
+Als het gaat om het kopen en verkopen van goederen en diensten, is geld de hoofdrolspeler. Geld vervult verschillende belangrijke functies in de wereld, zoals:
 
-##### Wertaufbewahrungsmittel
+##### Waardevastheid
 
-Geld sollte seinen Wert im Laufe der Zeit behalten, damit es als Mittel zum Sparen und Investieren des Wertes menschlicher Arbeit nützlich ist. Das ermöglicht es den Menschen, Geld zu nutzen, um für die Zukunft zu planen. Wenn du also das nächste Mal für etwas Besonderes sparst, denke daran, dass Geld mehr ist als nur ein Zahlungsmittel – es ist ein Werkzeug, das dir hilft, für deine Zukunft zu planen und zu investieren.
+Geld moet zijn waarde in de tijd behouden, waardoor het nuttig is als middel om de waarde van menselijke arbeid te sparen en te investeren. Dit stelt mensen in staat om geld te gebruiken om voor de toekomst te plannen. Dus, de volgende keer dat je spaart voor iets speciaals, onthoud dan dat geld meer is dan alleen een manier om dingen te betalen — het is een hulpmiddel om je te helpen plannen en investeren in je toekomst.
 
 
-|  | BTC (USD) | Gold (USD) | USD (EUR) |
+|  | BTC (USD) | Goud (USD) | USD (EUR) |
 | --- | --- | --- | --- |
-| 14. März 2019  | 3.846 $ | 1.293 $ | 0,8817 € |
-| 14. März 2020 | 5.258 $ | 1.529 $ | 0,90056 € |
-| Gewinn/Verlust | +36,71% | +18,25% | +2,14% |
+| 14 maart 2019  | $3.846 | $1.293 | €0,8817 |
+| 14 maart 2020 | $5.258 | $1.529 | €0,90056 |
+| Winst/Verlies | +36,71% | +18,25% | +2,14% |
 
 
-##### Tauschmittel
+##### Ruilmiddel
 
-![Medium of Exchange](https://cdn.sanity.io/images/vje9ehw2/staging/15e19b74c9a0c3ae6c873e2681f3bdafdf8edc10-201x56.svg)
+Met geld hoef je niet iemand te vinden die precies wil wat jij te ruil hebt. In plaats daarvan kun je geld gebruiken om alles te kopen en verkopen wat je wilt. Dit maakt handel en commercie veel gemakkelijker en efficiënter.
 
-Mit Geld musst du nicht jemanden finden, der genau das will, was du zum Tauschen hast. Stattdessen kannst du Geld verwenden, um alles zu kaufen und zu verkaufen, was du möchtest. Das macht Handel und Wirtschaft viel bequemer und effizienter.
+##### Rekeneenheid
 
-##### Recheneinheit
+Geld biedt een universele standaard om waarde te meten, waardoor mensen de prijs van verschillende goederen en diensten kunnen uitdrukken en vergelijken. Dit zorgt voor een efficiëntere en transparantere markt, waarin mensen weloverwogen beslissingen kunnen nemen over wat ze kopen en verkopen.
 
-Geld bietet einen universellen Standard zur Messung von Wert, der es den Menschen ermöglicht, den Preis verschiedener Waren und Dienstleistungen auszudrücken und zu vergleichen. Das sorgt für einen effizienteren und transparenteren Markt, in dem die Menschen fundierte Entscheidungen darüber treffen können, was sie kaufen und verkaufen.
+Als je een nieuwe auto wilde kopen, zou je prijzen van verschillende dealers kunnen vergelijken en een weloverwogen beslissing kunnen nemen over welke je koopt op basis van de prijs in dollars. Zonder een rekeneenheid zou je de waarde van de ene auto met de andere moeten proberen te vergelijken met iets anders, zoals het aantal koeien dat het waard was of de tijd die het kostte om de auto te maken.
 
-Wenn du ein neues Auto kaufen wolltest, könntest du die Preise verschiedener Autohäuser vergleichen und eine fundierte Entscheidung darüber treffen, welches du kaufen möchtest – basierend auf dem Preis in Dollar. Ohne eine Recheneinheit müsstest du versuchen, den Wert eines Autos mit einem anderen zu vergleichen, indem du zum Beispiel die Anzahl der Kühe oder die Zeit, die zur Herstellung des Autos benötigt wurde, heranziehst.
-
-Diese drei Funktionen ermöglichen es Volkswirtschaften, komplex und dynamisch zu werden. Ohne Geld wäre es viel schwieriger, Waren und Dienstleistungen zu kaufen und zu verkaufen, und unsere Wirtschaft wäre deutlich weniger entwickelt.
+Deze drie functies maken het mogelijk dat economieën complex en dynamisch worden. Zonder geld zou het veel moeilijker zijn om goederen en diensten te kopen en verkopen, en zou onze economie veel minder ontwikkeld zijn.
 
 
-> **Callout**
+> **Info**
 >
-> Menschen verstehen den Wert von etwas, wenn es einen in Geld ausgedrückten Preis hat.
+> Mensen begrijpen de waarde van iets wanneer het een prijs heeft die in geld wordt uitgedrukt.
 
 
-#### Übung
+#### Oefening: Van welke geldfunctie is dit een voorbeeld?
 
-#### Welche Geldfunktion ist das ein Beispiel für?
-
-###### Evan beschließt, einen Teil seines wöchentlichen Gehalts zu sparen, um einen Welpen zu kaufen
-
-____________________________________
-
-###### Adam kauft zwei Stück Pizza für 8,30 $
-
-____________________________________
-
-###### Marc kann sich nicht entscheiden, ob er Konzertkarten für 75 $ oder einen Skipass für 95 $ kaufen soll
-
-____________________________________
+* Evan besloot een deel van zijn wekelijkse loon te sparen om een puppy te kopen
+* Adam koopt twee stukken pizza voor $8,30
+* Marc kan niet beslissen of hij concertkaartjes voor $75 zal kopen of een skipas voor $95

@@ -4,10 +4,6 @@ Money can be divided into two main categories: physical and digital.
 
 ##### Physical money
 
-![Not all money is the same](https://cdn.sanity.io/images/vje9ehw2/staging/811becc4d8b5a57a8bdf196f0ba21ebd5bd20531-130x216.svg)
-
-_Not all money is the same_
-
 * **Commodity money**, which is a physical object that is widely valued and accepted as a medium of exchange.
   * Examples: Gold, silver and even gun powder once served as commodity money.
 * **Representative money**, which represents a claim on a physical commodity.

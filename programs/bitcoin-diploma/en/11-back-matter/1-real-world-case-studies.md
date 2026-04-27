@@ -1,13 +1,8 @@
 # Real-world case studies
 
----
-
-
 #### The Education Network
 
-At My First Bitcoin, we believe in the power of communities and collaboration to bring Bitcoin education to every corner of the world.
-
-That's why we have created the My First Bitcoin Education Network, an innovative initiative that seeks to decentralize education and empower local communities. As of April 2026, it consists of 80 communities from over 40 countries.
+At My First Bitcoin, we believe in the power of communities and collaboration to bring Bitcoin education to every corner of the world. That's why we have created the My First Bitcoin Education Network, an innovative initiative that seeks to decentralize education and empower local communities. As of April 2026, it consists of 80 communities from over 40 countries.
 
 Let's hear their stories and learn how this Bitcoin Diploma has changed communities from all over the world!
 
@@ -19,15 +14,11 @@ Let's hear their stories and learn how this Bitcoin Diploma has changed communit
 
 #### Case Study: Bitcoin Indonesia
 
-https://bitcoinindonesia.xyz/
+![Bitcoin Indonesia](https://cdn.sanity.io/images/vje9ehw2/staging/6acdaf25baed66b59fc2e5215a65aedf51301295-171x57.svg)
 
 **Since 2023, Bitcoin Indonesia has been quietly transforming its country. Co-founder Diana explains more about the impact of independent Bitcoin education in Asia.**
 
-![Bitcoin Indonesia](https://cdn.sanity.io/images/vje9ehw2/staging/6acdaf25baed66b59fc2e5215a65aedf51301295-171x57.svg)
-
-In September 2023, we hosted the first Bitcoin Indonesia Conference. When the last guest left and the chairs were stacked, we looked around and realized: nothing tangible remained. No lasting presence, no ongoing education. So a few of us, local Bitcoiners and friends, decided that we wanted a conference every day.
-
-That’s how Bitcoin Indonesia was born.
+In September 2023, we hosted the first Bitcoin Indonesia Conference. When the last guest left and the chairs were stacked, we looked around and realized: nothing tangible remained. No lasting presence, no ongoing education. So a few of us, local Bitcoiners and friends, decided that we wanted a conference every day. That’s how Bitcoin Indonesia was born.
 
 By May 2024, we opened a physical hub: the Bitcoin House Bali. It’s where we started to orange-pill our local community. About half a year later, we connected with the My First Bitcoin team when the curriculum was translated by another community member. At first, we were skeptical, and thought that we could build a better program on our own: the Diploma was too long. Now, we believe that the Bitcoin Diploma is a shortcut in Bitcoin Education. It was rocket fuel. Besides benefiting from the curriculum, the teacher training program with a Full Node and also the Online School for digital classes have been very useful! We joined the Node Network, and the rest is history.
 
@@ -51,11 +42,9 @@ We always say that the My First Bitcoin program is so much better than you might
 
 #### Case Study: The Core
 
-https://www.thecore.africa/
+![The Core](https://cdn.sanity.io/images/vje9ehw2/staging/2d0906b2a4b51b46f0565a0536c8cf3ac6b4031a-1738x1511.png)
 
 **What began as a simple WhatsApp group in Kenya has transformed into a global Bitcoin education movement, impacting over 300 lives across continents. Bitcoin education initiative The Core has been proven a life changer. Founder Felix Mukungu shares his journey.**
-
-![The Core](https://cdn.sanity.io/images/vje9ehw2/staging/2d0906b2a4b51b46f0565a0536c8cf3ac6b4031a-1738x1511.png)
 
 It all started with an unfortunate experience: a crypto scam that ironically became my gateway to understanding Bitcoin. That experience showed me the technology was powerful, but I had been introduced to it all in a wrong way. At first, I wasn’t trying to build an education platform. I just wanted to understand everything, but all resources, articles, podcasts, and videos were fragmented. There was no structured path, no curriculum to guide people from the history of money to the future of Bitcoin. So I wrote my own: nine chapters with basic topics, sent over text in a WhatsApp group where anyone could ask questions. It was casual, but powerful. That’s how The Core began: from a desire to show people the right way.
 
@@ -71,9 +60,7 @@ Most students come from across Africa—Nigeria, Kenya, Ghana, Zambia, and more.
 
 Our biggest highlight? A physical graduation, a side event during the African Bitcoin Conference, where the students met global Bitcoiners face-to-face. And receiving our first grant from the Human Rights Foundation was a big milestone too. What began as text messages via WhatsApp, has turned into a team of four who educate people from all over the continent in the right way.
 
-**My advice to anyone teaching the Bitcoin Diploma?**
-
-Start simple. Choose a low time preference. Create proof-of-work. Build first, apply for funding later.
+My advice to anyone teaching the Bitcoin Diploma? Start simple. Choose a low time preference. Create proof-of-work. Build first, apply for funding later.
 
 
 | Country | Language | Cohorts | Graduates | Classroom |

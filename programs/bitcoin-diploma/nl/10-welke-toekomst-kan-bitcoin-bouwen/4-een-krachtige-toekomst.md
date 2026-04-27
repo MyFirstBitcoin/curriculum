@@ -2,15 +2,11 @@
 
 Geld helpt mensen communiceren welke activiteiten, goederen en diensten het belangrijkst zijn binnen de samenleving. Wanneer geld wordt gecontroleerd door gecentraliseerde autoriteiten, wordt het onvermijdelijk gemanipuleerd.
 
-Een van de fouten die de mensheid steeds weer herhaalt door de geschiedenis heen, is het ingrijpen in de vrije markt, bijvoorbeeld door het manipuleren van geld, wat een negatieve invloed heeft op individuen, gezinnen, bedrijven en uiteindelijk op de wereldwijde menselijke welvaart.
+Een van de fouten die de mensheid steeds weer herhaalt door de geschiedenis heen, is het ingrijpen in de vrije markt, bijvoorbeeld door het manipuleren van geld. Dit heeft negatieve gevolgen voor individuen, gezinnen, bedrijven en uiteindelijk voor de wereldwijde menselijke welvaart.
 
 Door de controle over geld weg te halen bij gecentraliseerde partijen en in plaats daarvan geld te gebruiken met een vaste voorraad die door niemand kan worden aangepast, kunnen we een totaal andere wereld creëren — een wereld waarin we politici niet hoeven te vertrouwen om het juiste te doen, omdat het verkeerde doen heel duur en kostbaar is geworden.
 
 Dit is een fundamenteel nieuwe wereld. En jij kunt deel uitmaken van het creëren van deze realiteit. Door Bitcoin te gebruiken, je eigen node te draaien en je medemensen te helpen meer te leren over de toekomst van geld, stem je voor een andere wereld.
-
-
----
-
 
 #### Activiteit: Eindgesprek — Hoe is jouw perspectief veranderd?
 
@@ -32,7 +28,7 @@ Beantwoord alstublieft de volgende vragen:
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
-###### Schrijf de leerlingvragen op die tijdens Module 1 zijn geselecteerd en beantwoord ze nu.
+###### Schrijf de vragen op die tijdens Module 1 zijn geselecteerd en beantwoord ze nu
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 

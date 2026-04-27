@@ -2,9 +2,7 @@
 
 Let's start by answering the five following questions.
 
-Consider practical uses like acquiring necessities such as food and desired items.
-
-Try to be specific in your examples, balancing creativity with realism.
+Consider practical uses like acquiring necessities such as food and desired items. Try to be specific in your examples, balancing creativity with realism.
 
 ###### Why do we need money?
 
@@ -29,9 +27,7 @@ Try to be specific in your examples, balancing creativity with realism.
 
 > **Note**
 >
-> Share and compare your lists to determine the five most essential reasons for needing money. Identify common ideas that appear across the
->
-> Reflect on any unique ideas you had that did not make the final list but are still worth considering. Jot down these additional insights.
+> Expand the discussion to the group by sharing and comparing lists to find the five most important reasons for needing money. Identify common ideas across the class. Reflect on your own unique ideas that didn’t make the list but are still valuable, and jot them down.
 
 
 
@@ -41,8 +37,8 @@ Try to be specific in your examples, balancing creativity with realism.
 Split into groups and:
 
 * Share and discuss answers on the first four questions. Write down favorite answers.
-* Share answers on the last question, and vote on one favorite student-question. Write down the result.
-* Revisit answers and questions at the end of the Bitcoin Diploma.
+* Share answers on the last question, and vote on one favorite question. Write down the result.
+* Revisit answers and questions at the end of the course.
 
 Now that you have a clearer understanding of why money is necessary, the upcoming modules will explore what money is, how it evolved through time, who influences it, and the newest form of it. Keep referring to your lists from this first day in class to draw connections between your insights and the evolution of money creation, definition, and usage over time.
 

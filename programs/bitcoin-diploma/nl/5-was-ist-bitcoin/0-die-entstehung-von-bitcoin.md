@@ -1,29 +1,25 @@
 # 5.0 Die Entstehung von Bitcoin
 
-> Viele Menschen verwerfen E-Währungen automatisch als verlorene Sache, weil seit den 1990er Jahren so viele Unternehmen gescheitert sind. Ich hoffe, es ist offensichtlich, dass nur die zentral gesteuerte Natur dieser Systeme ihr Scheitern verursacht hat. Ich denke, dies ist das erste Mal, dass wir ein dezentralisiertes, nicht vertrauensbasiertes System versuchen.  
+> Veel mensen wijzen e-valuta automatisch af als een verloren zaak vanwege alle bedrijven die sinds de jaren negentig zijn mislukt. Ik hoop dat het duidelijk is dat het alleen de centraal gecontroleerde aard van die systemen was die hen heeft doen mislukken. Ik denk dat dit de eerste keer is dat we een gedecentraliseerd, niet op vertrouwen gebaseerd systeem proberen.  
 _Satoshi Nakamoto_
 
 ![Bitcoin prehistory](https://cdn.sanity.io/images/vje9ehw2/staging/9362bbafc977db374415a8af472e892757923f9d-1814x1034.png)
 
-_Bitcoin-Vorgeschichte – Das Ergebnis von 40 Jahren Forschung, Entwicklung und Nachfrage_
+_Bitcoin prehistorie - Het is het resultaat van 40 jaar onderzoek, ontwikkeling en vraag_
 
-
----
-
-
-Wie wir im vorherigen Modul gesehen haben, versuchten mehrere Cypherpunks, eine alternative Form von Geld zu schaffen. Dieses Modul setzt die Geschichte eines von ihnen fort: eines Visionärs, der als „Satoshi Nakamoto“ bekannt ist. Diese anonyme Figur (eine Einzelperson oder Gruppe) beteiligte sich lange vor Bitcoin an Online-Diskussionen über Kryptografie und Informatik, um praktische Wege zu finden, das Fiat-System zu ersetzen.
+Zoals we in de vorige module zagen, probeerden verschillende Cypherpunks een alternatieve vorm van geld te creëren. Deze module vervolgt het verhaal van een van hen: een visionair bekend als “Satoshi Nakamoto”. Deze anonieme figuur (een individu of groep) nam, lang voor Bitcoin, deel aan online discussies over cryptografie en informatica om praktische manieren te vinden om het fiat-systeem te vervangen.
 
 https://bitcoin.org/bitcoin.pdf
 
-Im Oktober 2008 veröffentlichte Nakamoto ein bahnbrechendes Whitepaper mit dem Titel „Bitcoin: Ein Peer-to-Peer Electronic Cash System“ auf einer Kryptografie-Mailingliste. Dieses Dokument legte das Fundament für ein dezentrales Peer-to-Peer-Protokoll, das sichere Online-Transaktionen ohne Zwischenhändler ermöglichen sollte. Nakamotos Vision war klar: eine rein Peer-to-Peer-Version von elektronischem Geld zu schaffen, frei von der Kontrolle mächtiger Regierungen und Finanzinstitutionen.
+In oktober 2008 onthulde Nakamoto een baanbrekend whitepaper getiteld “Bitcoin: A Peer-to-Peer Electronic Cash System” op een cryptografie-mailinglijst. Dit document legde de basis voor een gedecentraliseerd peer-to-peer protocol dat is ontworpen om veilige online transacties mogelijk te maken zonder tussenpersonen. Nakamoto’s visie was duidelijk: een puur peer-to-peer versie van elektronisch geld creëren, vrij van de controle van machtige overheden en financiële instellingen.
 
-Obwohl Nakamotos Identität unbekannt bleibt, war ihr Ziel klar: Die Macht von wenigen zurück zu den vielen zu bringen, indem ein dezentrales, quelloffenes und transparentes Geldsystem geschaffen wird, das unabhängig vom Staat ist.  
-Bitcoin war eine Antwort auf die Finanzkrise von 2008, die gewöhnlichen Menschen schadete, während sie der Elite nützte. Es bot eine Alternative zur Korruption und Fragilität des Fiat-Systems. Nakamoto legte den Grundstein für eine neue Revolution und verzichtete darauf, Anerkennung zu beanspruchen.
+Hoewel Nakamoto’s identiteit onbekend blijft, was hun doel duidelijk: de macht wegnemen bij enkelen en teruggeven aan velen door een gedecentraliseerd, open-source en transparant geldsysteem te creëren dat onafhankelijk is van de staat.  
+Bitcoin was een reactie op de financiële crisis van 2008, die gewone mensen schaadde terwijl de elite profiteerde. Het bood een alternatief voor de corruptie en kwetsbaarheid van het fiat-systeem. Nakamoto legde de basis voor een nieuwe revolutie en koos ervoor geen erkenning op te eisen.
 
-Am 3. Januar 2009 schürfte Nakamoto den ersten Bitcoin-Block, bekannt als Genesis-Block. Dies markierte den Start des Bitcoin-Netzwerks, eines vertrauenslosen Systems, das durch ein dezentrales Hauptbuch gesichert ist.
+Op 3 januari 2009 heeft Nakamoto het eerste Bitcoin-blok gemined, bekend als het genesisblok. Dit markeerde de lancering van het Bitcoin-netwerk, een trustless systeem dat wordt beveiligd door een gedecentraliseerd grootboek.
 
-Im Jahr 2011, nachdem bewiesen war, dass das Netzwerk ohne ihn funktionieren konnte, zog sich Nakamoto zurück und überließ Bitcoin anderen, die die Vision teilten.
+In 2011, nadat hij had bewezen dat het netwerk zonder hem kon draaien, trok Nakamoto zich terug en liet Bitcoin over aan anderen die dezelfde visie deelden.
 
-In den folgenden Jahren schlossen sich immer mehr Menschen an und trugen bei. Bitcoin wurde zu einem Symbol der Hoffnung und Ermächtigung und bot eine sichere, zensurresistente Möglichkeit zu handeln. Als quelloffenes Protokoll kann es niemand kontrollieren, und jeder kann teilnehmen.
+In de jaren daarna sloten steeds meer mensen zich aan en droegen bij. Bitcoin groeide uit tot een symbool van hoop en empowerment, en bood een veilige, censuurbestendige manier om transacties uit te voeren. Als open-source protocol kan niemand het controleren en kan iedereen deelnemen.
 
-Heute lebt Nakamotos Vision eines grenzenlosen und transparenten Finanzsystems weiter. Menschen auf der ganzen Welt entscheiden sich für Bitcoin, und in vielen Regionen entstehen zirkuläre Ökonomien.
+Vandaag de dag leeft Nakamoto’s visie van een grensloos en transparant financieel systeem voort. Mensen over de hele wereld kiezen voor Bitcoin, en circulaire economieën ontstaan in veel regio’s.

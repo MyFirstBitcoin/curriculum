@@ -62,7 +62,7 @@ This is where the central bank comes in as a lender of last resort, providing ne
 
 1. **Banks borrow money from depositors at an interest rate** (let’s say 5%)
 1. **Banks lend this money to borrowers at a higher interest rate** (let’s say 9%)
-1. **Banks pay interest from interest received by lending** (9% - 5% = 4%) and keep the rest as their profit
+1. **Banks pay interest from interest received by lending** (9% - 5% = 4%) and keep the rest as profit
 
 
 > **Note – How Banks Create Money**
@@ -166,10 +166,6 @@ Central banks and governments can use monetary and fiscal policy tools to influe
 Exchange rate policies, supply shocks, and price controls serve as additional tools to regulate the money supply and impact trade and the economy. While these policies aim in theory to stabilize prices and control inflation, the intervention often leads to boom-and-bust cycles, which wipe out many businesses and the savings of many families.
 
 Knowing how these policies function is vital for understanding the limitations of centralized fiat monetary systems. Until you understand the problem, you won’t recognize the solution.
-
-
----
-
 
 #### Activity: Fractional Reserve Banking
 

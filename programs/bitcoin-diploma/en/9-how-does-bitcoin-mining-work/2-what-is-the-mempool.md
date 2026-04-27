@@ -10,10 +10,6 @@ Miners choose transactions from the mempool and include them in new blocks. Usua
 
 Once a transaction is included in a block, it becomes confirmed and is permanently recorded on the Bitcoin blockchain.
 
-
----
-
-
 #### Activity: Exploring the Mempool
 
 https://qr.myfirstbitcoin.org/mempool.pdf

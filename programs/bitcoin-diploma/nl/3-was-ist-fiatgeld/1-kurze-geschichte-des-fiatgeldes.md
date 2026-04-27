@@ -1,25 +1,23 @@
 # 3.1 Kurze Geschichte des Fiatgeldes
 
-| 1815–1933 | 1913 | 1933 | 1934 | 1944 | 1971 | 1980 |
+| 1815-1933 | 1913 | 1933 | 1934 | 1944 | 1971 | 1980 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Der Goldstandard | Gründung der „Federal Reserve“ | Executive Order 6102 | Gold Reserve Act | Bretton-Woods-Abkommen | Nixon-Schock | Geld hat 96 % seines Wertes verloren |
+| De Goudstandaard | Oprichting van 'De Federal Reserve' | Executive Order 6102 | Gold Reserve Act | Bretton Woods-overeenkomst | Nixon Shock | Geld verloor 96% van zijn waarde |
 
 
-Im 19. Jahrhundert verwendeten viele Gesellschaften ein stabiles Geldsystem, das auf Edelmetallen wie Gold und Silber basierte. Diese Metalle waren wertvoll, weil sie selten, haltbar und allgemein anerkannt waren. Mit zunehmendem Handel wurde es jedoch unpraktisch, große Mengen Metall mit sich zu führen. Banken begannen, Gold und Silber für die Menschen zu lagern und Papierurkunden auszustellen, die den genauen eingezahlten Metallbetrag repräsentierten.
+In de 19e eeuw gebruikten veel samenlevingen een solide geldsysteem gebaseerd op edelmetalen zoals goud en zilver. Deze metalen waren waardevol omdat ze schaars, duurzaam en algemeen erkend waren. Naarmate de handel toenam, werd het onhandig om grote hoeveelheden metaal mee te dragen. Banken begonnen goud en zilver voor mensen te bewaren en gaven papieren certificaten uit die het exacte bedrag aan gestort metaal vertegenwoordigden.
 
-Mit der Zeit begannen die Banken, mehr Papierurkunden auszugeben, als sie tatsächlich an Gold vorrätig hatten. Diese Praxis, bekannt als **Teilreserve-Bankwesen**, führte zum Risiko von **Bankanstürmen**, bei denen viele Menschen gleichzeitig versuchten, ihr Gold abzuheben. Um das Bankensystem zu stabilisieren, griffen die Regierungen stärker ein.
+In de loop van de tijd begonnen banken meer papieren certificaten uit te geven dan het goud dat ze daadwerkelijk in bezit hadden. Deze praktijk, bekend als **fractioneel bankieren**, bracht het risico van **bankruns** met zich mee, waarbij veel mensen tegelijkertijd probeerden hun goud op te nemen. Om het banksysteem te stabiliseren, gingen overheden zich er meer mee bemoeien.
 
-Im Jahr 1913 gründeten die Vereinigten Staaten die **Federal Reserve**, eine Zentralbank, die neues Geld ausgeben und angeschlagene Banken unterstützen konnte.
+In 1913 richtten de Verenigde Staten de **Federal Reserve** op, een centrale bank die nieuw geld kon uitgeven en noodlijdende banken kon ondersteunen.
 
-In den 1930er Jahren verlangte die US-Regierung außerdem von den Bürgern, ihr Gold gegen Papierdollar einzutauschen. Kurz darauf senkte die Regierung den Wert des Dollars im Verhältnis zu Gold, was die Kaufkraft der Ersparnisse der Menschen verringerte.
+In de jaren 1930 verplichtte de Amerikaanse overheid burgers ook hun goud in te leveren in ruil voor papieren dollars. Kort daarna verlaagde de overheid de waarde van de dollar ten opzichte van goud, waardoor de koopkracht van het spaargeld van mensen afnam.
 
 ![Executive Order 6102](https://cdn.sanity.io/images/vje9ehw2/staging/e0e4004d815cbfe59ec4b4f83b888d408e881815-1005x492.webp)
 
-Nach dem Zweiten Weltkrieg verband das Bretton-Woods-System die Weltwährungen mit dem US-Dollar, und der Dollar konnte weiterhin gegen Gold eingetauscht werden. Dieses System endete 1971, als die Vereinigten Staaten den Umtausch von Dollar in Gold einstellten.
-
-Seitdem verwenden die meisten Länder Fiatgeld.
+Na de Tweede Wereldoorlog koppelde het Bretton Woods-systeem wereldwijde valuta's aan de Amerikaanse dollar, en de dollar kon nog steeds worden ingewisseld voor goud. Dit systeem eindigde in 1971, toen de Verenigde Staten stopten met het toestaan van het inwisselen van dollars voor goud. Sindsdien gebruiken de meeste landen fiatgeld.
 
 
-> **Definition – Definition von Fiatgeld**
+> **Definition – Definitie van Fiatgeld**
 >
-> **Fiatgeld** ist eine Währung, die nicht durch einen physischen Rohstoff wie Gold gedeckt ist. Stattdessen hat sie Wert, weil Regierungen sie zum gesetzlichen Zahlungsmittel erklären und die Menschen ihr vertrauen und sie als Zahlungsmittel akzeptieren.
+> **Fiatgeld** is valuta die niet wordt gedekt door een fysieke grondstof zoals goud. In plaats daarvan heeft het waarde omdat overheden het tot wettig betaalmiddel verklaren en mensen erop vertrouwen en het accepteren voor betalingen.

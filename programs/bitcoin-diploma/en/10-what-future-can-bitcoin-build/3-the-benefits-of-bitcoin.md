@@ -26,8 +26,4 @@ The remittance market involves the transfer of funds from one party to another, 
 
 ###### Abundant Energy
 
-![Bitcoin Energy Sources](https://cdn.sanity.io/images/vje9ehw2/staging/ce3227dea8e575945b113d8d36ff9ca4f8b9005d-775x926.png)
-
-_Bitcoin Energy Sources. source: batcoinz.com / @dsbatten_
-
 When there's a lot of affordable energy, societies do well, and many industries and communities can meet the increasing need for power in homes, businesses, and new technologies. Bitcoin mining incentivizes miners to use surplus energy that would usually go to waste from sustainable energy sources like solar, wind, and hydroelectric power. Bitcoin miners can tap into this cheap surplus energy to create new bitcoin through mining activities, secure the network, and oﬀer excess energy they create back to the energy grid society uses when it is needed.

@@ -19,3 +19,5 @@ A cheeseburger that cost 19 cents in 1940 costs over $2.50 today. That's not bec
 Your savings, your salary, and your purchasing power are all quietly eroding over time, not because of anything you did, but because of how the system is designed.
 
 **This is the problem Bitcoin was built to solve.**
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/66f17e23bcd53c2a1040d777fc1bc212ec3ce0a0-1377x768.svg)

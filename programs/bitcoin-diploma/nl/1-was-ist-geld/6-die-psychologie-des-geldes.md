@@ -1,77 +1,77 @@
 # 1.6 Die Psychologie des Geldes
 
-Stellen Sie sich vor, Sie sind in einer Wüste gestrandet und haben nur noch eine Flasche Wasser übrig. Sie sind durstig und sehnen sich verzweifelt nach einem Schluck, wissen aber auch, dass Sie das Wasser brauchen werden, um zu überleben, bis Sie mehr finden. Dies ist ein klassisches Beispiel für Knappheit: Sie haben nur eine begrenzte Menge eines Rohstoffs (Wasser) und müssen Entscheidungen darüber treffen, wie Sie ihn am besten nutzen.
+Stel je voor dat je gestrand bent in een woestijn en je hebt nog maar één fles water over. Je hebt dorst en bent wanhopig op zoek naar een slok, maar je weet ook dat je het water nodig zult hebben om te overleven tot je meer kunt vinden. Dit is een klassiek voorbeeld van schaarste: je hebt een beperkte hoeveelheid van een hulpbron (water) en je moet keuzes maken over hoe je deze het beste kunt gebruiken.
 
-In dieser Situation könnten Sie sich entscheiden, das Wasser zu rationieren und über einen längeren Zeitraum kleine Schlucke zu nehmen, um es so lange wie möglich zu strecken. Alternativ könnten Sie sich entscheiden, alles auf einmal zu trinken, um Ihren Durst kurzfristig zu stillen, aber dieser kurze Moment der Erfrischung reicht vielleicht nicht aus, um Ihnen die Energie zu geben, später mehr Wasser zu finden. Unabhängig davon, wie Sie sich entscheiden, stehen Sie vor einer schwierigen Wahl.
+In deze situatie kun je besluiten om het water te rantsoeneren en kleine slokjes te nemen over een langere periode om het zo lang mogelijk te laten meegaan. Je kunt er ook voor kiezen om alles in één keer op te drinken, zodat je dorst even gelest is, maar deze korte hydratatie is misschien niet genoeg om je de energie te geven om later meer water te vinden. Welke keuze je ook maakt, je staat voor een moeilijke beslissing.
 
-Knappheit betrifft alle Ressourcen, nicht nur Wasser. Ob es sich um Geld, Zeit oder sogar Liebe und Aufmerksamkeit handelt – wir stehen ständig vor der Wahl, wie wir unsere begrenzten Ressourcen aufteilen.
+Schaarste geldt voor alle hulpbronnen, niet alleen voor water. Of het nu geld, tijd of zelfs liefde en aandacht is, we worden voortdurend geconfronteerd met keuzes over hoe we onze beperkte middelen toewijzen.
 
 
 > **Callout**
 >
-> **Knappheit** zwingt uns dazu, die Vor- und Nachteile abzuwägen, wie wir unsere Ressourcen nutzen, und Kompromisse einzugehen.
+> **Schaarste** dwingt ons om de voor- en nadelen van het gebruik van onze middelen af te wegen en om afwegingen te maken.
 
 
-##### Es gibt zwei Arten von Knappheit
+##### Er zijn twee soorten schaarste
 
-* **Künstliche Knappheit**, auch als zentralisierte Knappheit bekannt, umfasst Dinge wie limitierte Designer-Taschen, seltene Sportkarten und nummerierte Kunstwerke. Diese können leicht
-* **Natürliche Knappheit**, auch als dezentralisierte Knappheit bekannt, umfasst Dinge wie Grundstücke am Meer und Edelmetalle wie Gold. Diese sind schwerer zu replizieren oder zu fälschen.
+* **Kunstmatige schaarste**, ook wel gecentraliseerde schaarste genoemd, omvat dingen zoals limited-edition designertassen, zeldzame sportkaarten en genummerde kunstwerken. Deze kunnen gemakkelijk
+* **Natuurlijke schaarste**, ook wel gedecentraliseerde schaarste genoemd, omvat dingen zoals onroerend goed aan zee en edelmetalen zoals goud. Deze zijn moeilijker te repliceren of te vervalsen.
 
-Der Hauptunterschied zwischen beiden ist die Kontrolle.
+Het belangrijkste verschil tussen de twee is controle.
 
-Zentralisierte Knappheit wird von einer einzelnen Instanz, wie einem Unternehmen oder einer Regierung, bestimmt, während dezentralisierte Knappheit von niemandem kontrolliert wird. Ein Beispiel für zentralisierte Knappheit sind luxuriöse, limitierte Modeartikel wie Taschen oder Turnschuhe: Es wäre für das Unternehmen praktisch kostenfrei, 1.000 weitere Exemplare zu produzieren, aber der hohe Preis wird durch diese künstlich geschaffene Knappheit bestimmt. Es ist die Kontrolle des Unternehmens über die Stückzahl, die den Wert bestimmt. Im Gegensatz dazu kann man Salz, Muscheln oder Gold nur finden und nutzen, indem man einen erheblichen Aufwand und Energie (oder ‚Arbeit‘) investiert. Bei diesen natürlich knappen Ressourcen lohnt sich dieser Aufwand wirtschaftlich nur, wenn das daraus entstehende Gut sehr geschätzt wird.
+Gecentraliseerde schaarste wordt bepaald door één enkele entiteit, zoals een bedrijf of de overheid, terwijl gedecentraliseerde schaarste door niemand wordt gecontroleerd. Een voorbeeld van gecentraliseerde schaarste is die van luxe, gelimiteerde modeartikelen, zoals tassen of sneakers: het zou het bedrijf vrijwel niets kosten om 1.000 extra stuks te produceren, maar de hoge prijs wordt bepaald door deze kunstmatig opgelegde schaarste. Het is de controle van het bedrijf over het aantal stuks dat hun waarde bepaalt. Daarentegen is de enige manier om zout, schelpen of goud te vinden en te benutten door een aanzienlijke hoeveelheid moeite en energie (of 'werk') te investeren. In het geval van deze van nature schaarse hulpbronnen is die investering alleen economisch zinvol als het uiteindelijke goed zeer gewaardeerd wordt.
 
-Niemand – weder Einzelpersonen noch Gruppen – kontrolliert den Preis einer natürlich vorkommenden Ressource, um ihren Preis zu beeinflussen, sondern es ist umgekehrt: Die Nachfrage nach diesem Gut auf dem Markt bestimmt, ob es sich lohnt, Energie für die Gewinnung aufzuwenden.
+Geen enkel persoon of groep bepaalt de prijs van een natuurlijk voorkomende hulpbron om de prijs te beïnvloeden, maar het werkt juist andersom: het is de vraag naar dat goed op de markt die bepaalt of het de moeite waard is om er meer van te winnen.
 
-Knappheit beeinflusst unsere Entscheidungen. Sie zu verstehen, kann unsere Entscheidungsfindung verbessern: Wir stehen oft vor der Wahl zwischen sofortigem Gewinn und langfristigem Nutzen, und diese Abwägungen prägen unseren Weg zur Zielerreichung.
+Schaarste beïnvloedt onze keuzes. Het begrijpen ervan kan ons helpen betere beslissingen te nemen: we staan vaak voor de keuze tussen directe voordelen en langetermijnwinst, en deze afwegingen bepalen onze weg naar het bereiken van onze doelen.
 
-##### Beispiel für Zeitpräferenz
+##### Voorbeeld van tijdsvoorkeur
 
-Sie haben die Wahl, heute 100 $ zu erhalten oder in einem Jahr 110 $. Wenn Sie eine hohe Zeitpräferenz haben, entscheiden Sie sich vielleicht dafür, die 100 $ heute zu nehmen, weil Sie den sofortigen Besitz mehr schätzen als den Vorteil, ein Jahr auf die zusätzlichen 10 $ zu warten. Wenn Sie hingegen eine niedrige Zeitpräferenz haben, warten Sie lieber auf die größere Belohnung, weil Sie langfristiger planen und weniger auf sofortige Befriedigung aus sind.
+![Time preference (low/high)](https://cdn.sanity.io/images/vje9ehw2/staging/a52f3ee7263716482aa4823eb23df7f3b6a494c2-179x94.svg)
 
-![Time preference (low/high)](https://cdn.sanity.io/images/vje9ehw2/staging/e6652f626da59992f17544219af848be4f6e62c9-179x94.svg)
+Je hebt de keuze om vandaag €100 te ontvangen of €110 over een jaar. Als je een hoge tijdsvoorkeur hebt, kies je misschien voor de €100 vandaag omdat je het belangrijker vindt om het geld nu te hebben dan om een jaar te wachten op die extra €10. Aan de andere kant, als je een lage tijdsvoorkeur hebt, wacht je liever op de grotere beloning omdat je meer gericht bent op langetermijnplanning en minder op directe bevrediging.
 
 
-> **Definition – Definition der Zeitpräferenz**
+> **Definition – Definitie van tijdsvoorkeur**
 >
-> **Zeitpräferenz** bezieht sich auf die Idee, dass Menschen im Allgemeinen etwas JETZT lieber haben als später.
+> **Tijdsvoorkeur** verwijst naar het idee dat mensen over het algemeen liever iets NU hebben dan later.
 
 
-Zurück zum Beispiel mit der Wasserflasche in der Wüste: Wenn Sie das ganze Wasser sofort trinken, auch wenn Sie dann später nichts mehr übrig haben, zeigt das eine hohe Zeitpräferenz: Der Durst, den Sie in diesem Moment verspüren, ist so dringend, dass Sie den zukünftigen Durst zugunsten der sofortigen Befriedigung abwerten. Das ist völlig natürlich: Wir bevorzugen in der Regel gegenwärtige Befriedigung gegenüber gegenwärtigem Verzicht für einen zukünftigen Vorteil, weil die Zukunft immer unsicher ist.
+Terugkomend op het eerdere voorbeeld van de fles water in de woestijn: al het water meteen opdrinken, ook al betekent dat dat je later niets meer over hebt, laat een hoge tijdsvoorkeur zien: de dorst die je op dat moment voelt is zo dringend dat je de dorst die je in de toekomst misschien zult voelen, minder belangrijk vindt dan het nu lessen van je dorst. Dit is volkomen natuurlijk: we geven meestal de voorkeur aan directe bevrediging boven huidige ontbering voor een toekomstig voordeel, omdat de toekomst altijd onzeker is.
 
-Wenn Sie hingegen versuchen, das Wasser zu rationieren und jeweils nur kleine Schlucke zu nehmen, zeigt das eine niedrigere Zeitpräferenz und eine rationale Zuteilung einer knappen Ressource. Das bedeutet, dass Sie bereit sind, Ihre momentane Befriedigung aufzuschieben, um Ihre langfristigen Überlebenschancen zu verbessern. Das ist nicht selbstverständlich und erfordert erhebliche Anstrengung, Selbstkontrolle und Zukunftsorientierung.
+Proberen het water te rantsoeneren door telkens kleine slokjes te nemen, laat daarentegen een lagere tijdsvoorkeur zien en een rationele toewijzing van een schaarse hulpbron. Dit betekent dat je bereid bent om je dorst nu niet volledig te lessen om je overlevingskansen op de lange termijn te vergroten. Dit gaat niet vanzelf en vereist veel inspanning, zelfbeheersing en toekomstgerichtheid.
 
 
-> **Definition – Definition der Opportunitätskosten**
+> **Definition – Definitie van alternatieve kosten**
 >
-> **Opportunitätskosten** bezeichnen den Wert der nächstbesten Alternative, auf die Sie verzichten, wenn Sie eine Entscheidung treffen. Jede Entscheidung beinhaltet Kompromisse, und daher trägt jede Entscheidung Opportunitätskosten.
+> **Alternatieve kosten** verwijzen naar de waarde van het op één na beste alternatief dat je opgeeft wanneer je een beslissing neemt. Elke beslissing brengt afwegingen met zich mee, en dus brengt elke beslissing alternatieve kosten met zich mee.
 
 
-Im Wüstenbeispiel bestehen die Opportunitätskosten, wenn Sie das ganze Wasser sofort trinken, in den Überlebensvorteilen, die Sie durch das Rationieren und den längeren Gebrauch des Wassers gehabt hätten.
+In het woestijnvoorbeeld zijn de alternatieve kosten van al het water in één keer opdrinken de overlevingsvoordelen die je had kunnen behalen door het water te rantsoeneren en over een langere periode te gebruiken.
 
-Angenommen, Sie entscheiden sich, das Wasser zu rationieren und über einen längeren Zeitraum kleine Schlucke zu nehmen. Dadurch haben Sie die Energie und Flüssigkeit, die Sie brauchen, um nach mehr Wasser zu suchen. Während Sie suchen, stoßen Sie auf einen Kaktus, der eine kleine Menge Wasser enthält. Es ist nicht viel, aber genug, um Ihren Durst für den Moment zu stillen. Hätten Sie Ihr ganzes Wasser auf einmal getrunken, hätten Sie vielleicht nicht die Energie gehabt, nach mehr Wasser zu suchen und den Kaktus zu finden.
+Stel dat je besluit het water te rantsoeneren en kleine slokjes te nemen over een langere periode. Daardoor heb je de energie en hydratatie die je nodig hebt om naar meer water te zoeken. Terwijl je zoekt, kom je een cactus tegen die een beetje water bevat. Het is niet veel, maar genoeg om je dorst voor het moment te lessen. Als je al je water in één keer had opgedronken, had je misschien niet de energie gehad om naar meer water te zoeken en de cactus te vinden.
 
-In diesem Fall wären die Opportunitätskosten, das ganze Wasser auf einmal zu trinken, die verpasste Chance gewesen, den Kaktus zu finden und mehr Flüssigkeit zu bekommen.
+In dit geval zouden de alternatieve kosten van al je water in één keer opdrinken de kans zijn geweest om de cactus te vinden en meer vocht binnen te krijgen.
 
-Dieses Beispiel zeigt, dass Opportunitätskosten nicht nur den unmittelbaren Kompromiss zwischen zwei Optionen betreffen, sondern auch potenzielle zukünftige Möglichkeiten, die durch unsere Entscheidungen gewonnen oder verloren werden können.
+Dit voorbeeld laat zien dat alternatieve kosten niet alleen gaan over de directe afweging tussen twee opties, maar ook over de mogelijke toekomstige kansen die als gevolg van onze keuzes kunnen worden gewonnen of verloren.
 
-Unsere Bereitschaft, eine größere Belohnung in der Zukunft zugunsten einer kleineren Belohnung jetzt aufzugeben, wird von unserer Zeitpräferenz beeinflusst – also davon, wie sehr wir sofortige Befriedigung gegenüber langfristiger Planung schätzen.
+Onze bereidheid om een grotere beloning in de toekomst op te geven in ruil voor een kleinere beloning nu, wordt beïnvloed door onze tijdsvoorkeur, oftewel hoeveel waarde we hechten aan directe bevrediging versus langetermijnplanning.
 
-#### Aktivität: Zeitpräferenz
+#### Activiteit: Tijdsvoorkeur
 
-1. Hören Sie sich die Erklärung der Lehrkraft zur Süßigkeitenwahl an.
-1. Entscheiden Sie, ob Sie jetzt eine kleine Süßigkeit oder einen Marshmallow erhalten möchten oder bis zum Ende des Unterrichts warten, um zwei Süßigkeiten oder eine größere, begehrenswertere Süßigkeit zu bekommen.
-1. Treffen Sie Ihre Entscheidung und teilen Sie der Lehrkraft Ihre Wahl mit. Sie erhalten Ihre Süßigkeit entweder sofort oder am Ende des Unterrichts, je nach Ihrer Entscheidung.
-1. Nehmen Sie an der Klassendiskussion über die Aktivität teil und reflektieren Sie Ihren Entscheidungsprozess und das Konzept der Zeitpräferenz.
+1. Luister naar de uitleg van de docent over de keuze met het snoepje.
+1. Bepaal of je nu een klein snoepje of spekje wilt ontvangen, of wilt wachten tot het einde van de les om twee snoepjes of een groter, aantrekkelijker snoepje te krijgen.
+1. Maak je keuze en laat de docent weten wat je kiest. Ontvang je snoepje direct of aan het einde van de les, afhankelijk van je beslissing.
+1. Doe mee aan het klassengesprek over de activiteit en denk na over je besluitvormingsproces en het concept van tijdsvoorkeur.
 
-###### Fazit und Diskussion
+###### Conclusie en Discussie
 
-* Welche Faktoren haben Ihre Entscheidung beeinflusst, die Süßigkeit jetzt zu nehmen oder auf eine größere Belohnung zu warten?
-* Wie fühlen Sie sich jetzt, nachdem die Aktivität vorbei ist, in Bezug auf Ihre Entscheidung?
-* Fallen Ihnen Beispiele aus dem echten Leben ein, bei denen eine hohe Zeitpräferenz schädlich und eine niedrige Zeitpräferenz vorteilhaft sein könnte?
-* Was sind mögliche Konsequenzen, wenn man eine hohe Zeitpräferenz einer niedrigen vorzieht?
+* Welke factoren hebben je beslissing beïnvloed om het snoepje nu te nemen of te wachten op een grotere beloning later?
+* Hoe voel je je over je beslissing nu de activiteit voorbij is?
+* Kun je voorbeelden uit het echte leven bedenken waarbij een hoge tijdsvoorkeur schadelijk kan zijn en een lage tijdsvoorkeur juist voordelig?
+* Wat zijn mogelijke gevolgen van het kiezen voor een hoge tijdsvoorkeur boven een lage tijdsvoorkeur?
 
-###### Ressourcen
+###### Bronnen
 
 
 [▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)

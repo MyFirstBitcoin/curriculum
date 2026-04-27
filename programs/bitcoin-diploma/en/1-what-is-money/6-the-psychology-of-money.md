@@ -29,8 +29,6 @@ Scarcity influences our choices. Understanding it can improve our decision-makin
 
 You have the option to receive $100 today or $110 in a year. If you have a high time preference, you might choose to receive the $100 today because you value having the $100 now more than the benefits of waiting a year for the extra $10. On the other hand, if you have a low time preference, you’ll prefer to wait for the larger reward because you are more focused on long-term planning and less concerned with immediate gratification.
 
-![Time preference (low/high)](https://cdn.sanity.io/images/vje9ehw2/staging/c1f990757240247b0e46e89d2e5684496aea19cd-179x94.svg)
-
 
 > **Definition – Definition of time preference**
 >

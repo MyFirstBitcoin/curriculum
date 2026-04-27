@@ -2,37 +2,32 @@
 
 #### Aktivität: Einrichten & Wiederherstellen einer Wallet
 
-Nachdem wir nun ein besseres Verständnis für Bitcoin-Wallets und deren Unterschiede haben, werden wir sehen, wie man eine Wallet in der Praxis verwendet. In diesem Beispiel erstellen wir eine mobile Wallet direkt auf unserem Smartphone.
+Jetzt, da wir ein besseres Verständnis von Bitcoin-Wallets und deren Unterschieden haben, werden wir sehen, wie man eine Wallet in der Praxis verwendet. In diesem Beispiel erstellen wir eine mobile Wallet direkt auf unserem Smartphone. Falls die Schüler kein Smartphone besitzen, stellt die Lehrkraft eines zum Ausleihen zur Verfügung. Für diese Aktivität gibt es zwei Möglichkeiten.
 
-Falls die Schüler keine Smartphones besitzen, stellt die Lehrkraft eines zur Verfügung, das sie ausleihen können. Für diese Aktivität gibt es zwei Möglichkeiten.
+##### Option 1: Neue Wallet herunterladen
 
+**So erstellt und verwendet man eine Bitcoin-Wallet:**
 
-> **Note – Option 1 — Neue Wallet herunterladen**
->
-> **So erstellt und verwendet man eine Bitcoin-Wallet:**
->
-> 1. Suchen Sie die App im App Store (iOS) oder Google Play Store (Android)
-> 1. Öffnen Sie die App und wählen Sie "Neue Wallet erstellen". Ihr privater Schlüssel wird automatisch von der App erstellt.
-> 1. Sie werden aufgefordert, eine Liste von 12 bis 24 Wörtern aufzuschreiben und an einem sicheren Ort aufzubewahren. Dies ist Ihre Wiederherstellungsphrase (auch Seed Phrase genannt): Sie ermöglicht es Ihnen, bei Bedarf den vollständigen Zugriff auf Ihre Gelder wiederherzustellen.**Denken Sie daran: Wenn Sie diese Wortfolge verlieren oder vergessen, können Sie nicht mehr auf Ihre Bitcoin zugreifen, falls Sie den Zugang zu Ihrer Wallet verlieren. Außerdem: Wenn jemand anderes Ihre Wiederherstellungsphrase findet, erhält diese Person Zugriff auf Ihre Bitcoin!**
-> 1. Sie müssen dann bestätigen, dass Sie Ihre Wiederherstellungsphrase gespeichert haben. Dazu müssen Sie die Wörter Ihrer Seed Phrase in der gleichen Reihenfolge eingeben.
-> 1. Als zusätzliche Sicherheitsmaßnahme erlauben manche Wallets Ihnen, ein sicheres Passwort zu wählen.
-> 1. Sobald Sie Ihre Wiederherstellungsphrase gesichert haben, betreten Sie die Wallet. Suchen Sie nach der Option "Empfangen": Ihre Wallet generiert einen öffentlichen Schlüssel, um Bitcoin zu empfangen.
-> 1. Überweisen Sie Bitcoin auf Ihre Wallet. Mit einer selbstverwalteten Wallet können Sie nicht immer direkt mit Fiat Bitcoin kaufen, daher müssen Sie diese möglicherweise zuerst auf einer Börse kaufen und dann übertragen.
->
-> Stellen Sie sich Ihren **öffentlichen Schlüssel** wie Ihre **E-Mail-Adresse** vor: Sie teilen diese mit anderen, damit sie Ihnen Bitcoin senden können (oder im Fall einer E-Mail-Adresse eine E-Mail).
->
-> Stellen Sie sich Ihren **privaten Schlüssel** wie das **Passwort** zu Ihrer E-Mail vor: Das würden Sie niemandem mitteilen, da es anderen Zugang zu Ihrem E-Mail-Konto verschaffen würde.
+1. Suche die App im App Store (iOS) oder Google Play Store (Android)
+1. Öffne die App und wähle „Neue Wallet erstellen“. Dein privater Schlüssel wird automatisch von der App erstellt.
+1. Du wirst aufgefordert, eine Liste von 12 bis 24 Wörtern aufzuschreiben und an einem sicheren Ort aufzubewahren. Das ist deine **Wiederherstellungsphrase** (auch Seed Phrase genannt): Sie ermöglicht es dir, bei Bedarf den vollständigen Zugriff auf deine Gelder wiederherzustellen.**Denke daran: Wenn du diese Wortfolge verlierst oder vergisst, kannst du nicht mehr auf deine Bitcoin zugreifen, falls du den Zugang zu deiner Wallet verlierst. Und wenn jemand anderes deine Wiederherstellungsphrase findet, erhält diese Person Zugriff auf deine Bitcoin!**
+1. Du musst dann bestätigen, dass du deine Wiederherstellungsphrase gesichert hast. Dazu musst du die Wörter deiner Seed Phrase in der richtigen Reihenfolge eingeben.
+1. Als zusätzliche Sicherheitsmaßnahme erlauben manche Wallets dir, ein sicheres Passwort zu wählen.
+1. Sobald du deine Wiederherstellungsphrase gesichert hast, öffne die Wallet. Suche nach der Option „Empfangen“: Deine Wallet generiert einen öffentlichen Schlüssel, um Bitcoin zu empfangen.
+1. Überweise Bitcoin auf deine Wallet. Mit einer selbstverwalteten Wallet kannst du nicht immer direkt mit Euro Bitcoin kaufen, daher musst du sie eventuell zuerst an einer Börse kaufen und dann übertragen.
 
+Stelle dir deinen **öffentlichen Schlüssel** wie deine **E-Mail-Adresse** vor: Du teilst sie mit anderen, damit sie dir Bitcoin senden können (oder im Fall einer E-Mail-Adresse eine E-Mail).
 
+Stelle dir deinen **privaten Schlüssel** wie das **Passwort** zu deiner E-Mail vor: Das würdest du niemandem verraten, da es sonst Zugang zu deiner E-Mail geben würde.
 
-> **Note – Option 2 — Wallet wiederherstellen**
->
-> **Laden Sie eine Bitcoin-Wallet herunter und fügen Sie für jeden Schüler einige Satoshis hinzu.**
->
-> Geben Sie jedem Schüler ein Blatt mit einer Seed Phrase, um eine Wallet wiederherzustellen.
->
-> **Führen Sie die Schüler Schritt für Schritt:**
->
-> 1. Wenn Sie Ihre Wallet zum ersten Mal starten, sehen Sie drei Methoden zur Wallet-Erstellung. Tippen Sie auf **[Bestehende Wallet importieren]**. Sie sehen einen Einführungsscreen, tippen Sie auf **[Mit Wiederherstellungsphrase wiederherstellen]**.
-> 1. Geben Sie Ihre 12- bis 24-wörtige Wiederherstellungsphrase einzeln und in der richtigen Reihenfolge ein.
-> 1. Sie sehen eine Bestätigungsmeldung, sobald Ihre Wallet erfolgreich importiert wurde. Ihre wiederhergestellten Gelder sind jetzt einsatzbereit!
+##### Option 2: Wallet wiederherstellen
+
+**Lade eine Bitcoin-Wallet herunter und füge für jeden Schüler ein paar Sats hinzu.**
+
+Gib jedem Schüler ein Blatt mit einer **Wiederherstellungsphrase** zum Wiederherstellen einer Wallet.
+
+**Führe die Schüler Schritt für Schritt durch:**
+
+1. Wenn du deine Wallet zum ersten Mal startest, siehst du drei Methoden zur Wallet-Erstellung. Tippe auf **[Bestehende Wallet importieren]**. Du siehst einen Einführungsscreen, tippe auf **[Mit Wiederherstellungsphrase wiederherstellen]**.
+1. Gib deine Wiederherstellungsphrase Wort für Wort in der richtigen Reihenfolge ein.
+1. Du siehst eine Bestätigungsmeldung, sobald deine Wallet erfolgreich importiert wurde. Deine wiederhergestellten Gelder sind jetzt einsatzbereit!

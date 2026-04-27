@@ -15,9 +15,7 @@ During the 1930s, the U.S. government also required citizens to surrender their 
 
 ![Executive Order 6102](https://cdn.sanity.io/images/vje9ehw2/staging/e0e4004d815cbfe59ec4b4f83b888d408e881815-1005x492.webp)
 
-After World War II, the Bretton Woods system linked global currencies to the U.S. dollar, and the dollar could still be exchanged for gold. This system ended in 1971, when the United States stopped allowing dollars to be redeemed for gold.
-
-Since then, most countries use fiat money.
+After World War II, the Bretton Woods system linked global currencies to the U.S. dollar, and the dollar could still be exchanged for gold. This system ended in 1971, when the United States stopped allowing dollars to be redeemed for gold. Since then, most countries use fiat money.
 
 
 > **Definition – Definition of Fiat Money**

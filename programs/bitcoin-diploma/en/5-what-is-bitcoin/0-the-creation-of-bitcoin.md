@@ -7,10 +7,6 @@ _Satoshi Nakamoto_
 
 _Bitcoin prehistory - It’s the result of 40 years of research, development and demand_
 
-
----
-
-
 As we saw in the previous module, several Cypherpunks tried to create an alternative form of money. This module continues the story of one of them: a visionary known as “Satoshi Nakamoto”. This anonymous figure (an individual or group), long before Bitcoin, took part in online discussions about cryptography and computer science to find practical ways to replace the fiat system.
 
 https://bitcoin.org/bitcoin.pdf

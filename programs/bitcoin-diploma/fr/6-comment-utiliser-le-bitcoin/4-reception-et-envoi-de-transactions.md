@@ -1,20 +1,20 @@
 # 6.4 Réception et envoi de transactions
 
-Une transaction Bitcoin est un transfert de propriété de bitcoin à un nouveau propriétaire. Notez qu’il ne s’agit pas des pièces elles-mêmes qui sont transférées, mais de leur propriété : en d’autres termes, le droit de les dépenser. Chaque fois qu’une transaction est acceptée dans un bloc, tous les nœuds du réseau mettent à jour leur copie locale du registre public pour refléter le changement de propriété. À cet égard, une transaction Bitcoin ressemble davantage à une transaction immobilière (ou autre bien) qu’à une transaction en espèces.
+Une transaction Bitcoin est un transfert de propriété de bitcoin vers un nouveau propriétaire. Notez qu’il ne s’agit pas des pièces elles-mêmes qui sont transférées, mais de leur propriété : en d’autres termes, le droit de les dépenser. Chaque fois qu’une transaction est acceptée dans un bloc, tous les nœuds du réseau mettent à jour leur copie locale du registre public pour refléter le changement de propriété. À cet égard, une transaction Bitcoin ressemble davantage à une transaction immobilière (ou autre bien) qu’à une transaction en espèces.
 
 Pour « envoyer » des bitcoins, l’expéditeur signe un message avec sa clé privée, signalant au réseau que le propriétaire légitime du bitcoin a transféré sa propriété au destinataire.
 
-Le bitcoin sera désormais lié à l’adresse du destinataire, lui donnant la propriété du bitcoin, de sorte que seul le nouveau propriétaire pourra les dépenser en utilisant sa clé privée.
+Le bitcoin sera désormais lié à l’adresse du destinataire, lui conférant la propriété du bitcoin, de sorte que seul le nouveau propriétaire pourra les dépenser en utilisant sa clé privée.
 
-De nouvelles transactions Bitcoin sont initiées depuis des portefeuilles partout dans le monde, mais il n’y a pas de processeur de paiement central. À la place, les mineurs se disputent l’enregistrement des transactions dans le registre.
+De nouvelles transactions Bitcoin sont initiées depuis des portefeuilles partout dans le monde, mais il n’existe aucun processeur de paiement centralisé. À la place, les mineurs se concurrencent pour enregistrer les transactions dans le registre.
 
 Supposons que Jim doive 0,5 BTC à Eliana et soit prêt à la rembourser. Tous deux possèdent des portefeuilles numériques.
 
 1. Eliana partage son adresse avec Jim.
 1. Jim utilise son logiciel de portefeuille pour créer la transaction, qui inclut l’adresse d’Eliana, le montant à transférer (0,5 BTC) et des frais pour le mineur. Des frais plus élevés augmentent la probabilité qu’un mineur inclue la transaction dans le prochain bloc.
-1. Après avoir signé la transaction, elle est diffusée sur le réseau, où elle est vérifiée par les nœuds. Ils vérifient si Jim dispose de fonds suffisants et s’il est le propriétaire légitime des pièces qu’il souhaite dépenser. S’il ne l’est pas, ils rejettent immédiatement la transaction.
+1. Après avoir signé la transaction, celle-ci est diffusée sur le réseau, où elle est vérifiée par les nœuds. Ils vérifient si Jim dispose de fonds suffisants et s’il est bien le propriétaire légitime des pièces qu’il souhaite dépenser. S’il ne l’est pas, ils rejettent immédiatement la transaction.
 1. Une fois la transaction vérifiée, les mineurs choisissent de l’ajouter ou non au prochain bloc, généralement en fonction des frais sélectionnés. Une fois la transaction incluse dans un bloc, elle est ajoutée à la blockchain et les fonds sont transférés à l’adresse d’Eliana.
-1. La propriété a été transférée à Eliana. Elle peut maintenant utiliser sa clé privée pour dépenser les fonds reçus.
+1. La propriété a été transférée à Eliana. Elle peut désormais utiliser sa clé privée pour dépenser les fonds.
 
 _Il est important de noter qu’une fois la transaction terminée, elle ne peut pas être annulée._
 
@@ -22,10 +22,10 @@ _Il est important de noter qu’une fois la transaction terminée, elle ne peut 
 > **Note – Comment fonctionne une transaction Bitcoin**
 >
 > 1. Quelqu’un demande une transaction
-> 1. La transaction est diffusée aux ordinateurs P2P (nœuds)
+> 1. Transaction diffusée aux ordinateurs P2P (nœuds)
 > 1. Les mineurs vérifient la transaction
 > 1. Les transactions sont regroupées pour former un bloc de données
-> 1. Un nouveau bloc est ajouté à la blockchain existante
+> 1. Nouveau bloc ajouté à la blockchain existante
 > 1. La transaction est terminée
 
 
@@ -38,7 +38,7 @@ _Il est important de noter qu’une fois la transaction terminée, elle ne peut 
 >
 > Vous pouvez ensuite partager votre adresse Bitcoin de plusieurs façons :
 >
-> 1. **Copier et coller l’adresse** : Vous pouvez copier l’adresse en la sélectionnant et en appuyant sur « Copier », puis la coller dans un e-mail ou un message.
+> 1. **Copier et coller l’adresse** : Vous pouvez copier l’adresse en la sélectionnant puis en appuyant sur « Copier », puis la coller dans un e-mail ou un message.
 > 1. **Partager un lien vers votre portefeuille Bitcoin** : Certains portefeuilles Bitcoin vous permettent de créer un lien vers votre portefeuille que vous pouvez partager avec l’expéditeur. Il pourra alors cliquer sur le lien pour accéder à votre portefeuille et envoyer des bitcoins.
 > 1. **Partager un code QR** : Si l’expéditeur possède un smartphone avec une application de portefeuille Bitcoin installée, il peut scanner le code QR pour obtenir votre adresse Bitcoin.
 
@@ -61,13 +61,9 @@ La transaction est confirmée par le réseau Bitcoin et prend généralement env
 >
 > Vous savez maintenant comment évaluer, choisir et configurer un portefeuille Bitcoin en auto-garde. L’envoi et la réception de bitcoins sur le réseau Bitcoin sont appelés transactions « on-chain ». Cela signifie que les transactions ont lieu sur le réseau principal Bitcoin et sont enregistrées dans la blockchain.
 >
-> Les transactions on-chain sont le moyen le plus sûr de transiger avec des bitcoins grâce à la vérification décentralisée fournie par le réseau.
+> Les transactions on-chain sont le moyen le plus sûr de transacter avec des bitcoins grâce à la vérification décentralisée fournie par le réseau.
 >
 > Cependant, les transactions on-chain sont plus lentes et peuvent être nettement plus coûteuses que d’autres options (que nous aborderons dans le Module 7) en raison des frais de minage.
-
-
-
----
 
 
 #### Activité : Les transactions en action
@@ -78,12 +74,12 @@ https://qr.myfirstbitcoin.org/transactions.pdf
 
 ###### Points clés
 
-1. Il y a quatre types de participants dans chaque transaction bitcoin : l’expéditeur, le destinataire, les mineurs et les opérateurs de nœuds.
+1. Il existe quatre types de participants dans chaque transaction bitcoin : l’expéditeur, le destinataire, les mineurs et les opérateurs de nœuds.
 1. L’expéditeur doit approuver (signer cryptographiquement) le **montant de bitcoins** à envoyer ET l’**adresse spécifique** à laquelle envoyer.
-1. Le destinataire doit fournir une **adresse valide** à l'expéditeur ET vérifier que la transaction a bien été confirmée sur la blockchain.
-1. Les mineurs s'assurent que tous les critères sont valides avant d'ajouter les transactions aux futurs blocs.
+1. Le destinataire doit fournir **une adresse valide** à l'expéditeur ET vérifier que la transaction a bien été confirmée sur la blockchain.
+1. Les mineurs s'assurent que tous les critères sont valides avant d'ajouter les transactions aux blocs futurs.
 1. Les opérateurs de nœuds vérifient que les blocs minés sont valides avant de mettre à jour leur version de la blockchain (le registre).
 
-###### Conseil aux étudiants
+###### Astuce pour les étudiants
 
 Alternez entre les quatre rôles pour découvrir ce que fait chaque participant.

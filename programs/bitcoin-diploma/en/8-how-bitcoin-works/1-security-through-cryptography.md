@@ -3,8 +3,6 @@
 > What Bitcoin gives us is a hard promise: the program will execute exactly as specified.  
 _Andreas M. Antonopoulos_
 
-
-
 #### Public/Private Key Cryptography
 
 
@@ -31,26 +29,22 @@ If John wants to send something to Arel, he can use Arel’s public key. Only Ar
 
 In Bitcoin, this system is used to create digital signatures. A digital signature proves that the owner of a private key approved a transaction, similar to signing your name on a document. This is what allows Bitcoin transactions to be secure and verifiable without trusting a third party.
 
-
-> **Info**
->
-> Each user has two keys: a **private key**, which is **kept secret**, and a **public key** that can be **shared with others**.
->
-> The **private key** serves as a form of identification and proof of ownership, confirming: “This address belongs to me and I have control over it.”
->
-> **Digital signatures** are created to identify unique transactions.
-
-
-Bitcoin transactions involve transferring the ownership of a certain amount of bitcoin from one address to another.
+Bitcoin transactions involve transferring ownership of bitcoin from one address to another.
 
 Encryption is used to ensure that only the real holder of the bitcoin has the authority to send their money to someone else. It ensures their property is guarded against malicious actors.
 
 As an additional measure of protection, each Bitcoin transaction automatically gets a UNIQUE digital signature. This unique digital signature is powered by tamper-proof technology that helps the network verify that the real owner of the bitcoin, and not someone else, has sent them.
 
+
+> **Info**
+>
+> Each user has two keys: a **private key**, which is **kept secret**, and a **public key** that can be **shared with others**. The **private key** serves as a form of identification and proof of ownership, confirming: “This address belongs to me and I have control over it.”
+
+
 ###### How a Bitcoin Transaction Works
 
 1. **Creating the Transaction**: A user initiates a Bitcoin transaction by specifying details such as the recipient's address and the amount of bitcoin to be sent.
-1. **Digital Signature Generation**: The sender generates a unique **digital signature** using their **private key**. This signature is a unique cryptographic code that verifies the transaction's authenticity.
+1. **Digital Signature Generation**: The sender generates a unique **digital signature** using their **private key**. This signature is a unique code that verifies the transaction's authenticity.
 1. **Broadcasting the Transaction**: The signed transaction is broadcast to the Bitcoin network, indicating the intent to transfer ownership of bitcoin from the sender to the recipient.
 1. **Verification on the Network**: Nodes on the Bitcoin network receive the transaction and use the recipient's **public key** to verify the authenticity of the signature. of the transaction. Simultaneously, they use the sender's **public key** to verify the **digital signature**.
 1. **Confirmation on the Bitcoin network**: If the verification is successful, the transaction will be added to the ledger, which serves as a secure, transparent record of all transactions. Once confirmed, the ownership of the bitcoin is oﬃcially transferred from the sender to the recipient.
@@ -58,9 +52,7 @@ As an additional measure of protection, each Bitcoin transaction automatically g
 
 > **Callout – Summary**
 >
-> The **digital signature**, created with the sender’s **private key**, proves that the transaction was authorized by the owner of the bitcoin.
->
-> The Bitcoin network can then verify this proof and record the transaction.
+> The **digital signature**, created with the sender’s **private key**, proves that the transaction was authorized by the owner of the bitcoin. The Bitcoin network can then verify this proof and record the transaction.
 
 
 #### Hashing Explanation
@@ -70,7 +62,7 @@ Please don’t be intimidated by the technical terms and mathematical concepts a
 
 > **Definition – Definition of a function**
 >
-> A **function** is like a machine that takes some information and turns it into something new. The information you give the function is called the **input**. The new information the function creates is called the **output**. Functions help computers do tasks and solve problems.
+> A **function** is like a machine that takes some information and turns it into something new. The information you give the function is the **input**. The new information the function creates is the **output**. Functions help computers do tasks and solve problems.
 
 
 ##### What is a function?
@@ -81,21 +73,13 @@ In Bitcoin, functions are used to process and verify transactions. When someone 
 
 ##### What is a one-way function?
 
-A one-way function is a special type of function that is easy to compute in one direction but extremely difficult to reverse.
+A one-way function is a special type of function that is easy to compute in one direction but extremely difficult to reverse. For example, blending ingredients into a smoothie is easy, but you cannot separate the smoothie back into the original ingredients.
 
-For example, blending ingredients into a smoothie is easy, but you cannot separate the smoothie back into the original ingredients.
-
-Bitcoin security relies on one-way functions. They are used in public and private key cryptography, allowing people to share a public key while keeping their private key secret. Even though the public key is visible, it is nearly impossible to derive the private key from it. This is what makes Bitcoin transactions secure.
+Bitcoin security relies on one-way functions. They are used in public and private key cryptography, allowing people to share a public key while keeping their private key secret. Even though the public key is visible, it is impossible to derive the private key from it. This is what makes Bitcoin transactions secure.
 
 ##### What is a hash function?
 
-
-> **Definition – Definition of a hash function**
->
-> A **hash function** is like a secret code machine.
->
-> It takes in a **message** and turns it into a code.
-
+A **hash function** is like a secret code machine. It takes in a message and turns it into a code.
 
 ###### How Hashing Works in Bitcoin Transactions
 
@@ -110,7 +94,7 @@ A hash function takes data and converts it into a fixed string of numbers and le
 
 > **Definition – Definition of Hashing**
 >
-> **Hashing** is like creating a fingerprint for digital data. It is the process of taking a digital message and turning it into a fixed length code, which serves as a unique identifier. Just like a fingerprint can identify a person, a hash can identify a digital message. Hashes are used in many applications, including Bitcoin transactions.
+> **Hashing** is like creating a fingerprint for digital data. It is the process of taking a digital message and turning it into a fixed length code, which serves as a unique identifier. Just like a fingerprint can identify a person, a hash can identify a digital message.
 
 
 The **output**, or hash, is always the same length, no matter how long the original information was. Bitcoin uses a few specific types of hash function called **SHA-256** and **RIPEMD160**.
@@ -126,7 +110,7 @@ A few examples are below:
   * `7b9f670c749f797a0f7481d619ce8807edac052c97e1a0df3b130c95efae4765`
   * This input is a huge file yet the output is still the same fixed length
 
-You can also think of hashing as a musical score that captures the essence of a piece of music. Just as a musical score is a unique representation of a tune, a hash value is a unique representation of a piece of data.
+You can also think of hashing as a musical score that captures the essence of a piece of music. Just as a musical score is a unique representation of a tune, a hash value is a unique representation of a data.
 
 By comparing the score of a piece of music with the actual performance, a musician can determine if the performance is accurate. Similarly, by comparing the hash value of received data with the original hash value, one can determine if the data has been altered during transmission.
 
@@ -146,10 +130,4 @@ The process of encoding the **public key** through hashing is used to improve th
 
 https://tools.keycdn.com/sha256-online-generator
 
-Curious about how hashing works?
-
-Scan the QR code to instantly generate a SHA256 hash from any word, sentence, or input you choose.
-
-Hash functions are like digital fingerprints: they're one-way, meaning once something is hashed, it can't be reversed.
-
-Try it out and see for yourself!
+Curious about how hashing works? Scan the QR code to instantly generate a SHA256 hash from any word, sentence, or input you choose. Hash functions are like digital fingerprints: they're one-way, meaning once something is hashed, it can't be reversed. Try it out and see for yourself!

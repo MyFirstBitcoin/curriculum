@@ -9,10 +9,6 @@ Imagine a time long ago when people didn't have the coins or paper bills we use 
 
 In this module, we will embark on a journey through time, experiencing the evolution of money firsthand. We’ll trace its origins and observe how it has changed and adapted throughout history.
 
-
----
-
-
 #### Activity: Iterative Barter Game
 
 https://qr.myfirstbitcoin.org/barter.pdf

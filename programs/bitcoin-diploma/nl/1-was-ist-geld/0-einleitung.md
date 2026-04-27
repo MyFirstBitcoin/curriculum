@@ -1,15 +1,13 @@
 # 1.0 Einleitung
 
-> Geld ist eines der größten Instrumente der Freiheit, die je von Menschen erfunden wurden.  
+> Geld is een van de grootste instrumenten van vrijheid die ooit door de mens zijn uitgevonden.  
 _Friedrich Hayek_
 
-Willkommen zum Bitcoin-Diplom.
+Welkom bij het Bitcoin Diploma. In deze module verkennen we de fundamentele vraag waarom geld essentieel is in ons leven. We gaan in op de aard van geld en de verschillende vormen ervan, met als doel een dieper begrip te krijgen van het belang ervan.
 
-In diesem Modul werden wir der grundlegenden Frage nachgehen, warum Geld in unserem Leben so wichtig ist. Wir werden uns mit dem Wesen des Geldes und seinen verschiedenen Formen beschäftigen, um ein tieferes Verständnis für seine Bedeutung zu gewinnen.
+Geld is iets dat we elke dag gebruiken, maar begrijpen we eigenlijk waarom we het nodig hebben en wat het is?
 
-Geld ist etwas, das wir fast jeden Tag benutzen, aber verstehen wir eigentlich, warum wir es brauchen und was es ist?
-
-* Warum tauschen Menschen ihre Zeit gegen Geld?
-* Warum haben manche Menschen mehr davon als andere?
-* Warum ist Geld in anderen Ländern anders?
-* Warum können wir nicht einfach mehr davon erschaffen, wenn wir es brauchen?
+* Waarom ruilen mensen hun tijd voor geld?
+* Waarom hebben sommige mensen er meer van dan anderen?
+* Waarom is geld anders in andere landen?
+* Waarom kunnen we er niet gewoon meer van maken als we het nodig hebben?

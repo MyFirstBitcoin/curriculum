@@ -22,6 +22,12 @@ Bitcoin is a new form of money: it is “The Internet of Money", which means tha
 * **Financial Inclusion**: 2.5 billion unbanked people can access money.
 * **Increased Privacy**: Bitcoin transactions are public but your identity is not.
 
+Bitcoin is completely digital and borderless. It doesn’t matter where you are located because it lives on computers and smartphones from all over the world. Lots of users worldwide run the Bitcoin software and a copy of its ledger.
+
+This software and record of all transactions has a very low chance of disappearing as there are countless copies of it. To shut it down, you would need to shut down the entire internet, forever — which is extremely unlikely to happen.
+
+Finally, Bitcoin is scarce, which means that the number of bitcoin that will ever exist is absolutely limited. No one can counterfeit on-chain bitcoin — not even the most powerful governments and financial institutions.
+
 
 > **Note – Principles of Bitcoin**
 >
@@ -33,12 +39,6 @@ Bitcoin is a new form of money: it is “The Internet of Money", which means tha
 >
 > These principles make Bitcoin open, global, and independent.
 
-
-Bitcoin is completely digital and borderless. It doesn’t matter where you are located because it lives on computers and smartphones from all over the world. Lots of users worldwide run the Bitcoin software and a copy of its ledger.
-
-This software and record of all transactions has a very low chance of disappearing as there are countless copies of it. To shut it down, you would need to shut down the entire internet, forever — which is extremely unlikely to happen.
-
-Finally, Bitcoin is scarce, which means that the number of bitcoin that will ever exist is absolutely limited. No one can counterfeit on-chain bitcoin — not even the most powerful governments and financial institutions.
 
 #### Bitcoin’s Features
 
@@ -76,7 +76,7 @@ As you learned, humanity has over time figured out that real sound money must po
 ##### Bitcoin vs Gold vs US Dollar
 
 
-| Properties of Money | Gold | Fiat | Bitcoin |
+|  | Gold | Fiat | Bitcoin |
 | --- | --- | --- | --- |
 | Durability | High | Moderate | High |
 | Portability | Moderate | High | High |
@@ -93,12 +93,16 @@ Bitcoin is a type of smart money that's programmable, can't be easily confiscate
 
 What do you think? Bitcoin is not yet widely recognized and adopted, but is it sound money?
 
+
+---
+
+
 #### Discussion: Is Bitcoin Sound Money?
 
-Now that we have discussed Bitcoin in greater detail, let’s return to our money comparison table from Module 1 and see how Bitcoin compares with other forms of money:
+Now that we have discussed Bitcoin in greater detail, let’s return to our money comparison table from Module 1 and see how Bitcoin compares with other forms of money.
 
 
-| Characteristic of Good Money | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
+|  | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
 | --- | --- | --- | --- | --- | --- |
 | Durable |  |  |  |  |  |
 | Portable |  |  |  |  |  |
@@ -107,10 +111,6 @@ Now that we have discussed Bitcoin in greater detail, let’s return to our mone
 | Scarce |  |  |  |  |  |
 | Divisible |  |  |  |  |  |
 | Total |  |  |  |  |  |
-
-
-
----
 
 
 #### Embracing Personal Responsibility
@@ -135,7 +135,7 @@ With Bitcoin, you are fully in control of your funds, but with this additional c
 
 Fortunately, this will not happen to those who decide to take full responsibility over their own lives. Using Bitcoin is not inherently diﬃcult; it’s just different. Any discomfort that arises is due to lack of familiarity, but if you are willing to learn and fully embrace the responsibility of safeguarding your wealth, Bitcoin becomes an empowering tool: you are in control, and no one can seize your wealth without your consent or knowledge of.
 
-The key lies in action, in understanding Bitcoin's workings and implementing them according to your unique needs and life philosophy. Next, we’ll start using Bitcoin by setting up a Bitcoin wallet, sending and receiving our first transactions, and reviewing security best practices.
+The key lies in action, in understanding Bitcoin's workings and implementing them according to your unique needs and life philosophy.
 
 ###### Resources
 

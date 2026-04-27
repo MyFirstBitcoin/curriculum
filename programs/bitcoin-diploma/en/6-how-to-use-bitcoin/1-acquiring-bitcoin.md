@@ -9,17 +9,11 @@ There are many ways to acquire and exchange bitcoin. For example, you can:
 
 Below, we’ll explore exchanging fiat currency for bitcoin and vice versa, through both in-person and online methods, as they are the most common options.
 
-
-
 #### Peer-to-Peer: In Person
 
 Engaging in peer-to-peer (P2P) transactions to buy and sell bitcoin in person involves directly exchanging your fiat currency (or any other goods or services) for bitcoin with another individual, eliminating the need for a bank or other party to be involved.
 
 Both parties agree on the amount and rate. The buyer provides cash, the seller sends the bitcoin, and the transaction is complete once confirmed on the blockchain. Exchanging bitcoin for fiat works the same way in reverse.
-
-
----
-
 
 #### Peer-to-Peer: Online
 
@@ -33,10 +27,6 @@ On such platforms, you don’t have to trust anyone with your information or mon
 > **Note**
 >
 > On most peer-to-peer platforms, peers have to escrow some of the funds to ensure each side will comply with their part of the deal. Escrow means putting the money in a safe place under the control of the platform until both parties do what they promised. It's like a trusted friend holding onto your stuff until everyone is satisfied with the deal.
-
-
-
----
 
 
 #### Centralized Exchanges

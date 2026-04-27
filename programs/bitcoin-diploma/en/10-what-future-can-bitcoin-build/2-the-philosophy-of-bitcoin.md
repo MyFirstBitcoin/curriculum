@@ -17,10 +17,10 @@ The main idea is to create a safe, clear, and fair system where everyone can acc
 1. Why did barter stop being used? What is the problem of the double coincidence of wants?
 1. Why is it important to understand the Nixon shock and its relevance for to this day?
 1. Which other historical event we have studied is the most impactful for you?
-1. How is money with a fixed supply diﬀerent from traditional fiat currencies?
+1. How is money with a fixed supply different from traditional fiat currencies?
 1. When was Bitcoin created, by whom, and for what purpose? How does the concept of a decentralized system contribute to this mission?
-1. What are the diﬀerent trade-oﬀs associated with custodial and non-custodial wallets? Which was your favorite wallet?
-1. What do you understand about the Lightning Network? What type of transactions would you use it for?
+1. What are the different trade-oﬀs associated with custodial and non-custodial wallets? Which was your favorite wallet?
+1. What do you know about the Lightning Network? What transactions would you use it for?
 1. In what way does running your own node support the network?
-1. How does having control over your own money empower you in your daily life and future planning?
+1. How does controlling your own money empower your daily life and future planning?
 1. In what ways can financial freedom enhance your ability to contribute positively to your community or society?
