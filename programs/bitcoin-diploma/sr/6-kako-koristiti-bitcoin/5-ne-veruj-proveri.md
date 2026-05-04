@@ -1,0 +1,3 @@
+# 6.5 Ne veruj, proveri
+
+Šta god da radite u Bitcoinu, zapamtite ovo: „Ne veruj, proveri.“ U Bitcoinu nema vladara. Nikada ne treba slepo da verujete tuđim tvrdnjama; umesto toga, uvek treba da preispitate ono što vam se govori i sami to proverite. Prateći ovu mantru, zaštitićete sebe od gubitka svog bitcoina. Ovo važi za tvrdnje poput „sledeći Bitcoin“, isto kao i za „investicione prilike“ ili obećanja o „brzoj i lakoj zaradi“. Zato treba davati prednost open-source projektima. Ako ne možete sami da proverite kod, moraćete da verujete zajednici koja će to uraditi umesto vas; ali je bolje verovati decentralizovanoj i nezavisnoj grupi proverača nego vođi ili grupi koja stoji iza projekta.

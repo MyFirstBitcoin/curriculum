@@ -1,0 +1,3 @@
+# 6.5 Lita inte, verifiera
+
+Vad du än gör i Bitcoin, kom ihåg detta: "Lita inte, verifiera." Det finns inga härskare i Bitcoin. Du ska aldrig blint följa någons påståenden; istället ska du alltid ifrågasätta det du får höra och verifiera det själv. Genom att följa detta mantra skyddar du dig själv från att förlora dina bitcoin. Detta gäller påståenden som "nästa Bitcoin" lika mycket som "investeringsmöjligheter" eller löften om "snabba och enkla vinster." Därför bör öppen källkod-projekt föredras. Om du inte kan verifiera koden själv, måste du lita på det community som gör det åt dig; men det är bättre att lita på en decentraliserad och oberoende grupp av granskare än på ledaren eller gruppen bakom projektet.

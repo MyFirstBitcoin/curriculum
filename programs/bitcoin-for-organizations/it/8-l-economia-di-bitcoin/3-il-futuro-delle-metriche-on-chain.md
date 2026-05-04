@@ -1,0 +1,9 @@
+# 8.3 Il futuro delle metriche on-chain
+
+> Molte persone credono che la decentralizzazione significhi perdita di controllo. Non è affatto vero. Puoi migliorare il controllo se lo consideri come il controllo degli eventi e non delle persone. Più persone hai che controllano gli eventi – più persone hai che tengono al controllo degli eventi, più persone hai che lavorano attivamente per creare eventi favorevoli._Wilbur L. Creech_
+
+Il futuro delle metriche on-chain nella formulazione dei dati macroeconomici offre prospettive significative, soprattutto man mano che l’economia di Bitcoin continua a crescere in scala e rilevanza.
+
+A differenza degli indicatori economici tradizionali, che spesso si basano su dati ritardati, sondaggi o report poco trasparenti, i dati on-chain forniscono registrazioni in tempo reale, trasparenti e immutabili dei trasferimenti di valore. Man mano che Bitcoin si integra sempre di più nel commercio globale, i volumi delle transazioni on-chain, l’attività degli utenti e le interazioni sulla rete potrebbero diventare indicatori in tempo reale della spesa dei consumatori, delle rimesse e dei flussi di capitale.
+
+La natura aperta del registro di Bitcoin significa di fatto che chiunque può utilizzare i suoi dati per compilare e riportare tendenze o divergenze macroeconomiche senza dover dipendere da report di fonti governative centralizzate o 'ufficiali'. Sebbene le metriche descritte in questo modulo già servano come indicatori anticipatori del sentimento degli investitori e dell’appetito per il rischio, in futuro potrebbero diventare elementi fondamentali per modelli economici più ampi sul comportamento dei mercati e dei consumatori. Questi potrebbero essere generati in tempo reale e da una prospettiva dal basso verso l’alto, mettendo in discussione i metodi convenzionali di costruzione dei modelli economici.

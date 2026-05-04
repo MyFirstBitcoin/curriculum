@@ -1,0 +1,12 @@
+# 1.0 Pengenalan
+
+> Imbasan horizon membolehkan anda melihat sekilas masa depan dengan memerhati serpihan-serpihan yang tertanam dalam masa kini.  
+_Roger Spitz_
+
+Bayangkan diri anda pada tahun 1995, bekerja dalam pekerjaan yang anda (atau ibu bapa anda) lakukan pada masa itu dengan pengetahuan yang anda miliki sekarang. Dengan manfaat pandangan ke belakang, apakah risiko yang dihadapi oleh pekerjaan anda, organisasi anda, atau pasaran anda akibat kemunculan internet yang bakal berlaku? Adakah terdapat ancaman yang perlu dikurangkan serta peluang yang boleh diambil? Atau bayangkan anda bekerja untuk Blockbuster. Jika anda tahu pada masa itu apa yang anda tahu sekarang, dan anda merupakan pegawai kanan dalam sebuah syarikat awam, anda akan dianggap cuai terhadap tanggungjawab fidusiari anda sebagai penjaga dana pemegang saham jika anda tidak berusaha untuk menambah risiko kemunculan internet ke dalam Daftar Risiko organisasi anda.
+
+Internet merupakan satu risiko yang sedang muncul pada tahun 1995, sama seperti Bitcoin pada hari ini. Internet telah diiktiraf secara meluas dalam wacana pada tahun 1995; ia bukan rahsia teknologi. Namun, ia kurang difahami atau digunakan oleh mana-mana perniagaan, dan hanya sedikit, kecuali syarikat permulaan internet baharu, yang berusaha untuk mempelajarinya atau sekurang-kurangnya memantau sebagai satu risiko.
+
+Seperti internet pada tahun 1995, Bitcoin diiktiraf secara meluas, tetapi kurang difahami atau digunakan oleh perniagaan, kecuali mereka yang beroperasi terutamanya dalam ekonomi Bitcoin. Menjelang tahun 1995, internet telah berkembang daripada asal-usulnya pada tahun 1960-an melalui penambahan lapisan protokol baharu sehingga mencapai tahap kebolehgunaan yang mencetuskan pertumbuhan pesatnya.
+
+Bitcoin telah berkembang dengan cara yang serupa sejak penubuhannya pada tahun 2009, secara beransur-ansur meningkatkan kebolehgunaan dan mengurangkan kerumitan. Sama seperti internet, bilangan pengguna Bitcoin telah berkembang secara perlahan ([https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption](https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption)) sementara penambahbaikan teknologi ini sedang berlaku. Seperti internet, kita tidak akan tahu penambahbaikan mana yang akan menjadi pencetus kepada penerimaan secara besar-besaran sehingga selepas ia berlaku, tetapi kita sudah mempunyai data dari tahun 2022 dan seterusnya yang menunjukkan "serpihan-serpihan yang tertanam dalam masa kini" (Roger Spitz).

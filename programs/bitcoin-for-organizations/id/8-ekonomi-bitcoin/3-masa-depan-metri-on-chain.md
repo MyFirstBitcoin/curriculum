@@ -1,0 +1,9 @@
+# 8.3 Masa Depan Metri On-Chain
+
+> Banyak orang percaya bahwa desentralisasi berarti kehilangan kendali. Itu sama sekali tidak benar. Anda justru dapat meningkatkan kendali jika Anda memandang kendali sebagai pengendalian terhadap peristiwa, bukan terhadap orang. Maka, semakin banyak orang yang Anda miliki untuk mengendalikan peristiwa—semakin banyak orang yang peduli untuk mengendalikan peristiwa, semakin banyak orang yang secara proaktif bekerja untuk menciptakan peristiwa yang menguntungkan._Wilbur L. Creech_
+
+Masa depan metrik on-chain dalam perumusan data makroekonomi memiliki potensi yang signifikan, terutama seiring dengan pertumbuhan ekonomi Bitcoin yang semakin besar dan relevan.
+
+Berbeda dengan indikator ekonomi tradisional yang sering kali bergantung pada pelaporan yang tertunda, berbasis survei, atau tidak transparan, data on-chain menyediakan catatan transfer nilai yang real-time, transparan, dan tidak dapat diubah. Seiring Bitcoin semakin terintegrasi ke dalam perdagangan global, volume transaksi on-chain, aktivitas pengguna, dan interaksi jaringan dapat berfungsi sebagai proksi real-time untuk pengeluaran konsumen, remitansi, dan arus modal.
+
+Sifat terbuka dari buku besar Bitcoin secara efektif berarti bahwa siapa pun dapat menggunakan datanya untuk menyusun dan melaporkan tren atau perbedaan makroekonomi tanpa harus bergantung pada laporan dari sumber pemerintah yang terpusat atau 'resmi'. Sementara metrik yang dijelaskan dalam modul ini sudah berfungsi sebagai indikator utama sentimen investor dan selera risiko, di masa depan metrik-metrik ini dapat menjadi masukan penting bagi model ekonomi yang lebih luas tentang perilaku pasar dan konsumen. Model-model ini dapat dihasilkan secara real-time dan dari perspektif bottom-up, menantang metode konvensional dalam membangun model ekonomi.

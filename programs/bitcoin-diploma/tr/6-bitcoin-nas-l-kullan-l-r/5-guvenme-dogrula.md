@@ -1,0 +1,3 @@
+# 6.5 Güvenme, Doğrula
+
+Bitcoin'de ne yaparsan yap, şunu unutma: “Güvenme, Doğrula.” Bitcoin'de hiçbir yönetici yoktur. Birinin iddialarını asla körü körüne takip etmemelisin; sana söylenenleri her zaman sorgulamalı ve kendin doğrulamalısın. Bu prensibe uyarak, bitcoinlerini kaybetmekten kendini korursun. Bu, “bir sonraki Bitcoin” gibi iddialar için de, “yatırım fırsatları” veya “hızlı ve kolay kazanç” vaatleri için de geçerlidir. Bu yüzden açık kaynak projeler tercih edilmelidir. Eğer kodu kendin doğrulayamıyorsan, bunu senin için yapacak topluluğa güvenmek zorunda kalırsın; fakat bir projeyi yöneten lider ya da gruptansa, merkeziyetsiz ve bağımsız bir doğrulayıcı grubuna güvenmek daha iyidir.

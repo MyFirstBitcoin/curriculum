@@ -1,0 +1,12 @@
+# 1.0 Einleitung
+
+> Horizon Scanning ermöglicht es Ihnen, einen Blick in die Zukunft zu werfen, indem Sie Fragmente beobachten, die in der Gegenwart eingebettet sind.  
+_Roger Spitz_
+
+Stellen Sie sich vor, Sie befinden sich im Jahr 1995 und arbeiten in dem Beruf, den Sie (oder Ihre Eltern) damals hatten – mit dem Wissen, das Sie heute besitzen. Im Rückblick: Welchen Risiken waren Ihr Beruf, Ihre Organisation oder Ihr Markt durch den bevorstehenden Aufstieg des Internets ausgesetzt? Gab es Bedrohungen, die gemindert werden mussten, sowie Chancen, die ergriffen werden konnten? Oder stellen Sie sich vor, Sie hätten bei Blockbuster gearbeitet. Wenn Sie damals gewusst hätten, was Sie heute wissen, und Sie wären leitender Angestellter in einem börsennotierten Unternehmen gewesen, hätten Sie Ihre treuhänderischen Pflichten als Verwalter von Aktionärsgeldern verletzt, wenn Sie das Risiko des Aufstiegs des Internets nicht in das Risikoregister Ihrer Organisation aufgenommen hätten.
+
+Das Internet war 1995 ein aufkommendes Risiko, genauso wie Bitcoin es heute ist. Das Internet war 1995 in der öffentlichen Diskussion weithin bekannt; es war kein technisches Geheimnis. Dennoch wurde es von Unternehmen kaum verstanden oder genutzt, und nur wenige – abgesehen von neuen Internet-Startups – bemühten sich, mehr darüber zu erfahren oder es überhaupt als Risiko zu beobachten.
+
+Wie das Internet 1995 ist Bitcoin weithin bekannt, wird aber von Unternehmen – außer denen, die hauptsächlich in der Bitcoin-Ökonomie tätig sind – kaum verstanden oder genutzt. Bis 1995 hatte sich das Internet von seinen Ursprüngen in den 1960er Jahren durch die Hinzufügung neuer Protokollschichten so weit entwickelt, dass es eine Nutzbarkeit erreichte, die sein explosives Wachstum entfachte.
+
+Bitcoin entwickelt sich seit seiner Einführung im Jahr 2009 auf ähnliche Weise weiter, indem die Benutzerfreundlichkeit schrittweise verbessert und die Komplexität abstrahiert wird. Genau wie beim Internet wächst die Zahl der Bitcoin-Nutzer langsam ([https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption](https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption)) während diese technologischen Verbesserungen stattfinden. Wie beim Internet werden wir erst im Nachhinein wissen, welche Verbesserung der Funke war, der die explosive Verbreitung auslöste, aber wir haben bereits seit 2022 Daten, die „Fragmente, eingebettet in der Gegenwart“ zeigen (Roger Spitz).

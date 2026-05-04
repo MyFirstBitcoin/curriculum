@@ -1,0 +1,9 @@
+# 8.3 Az on-chain metrikák jövője
+
+> Sokan azt hiszik, hogy a decentralizáció a kontroll elvesztését jelenti. Ez egyszerűen nem igaz. A kontrollt javíthatod, ha az események feletti irányításként tekintesz rá, nem pedig emberek feletti uralomként. Minél több ember vesz részt az események irányításában – minél többen törődnek azzal, hogy befolyásolják az eseményeket, minél többen dolgoznak proaktívan azért, hogy kedvező eseményeket hozzanak létre – annál nagyobb a kontroll._Wilbur L. Creech_
+
+A láncon belüli metrikák jövője a makrogazdasági adatok kialakításában jelentős lehetőségeket rejt magában, különösen ahogy a Bitcoin gazdaság egyre nagyobb méretet és jelentőséget ölt.
+
+A hagyományos gazdasági mutatókkal ellentétben, amelyek gyakran késleltetett, felmérés-alapú vagy átláthatatlan jelentéseken alapulnak, a láncon belüli adatok valós idejű, átlátható és megmásíthatatlan nyilvántartásokat biztosítanak az értékmozgásokról. Ahogy a Bitcoin egyre inkább beépül a globális kereskedelembe, a láncon belüli tranzakciós volumenek, a felhasználói aktivitás és a hálózati interakciók valós idejű helyettesítői lehetnek a fogyasztói költéseknek, a hazautalásoknak és a tőkeáramlásoknak.
+
+A Bitcoin főkönyvének nyitott jellege azt jelenti, hogy bárki felhasználhatja az adatait makrogazdasági trendek vagy eltérések összeállítására és jelentésére anélkül, hogy központosított vagy „hivatalos” kormányzati forrásokra kellene támaszkodnia. Bár az ebben a modulban leírt mutatók már most is vezető indikátorai a befektetői hangulatnak és a kockázatvállalási hajlandóságnak, a jövőben kulcsfontosságú bemeneti adatokká válhatnak a piac és a fogyasztói magatartás szélesebb gazdasági modelljeiben. Ezek valós időben és alulról felfelé építkezve is előállíthatók, kihívást jelentve a hagyományos gazdasági modellezési módszereknek.

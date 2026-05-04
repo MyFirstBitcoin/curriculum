@@ -1,0 +1,12 @@
+# 1.0 Panimula
+
+> Ang horizon scanning ay nagbibigay-daan sa iyo na masilip ang hinaharap sa pamamagitan ng pagmamasid sa mga piraso ng hinaharap na nakabaon na sa kasalukuyan.  
+_Roger Spitz_
+
+Isipin mong ikaw ay nasa taong 1995, nagtatrabaho sa trabahong mayroon ka (o ng iyong mga magulang) noon, ngunit dala ang kaalaman na taglay mo ngayon. Kung babalikan mo gamit ang karunungan ng nakaraan, anong mga panganib ang kinaharap ng iyong trabaho, ng iyong organisasyon, o ng iyong merkado dahil sa nalalapit na pag-usbong ng internet? Mayroon bang mga banta na dapat iwasan at mga oportunidad na dapat samantalahin? O isipin mong ikaw ay nagtatrabaho sa Blockbuster. Kung alam mo noon ang nalalaman mo ngayon, at isa kang mataas na opisyal sa isang pampublikong korporasyon, magiging kapabayaan mo sa iyong tungkulin bilang tagapangalaga ng pondo ng mga shareholder kung hindi mo isasama ang panganib ng pag-usbong ng internet sa Risk Register ng iyong organisasyon.
+
+Ang internet ay isang lumilitaw na panganib noong 1995, tulad ng Bitcoin ngayon. Malawak nang kinikilala ang internet sa mga usapan noong 1995; hindi ito lihim ng mga tech. Gayunpaman, kakaunti ang tunay na nakakaunawa o gumagamit nito sa mga negosyo, at iilan lamang, maliban sa mga bagong internet startup, ang nagsikap na matutunan ito o kahit bantayan ito bilang isang panganib.
+
+Tulad ng internet noong 1995, malawak nang kinikilala ang Bitcoin, ngunit kakaunti ang tunay na nakakaunawa o gumagamit nito sa mga negosyo, maliban sa mga pangunahing gumagalaw sa Bitcoin economy. Noong 1995, ang internet ay umunlad mula sa pinagmulan nito noong 1960s sa pamamagitan ng pagdagdag ng mga bagong protocol layer hanggang sa umabot ito sa antas ng usability na nagpasimula ng mabilis nitong paglago.
+
+Ang Bitcoin ay umuunlad din sa katulad na paraan mula nang ito ay ipinakilala noong 2009, unti-unting pinapabuti ang usability at pinapasimple ang komplikasyon. Tulad ng internet, dahan-dahan ding dumarami ang mga gumagamit ng Bitcoin ([https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption](https://bitcoinmagazine.com/markets/an-objective-look-at-bitcoin-adoption)) habang nagaganap ang mga pag-unlad na ito sa teknolohiya. Tulad ng internet, hindi natin alam kung aling pagbabago ang magiging mitsa ng biglaang paglaganap ng paggamit hanggang sa mangyari ito, ngunit mayroon na tayong datos mula 2022 pataas na nagpapakita ng mga "piraso ng hinaharap na nakabaon sa kasalukuyan" (Roger Spitz).

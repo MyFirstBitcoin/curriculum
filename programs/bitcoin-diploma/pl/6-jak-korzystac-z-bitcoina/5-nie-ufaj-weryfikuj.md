@@ -1,0 +1,3 @@
+# 6.5 Nie ufaj, weryfikuj
+
+Cokolwiek robisz w świecie Bitcoina, pamiętaj o tym: „Nie ufaj, weryfikuj”. W Bitcoinie nie ma władców. Nigdy nie powinieneś ślepo wierzyć czyimś zapewnieniom; zawsze zadawaj pytania i samodzielnie sprawdzaj to, co słyszysz. Dzięki tej zasadzie ochronisz swoje bitcoiny przed utratą. Dotyczy to zarówno twierdzeń typu „następny Bitcoin”, jak i „okazje inwestycyjne” czy obietnic „szybkiego i łatwego zysku”. Dlatego warto wybierać projekty open source. Jeśli nie możesz samodzielnie zweryfikować kodu, będziesz musiał zaufać społeczności, która zrobi to za Ciebie; jednak lepiej zaufać zdecentralizowanej i niezależnej grupie weryfikatorów niż liderowi lub grupie stojącej za projektem.

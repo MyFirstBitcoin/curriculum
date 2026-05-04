@@ -1,0 +1,9 @@
+# 8.3 Tương lai của các chỉ số trên chuỗi
+
+> Nhiều người tin rằng phi tập trung đồng nghĩa với việc mất kiểm soát. Điều đó đơn giản là không đúng. Bạn có thể cải thiện khả năng kiểm soát nếu bạn xem kiểm soát là kiểm soát các sự kiện chứ không phải kiểm soát con người. Khi đó, càng nhiều người tham gia kiểm soát các sự kiện – càng nhiều người quan tâm đến việc kiểm soát các sự kiện, càng nhiều người chủ động làm việc để tạo ra những sự kiện thuận lợi._Wilbur L. Creech_
+
+Tương lai của các chỉ số trên chuỗi trong việc xây dựng dữ liệu kinh tế vĩ mô mang lại nhiều hứa hẹn, đặc biệt khi nền kinh tế Bitcoin tiếp tục phát triển về quy mô và tầm quan trọng.
+
+Không giống như các chỉ số kinh tế truyền thống thường dựa vào báo cáo chậm trễ, khảo sát hoặc thiếu minh bạch, dữ liệu trên chuỗi cung cấp các bản ghi chuyển giá trị theo thời gian thực, minh bạch và không thể thay đổi. Khi Bitcoin ngày càng được tích hợp vào thương mại toàn cầu, khối lượng giao dịch trên chuỗi, hoạt động của người dùng và các tương tác trên mạng lưới có thể đóng vai trò như các chỉ báo thời gian thực cho chi tiêu tiêu dùng, kiều hối và dòng vốn.
+
+Tính mở của sổ cái Bitcoin thực chất có nghĩa là bất kỳ ai cũng có thể sử dụng dữ liệu của nó để tổng hợp và báo cáo về các xu hướng hoặc sự khác biệt kinh tế vĩ mô mà không cần phải dựa vào các báo cáo từ các nguồn tập trung hoặc 'chính thức' của chính phủ. Trong khi các chỉ số được mô tả trong phần này đã đóng vai trò là chỉ báo sớm về tâm lý nhà đầu tư và mức độ chấp nhận rủi ro, trong tương lai chúng có thể trở thành yếu tố quan trọng trong các mô hình kinh tế rộng lớn hơn về hành vi thị trường và người tiêu dùng. Những mô hình này có thể được tạo ra theo thời gian thực và từ góc nhìn từ dưới lên, thách thức các phương pháp truyền thống trong việc xây dựng mô hình kinh tế.

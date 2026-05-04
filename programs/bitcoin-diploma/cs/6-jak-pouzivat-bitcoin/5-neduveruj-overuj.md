@@ -1,0 +1,3 @@
+# 6.5 Nedůvěřuj, ověřuj
+
+Ať už v Bitcoinu děláte cokoli, pamatujte si toto: „Nevěř, ověřuj.“ V Bitcoinu neexistují žádní vládci. Nikdy byste neměli slepě věřit tvrzením někoho jiného; místo toho byste měli vždy zpochybňovat to, co vám je řečeno, a ověřit si to sami. Dodržováním tohoto hesla se ochráníte před ztrátou svých bitcoinů. To platí jak pro tvrzení jako „další Bitcoin“, tak i pro „investiční příležitosti“ nebo sliby „rychlého a snadného zisku“. Proto by měly být upřednostňovány open-source projekty. Pokud si kód nemůžete ověřit sami, budete muset důvěřovat komunitě, která to udělá za vás; ale je lepší důvěřovat decentralizované a nezávislé skupině ověřovatelů než vůdci nebo skupině stojící za projektem.

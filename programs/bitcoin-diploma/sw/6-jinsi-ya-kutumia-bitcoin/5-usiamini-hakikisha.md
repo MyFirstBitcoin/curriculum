@@ -1,0 +1,3 @@
+# 6.5 Usiamini, Hakikisha
+
+Chochote unachofanya katika Bitcoin, kumbuka hili: “Usiamini, Hakikisha.” Hakuna watawala katika Bitcoin. Hupaswi kamwe kufuata madai ya mtu bila kufikiri; badala yake, daima uliza maswali kuhusu unachoambiwa na hakikisha mwenyewe. Kwa kufuata kauli hii, utajilinda dhidi ya kupoteza bitcoin yako. Hii inahusu madai kama vile “Bitcoin inayofuata” sawa na “fursa za uwekezaji” au ahadi za “faida za haraka na rahisi.” Ndiyo maana miradi ya chanzo-wazi inapaswa kupewa kipaumbele. Ikiwa huwezi kuthibitisha msimbo mwenyewe, utalazimika kuamini jamii itakayofanya hivyo kwa niaba yako; lakini ni bora kuamini kundi lililogawanyika na huru la wahakiki kuliko kiongozi au kundi lililo nyuma ya mradi.
