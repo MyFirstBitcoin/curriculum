@@ -9,3 +9,5 @@ Dengan mempelajari sejarah dan struktur sistem keuangan modern, kita mendapatkan
 Diploma ini dirancang untuk membimbing Anda melalui perjalanan tersebut langkah demi langkah. Seiring kemajuan Anda, Anda akan membangun pengetahuan yang diperlukan untuk secara kritis menelaah baik sistem keuangan saat ini maupun inovasi yang diperkenalkan oleh Bitcoin.
 
 Hadapilah proses belajar ini dengan rasa ingin tahu dan kesabaran. Ide-ide yang dieksplorasi di sini memiliki potensi untuk mengubah cara kita memahami uang, teknologi, dan kebebasan ekonomi. Dengan fondasi yang kuat, Anda akan siap untuk terlibat dengan salah satu perkembangan keuangan dan teknologi terpenting di zaman kita.
+
+My First Bitcoin menciptakan karya ini dan membuatnya tersedia secara bebas di bawah lisensi Creative Commons. Terjemahan bahasa Indonesia ini ditinjau dan diverifikasi oleh Bitcoin Indonesia.
