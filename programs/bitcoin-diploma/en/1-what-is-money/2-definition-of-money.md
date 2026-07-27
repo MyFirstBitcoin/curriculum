@@ -21,7 +21,7 @@ In other words, money itself doesn't have the power to satisfy human wants; it's
 > A **transaction** is an exchange or transfer of goods and services. It is a way of exchanging value between two or more parties.
 
 
-There are many different types of transactions, ranging from simple exchanges (such as buying a sandwich at a deli) to more complex financial transactions (such as buying a house or investing in st
+There are many different types of transactions, ranging from simple exchanges (such as buying a sandwich at a deli) to more complex financial transactions (such as buying a house or investing in stocks).
 
 Transactions can be conducted in person, over the phone, online, or through other means, and they can involve a wide range of parties, including individuals, businesses, and financial institutions.
 
