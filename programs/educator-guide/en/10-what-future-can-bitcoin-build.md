@@ -1,4 +1,4 @@
-# 10 - What Future Can Bitcoin Build?
+# What Future Can Bitcoin Build?
 
 Duration: 90 minutes
 

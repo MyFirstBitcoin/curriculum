@@ -1,6 +1,6 @@
 # 3.0 Bevezetés
 
-> **Info – A Bitcoin White Paper összefoglalója**
+> **Dark – A Bitcoin White Paper összefoglalója**
 >
 > **Egy tisztán peer-to-peer alapú elektronikus készpénz** lehetővé tenné, hogy az online fizetések közvetlenül egyik féltől a másikhoz jussanak el pénzügyi intézmény közbeiktatása nélkül.**A digitális aláírások a megoldás egyik részét biztosítják**, de a fő előnyök elvesznek, ha egy **megbízható harmadik fél** továbbra is szükséges a dupla költés megakadályozásához. Mi egy megoldást javaslunk a dupla költés problémájára egy **peer-to-peer hálózat** segítségével. A **hálózat időbélyeggel látja el a tranzakciókat**, azáltal, hogy azokat egy folyamatosan növekvő láncba hash-eli, amely **hash-alapú proof-of-work** bizonyítékot használ, így olyan nyilvántartás jön létre, amelyet nem lehet megváltoztatni anélkül, hogy újra el ne végeznénk a **proof-of-work** műveletet. A leghosszabb lánc nemcsak az események sorrendjének bizonyítékaként szolgál, hanem annak is, hogy az a legnagyobb CPU teljesítményből származik. Amíg a CPU teljesítmény többségét olyan csomópontok irányítják, amelyek nem működnek együtt a hálózat megtámadásában, ők fogják létrehozni a leghosszabb láncot és megelőzik a támadókat.**Maga a hálózat minimális struktúrát igényel. Az üzenetek legjobb tudás szerint kerülnek továbbításra, és a csomópontok szabadon elhagyhatják vagy újra csatlakozhatnak a hálózathoz**, elfogadva a leghosszabb proof-of-work láncot annak bizonyítékaként, hogy mi történt, amíg távol voltak.
 

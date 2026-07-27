@@ -128,7 +128,7 @@ Těžba Bitcoinu nabízí silnou ekonomickou motivaci pro rozvoj obnovitelných 
 
 
 
-> **Info – Konec spalování na pochodni?**
+> **Dark – Konec spalování na pochodni?**
 >
 > Využívání odpadní energie, například spalovaného zemního plynu, nejen šetří peníze, ale také zmírňuje environmentální kritiku. Spalování nastává, když je přebytečný zemní plyn (metan) spalován na ropných vrtech, protože neexistuje infrastruktura pro jeho zachycení a prodej. Podle některých studií5 zachycuje metan asi 120krát více tepla než CO2, proto je nutné jej spalovat a efektivně jej přeměnit na CO2. Spalování však není stoprocentně účinné a stále umožňuje únik metanu do atmosféry. Těžaři Bitcoinu mohou tuto energii využít k napájení svých operací, což snižuje emise skleníkových plynů ze spalování. Zemní plyn je spalován v generátorech za účelem výroby elektřiny, která napájí přenosné těžební zařízení přímo na místě vrtu.
 >
@@ -178,7 +178,7 @@ Jak toto odvětví zraje, větší spolupráce s poskytovateli obnovitelné ener
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin neplýtvá energií. Využívá plýtvající energii.**
 >

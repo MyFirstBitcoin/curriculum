@@ -1,6 +1,6 @@
 # 2.2 Bitcoin is slecht voor het milieu
 
-> **Note**
+> **Light**
 >
 > * Bitcoin is vaak bekritiseerd omdat het te veel energie zou verbruiken.
 > * In 2017 publiceerde het World Economic Forum (WEF) een artikel op haar website waarin werd beweerd dat 'Bitcoin tegen 2020 meer energie zal verbruiken dan de wereld kan produceren'.

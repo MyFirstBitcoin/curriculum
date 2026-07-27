@@ -39,7 +39,7 @@ Végül alakítsuk át a fenti gyakorlatból származó megfigyeléseket a szerv
 
 
 
-> **Info – Példák**
+> **Dark – Példák**
 >
 > * Kockázat, hogy a bitcoin lesz az elsődleges, globális tartalékeszköz
 > * Kockázat, hogy a Bitcoin hálózat lesz az internetes kereskedelem elszámolási rétege

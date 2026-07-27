@@ -49,7 +49,7 @@ V centralizovaném systému se vše točí kolem jedné hlavní autority, jako j
 * **Nedostatek transparentnosti a důvěry**: Vnitřní fungování centralizovaných systémů může být těžké pochopit, což ztěžuje lidem jim důvěřovat.
 
 
-> **Note**
+> **Light**
 >
 > V roce 2022 během pokojných protestů v Kanadě banky zmrazily účty protestujících, což ukázalo, jak může centrální autorita ovládat přístup k financím.
 
@@ -73,7 +73,7 @@ Ačkoli mají decentralizované systémy mnoho výhod, společné rozhodování 
 Ve světě centralizovaných a decentralizovaných systémů jde především o to, kdo drží moc. Centralizované systémy dávají moc do rukou malé skupiny, zatímco decentralizované systémy ji rozdělují, takže každý má možnost se vyjádřit. Tento posun v rozložení moci by znamenal spravedlivější budoucnost, kde mnoho lidí ovlivňuje systém, který utváří jejich životy.
 
 
-> **Note**
+> **Light**
 >
 > Síť Tor vytváří decentralizovaný systém, kde lidé mohou zůstat online anonymní a síť je těžké zastavit nebo cenzurovat.
 
@@ -91,4 +91,4 @@ Tyto pokusy pomohly odhalit, co chybělo. Později někdo na těchto myšlenkác
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Podívejte se na toto video a objevte příběh Cypherpunků!](https://www.youtube.com/watch?v=9vM0oIEhMag)

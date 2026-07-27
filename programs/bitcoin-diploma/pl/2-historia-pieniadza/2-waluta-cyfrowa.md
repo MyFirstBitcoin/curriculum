@@ -9,12 +9,12 @@ Waluty, których używamy, stają się coraz bardziej cyfrowe; obecnie tylko nie
 ##### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Obejrzyj ten krótki film, aby dowiedzieć się o „Początkach wymiany” z serii „Historia papierowych pieniędzy”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ To drugi odcinek zatytułowany „Nie tylko makaron” z serii „Historia papierowych pieniędzy”.](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Co się dzieje, gdy naprawdę próbujesz wcielić doktrynę papierowego pieniądza w życie? Dowiedz się w czwartym odcinku „Historii papierowych pieniędzy”.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

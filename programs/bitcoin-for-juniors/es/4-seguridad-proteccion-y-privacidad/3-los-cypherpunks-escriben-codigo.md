@@ -1,58 +1,29 @@
 # 4.3 Los cypherpunks escriben código
 
-**Tipo de actividad** Manualidad - Actividad individual de decodificación - Práctica guiada
-
-**Duración** 45-60 minutos
-
-**Agrupamiento** Trabajo individual con demostración para toda la clase
-
-##### **Descripción**
-
-Se introduce a los estudiantes la idea de los códigos como una forma de ocultar y proteger información. A través de una manualidad práctica, los alumnos construyen una rueda de cifrado simple y la utilizan para codificar y decodificar vocabulario relacionado con Bitcoin. La actividad combina habilidades motoras finas, pensamiento lógico y conceptos tempranos de criptografía, mientras refuerza la nueva terminología de manera lúdica y concreta.
-
-##### **Resultados de aprendizaje**
-
-Al finalizar esta actividad, los estudiantes podrán:
-
-* Comprender el significado de codificar y decodificar; reconocer que cambiar un código cambia el resultado; usar una rueda de cifrado para codificar y decodificar palabras simples; decodificar y codificar correctamente el vocabulario seleccionado de Bitcoin.
-
-##### **Materiales**
-
-* Plantillas impresas de la rueda de cifrado con anillos de alfabeto interior y exterior (_Ver Apéndice A_)
-* Hoja de trabajo impresa con vocabulario de Bitcoin codificado (_Ver Apéndice B_)
-* Lápices, crayones o marcadores
-* **Opcional:** Rueda de cifrado prearmada para la demostración, encuadernadores o chinchetas para sujetar las ruedas, hojas de práctica adicionales
-
-##### **Equipo**
-
-* Tijeras
-* Pizarra blanca o cartulina
-* **Opcional**: Demostración con proyector, tijeras para zurdos
-
 #### **PROCEDIMIENTO**
 
-##### **INICIO**
+##### **APERTURA**
 
 **Preparación del docente**
 
-1. Imprima y prepare las plantillas de la rueda de cifrado y las hojas de trabajo.
-1. Recorte previamente una rueda de cifrado grande para la demostración o prepare una versión visual para la pizarra.
-1. Asegúrese de que las tijeras y chinchetas estén distribuidas de forma segura.
+1. Imprimir y preparar plantillas de ruedas de cifrado y hojas de trabajo.
+1. Recortar con anticipación una rueda de cifrado grande para demostración o preparar una versión visual para la pizarra.
+1. Asegurarse de que las tijeras y los broches se distribuyan de forma segura.
 
 
 
-##### **PRE-ACTIVIDAD**
+##### **ACTIVIDAD PREVIA**
 
 _5 minutos_
 
-1. Pregunte a los estudiantes si saben qué es un código secreto.
-1. Pregunte dónde han visto códigos antes, como en juegos, mensajes secretos o cerraduras.
-1. Presente las palabras codificar y decodificar usando un lenguaje sencillo.
-1. Explique que hoy aprenderán cómo ocultar y revelar palabras usando un código.
+1. Preguntar a los estudiantes si saben qué es un código secreto.
+1. Preguntar dónde han visto códigos antes, como en juegos, mensajes secretos o cerraduras.
+1. Presentar las palabras codificar y decodificar usando un lenguaje sencillo.
+1. Explicar que hoy aprenderán cómo ocultar y revelar palabras usando un código.
 
 **Objetivo en palabras del estudiante**
 
-*  “Hacer una herramienta de código secreto y usarla para ocultar y leer palabras.”
+*  “Crear una herramienta de código secreto y usarla para ocultar y leer palabras.”
 
 ##### **ACTIVIDAD**
 
@@ -60,69 +31,69 @@ _35-45 minutos_
 
 **Preparación**
 
-1. Explique que las letras pueden desplazarse para crear mensajes secretos.
-1. Escriba el alfabeto en la pizarra y muestre un desplazamiento simple de letras, como que la A se convierte en D.
+1. Explicar que las letras se pueden desplazar para crear mensajes secretos.
+1. Escribir el alfabeto en la pizarra y mostrar un desplazamiento simple de letras, como que A se convierte en D.
 
 **Modelar**
 
-1. Demuestre cómo codificar una palabra corta usando un desplazamiento de letras.
-1. Demuestre cómo decodificar la misma palabra para volver al original.
-1. Presente la rueda de cifrado y muestre cómo al girarla cambian las letras de salida.
-1. Explica que el número de pasos que se gira la rueda cambia el resultado.
+1. Demostrar cómo codificar una palabra corta usando un desplazamiento de letras.
+1. Demostrar cómo decodificar la misma palabra para volver a la original.
+1. Presentar la rueda de cifrado y mostrar cómo al girarla cambian las letras resultantes.
+1. Explicar que la cantidad de pasos que se gira la rueda cambia el resultado.
 
-**Realizar**
+**Llevar a cabo**
 
 **Parte 1 – Manualidad de la rueda de cifrado**
 
-1. Los estudiantes recortan los círculos del alfabeto interior y exterior.
-1. Los estudiantes colocan el círculo más pequeño sobre el más grande.
-1. Los estudiantes sujetan los círculos juntos con un alfiler para que la rueda pueda girar libremente.
+1. Los estudiantes recortan los círculos interior y exterior del alfabeto.
+1. Los estudiantes colocan el círculo más pequeño encima del más grande.
+1. Los estudiantes unen los círculos con un broche para que la rueda pueda girar libremente.
 1. Los estudiantes prueban la rueda alineando diferentes letras.
 
 #### **Punto de control**
 
-1. Pide a los estudiantes que descifren una palabra juntos como clase.
-1. Verifica que los estudiantes comprendan cómo cambiar la rueda cambia el resultado.
+1. Pedir a los estudiantes que decodifiquen una palabra juntos como clase.
+1. Verificar que los estudiantes entiendan cómo al cambiar la rueda cambia el resultado.
 
-**Parte 2 – Práctica de codificar y descifrar**
+**Parte 2 – Práctica de codificación y decodificación**
 
-1. Los estudiantes usan su rueda de cifrado para descifrar palabras en la hoja de trabajo.
-1. Los estudiantes codifican palabras de vocabulario de Bitcoin usando un desplazamiento de letras elegido.
-1. Circula para apoyar a los estudiantes y comprobar la comprensión.
+1. Los estudiantes usan su rueda de cifrado para decodificar palabras en la hoja de trabajo.
+1. Los estudiantes codifican palabras de vocabulario de Bitcoin dadas usando un desplazamiento de letras elegido.
+1. Circular para apoyar a los estudiantes y verificar la comprensión.
 
 **Reflexión**
 
-* Pregunta a los estudiantes qué sucedió cuando cambiaron la posición de la rueda.
-* Pregunta si la misma palabra siempre se ve igual cuando el código cambia.
-* Pregunta por qué alguien querría ocultar información de esta manera.
+* Preguntar a los estudiantes qué sucedió cuando cambiaron la posición de la rueda.
+* Preguntar si la misma palabra siempre se ve igual cuando cambia el código.
+* Preguntar por qué alguien podría querer ocultar información de esta manera.
 
 ##### **SEGUIMIENTO**
 
 _2 minutos_
 
-* Revisa los términos clave: codificar, descifrar, código, mensaje.
+* Repasar términos clave: codificar, decodificar, código, mensaje.
 
 ##### **CIERRE**
 
-* Recoge las tijeras y los materiales.
-* Permite que los estudiantes se queden con sus ruedas de cifrado.
-* Mensaje final para los estudiantes: “Cambiar el código cambia el mensaje, pero el significado permanece igual.”
+* Recoger las tijeras y los materiales.
+* Permitir que los estudiantes conserven sus ruedas de cifrado.
+* Mensaje final para los estudiantes: “Cambiar el código cambia el mensaje, pero el significado sigue siendo el mismo.”
 
 #### **NOTAS**
 
 ##### **Gestión del aula**
 
-* Supervisa cuidadosamente el uso de tijeras y alfileres.
-* Fomenta la paciencia durante la etapa de manualidad.
+* Supervise cuidadosamente el uso de tijeras y alfileres.
+* Fomente la paciencia durante la etapa de manualidad.
 
-##### **Extensiones y actividades extra**
+##### **Extensiones y actividades de relleno**
 
-* Desafío de descifrado cronometrado usando nuevas palabras codificadas.
-* Juega un desafío de descifrado como el ahorcado cifrado donde la palabra codificada se escribe en la pizarra.
+* Desafío cronometrado de decodificación usando nuevas palabras codificadas.
+* Juegue un desafío de decodificación, como el ahorcado con cifrado, en el que la palabra codificada se escribe en el pizarrón.
 
 ##### **Diferenciación**
 
-* Estudiantes más jóvenes: palabras más cortas y desplazamiento de letras fijo, usar vocabulario que no sea de Bitcoin
-* Estudiantes mayores: eligen y registran su propio desplazamiento de letras para que otros lo resuelvan.
-* ELL/Accesibilidad: guías visuales del alfabeto y apoyo entre compañeros.
-* Seguridad: tijeras sin punta y uso de alfileres supervisado.
+* Estudiantes más jóvenes: palabras más cortas y desplazamiento fijo de letras; use vocabulario no relacionado con Bitcoin.
+* Estudiantes mayores: elijan y registren su propio desplazamiento de letras para que otros lo resuelvan.
+* Estudiantes de inglés como lengua adicional/Accesibilidad: guías visuales del alfabeto y apoyo de compañeros.
+* Seguridad: tijeras de punta roma y uso supervisado de alfileres.

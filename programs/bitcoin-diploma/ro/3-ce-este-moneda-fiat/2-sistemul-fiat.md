@@ -65,7 +65,7 @@ Aici intervine banca centrală ca împrumutător de ultimă instanță, furnizâ
 1. **Băncile plătesc dobândă din dobânda primită prin creditare** (9% - 5% = 4%) și păstrează restul ca profit
 
 
-> **Note – Cum creează băncile bani**
+> **Light – Cum creează băncile bani**
 >
 > Băncile comerciale creează bani fiat noi atunci când acordă împrumuturi.
 >
@@ -124,7 +124,7 @@ Aceste grupuri beneficiază în moduri diferite, creând o rețea complexă de c
 La final, păpușarii sistemului fiat orchestrează un spectacol în care câțiva beneficiază enorm în detrimentul majorității, care rămâne să se întrebe cum va reuși vreodată să recupereze diferența.
 
 
-> **Note – Rolul Băncilor Centrale**
+> **Light – Rolul Băncilor Centrale**
 >
 > Băncile centrale modelează discret modul în care funcționează o economie. Rolul lor oficial este să asigure stabilitatea și integritatea, dar metodele lor dezvăluie o latură mai întunecată.
 >
@@ -156,7 +156,7 @@ Băncile centrale și guvernele pot folosi instrumente de politică monetară ș
 * Creșterea taxelor
 
 
-> **Note – Prea Mare Pentru A Da Faliment**
+> **Light – Prea Mare Pentru A Da Faliment**
 >
 > „Prea mare pentru a da faliment” se referă la instituții financiare atât de mari și interconectate încât eșecul lor ar avea repercusiuni catastrofale pentru întregul sistem financiar. În timpul crizei financiare din 2008, mai multe bănci mari au fost considerate „prea mari pentru a da faliment”, ceea ce a determinat guvernul SUA să intervină și să ofere pachete de salvare pentru a preveni colapsul acestora.
 >
@@ -169,7 +169,11 @@ A ști cum funcționează aceste politici este esențial pentru a înțelege lim
 
 #### Activitate: Rezerve fracționare bancare
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Acesta este un exercițiu de clasă care explorează acțiunile individuale ale oamenilor și băncilor folosind practica rezervelor fracționare bancare. Scopul este de a experimenta direct cum acest instrument crește masa monetară.
 

@@ -49,7 +49,7 @@ In einem zentralisierten System dreht sich alles um eine Hauptinstanz, wie ein h
 * **Mangel an Transparenz und Vertrauen**: Die Funktionsweise zentralisierter Systeme ist oft schwer zu durchschauen, was es schwierig macht, ihnen zu vertrauen.
 
 
-> **Note**
+> **Light**
 >
 > Im Jahr 2022, während friedlicher Proteste in Kanada, froren Banken die Konten der Demonstrierenden ein und zeigten damit, wie eine zentrale Instanz den Zugang zu Finanzen kontrollieren kann.
 
@@ -73,7 +73,7 @@ Obwohl dezentrale Systeme viele Vorteile haben, kann das gemeinsame Treffen von 
 In einer Welt aus zentralisierten und dezentralisierten Systemen dreht sich alles darum, wer die Macht hat. Zentrale Systeme geben die Macht an eine kleine Gruppe, während dezentrale Systeme sie verteilen und so jedem eine Stimme geben. Dieser Machtwechsel würde eine gerechtere Zukunft bedeuten, in der viele Menschen das System beeinflussen, das ihr Leben prägt.
 
 
-> **Note**
+> **Light**
 >
 > Das Tor-Netzwerk schafft ein dezentrales System, in dem Menschen online anonym bleiben können und das Netzwerk schwer zu stoppen oder zu zensieren ist.
 
@@ -91,4 +91,4 @@ Diese Versuche halfen dabei, die fehlenden Elemente aufzuzeigen. Später baute j
 ###### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Sieh dir dieses Video an und entdecke die Geschichte der Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

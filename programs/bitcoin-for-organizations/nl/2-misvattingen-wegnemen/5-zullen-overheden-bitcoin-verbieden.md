@@ -78,7 +78,7 @@ Het volgende probleem voor de aanvaller is hoe hij de controle kan behouden als 
 Het is waarschijnlijk dat zodra duidelijk is dat het netwerk wordt aangevallen, Bitcoinontwikkelaars een 'hard fork' van de Bitcoinsoftware zouden uitvoeren, zodat het grootboek wordt 'afgetakt' vanaf het punt waarop de frauduleuze transacties door de aanvaller zijn toegevoegd. De meerderheid van de nodes zou dan de aangepaste versie van de software implementeren en de inspanningen van de aanvaller negeren.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Een luchtigere beschrijving van Andreas Antonopoulos over de mogelijkheid van een door de staat gesponsorde 51%-aanval.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Kan zelfbewaring van Bitcoin en peer-to-peer transacties verboden worden?
@@ -106,7 +106,7 @@ We moeten ook verwachten dat slechte en onuitvoerbare Bitcoinwetten door sommige
 De Red Flag-wet van het Verenigd Koninkrijk uit de late 19e eeuw is een historisch voorbeeld van een buitensporig strenge wet die later werd ingetrokken.
 
 
-> **Note**
+> **Light**
 >
 > Halverwege de 19e eeuw werden de postkoets- en vooral de locomotiefindustrieën geconfronteerd met de dreigende komst van het verstorende potentieel van de auto. Ze waren bang dat de auto hen zou vervangen.**Dus deden ze hun uiterste best om de overheid te overtuigen om strenge wetten te maken, waarmee ze in feite probeerden de groei van deze nieuwe technologie te belemmeren.**
 >
@@ -144,7 +144,7 @@ Natuurlijk zou het de schuld geven aan Bitcoin voor het veroorzaken van een fiat
 Het is ook belangrijk te beseffen dat Bitcoin sterker wordt wanneer het wordt aangevallen. Dit komt doordat deze aanvallen de mythen ontkrachten die sceptici verspreiden dat Bitcoin kwetsbaar en fragiel zou zijn. Dus we mogen niet alleen verwachten dat overheden Bitcoin overreguleren, we zouden het zelfs moeten verwelkomen.
 
 
-> **Note**
+> **Light**
 >
 > **Overheden zullen waarschijnlijk leren over de antifragiliteit van Bitcoin door te proberen het te belemmeren en te ontdekken wat er gebeurt als ze het netwerk aanvallen.** Ze zullen waarschijnlijk zien dat, bij Bitcoin meer dan bij welke andere activaklasse in de geschiedenis, kapitaal zal stromen naar die landen waar het het beste wordt behandeld. Daarom zou het, naarmate het Bitcoinnetwerk groeit, steeds duidelijker moeten worden dat landen die het omarmen in plaats van bestrijden, waarschijnlijk als winnaars uit de bus zullen komen.
 

@@ -128,7 +128,7 @@ Bitcoin-gruvdrift erbjuder ett starkt ekonomiskt incitament för utvecklingen av
 
 
 
-> **Info – Avskaffandet av fackling?**
+> **Dark – Avskaffandet av fackling?**
 >
 > Att använda spillenergi, såsom facklad naturgas, sparar inte bara pengar utan minskar även miljökritiken. Fackling sker när överskottsgas (metan) bränns vid oljeborrningsplatser eftersom det saknas infrastruktur för att fånga upp och sälja den. Enligt vissa studier5 fångar metan cirka 120 gånger mer värme än CO2, vilket är anledningen till att den måste brännas bort och därmed omvandlas till CO2. Fackling är dock inte 100 % effektiv och släpper fortfarande ut metan i atmosfären. Bitcoin-gruvarbetare kan använda denna energi för att driva sina verksamheter, vilket minskar utsläppen av växthusgaser från fackling. Naturgasen förbränns i generatorer för att producera elektricitet, som driver portabla gruvriggar direkt vid brunnsplatsen.
 >
@@ -178,7 +178,7 @@ I takt med att branschen mognar bidrar ökat samarbete med leverantörer av för
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin slösar inte energi. Den använder slösad energi.**
 >

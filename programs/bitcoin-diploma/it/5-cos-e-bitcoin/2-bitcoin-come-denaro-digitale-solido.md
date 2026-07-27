@@ -5,7 +5,7 @@ In termini semplici, Bitcoin è denaro. Bitcoin non è un investimento, ma piutt
 Detenere bitcoin non ti renderà ricco perché non ti darà un rendimento in più bitcoin. Il suo valore, misurato rispetto a qualsiasi valuta fiat, può aumentare; ma ciò avviene solo grazie alla crescente adozione e alla svalutazione delle valute fiat.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin è **denaro**, usato per conservare e trasferire valore.  
 > Funziona su una **rete** globale di computer.  
@@ -29,7 +29,7 @@ Questo software e il registro di tutte le transazioni hanno una probabilità mol
 Infine, Bitcoin è scarso, il che significa che il numero di bitcoin che esisteranno sarà assolutamente limitato. Nessuno può falsificare bitcoin on-chain — nemmeno i governi e le istituzioni finanziarie più potenti.
 
 
-> **Note – Principi di Bitcoin**
+> **Light – Principi di Bitcoin**
 >
 > Bitcoin si basa su tre idee semplici:
 >
@@ -140,4 +140,4 @@ La chiave sta nell'azione, nel comprendere il funzionamento di Bitcoin e nell'ap
 ###### Risorse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Guarda il video "Cos'è Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

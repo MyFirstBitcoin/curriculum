@@ -76,7 +76,11 @@ Isa pang mahalagang bagay na dapat tandaan sa pagpili ng Bitcoin wallet ay kung 
 
 #### Gawain: Talakayan at pagsusuri ng mga Bitcoin wallet
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Pumunta sa sumusunod na website: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

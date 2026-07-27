@@ -17,7 +17,7 @@ Avoid being overly decisive. You can prepare for mutually exclusive outcomes and
 In this section we highlight some generic groups of actions to help you convert analysis into actions. This list is not meant to be exhaustive, but rather is designed to help you get started.
 
 
-> **Note – P&L Strategies**
+> **Light – P&L Strategies**
 >
 > * Protect existing revenues and market share
 >   * Reduce exposure to adversely affected markets
@@ -33,7 +33,7 @@ In this section we highlight some generic groups of actions to help you convert 
 
 
 
-> **Note – Balance Sheet Strategies**
+> **Light – Balance Sheet Strategies**
 >
 > * Drive value from your balance sheet
 >   * Reduce exposure to assets that underperform cost of capital, without reducing capital resilience

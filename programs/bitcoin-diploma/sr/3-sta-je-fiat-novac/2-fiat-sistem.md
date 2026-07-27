@@ -65,7 +65,7 @@ Tu nastupa centralna banka kao zajmodavac u krajnjoj nuždi, obezbeđujući novu
 1. **Banke plaćaju kamatu od kamate koju dobiju od kreditiranja** (9% - 5% = 4%) i ostatak zadržavaju kao profit
 
 
-> **Note – Kako banke stvaraju novac**
+> **Light – Kako banke stvaraju novac**
 >
 > Komercijalne banke stvaraju novi fiat novac kada odobravaju kredite.
 >
@@ -124,7 +124,7 @@ Ove grupe profitiraju na različite načine, stvarajući složenu mrežu kontrol
 Na kraju, lutkari fiat sistema režiraju predstavu u kojoj nekolicina mnogo profitira na račun većine, koja ostaje da se pita kako će ikada uspeti da ih sustigne.
 
 
-> **Note – Uloga centralnih banaka**
+> **Light – Uloga centralnih banaka**
 >
 > Centralne banke tiho oblikuju način na koji ekonomija funkcioniše. Njihov zvanični posao je da obezbede stabilnost i integritet, ali njihovi metodi otkrivaju mračniju stranu.
 >
@@ -156,7 +156,7 @@ Centralne banke i vlade mogu koristiti monetarne i fiskalne politike da utiču n
 * Povećanje poreza
 
 
-> **Note – Preveliki da bi propali**
+> **Light – Preveliki da bi propali**
 >
 > „Preveliki da bi propali“ odnosi se na finansijske institucije koje su toliko velike i međusobno povezane da bi njihov kolaps imao katastrofalne posledice po ceo finansijski sistem. Tokom finansijske krize 2008. godine, nekoliko velikih banaka je ocenjeno kao „prevelike da bi propale“, što je navelo vladu SAD da interveniše i pruži finansijsku pomoć kako bi sprečila njihov kolaps.
 >
@@ -169,7 +169,11 @@ Razumevanje kako ove politike funkcionišu je ključno za shvatanje ograničenja
 
 #### Aktivnost: Frakcionalno bankarstvo sa rezervama
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Ovo je vežba u učionici koja istražuje pojedinačne akcije ljudi i banaka koristeći praksu frakcionalnog bankarstva sa rezervama. Cilj je da se iz prve ruke iskusi kako ovaj alat povećava novčanu masu.
 

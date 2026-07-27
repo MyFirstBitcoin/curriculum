@@ -15,7 +15,7 @@ Artık açık ve özel anahtarları, ayrıca düğümlerin ve madencilerin rolle
 Bir bloğa dahil edildikten sonra, işlem onaylanır. Ahmet bu bitcoin’i tekrar harcayamaz ve Kerem aldığı bitcoin’i yeni bir işlemde harcayabilir.
 
 
-> **Note**
+> **Light**
 >
 > İşlem ve ücret seçildi → Cüzdan tarafından imzalandı ve gönderildi → Düğümler tarafından dağıtıldı → Madenci işlemi blok şablonuna ekledi → Madenci İş Kanıtı yarışmasını kazandı → Yeni blok doğrulandı → Yeni blok düğümler tarafından dağıtıldı
 
@@ -23,4 +23,4 @@ Bir bloğa dahil edildikten sonra, işlem onaylanır. Ahmet bu bitcoin’i tekra
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Bitcoin Düğümleri hakkında bu videoyu izleyin](https://www.youtube.com/watch?v=xc_TxlByxeY)

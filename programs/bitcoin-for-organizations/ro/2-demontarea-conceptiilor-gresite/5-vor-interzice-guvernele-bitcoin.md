@@ -78,7 +78,7 @@ O altă problemă pentru atacator este cum să mențină controlul odată ce l-a
 Este probabil ca, odată ce devine evident că rețeaua este sub atac, dezvoltatorii Bitcoin să facă un „hard-fork” al software-ului Bitcoin, astfel încât registrul să fie „bifurcat” din punctul în care atacatorul a generat înregistrările frauduloase. Majoritatea nodurilor ar implementa apoi versiunea revizuită a software-ului, iar eforturile atacatorului ar fi ignorate.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ O descriere mai amuzantă de la Andreas Antonopoulos despre posibilitatea unui atac de 51% sponsorizat de stat.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Ar putea fi interzisă auto-custodia Bitcoin și tranzacțiile peer-to-peer?
@@ -106,7 +106,7 @@ De asemenea, ar trebui să ne așteptăm ca unele națiuni să adopte legi proas
 Legea Steagului Roșu din Regatul Unit de la sfârșitul secolului al XIX-lea este un exemplu istoric de lege excesiv de severă care a fost ulterior abrogată.
 
 
-> **Note**
+> **Light**
 >
 > Până la mijlocul secolului al XIX-lea, industriile de diligențe și, în special, cele feroviare se confruntau cu spectrul iminent al potențialului disruptiv al automobilului. Se temeau că mașina le va înlocui.**Așa că au depus eforturi mari pentru a convinge guvernul să adopte legi stricte, încercând practic să frâneze creșterea acestei noi tehnologii.**
 >
@@ -144,7 +144,7 @@ Desigur, a da vina pe Bitcoin pentru o criză a monedei fiat ar fi absurd. La ur
 Este de asemenea important de menționat că Bitcoin devine mai puternic atunci când este atacat. Acest lucru se întâmplă deoarece aceste atacuri ajută la demontarea miturilor propagate de sceptici, conform cărora Bitcoin ar fi fragil și vulnerabil. Așadar, nu doar că ar trebui să ne așteptăm ca guvernele să suprarereglementeze Bitcoin, ci ar trebui chiar să salutăm acest lucru.
 
 
-> **Note**
+> **Light**
 >
 > **Guvernele probabil vor învăța despre anti-fragilitatea Bitcoin încercând să-l împiedice și văzând ce se întâmplă atunci când atacă rețeaua.** Probabil vor observa că, în cazul Bitcoin, mai mult decât la orice altă clasă de active din istorie, capitalul va migra către acele țări unde este tratat cel mai bine. Prin urmare, pe măsură ce rețeaua Bitcoin crește, ar trebui să devină tot mai evident că țările care aleg să o adopte, în loc să lupte împotriva ei, au șanse mai mari să iasă câștigătoare.
 

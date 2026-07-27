@@ -72,4 +72,4 @@ Disponibilitatea noastră de a renunța la o recompensă mai mare în viitor în
 ###### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Uită-te la acest videoclip scurt!](https://www.youtube.com/watch?v=InwVM6s7WoY)

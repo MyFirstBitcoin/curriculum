@@ -30,7 +30,7 @@ Dacă ai vrea să cumperi o mașină nouă, ai putea compara prețurile de la di
 Aceste trei funcții sunt cele care permit economiilor să devină complexe și dinamice. Fără bani, ar fi mult mai greu să cumperi și să vinzi bunuri și servicii, iar economia noastră ar fi mult mai puțin dezvoltată.
 
 
-> **Info**
+> **Dark**
 >
 > Oamenii înțeleg valoarea unui lucru atunci când acesta are un preț exprimat în bani.
 

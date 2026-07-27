@@ -1,36 +1,5 @@
 # 1.4 What is value?
 
-**Activity type** Discussion • Collaborative art project
-
-**Duration** 45 minutes
-
-**Grouping** Whole class with individual contributions
-
-##### **Description**
-
-Students explore the concept of value by identifying everyday items from their own lives and positioning them on a shared visual chart. Through guided discussion and a collaborative wall-based activity, learners compare personal value with price and reflect on how value can change depending on perspective. The activity builds foundational understanding of value, price, and scarcity through discussion, movement, and visual thinking.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Understand that _value_ is based on personal and social needs.
-* Recognize the relationship between _price_ and _value_.
-* See that value is not fixed but changes depending on perspective.
-* Practice collaboration through shared discussion and group art.
-
-**Materials**
-
-* Sticky notes or index cards
-* Markers, pens or pencils
-* Tape or sticky putty
-* Low-tack tape (masking tape, washi tape, painters tape etc)
-* **Nice-to-have:** A selection objects from home
-
-**Equipment**
-
-* **Nice-to-have**: Whiteboard & markers
-
 #### **PROCEDURE**
 
 ##### **OPENING**

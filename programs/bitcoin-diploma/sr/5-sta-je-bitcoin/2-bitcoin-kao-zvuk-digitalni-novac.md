@@ -5,7 +5,7 @@ Najjednostavnije rečeno, Bitcoin je novac. Bitcoin nije investicija, već bezbe
 Držanje bitcoina vas neće obogatiti jer vam neće doneti više bitcoina. Njegova vrednost, merena u bilo kojoj fiat valuti, raste; ali to je samo zbog sve veće upotrebe i devalvacije fiat valuta.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin je **novac**, koji se koristi za čuvanje i slanje vrednosti.  
 > Funkcioniše na globalnoj **mreži** računara.  
@@ -29,7 +29,7 @@ Ovaj softver i zapis svih transakcija imaju veoma malu šansu da nestanu jer pos
 Na kraju, Bitcoin je ograničen, što znači da je broj bitcoina koji će ikada postojati apsolutno ograničen. Niko ne može da falsifikuje on-chain bitcoin — čak ni najmoćnije vlade i finansijske institucije.
 
 
-> **Note – Principi Bitcoina**
+> **Light – Principi Bitcoina**
 >
 > Bitcoin je zasnovan na tri jednostavne ideje:
 >
@@ -140,4 +140,4 @@ Ključ je u akciji, u razumevanju kako Bitcoin funkcioniše i primeni toga prema
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Pogledajte video "Šta je Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

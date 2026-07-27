@@ -41,7 +41,7 @@ Cuando surge esta crítica, vale la pena considerar si el crítico tiene otras m
 El Trilema de la Escalabilidad, o de la Blockchain, fue planteado por primera vez por Vitalik Buterin en 2017. Afirma que siempre hay un compromiso en el diseño de blockchain entre las propiedades de descentralización, seguridad y escalabilidad. Cualquiera que critique que Bitcoin es demasiado lento y que tiene una solución más rápida en una blockchain de capa 1 estará sacrificando algo de seguridad o descentralización para lograrlo. Aunque tal compromiso puede tener sentido para una blockchain diseñada para otros usos, el orden de prioridad para un dinero global debe ser:
 
 
-> **Note**
+> **Light**
 >
 > * **Descentralización**
 >   * Hace posible eliminar a las partes de confianza

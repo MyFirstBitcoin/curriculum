@@ -161,7 +161,11 @@ Waarschijnlijk zal er een meer diverse groep van betalingsaanbieders ontstaan, w
 
 Bitcoin- en stablecoin-oplossingen bieden een aanzienlijke vermindering van de fricties en kosten die gepaard gaan met buitenlandse betalingen en internationale overboekingen. Dit kan een aanzienlijke bedreiging vormen voor de inkomsten van banken en betalingsdienstverleners.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 De omvang van de valutamarkten is gestegen van vrijwel nul sinds het uitbreken van de Tweede Wereldoorlog tot $7,5 biljoen per dag eind 2022, waarbij vrijwel al die groei heeft plaatsgevonden sinds het einde van het Bretton Woods-wisselkoerssysteem in 1971. Banken en betalingsdienstverleners halen aanzienlijke inkomsten uit het aanbieden van diensten in deze markten.
 

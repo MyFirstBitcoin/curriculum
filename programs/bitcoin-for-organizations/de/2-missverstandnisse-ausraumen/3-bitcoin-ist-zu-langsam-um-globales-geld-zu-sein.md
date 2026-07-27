@@ -41,7 +41,7 @@ Wenn diese Kritik geäußert wird, lohnt es sich zu überlegen, ob der Kritiker 
 Das Skalierbarkeits- oder Blockchain-Trilemma wurde erstmals 2017 von Vitalik Buterin aufgeworfen. Es besagt, dass es im Blockchain-Design immer einen Kompromiss zwischen den Eigenschaften Dezentralisierung, Sicherheit und Skalierbarkeit gibt. Jeder, der die Kritik äußert, dass Bitcoin zu langsam sei und dass er eine schnellere Lösung in einer Layer-1-Blockchain habe, wird dafür entweder Sicherheit oder Dezentralisierung opfern. Während ein solcher Kompromiss für eine Blockchain, die für andere Zwecke entwickelt wurde, sinnvoll sein kann, muss die Reihenfolge der Prioritäten für globales Geld lauten:
 
 
-> **Note**
+> **Light**
 >
 > * **Dezentralisierung**
 >   * Ermöglicht es, vertrauenswürdige Parteien zu entfernen

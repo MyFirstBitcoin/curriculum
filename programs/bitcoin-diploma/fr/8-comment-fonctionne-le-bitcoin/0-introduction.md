@@ -1,21 +1,20 @@
 # 8.0 Introduction
 
-> Le Bitcoin n'est pas « non réglementé » ; il est régi par un algorithme plutôt que par des bureaucraties gouvernementales. Incorruptible.  
+> Bitcoin is not "unregulated;" it is regulated by algorithm instead of being regulated by government bureaucracies. Uncorrupted.  
 _Andreas M. Antonopoulos_
 
-Dans ce module, nous examinons de plus près l’aspect technique du Bitcoin. Nous expliquons en termes simples la cryptographie qui sécurise le protocole et le fonctionnement des transactions. Certains concepts peuvent sembler techniques, mais ne vous inquiétez pas. Beaucoup de gens utilisent Internet chaque jour sans en comprendre parfaitement le fonctionnement.
+In this module, we take a closer look at the technical side of Bitcoin. We explain in simple terms the cryptography that secures the protocol and how transactions work. Some concepts may seem technical, but don’t worry. Many people use the internet every day without fully understanding how it works.
 
-Apprendre le côté technique du Bitcoin est un long parcours que tout le monde n’a pas besoin d’emprunter. Bien que nous encouragions l’apprentissage continu, ce module se concentre sur les bases essentielles.
+Learning Bitcoin’s technical side is a long journey that not everyone needs to take. While we encourage continued learning, this module focuses on the key basics.
 
-Le réseau Bitcoin est un registre partagé des transactions stocké sur de nombreux ordinateurs appelés nœuds. Ce registre, connu sous le nom de registre Bitcoin, est pseudonyme. Il n’inclut pas de détails personnels comme les noms ou les âges, seulement les données de transaction et les adresses Bitcoin. Le registre suit chaque transaction depuis le début de la blockchain.
+The Bitcoin network is a shared record of transactions stored across many computers called nodes. This record, known as the Bitcoin ledger, is pseudonymous. It does not include personal details like names or ages, only transaction data and Bitcoin addresses. The ledger tracks every transaction since the blockchain began.
 
+##### Mechanics of the Bitcoin Protocol
 
-> **Note – Mécanismes du protocole Bitcoin**
->
-> * Preuve de travail
-> * Horodatages cryptographiques
-> * Ajustement de la difficulté
-> * Architecture réseau pair-à-pair
-> * Fonctions de hachage et arbres de Merkle
-> * Cryptographie à clé publique
-> * Réduction de moitié de la subvention de bloc
+* Proof-of-Work
+* Cryptographic Time-Stamps
+* Difficulty Adjustment
+* Peer-to-Peer Network Architecture
+* Hash Functions & Merkle Trees
+* Public Key Cryptography
+* Block Subsidy Halving

@@ -78,7 +78,7 @@ Ang isa pang problema ng umaatake ay kung paano mapanatili ang kontrol kapag ito
 Malamang na kapag naging malinaw na inaatake ang network, magha-hard-fork ang mga developer ng Bitcoin sa software, upang ang ledger ay ma-fork mula sa punto kung saan nilikha ang mga pekeng entry ng umaatake. Ang karamihan ng nodes ay magpapatupad ng binagong bersyon ng software at hindi papansinin ang pagsisikap ng umaatake.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Isang mas magaan na paglalarawan mula kay Andreas Antonopoulos tungkol sa posibilidad ng state-sponsored na 51% attack.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Maaari bang ipagbawal ang self-custody ng Bitcoin at peer-to-peer na transaksyon?
@@ -106,7 +106,7 @@ Dapat din nating asahan na may mga bansa na magpapatupad ng mahihirap at hindi p
 Ang Red Flag law ng United Kingdom noong huling bahagi ng ika-19 na siglo ay isang makasaysayang halimbawa ng labis na mahigpit na batas na kalaunan ay binawi rin.
 
 
-> **Note**
+> **Light**
 >
 > Pagsapit ng kalagitnaan ng ika-19 na siglo, ang industriya ng stagecoach at lalo na ng tren ay nahaharap sa banta ng disruptive na potensyal ng kotse. Natatakot silang mapalitan sila ng sasakyan.**Kaya, nagsikap silang kumbinsihin ang gobyerno na gumawa ng mahigpit na mga batas, na naglalayong pigilan ang paglago ng bagong teknolohiyang ito.**
 >
@@ -144,7 +144,7 @@ Siyempre, katawa-tawa ang sisihin ang Bitcoin sa pagdulot ng krisis sa fiat curr
 Mahalaga ring tandaan na lalong tumitibay ang Bitcoin kapag ito ay inaatake. Ito ay dahil ang mga atakeng ito ay nagpapabulaan sa mga maling paniniwala ng mga kritiko na ang Bitcoin ay marupok at madaling masira. Kaya hindi lang natin dapat asahan na sosobrahan ng mga gobyerno ang regulasyon sa Bitcoin, kundi dapat pa nga natin itong tanggapin.
 
 
-> **Note**
+> **Light**
 >
 > **Malamang na matutunan ng mga gobyerno ang anti-fragility ng Bitcoin sa pamamagitan ng pagtatangkang hadlangan ito at makita kung ano ang mangyayari kapag inatake nila ang network.** Malamang na mapansin nila na, sa Bitcoin, higit pa sa anumang ibang uri ng asset sa kasaysayan, ang kapital ay dadaloy sa mga bansang pinakamagandang tumanggap dito. Kaya habang lumalaki ang Bitcoin network, mas magiging malinaw na ang mga bansang yayakap dito, imbes na labanan ito, ang mas malamang na magtagumpay.
 
@@ -154,6 +154,5 @@ Mahalaga ring tandaan na lalong tumitibay ang Bitcoin kapag ito ay inaatake. Ito
 ##### Mga Tala
 
 1. Iniulat ng DailyHodl.com noong Hulyo 8, 2023, na nagbayad ang JPMorgan Chase ng ₱2,200,000,000,000* sa mga multa para sa mga paglabag sa pagbabangko, securities, at iba pa, kasabay ng bagong aksyon ng SEC.   
-  
 *Halaga ay tinanslate mula USD patungong PHP para sa halimbawa.[https://dailyhodl.com/2023/07/08/jpmorgan-chase-has-paid-38995000000-in-fines-for-banking-securities-and-additional-violations-after-sec-enforcement-action/](https://dailyhodl.com/2023/07/08/jpmorgan-chase-has-paid-38995000000-in-fines-for-banking-securities-and-additional-violations-after-sec-enforcement-action/)
 1. Noong 2015, sinagot ng Bitcoin educator na si Andreas Antonopoulos ang isang tanong kung may kakayahan ang isang malaking bansa na atakihin ang Bitcoin network at kung maaari bang maantala ng ganoong atake ang Bitcoin blockchain.[https://www.youtube.com/watch?v=ncPyMUfNyVM](https://www.youtube.com/watch?v=ncPyMUfNyVM)

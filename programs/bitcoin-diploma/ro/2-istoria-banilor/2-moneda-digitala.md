@@ -9,12 +9,12 @@ Monedele pe care le folosim devin din ce în ce mai digitale; astăzi, doar o mi
 ##### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Urmărește acest scurt videoclip pentru a afla despre „Originile schimbului”, din seria „Istoria banilor de hârtie”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Acesta este al doilea episod numit „Nu doar tăiței” din „Istoria banilor de hârtie”](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Ce se întâmplă când chiar încerci să pui în practică doctrina banilor de hârtie? Află în episodul patru din „Istoria banilor de hârtie”.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

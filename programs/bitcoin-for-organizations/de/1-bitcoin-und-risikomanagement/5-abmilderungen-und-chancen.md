@@ -17,7 +17,7 @@ Vermeiden Sie es, zu entschlussfreudig zu sein. Sie können sich auf sich gegens
 In diesem Abschnitt heben wir einige allgemeine Aktionsgruppen hervor, die Ihnen helfen sollen, Analysen in Maßnahmen umzusetzen. Diese Liste ist nicht abschließend, sondern soll Ihnen den Einstieg erleichtern.
 
 
-> **Note – GuV-Strategien**
+> **Light – GuV-Strategien**
 >
 > * Bestehende Umsätze und Marktanteile schützen
 >   * Exponierung gegenüber negativ betroffenen Märkten reduzieren
@@ -33,7 +33,7 @@ In diesem Abschnitt heben wir einige allgemeine Aktionsgruppen hervor, die Ihnen
 
 
 
-> **Note – Bilanzstrategien**
+> **Light – Bilanzstrategien**
 >
 > * Wert aus Ihrer Bilanz schöpfen
 >   * Exponierung gegenüber Vermögenswerten reduzieren, die unter den Kapitalkosten performen, ohne die Kapitalresilienz zu verringern

@@ -49,7 +49,7 @@ Trong một hệ thống tập trung, mọi thứ đều xoay quanh một cơ qu
 * **Thiếu minh bạch và niềm tin**: Cách vận hành bên trong của hệ thống tập trung có thể rất khó hiểu, khiến mọi người khó tin tưởng.
 
 
-> **Note**
+> **Light**
 >
 > Năm 2022, trong các cuộc biểu tình ôn hòa ở Canada, các ngân hàng đã đóng băng tài khoản của người biểu tình, cho thấy một cơ quan trung tâm có thể kiểm soát quyền truy cập tài chính như thế nào.
 
@@ -73,7 +73,7 @@ Mặc dù các hệ thống phi tập trung có nhiều ưu điểm, việc ra q
 Trong một thế giới có cả hệ thống tập trung và phi tập trung, tất cả đều xoay quanh việc ai nắm giữ quyền lực. Hệ thống tập trung trao quyền cho một nhóm nhỏ, trong khi hệ thống phi tập trung phân tán quyền lực, cho phép mọi người đều có tiếng nói. Sự chuyển dịch quyền lực này sẽ mang lại một tương lai công bằng hơn, nơi nhiều người cùng ảnh hưởng đến hệ thống định hình cuộc sống của họ.
 
 
-> **Note**
+> **Light**
 >
 > Mạng Tor tạo ra một hệ thống phi tập trung, nơi mọi người có thể ẩn danh khi trực tuyến và mạng lưới này rất khó bị ngăn chặn hoặc kiểm duyệt.
 
@@ -91,4 +91,4 @@ Những nỗ lực này đã giúp chỉ ra những điều còn thiếu sót. S
 ###### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Xem video này để khám phá câu chuyện về các Cypherpunk!](https://www.youtube.com/watch?v=9vM0oIEhMag)

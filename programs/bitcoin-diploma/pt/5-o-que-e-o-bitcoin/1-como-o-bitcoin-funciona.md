@@ -19,7 +19,7 @@ A ideia principal por trás do funcionamento do Bitcoin pode ser resumida em uma
 Por exemplo, uma das regras do Bitcoin é "Nunca haverá mais de 21 milhões de bitcoins." Se alguém tentasse criar um milhão de bitcoins extras para si mesmo, isso não serviria de nada, pois essa pessoa seria automaticamente identificada e rejeitada por todos os outros. É isso que torna o Bitcoin tão robusto.
 
 
-> **Info**
+> **Dark**
 >
 > Não importa quem você é ou de onde você vem: se você entrar no mundo do Bitcoin, deve jogar com o mesmo conjunto de regras que todos os outros.
 
@@ -84,7 +84,11 @@ Cada participante dessa orquestra descentralizada desempenha um papel vital na a
 
 #### Atividade: Consenso
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Este é um exercício em grupo onde os participantes aprendem na prática como é difícil sincronizar ações em um grupo sem um líder definido. O objetivo é que os participantes entendam como o acordo (consenso) é alcançado no Bitcoin.
 

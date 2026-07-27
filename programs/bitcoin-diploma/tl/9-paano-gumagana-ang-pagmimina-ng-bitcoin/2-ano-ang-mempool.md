@@ -12,7 +12,11 @@ Kapag naisama na ang isang transaksyon sa isang block, ito ay kumpirmado na at p
 
 #### Gawain: Pag-explore ng Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Ang gawaing ito ay nagpapakilala sa mga estudyante sa isang libre at open-source na tool na hindi nangangailangan ng teknikal na kasanayan upang magamit. Kapaki-pakinabang ito para sa lahat ng antas ng Bitcoiners, mula baguhan hanggang bihasa.**
 

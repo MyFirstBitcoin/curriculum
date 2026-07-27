@@ -39,7 +39,7 @@ Son olarak, yukarıdaki egzersizden elde edilen gözlemleri kuruluşunuzla ilgil
 
 
 
-> **Info – Örnekler**
+> **Dark – Örnekler**
 >
 > * Bitcoin'in birincil, küresel hazine rezerv varlığı haline gelmesi riski
 > * Bitcoin ağının internet tabanlı ticaretin mutabakat katmanı haline gelmesi riski

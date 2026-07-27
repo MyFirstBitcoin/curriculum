@@ -16,10 +16,10 @@ The key idea behind how Bitcoin operates can be condensed into one sentence: Bit
 
 This is essentially how Bitcoin works. Bitcoin is a network of people that agree on the same set of rules. These rules are mathematically bound, written in computer code, and accepted directly by everyone who runs the Bitcoin software. The rules of Bitcoin apply to all participants equally, which means that each player either follows the rules of the game or cannot play because the network will reject them.
 
-For example, one of the rules of Bitcoin is "There will never be more than 21 million bitcoin." If someone were to create a million extra bitcoins for themselves, it would be of no use to them, because they would automatically be identified and rejected by everyone else. This is what makes Bitcoin so robust.
+One of the rules of Bitcoin is "There will never be more than 21 million bitcoin." If someone were to create a million extra bitcoins for themselves, it would be of no use to them, because they would automatically be identified and rejected by everyone else. This is what makes Bitcoin so robust.
 
 
-> **Info**
+> **Dark**
 >
 > It does not matter who you are or where you come from: if you enter the Bitcoin world, you must play by the same set of rules as everyone else.
 
@@ -84,9 +84,15 @@ Each participant in this decentralized orchestra plays a vital role in shaping B
 
 #### Activity: Consensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
 
-This is a class exercise where participants learn firsthand how difficult synchronizing actions is in a group without a defined leader. The intent is for participants to understand how agreement (consensus) is achieved in Bitcoin.
+_Activity: Consensus_
+
+
+This is a class exercise where participants learn firsthand how difficult synchronizing actions is in a group without a defined leader.
+
+The intent is for participants to understand how agreement (consensus) is achieved in Bitcoin.
 
 ###### Key Points
 

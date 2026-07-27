@@ -72,4 +72,4 @@ Ukulungelelanisa ukulahla umvuzo omkhulu kwixesha elizayo ngenxa yomvuzo omncinc
 ###### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Jonga le vidiyo imfutshane!](https://www.youtube.com/watch?v=InwVM6s7WoY)

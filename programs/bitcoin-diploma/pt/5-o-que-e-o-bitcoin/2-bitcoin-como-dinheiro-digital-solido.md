@@ -5,7 +5,7 @@ Em termos mais simples, Bitcoin é dinheiro. Bitcoin não é um investimento, ma
 Guardar bitcoin não vai te deixar rico porque não te dará um retorno em mais bitcoin. Seu valor, medido em qualquer moeda fiduciária, realmente aumenta; mas isso acontece apenas devido à sua crescente adoção e à desvalorização das moedas fiduciárias.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin é **dinheiro**, usado para armazenar e enviar valor.  
 > Ele funciona em uma **rede** global de computadores.  
@@ -29,7 +29,7 @@ Esse software e o registro de todas as transações têm uma chance muito baixa 
 Por fim, o Bitcoin é escasso, o que significa que o número de bitcoins que existirão é absolutamente limitado. Ninguém pode falsificar bitcoins na blockchain — nem mesmo os governos e instituições financeiras mais poderosos.
 
 
-> **Note – Princípios do Bitcoin**
+> **Light – Princípios do Bitcoin**
 >
 > O Bitcoin é construído sobre três ideias simples:
 >
@@ -140,4 +140,4 @@ A chave está na ação, em entender como o Bitcoin funciona e aplicá-lo de aco
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Assista ao vídeo "O que é Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

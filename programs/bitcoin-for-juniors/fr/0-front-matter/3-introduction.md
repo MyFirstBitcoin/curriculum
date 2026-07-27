@@ -1,116 +1,116 @@
 # Introduction
 
-Ce guide explique comment lire et utiliser les plans de leçon dans Bitcoin pour les Juniors. Il parcourt chaque section du format du plan de leçon afin que les éducateurs sachent à quoi s’attendre, comment se préparer et comment adapter le contenu à leur contexte. La structure est là pour vous servir — et non l’inverse.
+Ce guide explique comment lire et utiliser les fiches pédagogiques de « Bitcoin for Juniors ». Il passe en revue chaque section du format des fiches pédagogiques afin que les enseignants sachent à quoi s’attendre, comment se préparer et comment adapter le contenu à leur contexte. La structure est là pour vous aider, et non l’inverse.
 
-#### Utiliser les plans de leçon
+#### Utilisation des fiches pédagogiques
 
-Chaque plan de leçon dans Bitcoin pour les Juniors est une ligne directrice structurée. Ce n’est pas un script à suivre mot à mot. Les enseignants sont encouragés à adapter, simplifier, enrichir ou modifier les activités selon leurs élèves, leur environnement et leurs contraintes de temps. Les plans sont conçus pour soutenir la clarté et la confiance, en particulier pour les éducateurs qui débutent dans l’enseignement des concepts liés à l’argent ou au Bitcoin.
+Chaque fiche pédagogique du programme « Bitcoin pour les jeunes » constitue un guide structuré. Il ne s'agit pas d'un script à suivre à la lettre. Les enseignants sont encouragés à adapter, simplifier, approfondir ou modifier les activités en fonction de leurs élèves, de leur contexte et des contraintes de temps. Ces fiches sont conçues pour favoriser la clarté et la confiance, en particulier pour les enseignants qui abordent pour la première fois les concepts liés à l'argent ou au Bitcoin.
 
-Des ajustements sont attendus. Animez plutôt que de faire un cours magistral. Le cadre apporte la structure. L’enseignant apporte le jugement et le contexte.
+Il faut s'attendre à des ajustements. Il vaut mieux accompagner que faire la leçon. Le cadre fournit une structure. C'est l'enseignant qui apporte son jugement et le contexte.
 
 #### Comprendre la structure
 
-Chaque activité suit un format cohérent. Cela permet aux enseignants d’identifier rapidement ce dont ils ont besoin et comment mener la séance efficacement.
+Chaque activité suit un format cohérent. Cela permet aux enseignants d'identifier rapidement ce dont ils ont besoin et comment animer efficacement la séance.
 
-##### Type d’activité
+##### Type d'activité
 
-Les activités sont catégorisées pour faciliter la planification. Par exemple : jeu de simulation, discussion guidée, apprentissage expérientiel, défi coopératif. Ces étiquettes aident les enseignants à choisir des activités correspondant à leurs objectifs pédagogiques et au niveau d’énergie de la classe.
+Les activités sont classées par catégorie afin de faciliter la planification. Par exemple : jeu de simulation, discussion guidée, apprentissage par l'expérience, défi coopératif. Ces catégories aident les enseignants à choisir des activités adaptées à leurs objectifs pédagogiques et au niveau d'énergie de leur classe.
 
 ##### Durée
 
-Le temps indiqué est approximatif. Certains groupes avanceront rapidement. D’autres auront besoin de plus de discussions. Les enseignants doivent considérer la durée comme une indication flexible plutôt qu’une limite stricte.
+Les durées indiquées sont approximatives. Certains groupes avanceront rapidement, tandis que d’autres auront besoin de plus de temps pour discuter. Les enseignants doivent considérer ces durées comme des indications flexibles plutôt que comme des limites strictes.
 
 ##### Regroupement
 
-Indique si l’activité est conçue pour :
+Indique si l'activité est destinée à :
 
-* Classe entière
+* Toute la classe
 * Paires
 * Travail individuel
 
-Le regroupement aide à instaurer la dynamique d’apprentissage souhaitée. Travailler en groupe tend à augmenter l’engagement et aide les élèves à renforcer les idées par la discussion.
+Le travail en groupe contribue à instaurer la dynamique d'apprentissage souhaitée. Travailler en groupe favorise généralement l'implication des élèves et les aide à consolider leurs connaissances grâce à la discussion.
 
-#### Résultats d’apprentissage
+#### Acquis d'apprentissage
 
-Les résultats d’apprentissage définissent ce que les élèves doivent savoir, comprendre ou être capables de faire à la fin de l’activité. Ces résultats sont essentiels. Ils aident l’enseignant à rester concentré sur l’objectif plutôt que sur la simple réalisation de la tâche. Si le temps manque, privilégiez le résultat d’apprentissage plutôt que de finir chaque étape.
+Les acquis d'apprentissage définissent ce que les élèves doivent savoir, comprendre ou être capables de faire à l'issue de l'activité. Ces acquis sont essentiels. Ils aident l'enseignant à rester concentré sur l'objectif visé plutôt que sur la simple réalisation d'une tâche. Si le temps est compté, privilégiez les acquis d'apprentissage plutôt que de vouloir mener à bien chaque étape.
 
-#### Matériel vs Équipement
+#### Matériaux ou équipement ?
 
-##### Matériel
+##### Matériaux
 
-Le matériel désigne les objets consommables ou manipulables utilisés directement par les élèves. Exemples : fiches d’exercices, cartes imprimées, crayons, perles, post-it, affiches. Ce sont des objets que les élèves manipulent pendant l’activité.
+Le matériel désigne les consommables ou les objets pratiques utilisés directement par les élèves. Exemples : fiches d'exercices, cartes imprimées, crayons, perles, post-it, affiches. Il s'agit d'objets que les élèves manipulent pendant l'activité.
 
 ##### Équipement
 
-L’équipement fait référence aux outils non consommables ou aux besoins liés à l’environnement. Exemples : tableau blanc, minuteur, projecteur, espace ouvert en classe. L’équipement soutient l’activité mais n’est pas manipulé directement par les élèves comme le matériel.
+Le matériel désigne les outils non consommables ou les éléments liés à l'environnement. Exemples : tableau blanc, minuteur, projecteur, salle de classe ouverte. Le matériel sert de support à l'activité, mais n'est pas manipulé directement par les élèves, contrairement aux supports pédagogiques.
 
 Cette distinction aide les enseignants à se préparer efficacement.
 
 #### PROCÉDURE
 
-Chaque leçon comprend une séquence procédurale pour guider le déroulement et le rythme.
+Chaque leçon comprend une séquence méthodologique destinée à orienter le déroulement et le rythme de la leçon.
 
 ##### OUVERTURE
 
-À réaliser avant l’arrivée des élèves. Cela inclut la préparation du matériel, l’agencement des places, l’écriture des consignes au tableau et l’organisation des ressources. La préparation est préférable sans la présence des élèves pour assurer des transitions fluides.
+À effectuer avant l'arrivée des élèves dans la salle. Cela comprend la préparation du matériel, la disposition des sièges, la rédaction des consignes au tableau et l'organisation des ressources. Il est préférable d'effectuer ces préparatifs en l'absence des élèves afin de garantir des transitions en douceur.
 
-##### PRÉ-ACTIVITÉ
+##### AVANT L'ACTIVITÉ
 
-La phase d’échauffement. Elle fixe les attentes et éveille la curiosité. Elle peut inclure une question, une courte histoire, un scénario ou un défi. L’objectif est d’activer les connaissances préalables et de préparer les élèves à la tâche.
+La phase d'échauffement. Elle permet de définir les attentes et d'éveiller la curiosité. Elle peut prendre la forme d'une question, d'une petite histoire, d'un scénario ou d'un défi. L'objectif est de mobiliser les connaissances préalables et de préparer les élèves à la tâche à accomplir.
 
-##### Objectif dans les mots de l’élève
+##### L'objectif selon les mots de l'étudiant
 
-L’enseignant explique brièvement le but de l’activité en utilisant un langage compréhensible par les élèves. Quand les élèves savent pourquoi ils font quelque chose, leur engagement et leur mémorisation augmentent.
+L'enseignant explique brièvement l'objectif de l'activité en utilisant un langage compréhensible pour les élèves. Lorsque les élèves savent pourquoi ils font quelque chose, leur implication et leur capacité à retenir les informations s'en trouvent renforcées.
 
 ##### ACTIVITÉ
 
-1. **Mise en place** — Instructions pour organiser les élèves et distribuer le matériel.
-1. **Modéliser** — Lorsque c’est pertinent, démontrez la tâche. La modélisation réduit la confusion et renforce la confiance.
-1. **Réalisation** — Les élèves réalisent l’activité. L’enseignant observe, guide et soutient plutôt que de diriger.
-1. **Point de contrôle** — Faites une pause pour vérifier la compréhension. Ajustez si nécessaire. Cela évite que des malentendus ne s’aggravent.
-1. **Réflexion** — Les élèves discutent de ce qui s’est passé et de ce que cela signifie. La réflexion est essentielle. Elle transforme l’expérience en apprentissage. Encouragez les questions ouvertes et les liens avec des concepts du monde réel.
+1. **Configuration** — Consignes pour l'organisation des élèves et la distribution du matériel.
+1. **Modèle** — Le cas échéant, montrez comment réaliser la tâche. Donner l'exemple permet d'éviter toute confusion et de renforcer la confiance.
+1. **Effectuer** — Les élèves réalisent l'activité. L'enseignant observe, guide et accompagne, sans pour autant prendre le dessus.
+1. **Point de contrôle** — Faites une petite pause pour vérifier que vous avez bien compris. Rectifiez le tir si nécessaire. Cela permet d'éviter que les malentendus ne s'aggravent.
+1. **Réflexion** — Les élèves discutent de ce qui s'est passé et de ce que cela signifie. La réflexion est essentielle. Elle transforme l'expérience en apprentissage. Encouragez les questions ouvertes et les liens avec des concepts du monde réel.
 
 ##### SUIVI
 
-Un court moment de conclusion. Renforcez l’idée clé. Terminez sur une note positive. Cela peut inclure une question de récapitulation, un partage rapide en binôme ou une brève déclaration reliant l’activité au thème général du chapitre.
+Un bref moment de synthèse. Insistez sur l'idée principale. Terminez sur une note positive. Cela peut prendre la forme d'une question de récapitulatif, d'un bref échange entre partenaires ou d'une brève remarque établissant un lien entre l'activité et le thème général du chapitre.
 
-##### CLÔTURE
+##### FERMER
 
-Notes pour l’enseignant. Cette section inclut des rappels pour collecter le matériel, ranger les ressources, remettre la classe en ordre et préparer la prochaine séance.
+Notes à l'intention de l'enseignant. Cette section contient des rappels concernant la collecte du matériel, le rangement des ressources, la remise en ordre de la salle de classe et la préparation de la prochaine séance.
 
-#### Gestion de classe
+#### Gestion de la classe
 
-Chaque classe diffère par la tranche d’âge, le niveau d’énergie et la dynamique de groupe. Les suggestions de cette section peuvent inclure :
+Chaque classe présente des particularités en termes de tranche d'âge, de niveau d'énergie et de dynamique de groupe. Voici quelques suggestions proposées dans cette section :
 
-* Instructions claires avant les déplacements
-* Délais définis
+* Des consignes claires avant tout déplacement
+* Délais fixés
 * Règles visibles
 * Rôles structurés au sein des groupes
 
-Les enseignants doivent adapter les stratégies de gestion à leur contexte.
+Les enseignants doivent adapter leurs stratégies de gestion à leur contexte.
 
-#### Extensions et activités tampon
+#### Activités complémentaires et activités avec des éponges
 
-S'il reste du temps, les idées d'extension — parfois appelées activités tampon — permettent de poursuivre l'activité avec une préparation minimale. Elles peuvent approfondir la discussion, ajouter de la complexité ou introduire un élément créatif. Elles sont optionnelles et flexibles.
+S'il reste du temps, les idées d'approfondissement — parfois appelées « activités d'appoint » — permettent de poursuivre l'activité avec un minimum de préparation. Elles peuvent permettre d'approfondir la discussion, d'ajouter de la complexité ou d'introduire un élément créatif. Elles sont facultatives et flexibles.
 
 #### Différenciation
 
-La différenciation garantit l'accessibilité pour des apprenants divers. Les adaptations peuvent inclure :
+La différenciation garantit l'accessibilité à tous les apprenants, quelle que soit leur situation. Les adaptations peuvent notamment inclure :
 
-* Langage simplifié pour les élèves plus jeunes
+* Un langage simplifié pour les plus jeunes élèves
 * Supports visuels pour les lecteurs débutants
-* Instructions claires étape par étape
-* Rythme modifié
-* Façons alternatives de répondre
+* Des instructions claires, étape par étape
+* Stimulation modifiée
+* Autres façons de réagir
 
-L'accessibilité peut aussi inclure des considérations de sécurité physique et des structures de participation inclusives.
+L'accessibilité peut également impliquer des considérations liées à la sécurité physique et la mise en place de structures favorisant une participation inclusive.
 
 #### ANNEXE
 
-L'annexe contient des supports, des modèles, des ressources imprimables et des liens référencés dans la leçon. Les enseignants doivent consulter l'annexe avant la classe pour s'assurer que tout le matériel nécessaire est prêt.
+L'annexe contient des documents d'accompagnement, des modèles, des ressources imprimables et des liens mentionnés dans la leçon. Les enseignants sont invités à consulter l'annexe avant le cours afin de s'assurer que tout le matériel nécessaire est prêt.
 
-#### Conseils finaux
+#### Recommandations finales
 
-Ces plans de leçon sont structurés pour plus de clarté, mais la flexibilité est attendue. Concentrez-vous sur les objectifs d'apprentissage. Laissez de la place à l'expression des élèves. Privilégiez l'interaction à la perfection.
+Ces fiches pédagogiques sont conçues pour être claires, mais une certaine souplesse est de mise. Concentrez-vous sur les objectifs d'apprentissage. Laissez la parole aux élèves. Privilégiez l'interaction plutôt que la perfection.
 
-Bitcoin pour les Juniors est conçu pour soutenir un enseignement confiant et un apprentissage significatif.
+« Bitcoin pour les jeunes » est conçu pour favoriser un enseignement assuré et un apprentissage enrichissant.

@@ -1,6 +1,6 @@
 # 2.2 Bitcoin buruk bagi lingkungan
 
-> **Note**
+> **Light**
 >
 > * Bitcoin sering mendapat serangan karena dianggap menggunakan terlalu banyak energi.
 > * Pada tahun 2017, World Economic Forum (WEF) menerbitkan sebuah artikel di situs webnya yang mengklaim bahwa 'pada tahun 2020, Bitcoin akan mengonsumsi lebih banyak energi daripada yang mampu diproduksi dunia'.

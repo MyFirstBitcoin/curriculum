@@ -1,6 +1,6 @@
 # 3.0 Utangulizi
 
-> **Info – Muhtasari wa Karatasi Nyeupe ya Bitcoin**
+> **Dark – Muhtasari wa Karatasi Nyeupe ya Bitcoin**
 >
 > **Toleo la pesa za kielektroniki la rika-kwa-rika pekee** lingewezesha malipo ya mtandaoni kutumwa moja kwa moja kutoka kwa mtu mmoja hadi mwingine bila kupitia taasisi ya kifedha. **Saini za kidijitali hutoa sehemu ya suluhisho**, lakini faida kuu hupotea ikiwa **mtu wa tatu anayeaminika** bado anahitajika ili kuzuia matumizi maradufu. Tunapendekeza suluhisho la tatizo la matumizi maradufu kwa kutumia **mtandao wa rika-kwa-rika**. **Mtandao unatia alama ya muda kwenye miamala** kwa kuzihesabu katika mnyororo unaoendelea wa **uthibitisho wa kazi unaotegemea hash,** ukitengeneza rekodi ambayo haiwezi kubadilishwa bila kurudia **uthibitisho wa kazi**. Mnyororo mrefu zaidi hauonyeshi tu mlolongo wa matukio yaliyoshuhudiwa, bali pia ni ushahidi kwamba umetoka kwenye kundi kubwa zaidi la nguvu za CPU. Mradi tu nguvu nyingi za CPU zinadhibitiwa na nodi ambazo hazishirikiani kushambulia mtandao, zitazalisha mnyororo mrefu zaidi na kuwashinda washambuliaji. **Mtandao wenyewe unahitaji muundo mdogo sana. Ujumbe hutangazwa kwa jitihada bora, na nodi zinaweza kuondoka na kurejea kwenye mtandao wakati wowote**, zikikubali mnyororo mrefu zaidi wa uthibitisho wa kazi kama ushahidi wa kile kilichotokea wakati hazikuwepo.
 

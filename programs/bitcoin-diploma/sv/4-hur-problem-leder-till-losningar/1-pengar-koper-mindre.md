@@ -18,7 +18,11 @@ Detta visar hur köpkraften kan påverkas av krafter utanför vår kontroll och 
 
 #### Aktivitet: Auktion
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Detta är en övning i klassrummet där deltagarna får uppleva direkt hur en ökning av penningmängden påverkar prissättningen. Syftet är att deltagarna ska förstå monetär inflation (inte prisinflation).
 

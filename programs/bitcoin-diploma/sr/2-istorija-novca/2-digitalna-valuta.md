@@ -9,12 +9,12 @@ Valute koje koristimo postaju sve digitalnije; danas je samo mali deo novčane m
 ##### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Pogledajte ovaj kratak video da saznate više o "Poreklu razmene", iz serijala “Istorija papirnog novca”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Ovo je druga epizoda pod nazivom "Nisu samo rezanci" iz serijala "Istorija papirnog novca"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Šta se dešava kada zaista pokušate da sprovedete doktrinu papirnog novca u praksi? Saznajte u četvrtoj epizodi serijala "Istorija papirnog novca"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

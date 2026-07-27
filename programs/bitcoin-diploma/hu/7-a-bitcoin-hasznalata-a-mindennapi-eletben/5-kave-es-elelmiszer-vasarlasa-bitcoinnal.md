@@ -5,7 +5,7 @@ Elgondolkodtál már azon, hogy vajon tudnál-e bitcoinnal fizetni a napi kávé
 Bár a hitelkártyával vagy egy alkalmazással történő fizetés a fizető fél számára egyszerűnek tűnhet, a fizetés feldolgozása valójában nagyon összetett, és sok különböző szereplőt foglal magában.
 
 
-> **Note – Hogyan működik a fizetésfeldolgozás**
+> **Light – Hogyan működik a fizetésfeldolgozás**
 >
 > Vásárló → Kereskedő → Fizetési átjáró → Feldolgozó → Kártyahálózat → Kibocsátó bank → Kártyahálózat → Kereskedő bank → Kereskedő
 
@@ -55,7 +55,7 @@ A **körkörös gazdaság** olyan résztvevőkből áll, akik úgy döntenek, ho
 A Bitcoin esetében a körkörös gazdaság úgy épül fel, hogy támogatjuk a helyi kereskedőket és szakembereket, akik elfogadnak bitcoint, így minden résztvevő együtt gyarapodhat a Bitcoin előnyeinek köszönhetően.
 
 
-> **Note**
+> **Light**
 >
 > A Lightning Network lehetővé teszi, hogy Bitcoin körkörös gazdaságok jelenjenek meg és virágozzanak szerte a világon, a szinte azonnali és alacsony díjú Bitcoin tranzakcióknak köszönhetően.
 
@@ -71,4 +71,4 @@ Itt: [BTCMap.org](https://btcmap.org/communities), kereshetsz Bitcoin közössé
 ###### Források
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Nézd meg ezt a videót a Lightning hálózatról](https://youtu.be/yKdK-7AtAMQ)

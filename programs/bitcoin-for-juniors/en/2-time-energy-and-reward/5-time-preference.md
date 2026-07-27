@@ -1,37 +1,5 @@
 # 2.5 Time Preference
 
-**Activity type** Storytelling - Guided discussion - Comparison activity
-
-**Duration** 20 minutes
-
-**Grouping** Teacher-led, whole class
-
-##### **Description**
-
-Students explore the concept of time preference through a familiar story, _The Three Little Pigs_. By listening to the story, discussing character choices, and comparing building materials, learners reflect on short-term convenience versus long-term strength. The activity helps children understand that effort and patience can lead to better outcomes later.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Recognize that choices made quickly can have consequences later
-* Understand that effort and patience can lead to stronger outcomes
-* Begin to grasp the idea of time preference in simple terms
-* Practice comparing options and explaining their reasoning
-
-##### **Materials**
-
-* Storybook or printed visual version of _The Three Little Pigs_
-* Visual aids showing houses made of straw, sticks, and bricks (_See Appendix A_)
-* Crayons or markers
-* **Nice-to-have:** Puppets or character cut-outs
-
-##### **Equipment**
-
-* Whiteboard or poster board for group discussion notes
-* Markers
-* **Nice-to-have**: Projector or screen for displaying images
-
 #### **PROCEDURE**
 
 ##### **OPENING**

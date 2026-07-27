@@ -39,7 +39,7 @@ Sa huli, gawing mga panganib na may kaugnayan sa iyong organisasyon ang mga obse
 
 
 
-> **Info – Mga Halimbawa**
+> **Dark – Mga Halimbawa**
 >
 > * Panganib na maging pangunahing pandaigdigang reserbang asset ng treasury ang bitcoin
 > * Panganib na maging settlement layer ng internet-based na kalakalan ang Bitcoin network

@@ -65,7 +65,7 @@ Det är här centralbanken kommer in som sista utväg och tillhandahåller ny va
 1. **Banker betalar ränta från räntan de får in genom utlåning** (9 % - 5 % = 4 %) och behåller resten som vinst
 
 
-> **Note – Hur banker skapar pengar**
+> **Light – Hur banker skapar pengar**
 >
 > Affärsbanker skapar nya fiatpengar när de ger ut lån.
 >
@@ -124,7 +124,7 @@ Dessa grupper gynnas på olika sätt och skapar ett komplext nät av kontroll oc
 I slutändan regisserar fiatsystemets marionettförare en föreställning där några få tjänar stort på bekostnad av de många, som lämnas att undra hur de någonsin ska kunna komma ikapp.
 
 
-> **Note – Centralbankernas roll**
+> **Light – Centralbankernas roll**
 >
 > Centralbanker formar tyst hur en ekonomi fungerar. Deras officiella uppgift är att säkerställa stabilitet och integritet, men deras metoder avslöjar en mörkare sida.
 >
@@ -156,7 +156,7 @@ Centralbanker och regeringar kan använda penning- och finanspolitiska verktyg f
 * Höja skatterna
 
 
-> **Note – För stora för att få falla**
+> **Light – För stora för att få falla**
 >
 > ”Too big to fail” syftar på finansiella institutioner som är så stora och sammanlänkade att deras kollaps skulle få katastrofala konsekvenser för hela det finansiella systemet. Under finanskrisen 2008 ansågs flera stora banker vara ”too big to fail”, vilket ledde till att den amerikanska regeringen ingrep och gav nödlån för att förhindra deras sammanbrott.
 >
@@ -169,7 +169,11 @@ Att förstå hur dessa åtgärder fungerar är avgörande för att förstå begr
 
 #### Aktivitet: Fraktionella reservbanker
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Detta är en klassövning där vi utforskar individuella handlingar av personer och banker med hjälp av fraktionell reservbankverksamhet. Syftet är att uppleva på nära håll hur detta verktyg ökar penningmängden.
 

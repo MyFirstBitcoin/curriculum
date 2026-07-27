@@ -25,7 +25,7 @@ Yiyecek gibi temel ihtiyaçları ve istediğiniz eşyaları edinmek gibi pratik 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Tartışmayı gruba genişleterek listelerinizi paylaşın ve karşılaştırın; paraya ihtiyaç duymanın en önemli beş nedenini bulun. Sınıf genelinde ortak fikirleri belirleyin. Listeye giremeyen ama yine de değerli olan kendi benzersiz fikirlerinizi düşünün ve not alın.
 

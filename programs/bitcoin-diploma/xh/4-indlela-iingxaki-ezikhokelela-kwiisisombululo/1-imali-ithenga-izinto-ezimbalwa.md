@@ -18,7 +18,11 @@ Oku kubonisa indlela amandla okuthenga anokuchaphazeleka ngayo zizinto ezingapha
 
 #### Umsebenzi: Ukuthengisa ngephanyazo
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Lo ngumsebenzi weklasi apho abathathi-nxaxheba bafunda ngokwabo indlela ukwanda kwemali kuchaphazela ngayo amaxabiso. Injongo kukuba abathathi-nxaxheba baqonde ukonyuka kwemali (hayi ukunyuka kwamaxabiso).
 

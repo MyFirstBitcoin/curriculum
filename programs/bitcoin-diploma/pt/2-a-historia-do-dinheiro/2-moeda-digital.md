@@ -9,12 +9,12 @@ As moedas que usamos estão se tornando cada vez mais digitais; hoje, apenas uma
 ##### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Assista a este vídeo curto para aprender sobre as "Origens da Troca", da série “A História do Papel-moeda”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Este é o segundo episódio chamado "Não só Macarrão" de "A História do Papel-moeda"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ O que acontece quando você realmente tenta colocar a doutrina do papel-moeda em prática? Descubra no quarto episódio de "A História do Papel-moeda"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

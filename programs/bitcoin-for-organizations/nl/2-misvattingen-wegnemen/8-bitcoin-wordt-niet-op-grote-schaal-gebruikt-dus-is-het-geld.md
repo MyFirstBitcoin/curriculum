@@ -69,7 +69,7 @@ Sinds de oprichting in 2009 bevindt bitcoin zich in een voortdurende staat van '
 Door het analyseren van het bitcoin-grootboek kan worden aangetoond dat meer dan 70% van de totale bitcoinvoorraad wordt aangehouden door [langetermijnhouders](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Het lijkt er dus op dat de meerderheid van de houders tevreden is om hun bitcoin te bewaren en niet te verkopen of uit te geven. Gezien de enorme toename van de koopkracht van bitcoin sinds de lancering, is het redelijk aan te nemen dat de meeste houders verwachten dat bitcoin waardevoller zal worden en dat dit hun beslissing beïnvloedt om te blijven vasthouden en niet uit te geven.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Elk jaar op 22 mei viert en herdenkt de Bitcoin-gemeenschap de Floridiaanse programmeur Laszlo Hanyecz, die de eerste persoon werd waarvan bekend is dat hij bitcoin gebruikte om fysieke goederen te kopen. Op 18 mei 2010 kondigde Hanyecz op een Bitcointalk.org-forum aan dat hij op zoek was naar pizza en bereid was te betalen in bitcoin. Hij bood 10.000 bitcoin aan aan iedereen die de transactie wilde aangaan. Hij wachtte enkele dagen, totdat de 19-jarige student Jeremy Sturdivant op het aanbod inging en twee grote pizza's stuurde. Laszlo stuurde Sturdivant zoals beloofd 10.000 bitcoin, wat op het moment van schrijven meer dan $680 miljoen waard is.
 >

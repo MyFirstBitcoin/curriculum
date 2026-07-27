@@ -11,7 +11,11 @@ Imaginează-ți o perioadă îndepărtată, când oamenii nu aveau monedele sau 
 
 #### Activitate: Joc de barter iterativ
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Acesta este un exercițiu de clasă conceput pentru a-ți crește înțelegerea conceptelor de barter. Participarea te va ajuta să vezi cum banii se dezvoltă în mod natural pe piețele libere.
 

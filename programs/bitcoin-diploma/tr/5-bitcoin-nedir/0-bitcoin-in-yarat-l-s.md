@@ -9,7 +9,11 @@ _Bitcoin'in öncesi - 40 yıllık araştırma, geliştirme ve talebin bir sonucu
 
 Önceki modülde gördüğümüz gibi, birkaç Cypherpunk alternatif bir para biçimi yaratmaya çalıştı. Bu modül, onlardan birinin hikayesini sürdürüyor: “Satoshi Nakamoto” olarak bilinen bir vizyoner. Bu anonim figür (bir kişi ya da grup), Bitcoin'den çok önce, itibari para sisteminin yerine geçebilecek pratik yollar bulmak için çevrimiçi kriptografi ve bilgisayar bilimi tartışmalarına katıldı.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Ekim 2008'de Nakamoto, “Bitcoin: Eşler Arası Elektronik Nakit Sistemi” başlıklı çığır açıcı bir teknik makaleyi bir kriptografi e-posta listesinde paylaştı. Bu belge, aracıya ihtiyaç duymadan güvenli çevrimiçi işlemleri kolaylaştırmak için tasarlanmış merkeziyetsiz bir eşler arası protokolün temelini attı. Nakamoto'nun vizyonu açıktı: Güçlü hükümetlerin ve finansal kurumların kontrolünden bağımsız, tamamen eşler arası bir elektronik nakit versiyonu yaratmak.
 

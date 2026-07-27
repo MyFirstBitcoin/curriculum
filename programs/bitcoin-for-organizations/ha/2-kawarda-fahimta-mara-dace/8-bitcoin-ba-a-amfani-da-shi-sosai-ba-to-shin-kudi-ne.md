@@ -65,7 +65,7 @@ Tun daga kafuwarsa a 2009, bitcoin yana cikin yanayin 'gano farashi' yayin da ma
 Ta hanyar nazarin littafin ajiyar bitcoin, za a iya nuna cewa fiye da kashi 70% na dukkanin bitcoin ana riƙe da su ta hannun[masu riƙe na dogon lokaci](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Saboda haka, yana bayyana cewa mafi yawan masu riƙe da bitcoin sun gamsu da zama da su ba tare da sayarwa ko kashe su ba. Duba da yadda ƙimar sayen bitcoin ta ƙaru tun lokacin da aka ƙaddamar da shi, yana da ma'ana a ɗauka cewa mafi yawan masu riƙe da bitcoin na sa ran zai ƙara ƙima kuma hakan ke sa su ci gaba da riƙe shi maimakon kashewa.
 
 
-> **Info – Ranar Pizza ta Bitcoin**
+> **Dark – Ranar Pizza ta Bitcoin**
 >
 > Kowace shekara a ranar 22 ga Mayu, al'ummar Bitcoin na murnar tunawa da Laszlo Hanyecz, wani shahararren mai shirya kwamfuta daga Florida, wanda ya zama mutum na farko da aka sani da ya yi amfani da bitcoin wajen siyan kaya na zahiri. A ranar 18 ga Mayu 2010, Hanyecz ya sanar a dandalin Bitcointalk.org cewa yana neman pizza kuma yana son biya da bitcoin. Ya bayar da bitcoin 10,000 ga duk wanda zai amince da cinikin. Ya jira na wasu kwanaki, har sai wani ɗalibi mai shekaru 19 mai suna Musa ya amince ya aika masa da pizza biyu manya. Laszlo ya aika wa Musa bitcoin 10,000 kamar yadda ya yi alkawari wanda, a lokacin rubuta wannan, darajarsa ta haura Naira miliyan 680.
 >

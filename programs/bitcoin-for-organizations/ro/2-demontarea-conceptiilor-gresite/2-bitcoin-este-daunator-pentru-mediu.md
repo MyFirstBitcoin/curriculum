@@ -1,6 +1,6 @@
 # 2.2 Bitcoin este dăunător pentru mediu
 
-> **Note**
+> **Light**
 >
 > * Bitcoin a fost adesea criticat pentru că folosește prea multă energie.
 > * Înapoi în 2017, Forumul Economic Mondial (WEF) a publicat un articol pe site-ul său susținând că „până în 2020, Bitcoin va consuma mai multă energie decât poate produce lumea”.

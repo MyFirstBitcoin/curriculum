@@ -1,36 +1,5 @@
 # 4.1 Gatekeepers
 
-**Activity type** Guided discussion - Visual classification - Personal reflection
-
-**Duration** 30 minutes
-
-**Grouping** Whole Class/Pairs/Individual
-
-##### **Description**
-
-Students explore the difference between public and private spaces and information through guided discussion and visual examples. Using familiar everyday situations, learners practice classifying what is usually public or private and reflect on the idea that individuals can choose what information they keep private or share. The activity builds early awareness of privacy, boundaries, and personal responsibility.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Distinguish between public and private spaces and information
-* Explain why some things should be kept private
-* Recognize that people can choose what they share
-* Practice respectful discussion and personal decision-making
-
-##### **Materials**
-
-* Visual aids or flash cards showing examples of places and information (_See Appendix A_)
-* Student worksheet with checkboxes for Public / Private (_See Appendix B_)
-* Pencils or crayons
-
-##### **Equipment**
-
-* Whiteboard or poster board
-* Markers
-* **Nice-to-have:** Projector or screen for images
-
 #### **PROCEDURE**
 
 ##### **OPENING**

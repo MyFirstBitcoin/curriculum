@@ -5,7 +5,7 @@
 I-Bitcoin ixhomekeke kumandla ombane kwindlela yayo ye-‘proof of work’ yokuvumelana, nto leyo enceda ukuqinisekisa ukuba ihlala iyimali engaphantsi kolawulo, engenamvume. Umnatha wombane ujongene nemingeni yokudibanisa iindlela ezintsha zamandla avela kwimithombo ehlaziyekayo, nto leyo ebeka uxinzelelo kwiinfrastructures ezikhoyo ngoku. Eli sahluko linika intshayelelo emfutshane kule mingeni kunye nenkcazo yezinto ezibalulekileyo malunga neBitcoin phambi kokubonisa indlela enceda ngayo kuguquko lomnatha wamandla ohlaziyekayo.
 
 
-> **Info – I-Bitcoin njengemali yamandla**
+> **Dark – I-Bitcoin njengemali yamandla**
 >
 > Ngomhla we-4 kuDisemba 1921, iNew York Tribune yapapasha inqaku elichaza umbono kaFord wokutshintsha igolide ngemali yamandla awayekholelwa ukuba ingaphula ulawulo lwabantu abakhulu bamashishini ebhanki kubutyebi behlabathi kwaye iphelise iimfazwe. Wayehlela ukwenza oku ngokwakha "eyona planti yamandla inkulu ehlabathini" kunye nokudala inkqubo entsha yemali esekwe "kwiiyunithi zamandla."
 

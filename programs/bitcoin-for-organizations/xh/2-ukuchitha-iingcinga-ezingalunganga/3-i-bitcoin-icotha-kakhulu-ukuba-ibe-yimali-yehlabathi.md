@@ -41,7 +41,7 @@ Xa le ngxelo igxekwa, kufanelekile ukucinga ukuba ingaba lowo ugxekayo uneminye 
 I-Scalability, okanye iBlockchain Trilemma, yaphakanyiswa okokuqala nguVitalik Buterin ngo-2017. Ithi kusoloko kukho ukutshintshiselana kuyilo lwe-blockchain phakathi kweempawu zeDecentralisation, Security kunye neScalability. Nabani na ogxeka ukuba iBitcoin icotha kakhulu kwaye banezisombululo ezikhawulezayo kwi-layer 1 blockchain baya kuba benikela ngezinye zeempawu zokhuseleko okanye ukungabikho komphathi ukuze bakufumane oko. Nangona olo tshintsho lungenza ingqiqo kwi-blockchain eyenzelwe ezinye iinjongo, uluhlu lwezinto ezibalulekileyo kwimali yehlabathi kufuneka lube:
 
 
-> **Note**
+> **Light**
 >
 > * **Ukungabikho komphathi (Decentralisation)**
 >   * Kwenza kube nokususa amaqela athembekileyo

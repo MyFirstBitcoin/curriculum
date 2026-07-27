@@ -78,7 +78,7 @@ Dalším problémem útočníka je, jak si udržet kontrolu, jakmile ji získá.
 Je pravděpodobné, že jakmile bude zřejmé, že je síť napadena, vývojáři Bitcoinu provedou „hard-fork“ softwaru, takže účetní kniha bude „odštěpena“ od bodu, kdy útočník vytvořil podvodné záznamy. Většina uzlů pak nasadí upravenou verzi softwaru a úsilí útočníka bude ignorováno.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Odlehčenější popis možnosti státem sponzorovaného 51% útoku od Andrease Antonopoulose.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Může být zakázána vlastní úschova Bitcoinu a peer-to-peer transakce?
@@ -106,7 +106,7 @@ Měli bychom také očekávat, že některé státy přijmou špatné a nefunkč
 Historickým příkladem příliš přísného zákona, který byl následně zrušen, je britský Red Flag zákon z konce 19. století.
 
 
-> **Note**
+> **Light**
 >
 > V polovině 19. století čelily dostavníkové a zejména železniční společnosti hrozbě, že je automobilová doprava vytlačí. Obávaly se, že je auta nahradí.**Proto se snažily přesvědčit vládu, aby přijala přísné zákony, a tím se pokusily zpomalit rozvoj této nové technologie.**
 >
@@ -144,7 +144,7 @@ Samozřejmě, obviňovat Bitcoin z vyvolání krize fiat měny by bylo absurdní
 Je také důležité si uvědomit, že Bitcoin sílí, když je napadán. Je to proto, že tyto útoky pomáhají vyvracet mýty šířené odpůrci, že Bitcoin je křehký a zranitelný. Takže bychom neměli jen očekávat, že vlády budou Bitcoin přeregulovávat, ale měli bychom to i vítat.
 
 
-> **Note**
+> **Light**
 >
 > **Vlády se pravděpodobně poučí o antifragilitě Bitcoinu tím, že se jej budou snažit omezit a zjistí, co se stane, když zaútočí na síť.** Pravděpodobně zjistí, že u Bitcoinu, více než u jakékoli jiné třídy aktiv v historii, bude kapitál proudit do těch zemí, kde je s ním nakládáno nejlépe. Proto by mělo být s růstem sítě Bitcoinu stále zřejmější, že země, které se rozhodnou jej přijmout místo boje proti němu, mají větší šanci stát se vítězi.
 

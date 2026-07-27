@@ -1,36 +1,5 @@
 # 3.2 Vote With Your Feet
 
-**Activity type** Debate - Movement-based decision making
-
-**Duration** 20-25 minutes
-
-**Grouping** Whole class, teacher-led, optional team split for extension
-
-##### **Description**
-
-Students physically position themselves in the classroom to show whether they prefer older or newer technologies. By moving, debating, and explaining their choices, learners compare analogue and digital tools, consider trade-offs, and practice respectful disagreement. The activity reinforces prior learning on technological evolution while increasing engagement through movement.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Compare old and new technologies and explain preferences
-* Identify advantages and disadvantages of different tools
-* Practice expressing opinions and listening to others
-* Engage in cooperative discussion through movement and debate
-
-##### **Materials**
-
-* Completed Analogue vs Digital matching worksheets (_See 3.1 - Evolution of Technology_)
-* Optional labels or signs for OLD, CENTER, NEW
-* Optional beads or stars for debate rewards
-* Optional poster paper and markers
-
-##### **Equipment**
-
-* Clear classroom space for movement
-* **Nice-to-have**: Timer or bell for transitions
-
 #### **PROCEDURE**
 
 ##### **OPENING**

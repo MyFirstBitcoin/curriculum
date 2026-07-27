@@ -4,9 +4,9 @@ Tato příručka vysvětluje, jak číst a používat plány lekcí v Bitcoin fo
 
 #### Používání plánů lekcí
 
-Každý plán lekce v Bitcoin for Juniors je strukturovaným vodítkem. Není to scénář, který je nutné dodržovat slovo od slova. Učitelé jsou povzbuzováni, aby aktivity přizpůsobili, zjednodušili, rozšířili nebo upravili podle svých žáků, prostředí a časových možností. Plány jsou navrženy tak, aby podporovaly srozumitelnost a jistotu, zejména pro učitele, kteří jsou v oblasti výuky peněz nebo konceptů Bitcoinu noví.
+Každý plán lekce v Bitcoin for Juniors je strukturovaným vodítkem. Není to scénář, který by bylo nutné dodržovat slovo od slova. Učitelé jsou povzbuzováni, aby aktivity přizpůsobili, zjednodušili, rozšířili nebo upravili podle svých žáků, prostředí a časových možností. Plány jsou navrženy tak, aby podporovaly jasnost a jistotu, zejména pro učitele, kteří jsou v oblasti výuky peněz nebo konceptů Bitcoinu noví.
 
-Úpravy jsou očekávány. Facilitujte spíše než přednášejte. Rámec poskytuje strukturu. Učitel poskytuje úsudek a kontext.
+Úpravy jsou očekávány. Spíše facilitujte než přednášejte. Rámec poskytuje strukturu. Učitel poskytuje úsudek a kontext.
 
 #### Porozumění struktuře
 
@@ -14,7 +14,7 @@ Každá aktivita má konzistentní formát. To umožňuje učitelům rychle zjis
 
 ##### Typ aktivity
 
-Aktivity jsou kategorizovány pro snadnější plánování. Například: simulační hra, řízená diskuse, zážitkové učení, kooperativní výzva. Tyto označení pomáhají učitelům vybrat aktivity, které odpovídají jejich výukovým cílům a energii ve třídě.
+Aktivity jsou kategorizovány pro snadnější plánování. Například: simulační hra, řízená diskuse, zážitkové učení, kooperativní výzva. Tyto označení pomáhají učitelům vybírat aktivity, které odpovídají jejich výukovým cílům a energii ve třídě.
 
 ##### Délka trvání
 
@@ -22,7 +22,7 @@ Uvedený čas je orientační. Některé skupiny postupují rychleji. Jiné budo
 
 ##### Seskupení
 
-Uvádí, zda je aktivita určena pro:
+Udává, zda je aktivita určena pro:
 
 * Celá třída
 * Dvojice
@@ -32,23 +32,23 @@ Seskupení pomáhá nastavit zamýšlenou dynamiku učení. Práce ve skupinách
 
 #### Výukové výstupy
 
-Výukové výstupy určují, co by žáci měli na konci aktivity vědět, chápat nebo být schopni udělat. Tyto výstupy jsou zásadní. Pomáhají učiteli zůstat zaměřený na cíl, nikoli pouze na splnění úkolu. Pokud je čas omezený, upřednostněte výukový výstup před dokončením všech kroků.
+Výukové výstupy určují, co by žáci měli na konci aktivity vědět, chápat nebo být schopni udělat. Tyto výstupy jsou zásadní. Pomáhají učiteli zůstat zaměřený na cíl, nikoli pouze na splnění úkolu. Pokud je času málo, upřednostněte výukový výstup před dokončením všech kroků.
 
 #### Materiály vs. vybavení
 
 ##### Materiály
 
-Materiály jsou spotřební nebo praktické předměty, které žáci přímo používají. Příklady: pracovní listy, tištěné karty, tužky, korálky, lepící lístky, plakáty. Jsou to předměty, se kterými žáci během aktivity manipulují.
+Materiály jsou spotřební nebo praktické předměty, které žáci přímo používají. Příklady: pracovní listy, tištěné karty, tužky, korálky, lepící lístečky, plakáty. Jsou to předměty, které žáci během aktivity manipulují.
 
 ##### Vybavení
 
-Vybavení označuje nespotřební pomůcky nebo potřeby prostředí. Příklady: tabule, časovač, projektor, volný prostor ve třídě. Vybavení podporuje aktivitu, ale žáci s ním přímo nemanipulují stejným způsobem jako s materiály.
+Vybavení označuje nespotřební nástroje nebo potřeby prostředí. Příklady: tabule, časovač, projektor, volný prostor ve třídě. Vybavení podporuje aktivitu, ale žáci s ním přímo nemanipulují stejným způsobem jako s materiály.
 
 Toto rozlišení pomáhá učitelům efektivně se připravit.
 
 #### POSTUP
 
-Každá lekce obsahuje postupnou sekvenci pro vedení průběhu a tempa.
+Každá lekce obsahuje postupovou sekvenci pro vedení průběhu a tempa.
 
 ##### ÚVOD
 
@@ -67,7 +67,7 @@ Učitel stručně vysvětlí účel aktivity jazykem, kterému žáci rozumí. K
 1. **Příprava** — Pokyny k organizaci žáků a rozdělení materiálů.
 1. **Ukázka** — Pokud je to vhodné, předveďte úkol. Ukázka snižuje zmatek a posiluje jistotu.
 1. **Provedení** — Žáci plní aktivitu. Učitel pozoruje, vede a podporuje, místo aby dominoval.
-1. **Kontrolní bod** — Krátce se zastavte a ověřte porozumění. V případě potřeby upravte. Tím předejdete rozšíření nedorozumění.
+1. **Kontrolní bod** — Krátce se zastavte a ověřte porozumění. V případě potřeby upravte. Tím předejdete nedorozuměním.
 1. **Reflexe** — Žáci diskutují o tom, co se stalo a co to znamená. Reflexe je zásadní. Přeměňuje zkušenost v učení. Podporujte otevřené otázky a propojení s reálnými koncepty.
 
 ##### NÁSLEDNÁ ČINNOST
@@ -80,14 +80,14 @@ Poznámky pro učitele. Tato sekce obsahuje připomínky ke sběru materiálů, 
 
 #### Řízení třídy
 
-Každá třída se liší věkovým rozsahem, úrovní energie a skupinovou dynamikou. Návrhy v této sekci mohou zahrnovat:
+Každá třída se liší věkovým rozsahem, úrovní energie a skupinovou dynamikou. Doporučení v této sekci mohou zahrnovat:
 
 * Jasné pokyny před pohybem
 * Stanovené časové limity
 * Viditelná pravidla
 * Strukturované role ve skupinách
 
-Učitelé by měli přizpůsobit strategie řízení svému kontextu.
+Učitelé by měli přizpůsobit strategie řízení své situaci.
 
 #### Rozšiřující a náhradní aktivity
 
@@ -103,7 +103,7 @@ Diferenciace zajišťuje přístupnost pro různé žáky. Úpravy mohou zahrnov
 * Upravené tempo
 * Alternativní způsoby odpovědí
 
-Přístupnost může také zahrnovat hlediska fyzické bezpečnosti a inkluzivní struktury zapojení.
+Přístupnost může zahrnovat také zajištění fyzické bezpečnosti a inkluzivní struktury zapojení.
 
 #### DODATEK
 
@@ -111,6 +111,6 @@ Dodatek obsahuje podpůrné materiály, šablony, tisknutelné zdroje a odkazy u
 
 #### Závěrečné doporučení
 
-Tyto plány lekcí jsou strukturovány pro přehlednost, ale očekává se flexibilita. Zaměřte se na vzdělávací cíle. Dejte prostor žákovskému hlasu. Upřednostněte interakci před dokonalostí.
+Tyto plány lekcí jsou strukturovány pro přehlednost, ale očekává se flexibilita. Zaměřte se na vzdělávací cíle. Dejte prostor hlasu žáků. Upřednostněte interakci před dokonalostí.
 
-Bitcoin for Juniors je navržen tak, aby podporoval sebevědomé vyučování a smysluplné učení.
+Bitcoin for Juniors je navržen tak, aby podporoval sebevědomou výuku a smysluplné učení.

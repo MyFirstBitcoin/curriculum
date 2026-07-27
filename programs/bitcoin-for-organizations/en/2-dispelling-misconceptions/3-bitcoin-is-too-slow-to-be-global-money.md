@@ -41,7 +41,7 @@ When this criticism is raised, it is worth considering whether the critic has ot
 The Scalability, or Blockchain, Trilemma, was first raised by Vitalik Buterin in 2017. It says that there is always a trade-off in blockchain design between the properties of Decentralisation, Security and Scalability. Anyone raising the criticism that Bitcoin is too slow and that they have a quicker solution in a layer 1 blockchain will be sacrificing some security or decentralisation in order to achieve it. Whilst such a trade-off for a blockchain designed for other uses may make sense, the order of priority for a global money must be:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralisation**
 >   * Makes it possible to remove trusted parties

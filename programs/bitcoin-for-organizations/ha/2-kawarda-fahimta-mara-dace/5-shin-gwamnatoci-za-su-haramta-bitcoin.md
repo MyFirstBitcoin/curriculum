@@ -78,7 +78,7 @@ Wani ƙalubale da mai hari zai fuskanta shi ne yadda zai ci gaba da rike iko ida
 Mai yiwuwa ne, idan ya bayyana cewa hanyar sadarwar na fuskantar hari, masu haɓaka Bitcoin za su yi 'hard-fork' ga manhajar Bitcoin, don haka za a 'raba' littafin ajiyar daga lokacin da aka ƙirƙiri bayanan karya. Yawancin na'urori za su aiwatar da sabon sigar manhajar kuma kokarin mai hari za a yi watsi da shi.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Wani bayani mai ban dariya daga Andreas Antonopoulos game da yiwuwar hari na 51% da gwamnati ke daukar nauyi.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Za a iya haramta rike Bitcoin da kanka da kuma mu'amala kai tsaye tsakanin mutane?
@@ -106,7 +106,7 @@ Ya kamata mu sa ran wasu ƙasashe za su kafa dokokin Bitcoin marasa kyau da ba z
 Dokar Red Flag ta Birtaniya a ƙarshen ƙarni na 19 misali ne na doka mai tsauri da aka soke daga baya.
 
 
-> **Note**
+> **Light**
 >
 > A tsakiyar ƙarni na 19, masana'antar keken haya da ta jirgin ƙasa sun fara jin tsoron zuwan motoci. Sun ji tsoron motoci za su maye gurbinsu.**Don haka, sun yi ƙoƙari sosai don su shawo kan gwamnati ta kafa dokoki masu tsauri, suna ƙoƙarin hana ci gaban wannan sabuwar fasaha.**
 >
@@ -144,7 +144,7 @@ Tabbas, dora laifin Bitcoin kan haddasa rikicin kudin fiat zai zama abin dariya.
 Hakanan yana da muhimmanci a lura cewa Bitcoin yana kara karfi idan aka kai masa hari. Wannan saboda wadannan hare-haren suna kawar da jita-jitar da masu adawa ke yadawa cewa Bitcoin rauni ne kuma mai saukin faduwa. Don haka, ba wai kawai ya kamata mu sa ran gwamnatoci za su yi wa Bitcoin tsauraran dokoki ba, ya kamata mu maraba da hakan.
 
 
-> **Note**
+> **Light**
 >
 > **Gwamnatoci mai yiwuwa za su koyi game da karfin jurewa na Bitcoin ta hanyar kokarin takura masa sannan su ga abin da zai faru idan suka kai hari ga hanyar sadarwarsa.**Za su iya ganin cewa, a Bitcoin, fiye da kowanne nau'in dukiya a tarihi, jarin zai kwarara zuwa kasashen da suka fi kula da shi. Saboda haka, yayin da hanyar sadarwar Bitcoin ke kara girma, zai kara bayyana cewa kasashen da suka rungume shi, maimakon su yi masa adawa, su ne za su fi samun nasara.
 

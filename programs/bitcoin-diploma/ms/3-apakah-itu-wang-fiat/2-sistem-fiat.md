@@ -65,7 +65,7 @@ Di sinilah bank pusat berperanan sebagai pemberi pinjaman terakhir, menyediakan 
 1. **Bank membayar faedah daripada faedah yang diterima hasil pinjaman** (9% - 5% = 4%) dan menyimpan selebihnya sebagai keuntungan
 
 
-> **Note – Bagaimana Bank Mencipta Wang**
+> **Light – Bagaimana Bank Mencipta Wang**
 >
 > Bank komersial mencipta wang fiat baru apabila mereka mengeluarkan pinjaman.
 >
@@ -124,7 +124,7 @@ Kumpulan-kumpulan ini mendapat manfaat dengan pelbagai cara, mewujudkan satu jar
 Akhirnya, dalang sistem fiat mengatur satu persembahan di mana segelintir mendapat manfaat besar atas kesusahan ramai, yang akhirnya tertanya-tanya bagaimana mereka akan dapat mengejar semula.
 
 
-> **Note – Peranan Bank Pusat**
+> **Light – Peranan Bank Pusat**
 >
 > Bank pusat secara senyap membentuk cara ekonomi berfungsi. Tugas rasmi mereka adalah untuk memastikan kestabilan dan integriti, tetapi kaedah mereka mendedahkan sisi yang lebih gelap.
 >
@@ -156,7 +156,7 @@ Bank pusat dan kerajaan boleh menggunakan alat dasar monetari dan fiskal untuk m
 * Meningkatkan Cukai
 
 
-> **Note – Terlalu Besar Untuk Gagal**
+> **Light – Terlalu Besar Untuk Gagal**
 >
 > "Terlalu besar untuk gagal" merujuk kepada institusi kewangan yang begitu besar dan saling berkait sehingga kegagalan mereka akan membawa kesan buruk yang besar kepada keseluruhan sistem kewangan. Semasa krisis kewangan 2008, beberapa bank besar dianggap "terlalu besar untuk gagal," menyebabkan kerajaan Amerika Syarikat campur tangan dan memberikan bantuan kewangan untuk mengelakkan kejatuhan mereka.
 >
@@ -169,7 +169,11 @@ Mengetahui bagaimana dasar-dasar ini berfungsi adalah penting untuk memahami bat
 
 #### Aktiviti: Perbankan Rizab Pecahan
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Ini adalah latihan kelas yang meneroka tindakan individu oleh orang ramai dan bank menggunakan amalan perbankan rizab pecahan. Tujuannya adalah untuk mengalami sendiri bagaimana alat ini meningkatkan bekalan wang.
 

@@ -25,7 +25,7 @@ Cinga ngeendlela ezisebenzayo ezifana nokufumana izinto ezisisiseko ezifana noku
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Yandisa ingxoxo kwiqela ngokwabelana nokuthelekisa uluhlu ukuze kufumaneke ezona zizathu zibalulekileyo zintlanu zokufuna imali. Chonga iingcinga ezifanayo phakathi kweklasi. Qwalasela neengcinga zakho ezizodwa ezingazange zingene kuluhlu kodwa zisengabalulekile, uzibhale phantsi.
 

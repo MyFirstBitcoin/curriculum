@@ -15,7 +15,7 @@ Sekarang anda sudah memahami kunci awam dan kunci peribadi, serta peranan nod da
 Setelah dimasukkan ke dalam satu blok, transaksi itu disahkan. Adam tidak boleh membelanjakan bitcoin itu lagi, dan Ahmad boleh membelanjakan apa yang diterimanya dalam transaksi baru.
 
 
-> **Note**
+> **Light**
 >
 > Transaksi & yuran dipilih → Ditandatangani oleh dompet dan dihantar → Diedarkan oleh nod → Pelombong menambah transaksi ke templat blok → Pelombong memenangi pertandingan Bukti-Kerja → Blok baharu disahkan → Blok baharu diedarkan oleh nod
 
@@ -23,4 +23,4 @@ Setelah dimasukkan ke dalam satu blok, transaksi itu disahkan. Adam tidak boleh 
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Tonton video ini mengenai Nod Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

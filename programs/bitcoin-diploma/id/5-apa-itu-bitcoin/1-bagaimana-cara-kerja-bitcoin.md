@@ -19,7 +19,7 @@ Inilah pada dasarnya cara kerja Bitcoin. Bitcoin adalah jaringan orang-orang yan
 Sebagai contoh, salah satu aturan Bitcoin adalah "Tidak akan pernah ada lebih dari 21 juta bitcoin." Jika seseorang mencoba membuat satu juta bitcoin tambahan untuk dirinya sendiri, itu tidak akan berguna baginya, karena dia akan langsung dikenali dan ditolak oleh semua orang lain. Inilah yang membuat Bitcoin sangat tangguh.
 
 
-> **Info**
+> **Dark**
 >
 > Tidak peduli siapa Anda atau dari mana asal Anda: jika Anda memasuki dunia Bitcoin, Anda harus bermain dengan aturan yang sama seperti semua orang.
 
@@ -84,7 +84,11 @@ Setiap peserta dalam orkestra terdesentralisasi ini memainkan peran penting dala
 
 #### Aktivitas: Konsensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Ini adalah latihan kelas di mana peserta belajar secara langsung betapa sulitnya menyinkronkan tindakan dalam kelompok tanpa pemimpin yang jelas. Tujuannya adalah agar peserta memahami bagaimana kesepakatan (konsensus) dicapai dalam Bitcoin.
 

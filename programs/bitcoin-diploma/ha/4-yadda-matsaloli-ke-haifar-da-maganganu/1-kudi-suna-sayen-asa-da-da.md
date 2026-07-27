@@ -18,7 +18,11 @@ Wannan yana nuna yadda ikon siye zai iya shafuwa daga abubuwan da ba mu da iko d
 
 #### Ayyuka: Gasa
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Wannan aikin aji ne inda mahalarta ke koyo kai tsaye yadda ƙara yawan kuɗi ke shafar farashi. Manufar ita ce mahalarta su fahimci karuwar kuɗi (ba karuwar farashi ba).
 

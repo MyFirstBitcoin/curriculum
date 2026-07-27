@@ -15,7 +15,7 @@ Most, hogy már érted a nyilvános és privát kulcsokat, valamint a node-ok é
 Miután bekerült egy blokkba, a tranzakció megerősítést nyer. Ádám nem költheti el újra azt a bitcoint, Gergő pedig elkötheti azt, amit kapott, egy új tranzakcióban.
 
 
-> **Note**
+> **Light**
 >
 > Tranzakció és díj kiválasztva → Tárca aláírja és elküldi → Node-ok terjesztik → Bányász hozzáadja a tranzakciót a blokk sablonhoz → Bányász megnyeri a Proof-of-Work versenyt → Új blokk érvényesítve → Új blokkot node-ok terjesztik
 
@@ -23,4 +23,4 @@ Miután bekerült egy blokkba, a tranzakció megerősítést nyer. Ádám nem k�
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Nézd meg ezt a videót a Bitcoin node-okról](https://www.youtube.com/watch?v=xc_TxlByxeY)

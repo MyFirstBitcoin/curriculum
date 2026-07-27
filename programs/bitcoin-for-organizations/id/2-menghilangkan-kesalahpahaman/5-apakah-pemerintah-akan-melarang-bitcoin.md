@@ -77,7 +77,7 @@ Masalah lain yang dihadapi penyerang adalah bagaimana mempertahankan kendali set
 Kemungkinan besar, setelah jelas bahwa jaringan sedang diserang, para pengembang Bitcoin akan melakukan 'hard-fork' pada perangkat lunak Bitcoin, sehingga buku besar akan 'bercabang' dari titik di mana entri palsu dibuat oleh penyerang. Mayoritas node kemudian akan menerapkan versi perangkat lunak yang telah direvisi dan upaya penyerang akan diabaikan.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Deskripsi yang lebih ringan dari Andreas Antonopoulos tentang kemungkinan serangan 51% yang disponsori negara.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Bisakah self-custody Bitcoin dan transaksi peer-to-peer dilarang?
@@ -105,7 +105,7 @@ Kita juga harus mengharapkan undang-undang Bitcoin yang buruk dan tidak dapat di
 Undang-undang Red Flag di Inggris pada akhir abad ke-19 adalah contoh sejarah dari undang-undang yang terlalu keras yang kemudian dicabut.
 
 
-> **Note**
+> **Light**
 >
 > Pada pertengahan abad ke-19, industri kereta kuda dan terutama lokomotif menghadapi ancaman besar dari potensi disrupsi mobil. Mereka takut mobil akan menggantikan mereka.**Jadi, mereka bekerja keras untuk meyakinkan pemerintah agar membuat undang-undang yang ketat, secara efektif berusaha menghambat pertumbuhan teknologi baru ini.**
 >
@@ -143,7 +143,7 @@ Tentu saja, menyalahkan Bitcoin sebagai penyebab krisis mata uang fiat adalah ha
 Penting juga untuk dicatat bahwa Bitcoin justru menjadi lebih kuat ketika diserang. Ini karena serangan-serangan tersebut membantu membantah mitos yang disebarkan oleh para penentang bahwa Bitcoin itu rapuh dan rentan. Jadi, kita tidak hanya harus mengharapkan pemerintah untuk mengatur Bitcoin secara berlebihan, kita juga seharusnya menyambutnya.
 
 
-> **Note**
+> **Light**
 >
 > **Pemerintah kemungkinan akan belajar tentang sifat anti-rapuh Bitcoin dengan mencoba melemahkannya dan melihat apa yang terjadi ketika mereka menyerang jaringannya.**Mereka kemungkinan akan melihat bahwa, pada Bitcoin, lebih dari kelas aset mana pun dalam sejarah, modal akan mengalir ke negara-negara di mana ia diperlakukan dengan baik. Oleh karena itu, seiring pertumbuhan jaringan Bitcoin, akan semakin jelas bahwa negara-negara yang memilih untuk merangkulnya, daripada melawannya, lebih mungkin untuk muncul sebagai pemenang.
 

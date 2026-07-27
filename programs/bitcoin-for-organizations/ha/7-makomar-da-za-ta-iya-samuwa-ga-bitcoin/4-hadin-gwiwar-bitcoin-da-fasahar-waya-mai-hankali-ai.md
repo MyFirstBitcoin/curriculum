@@ -155,7 +155,7 @@ Sai dai, a halin yanzu akwai wasu ƙuntatawa da ya kamata a yi la'akari da su:
 ##### Hatsari
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens sun jawo wani bot na AI mai gwaji don tallata wani memecoin. Yanzu ya tashi da kashi 16,000%. An ƙirƙira shi a matsayin gwaji kai tsaye na hulɗar ɗan adam da samfuran AI, bot ɗin da ya shahara - Terminal of Truth - ya ƙare da tallata memecoin mai suna GOAT.
 >

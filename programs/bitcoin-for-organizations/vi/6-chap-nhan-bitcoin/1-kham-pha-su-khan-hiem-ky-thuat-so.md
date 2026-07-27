@@ -88,7 +88,7 @@ Rogue sau đó từ bỏ. Tại sao?
 Rogue nhận ra rằng họ không có đủ tỷ lệ băm để thực hiện chi tiêu hai lần, mặc dù kiểm soát 36% tỷ lệ băm của Bitcoin. Để thành công, họ phải khai thác thêm bốn khối nữa để vượt lên trên chuỗi trung thực. Dù sở hữu sức mạnh tính toán lớn và kiểm soát 36% mạng lưới, cơ hội thành công của Rogue chỉ là 0,100113.
 
 
-> **Info – Lý thuyết trò chơi bắt đầu phát huy tác dụng**
+> **Dark – Lý thuyết trò chơi bắt đầu phát huy tác dụng**
 >
 > Cơ hội thành công của Rogue rất thấp, nhưng còn tệ hơn nữa. Mỗi phút tiếp tục thử, Rogue tiêu thụ một lượng điện năng khổng lồ. Tất cả sẽ trở nên vô ích. Hơn nữa, với mỗi khối mà Rogue không khai thác một cách trung thực, họ sẽ mất phần thưởng khối, hiện tại là 3,125 Bitcoin mỗi khối, trị giá hơn 300.000 € hiện nay.
 >

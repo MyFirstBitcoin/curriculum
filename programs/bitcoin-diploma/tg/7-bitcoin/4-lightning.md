@@ -58,13 +58,21 @@
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Ин харитаи тамоми Lightning Network аст. Ба шарофати ҳазорҳо корбарони ноди Lightning, шумо метавонед сатҳоро ба ҳар истифодабарандае, ки ҳамёни Bitcoin Lightning дорад, фиристед, новобаста аз он ки дар куҷои ҷаҳон бошад. Пардохт дар чанд сония мерасад ва ҳамагӣ чанд дирам арзиш дорад.**Худатон санҷед!**
 
 #### Фаъолият: Пойгаи эстафетавии Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Ин як машқи амалӣ аст, ки дар он донишҷӯён сатҳои воқеиро бо истифода аз Lightning Network мефиристанд ва қабул мекунанд.**
 

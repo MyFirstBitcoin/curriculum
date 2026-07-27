@@ -39,7 +39,7 @@ Infine, trasforma le osservazioni dell'esercizio sopra in rischi pertinenti per 
 
 
 
-> **Info – Esempi**
+> **Dark – Esempi**
 >
 > * Rischio che bitcoin diventi il principale asset di riserva globale di tesoreria
 > * Rischio che la rete Bitcoin diventi il livello di regolamento per il commercio su internet

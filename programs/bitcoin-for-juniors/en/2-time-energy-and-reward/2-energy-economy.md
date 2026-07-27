@@ -1,38 +1,5 @@
 # 2.2 Energy Economy
 
-**Activity type** Interactive reflection • Graphing activity
-
-**Duration** 35 minutes
-
-**Grouping** Whole class discussion, then individual graphing
-
-##### **Description**
-
-Students explore how their energy changes throughout the day by plotting common activities on a shared class graph and a personal Energy Tracker. By visualizing energy highs and lows across time, learners build early self-awareness about effort, rest, and how energy is spent. This activity lays the foundation for later lessons on time preference, value, and intentional decision-making.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Recognize that energy levels change throughout the day
-* Identify activities that give or use energy
-* Visualize personal daily energy patterns
-* Begin reflecting on how time and energy are used
-
-##### **Materials**
-
-* Flashcards or image cards of daily activities (eating breakfast, brushing teeth, walking to school, homework, playing outside, watching TV, sleeping, etc.)
-* Individual Energy Tracker handouts (_See Appendix B_)
-* Crayons, pencils, markers
-* **Nice-to-have:** Printed mini images for non-writers, Visual Aids (_See Appendix A_)
-
-##### **Equipment**
-
-* Large whiteboard or poster for class Energy Tracker graph
-* Whiteboard markers
-* Tape or magnets for flashcards
-* **Nice-to-have**: Projector or visual timer
-
 #### **PROCEDURE**
 
 ##### **OPENING**
@@ -135,11 +102,3 @@ _5 minutes_
 * Younger students: Optional partner support for younger students, drawing and image cards.
 * ELL/Accessibility: visuals, modeling, partner support.
 * Safety: supervise movement near the board.
-
-#### **APPENDIX**
-
-**Appendix A - Visual Aid**
-
-**Appendix B - Energy tracker handouts**
-
-**Appendix C - Activity Planner**

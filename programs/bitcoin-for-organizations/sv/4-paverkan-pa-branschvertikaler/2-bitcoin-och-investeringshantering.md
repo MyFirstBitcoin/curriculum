@@ -166,7 +166,7 @@ High price volatility, measured by the standard deviation of returns, is also we
 The bottom line is that bitcoin is a volatile asset. This is to be expected because it is new and on a long voyage of price discovery and user adoption. Professional investors are well-equipped to embrace this volatility and, given the potential for supernormal returns, manage it accordingly. They can determine the appropriate allocation, in line with their own investment framework and appetite for risk. And, to smooth out short-term volatility, holding bitcoin for at least one, 4-year, halving cycle could be an appropriate minimum holding period.
 
 
-> **Note – Is Bitcoin an Inflation Hedge ?**
+> **Light – Is Bitcoin an Inflation Hedge ?**
 >
 > Because bitcoin is a fixed supply asset, supporters have long-argued that it serves as a hedge against inflation in fiat currencies. It is clear that over the very long-term bitcoin has served as a very effective hedge against the debasement of purchasing power in fiat money. However, critics point to the dramatic rise in the year-on-year CPI metric11 from early 2021 to a 40-year high in mid-2022 and question why the bitcoin’s price didn’t see significant upside over this period. So did bitcoin fail as an inflation hedge?
 >
@@ -216,7 +216,7 @@ Of course, not many commentators expect this scenario to play out soon - bitcoin
 What if, like the rise of the internet, we can’t simply choose to opt-out?
 
 
-> **Info – Warning**
+> **Dark – Warning**
 >
 > Note that past performance is no guarantee of future results. Bitcoin is an asset that comes with high risks. Investors should keep in mind that its value has both the potential to significantly increase or decline in the future, as past performance has shown.
 >

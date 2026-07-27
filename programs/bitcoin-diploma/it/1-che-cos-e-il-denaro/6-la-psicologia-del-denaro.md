@@ -72,4 +72,4 @@ La nostra disponibilità a rinunciare a una ricompensa maggiore in futuro in cam
 ###### Risorse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Guarda questo breve video!](https://www.youtube.com/watch?v=InwVM6s7WoY)

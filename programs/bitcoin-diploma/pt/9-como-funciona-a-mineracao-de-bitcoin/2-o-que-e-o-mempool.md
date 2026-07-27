@@ -12,7 +12,11 @@ Assim que uma transação é incluída em um bloco, ela se torna confirmada e é
 
 #### Atividade: Explorando o Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Esta atividade apresenta aos alunos uma ferramenta gratuita e de código aberto que não exige habilidades técnicas para ser utilizada. É útil para Bitcoiners de todos os níveis, do iniciante ao experiente.**
 

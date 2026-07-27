@@ -5,7 +5,7 @@
 Deținerea de bitcoin nu te va îmbogăți pentru că nu îți va aduce mai mult bitcoin. Valoarea sa, măsurată în orice monedă fiat, crește; dar acest lucru se întâmplă doar datorită adoptării tot mai mari și devalorizării monedelor fiat.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin este **bani**, folosiți pentru a stoca și trimite valoare.  
 > Funcționează pe o **rețea** globală de calculatoare.  
@@ -29,7 +29,7 @@ Acest software și evidența tuturor tranzacțiilor au șanse foarte mici să di
 În cele din urmă, Bitcoin este limitat, ceea ce înseamnă că numărul de bitcoin care va exista vreodată este absolut limitat. Nimeni nu poate falsifica bitcoin on-chain — nici măcar cele mai puternice guverne sau instituții financiare.
 
 
-> **Note – Principiile Bitcoin**
+> **Light – Principiile Bitcoin**
 >
 > Bitcoin este construit pe trei idei simple:
 >
@@ -140,4 +140,4 @@ Cheia stă în acțiune, în a înțelege cum funcționează Bitcoin și a le im
 ###### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Urmărește videoclipul „Ce este Bitcoin?”](https://www.youtube.com/watch?v=Gc2en3nHxA4)

@@ -24,7 +24,7 @@ Entrano in gioco le piattaforme peer-to-peer, dove acquirenti e venditori di Bit
 Su queste piattaforme, non devi affidare a nessuno le tue informazioni o il tuo denaro; ti connetti con altri utenti e scambi direttamente con loro.
 
 
-> **Note**
+> **Light**
 >
 > Sulla maggior parte delle piattaforme peer-to-peer, gli utenti devono mettere in garanzia una parte dei fondi per assicurarsi che ciascuna parte rispetti il proprio impegno. Escrow significa mettere il denaro in un luogo sicuro sotto il controllo della piattaforma fino a quando entrambe le parti fanno ciò che hanno promesso. È come se un amico fidato tenesse le tue cose finché tutti non sono soddisfatti dell'accordo.
 

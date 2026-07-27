@@ -18,7 +18,11 @@ Acest lucru arată cum puterea de cumpărare poate fi afectată de forțe din af
 
 #### Activitate: Licitație
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Acesta este un exercițiu de clasă în care participanții învață direct cum creșterea masei monetare influențează prețurile. Scopul este ca participanții să înțeleagă inflația monetară (nu inflația prețurilor).
 

@@ -58,13 +58,21 @@
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 हा संपूर्ण Lightning नेटवर्कचा नकाशा आहे. हजारो Lightning नोड चालवणाऱ्यांमुळे, तुम्ही जगात कुठेही असलेल्या कोणत्याही Bitcoin Lightning वॉलेट वापरणाऱ्या वापरकर्त्याला सॅट्स पाठवू शकता. पेमेंट काही सेकंदात पोहोचेल आणि फक्त काही पैसे खर्च येतील.**स्वतः तपासा!**
 
 #### क्रियाकलाप: Lightning रिले शर्यत
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **हा प्रत्यक्ष सराव आहे जिथे विद्यार्थी Lightning नेटवर्क वापरून खरे सॅट्स पाठवतात आणि स्वीकारतात.**
 

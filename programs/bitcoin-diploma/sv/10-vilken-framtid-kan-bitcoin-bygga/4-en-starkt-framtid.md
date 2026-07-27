@@ -41,4 +41,4 @@ Om du är redo att ta nästa steg, titta på de ytterligare resurserna i följan
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Möjligheterna till positiv förändring är enorma, och därför bjuder vi in dig att titta på denna video för att lära dig mer.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

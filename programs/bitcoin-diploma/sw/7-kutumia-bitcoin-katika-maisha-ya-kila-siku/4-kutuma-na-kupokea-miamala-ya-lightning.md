@@ -58,13 +58,21 @@ Muamala wa on-chain hufanyika moja kwa moja kwenye blockchain ya Bitcoin na unaw
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Hii ni ramani ya mtandao mzima wa Lightning Network. Shukrani kwa maelfu ya waendeshaji wa node za Lightning, unaweza kutuma sats kwa mtumiaji yeyote mwenye pochi ya Bitcoin Lightning, popote walipo duniani. Malipo yatafika ndani ya sekunde chache na yatagharimu senti chache tu.**Angalia mwenyewe!**
 
 #### Shughuli: Mbio za Upeperushaji wa Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Hii ni zoezi la vitendo ambapo wanafunzi wanatuma na kupokea sats halisi kwa kutumia Lightning Network.**
 

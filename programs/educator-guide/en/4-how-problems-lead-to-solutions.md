@@ -1,4 +1,4 @@
-# 4 - How Problems Lead to Solutions
+# How Problems Lead to Solutions
 
 Duration: 90 minutes
 

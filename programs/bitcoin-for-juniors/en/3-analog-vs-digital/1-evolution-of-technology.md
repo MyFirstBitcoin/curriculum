@@ -1,36 +1,5 @@
 # 3.1 Back In My Day
 
-**Activity type** Matching pairs – Coloring – Group discussion
-
-**Duration** 20 minutes
-
-**Grouping** Individual work with optional pair-share and whole class discussion
-
-##### **Description**
-
-Students match older analogue technologies with their modern digital equivalents. Through visual matching, colouring, and discussion, learners explore how tools evolve over time and how innovation changes the way people live, work, and communicate. The activity builds early awareness of technological progress and time-based change.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Identify examples of analogue and digital technologies
-* Understand that technology changes over time
-* Recognize innovation as a process of improvement and adaptation
-* Reflect on how technology affects daily life
-
-##### **Materials**
-
-* Printed matching worksheet (_See Appendix A_)
-* Coloured pencils or crayons
-* **Nice-to-have**: Visual Aids (_See Appendix B_)
-
-##### **Equipment**
-
-* Whiteboard or chalkboard
-* Visual aid or slideshow
-* **Nice-to-have**: Timer
-
 #### **PROCEDURE**
 
 ##### **OPENING**

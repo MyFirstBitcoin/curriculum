@@ -49,7 +49,7 @@ W systemie scentralizowanym wszystko kręci się wokół jednej głównej władz
 * **Brak przejrzystości i zaufania**: Wewnętrzne działanie systemów scentralizowanych może być trudne do zrozumienia, co utrudnia ludziom zaufanie do nich.
 
 
-> **Note**
+> **Light**
 >
 > W 2022 roku, podczas pokojowych protestów w Kanadzie, banki zamroziły konta protestujących, pokazując, jak centralna władza może kontrolować dostęp do finansów.
 
@@ -73,7 +73,7 @@ Chociaż zdecentralizowane systemy mają wiele zalet, wspólne podejmowanie decy
 W świecie scentralizowanych i zdecentralizowanych systemów wszystko sprowadza się do tego, kto sprawuje władzę. Systemy scentralizowane oddają władzę w ręce niewielkiej grupy, podczas gdy zdecentralizowane rozkładają ją na wszystkich, pozwalając każdemu mieć głos. Ta zmiana władzy oznaczałaby sprawiedliwszą przyszłość, w której wiele osób wpływa na system kształtujący ich życie.
 
 
-> **Note**
+> **Light**
 >
 > Sieć Tor tworzy zdecentralizowany system, w którym ludzie mogą pozostać anonimowi w internecie, a sieć jest trudna do zatrzymania lub ocenzurowania.
 
@@ -91,4 +91,4 @@ Te próby pomogły ujawnić, czego brakowało. Później ktoś rozwinął te pom
 ###### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Obejrzyj ten film i poznaj historię Cypherpunków!](https://www.youtube.com/watch?v=9vM0oIEhMag)

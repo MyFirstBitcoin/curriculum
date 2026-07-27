@@ -5,7 +5,7 @@ Bạn đã bao giờ tự hỏi liệu mình có thể dùng bitcoin để mua l
 Mặc dù việc thanh toán bằng thẻ tín dụng hoặc ứng dụng có vẻ dễ hiểu đối với người trả tiền, nhưng quá trình xử lý thanh toán thực sự rất phức tạp và liên quan đến nhiều bên khác nhau.
 
 
-> **Note – Cách Hoạt Động của Xử Lý Thanh Toán**
+> **Light – Cách Hoạt Động của Xử Lý Thanh Toán**
 >
 > Khách hàng → Người bán → Cổng thanh toán → Bộ xử lý → Mạng lưới thẻ → Ngân hàng phát hành → Mạng lưới thẻ → Ngân hàng của người bán → Người bán
 
@@ -55,7 +55,7 @@ Một **nền kinh tế tuần hoàn** bao gồm những người tham gia quy�
 Khi áp dụng cho Bitcoin, một nền kinh tế tuần hoàn được xây dựng bằng cách hỗ trợ các cửa hàng địa phương và người lao động có tay nghề chấp nhận bitcoin, để tất cả thành viên cùng phát triển nhờ các đặc tính vượt trội của Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network cho phép các nền kinh tế tuần hoàn Bitcoin xuất hiện và phát triển trên khắp thế giới nhờ các giao dịch Bitcoin gần như tức thì và phí thấp.
 
@@ -71,4 +71,4 @@ Tại [BTCMap.org](https://btcmap.org/communities), bạn cũng có thể tìm k
 ###### Tài nguyên
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Xem video này về Lightning Network](https://youtu.be/yKdK-7AtAMQ)

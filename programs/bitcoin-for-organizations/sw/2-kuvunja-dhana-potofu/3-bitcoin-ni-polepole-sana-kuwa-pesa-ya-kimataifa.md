@@ -41,7 +41,7 @@ Wakati lawama hii inapotolewa, inafaa kuzingatia kama mkosoaji ana motisha nying
 Tatizo la Upanuzi, au Blockchain Trilemma, liliibuliwa kwanza na Vitalik Buterin mwaka 2017. Inasema kwamba daima kuna maamuzi ya muundo katika blockchain kati ya sifa za Ugatuaji, Usalama na Upanuzi. Yeyote anayetoa lawama kwamba Bitcoin ni polepole sana na kwamba wana suluhisho la haraka zaidi katika blockchain ya tabaka la kwanza atakuwa anatoa sadaka usalama au ugatuaji ili kufanikisha hilo. Ingawa maamuzi kama hayo kwa blockchain iliyoundwa kwa matumizi mengine yanaweza kueleweka, mpangilio wa vipaumbele kwa pesa ya dunia lazima uwe:
 
 
-> **Note**
+> **Light**
 >
 > * **Ugatuaji**
 >   * Hufanya iwezekane kuondoa wahusika wanaoaminika

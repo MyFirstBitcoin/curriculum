@@ -155,7 +155,7 @@ Namun, saat ini ada beberapa keterbatasan yang perlu dipertimbangkan:
 ##### Risiko
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens Memancing Bot AI Eksperimental untuk Mempromosikan Memecoin. Sekarang Naik 16.000%. Dirancang sebagai eksperimen langsung dalam interaksi manusia dengan model AI, bot viral - Terminal of Truth - akhirnya mempromosikan memecoin bernama GOAT.
 >

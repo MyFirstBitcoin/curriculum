@@ -30,7 +30,7 @@ Kama ungependa kununua gari jipya, ungeweza kulinganisha bei kutoka kwa maduka t
 Kazi hizi tatu ndizo zinazoruhusu uchumi kuwa tata na wenye mabadiliko. Bila pesa, kungekuwa kugumu sana kununua na kuuza bidhaa na huduma, na uchumi wetu usingekuwa umeendelea sana.
 
 
-> **Info**
+> **Dark**
 >
 > Watu wanaelewa thamani ya kitu pale kinapokuwa na bei iliyoonyeshwa kwa pesa.
 

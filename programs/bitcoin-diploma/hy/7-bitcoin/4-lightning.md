@@ -58,13 +58,21 @@ On-chain գործարքները կատարվում են անմիջապես Bitco
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Սա Lightning Network-ի ամբողջական քարտեզն է։ Շնորհիվ հազարավոր Lightning հանգույցների օպերատորների՝ դուք կարող եք ուղարկել սատոշիներ ցանկացած օգտատիրոջ, ով ունի Bitcoin Lightning դրամապանակ, անկախ նրանից՝ որտեղ է նա աշխարհում։ Վճարումը կհասնի մի քանի վայրկյանում և կարժենա ընդամենը մի քանի դրամ։**Փորձեք ինքներդ!**
 
 #### Գործունեություն․ Lightning փոխանցման մրցավազք
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Սա գործնական վարժություն է, որտեղ ուսանողները ուղարկում և ստանում են իրական սատոշիներ Lightning Network-ի միջոցով։**
 

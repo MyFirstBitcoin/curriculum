@@ -5,7 +5,7 @@
 Bitcoin ist auf Energie angewiesen, um seinen Konsensmechanismus des „Proof of Work“ zu betreiben, der dazu beiträgt, dass es eine dezentralisierte, erlaubnisfreie Form von Geld bleibt. Das Stromnetz steht vor Herausforderungen bei der Integration neuer Energieformen aus erneuerbaren Quellen, was die bestehende Infrastruktur belastet. Dieses Kapitel bietet eine kurze Einführung in diese Herausforderungen und einen Überblick über die relevanten Aspekte von Bitcoin, bevor gezeigt wird, wie es bei der Entwicklung des Netzes für erneuerbare Energien hilft.
 
 
-> **Info – Bitcoin als Energiewährung**
+> **Dark – Bitcoin als Energiewährung**
 >
 > Am 4. Dezember 1921 veröffentlichte die New York Tribune einen Artikel, in dem Fords Vision beschrieben wurde, Gold durch eine Energiewährung zu ersetzen, von der er glaubte, dass sie den Griff der Bankelite auf den globalen Wohlstand brechen und Kriege beenden könnte. Er wollte dies erreichen, indem er das „größte Kraftwerk der Welt“ baute und ein neues Währungssystem auf Basis von „Leistungseinheiten“ schuf.
 

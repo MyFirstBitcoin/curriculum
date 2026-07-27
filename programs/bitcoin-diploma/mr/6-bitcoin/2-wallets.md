@@ -76,7 +76,11 @@ Bitcoin वॉलेट निवडताना आणखी एक महत�
 
 #### क्रिया: Bitcoin वॉलेट्सवर चर्चा आणि मूल्यांकन
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 खालील वेबसाइटला भेट द्या: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

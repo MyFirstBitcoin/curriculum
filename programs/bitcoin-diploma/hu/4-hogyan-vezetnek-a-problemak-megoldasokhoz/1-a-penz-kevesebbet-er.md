@@ -18,7 +18,11 @@ Ez megmutatja, hogy a vásárlóerőnket olyan erők is befolyásolhatják, amel
 
 #### Tevékenység: Aukció
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Ez egy csoportos gyakorlat, ahol a résztvevők első kézből tapasztalhatják meg, hogyan hat a pénzkínálat növekedése az árakra. A cél, hogy a résztvevők megértsék a monetáris inflációt (nem az ár-inflációt).
 

@@ -27,4 +27,4 @@ Zůstatek vaší peněženky je jednoduše součtem hodnot všech UTXO, které o
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Podívejte se na „How Bitcoin Works under the Hood“](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

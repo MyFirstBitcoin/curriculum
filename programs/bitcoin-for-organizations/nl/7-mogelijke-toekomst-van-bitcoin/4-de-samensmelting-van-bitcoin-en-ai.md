@@ -155,7 +155,7 @@ Er zijn echter momenteel enkele beperkingen waarmee rekening moet worden gehoude
 ##### Risico's
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens lokten een experimentele AI-bot uit om een memecoin te promoten. Die staat nu 16.000% hoger. Bedoeld als een live-experiment in menselijke interactie met AI-modellen, eindigde de virale bot – Terminal of Truth – met het promoten van een memecoin genaamd GOAT.
 >

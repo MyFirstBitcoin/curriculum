@@ -6,8 +6,8 @@ Ang Bitcoin for Juniors ay isang pundamental na programa para sa mga batang edad
 
 Ang programa ay binubuo ng dalawang bahagi:
 
-* Isang komprehensibong Teacher Guide PDF na may organisadong lesson plans, tala sa pedagohiya, at gabay sa pagpapadaloy ng klase
-* Mga printable na handout at materyales para sa mga aktibidad ng mag-aaral na maaaring gamitin sa interaktibong klase
+* Isang komprehensibong Teacher Guide PDF na may nakaayos na lesson plans, tala sa pedagohiya, at gabay sa pagpapadaloy ng klase
+* Mga printableng handout para sa estudyante at mga materyales para sa aktibidad na maaaring gamitin sa interaktibong klase
 
 Ito ay isang preparatoryong kurso, hindi isang teknikal na pagsasanay.
 
@@ -26,7 +26,7 @@ Ginawa para sa mga batang edad 8 hanggang 12, ito ay maaaring iangkop sa iba't i
 
 Hindi kailangang gumamit ng Bitcoin wallets o mag-manage ng private keys ang mga bata. Ang kailangan nila ay ang pundasyon upang maunawaan ang Bitcoin sa hinaharap.
 
-Ang B4J ay sadyang low-tech — gumagamit ng pisikal na materyales ang mga aralin, hindi mga device — kaya ito ay abot-kamay sa anumang silid-aralan at angkop para sa mas batang mag-aaral. Ang layunin ay konseptwal na kahandaan, hindi teknikal na kasanayan.
+Ang B4J ay sadyang low-tech — gumagamit ng pisikal na materyales ang mga aralin, hindi mga device — kaya't naaangkop ito sa anumang silid-aralan at akma para sa mas batang mag-aaral. Ang layunin ay konseptwal na kahandaan, hindi teknikal na kasanayan.
 
 #### 4. Ano ang itinuturo ng programa?
 
@@ -35,7 +35,7 @@ Itinuturo ng Bitcoin for Juniors ang mga pangunahing konsepto na kailangan upang
 * Ano ang pera at bakit ito ginagamit ng mga lipunan
 * Ang pagkakaiba ng halaga at presyo
 * Oras, enerhiya, pagsisikap, at gantimpala
-* Kakapusan at kasaganaan
+* Kakulangan at kasaganaan
 * Pampubliko kumpara sa pribadong impormasyon
 * Pangunahing ideya tungkol sa encryption at mga code
 * Ang kasaysayan ng pag-unlad ng pera
@@ -45,23 +45,23 @@ Ang mga ideyang ito ay tinatalakay sa pamamagitan ng mga laro, pagkukuwento, pag
 
 #### 5. Ito ba ay kurso tungkol sa pag-iinvest, pagte-trade, o paggamit ng totoong pera?
 
-Hindi. Hindi tinuturuan ng programang ito ang mga bata na mag-invest, mag-trade, o magsugal. Hindi ito gumagamit ng totoong pera. Walang pinansyal na panganib at walang pagpo-promote ng pag-uugaling pamumuhunan.
+Hindi. Hindi tinuturuan ng programang ito ang mga bata na mag-invest, mag-trade, o magsugal. Hindi ito gumagamit ng totoong pera. Walang pinansyal na panganib at walang pagpo-promote ng asal sa pag-iinvest.
 
 #### 6. Paano ipinaliliwanag ang Bitcoin sa paraang angkop sa edad?
 
 Ipinapakilala ang Bitcoin sa pamamagitan ng paghahambing, laro, at pinangungunahang talakayan. Ang mga komplikadong teknikal na ideya tulad ng cryptography o decentralized networks ay pinapasimple sa mga konsepto tungkol sa tiwala, privacy, katarungan, at responsibilidad. Ang pokus ay sa pag-unawa ng mga prinsipyo, hindi sa pagmememorya ng teknikal na detalye.
 
-#### 7. Paano ko ituturo ito sa aking klase o kapaligiran ng pagkatuto?
+#### 7. Paano ko ituturo ito sa aking klase o learning environment?
 
 Ang programa ay idinisenyo upang maging low-tech at lubos na interaktibo. Maaaring ituro ang mga aralin gamit ang:
 
 * Mga naka-print na worksheet
 * Mga role-play simulation
-* Pisikal na token, baraha, o simpleng materyales sa silid-aralan
+* Mga pisikal na token, baraha, o simpleng materyales sa silid-aralan
 * Pinangungunahang talakayan ng grupo
 
 Nagbibigay ang Teacher Guide ng sunud-sunod na tagubilin, mga tip sa pamamahala ng klase, mga tanong para sa pagninilay, at mga ideya para sa pagpapalawig. Hindi kailangan ng advanced na teknikal na kaalaman tungkol sa Bitcoin.
 
-#### 8. Ano ang mangyayari pagkatapos makumpleto ng mga mag-aaral ang programa?
+#### 8. Ano ang mangyayari pagkatapos makumpleto ng mga estudyante ang programa?
 
-Umalis ang mga mag-aaral na may mas matibay na kamalayan sa pananalapi, kasanayan sa kritikal na pag-iisip, at organisadong pag-unawa sa pag-unlad ng pera. Hindi sila "Bitcoin users." Sila ay mga handang mag-aaral. Kapag nakatagpo nila ang Bitcoin sa hinaharap, magkakaroon sila ng pundasyong intelektwal upang maunawaan ito nang responsable at may sariling pag-iisip.
+Umalis ang mga estudyante na may mas matibay na kamalayan sa pananalapi, kasanayan sa kritikal na pag-iisip, at nakaayos na pag-unawa sa pag-unlad ng pera. Hindi sila "Bitcoin users." Sila ay mga handang mag-aaral. Kapag nakatagpo sila ng Bitcoin sa hinaharap, mayroon na silang pundasyong intelektwal upang maunawaan ito nang responsable at may sariling pag-iisip.

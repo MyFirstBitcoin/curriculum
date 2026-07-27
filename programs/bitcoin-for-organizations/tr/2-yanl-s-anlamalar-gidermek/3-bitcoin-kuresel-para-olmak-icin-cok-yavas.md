@@ -41,7 +41,7 @@ Bu eleştiri dile getirildiğinde, eleştirmenin başka motivasyonları olup olm
 Ölçeklenebilirlik ya da Blokzincir Üçlemi, ilk olarak Vitalik Buterin tarafından 2017’de ortaya atıldı. Buna göre, blokzincir tasarımında Merkeziyetsizlik, Güvenlik ve Ölçeklenebilirlik özellikleri arasında her zaman bir ödünleşim vardır. Bitcoin’in çok yavaş olduğunu ve birinci katman blokzincirinde daha hızlı bir çözüme sahip olduklarını iddia eden herkes, bunu başarmak için güvenlikten veya merkeziyetsizlikten bir miktar ödün verecektir. Diğer amaçlar için tasarlanmış bir blokzincirde böyle bir ödünleşim mantıklı olabilirken, küresel bir para için öncelik sırası şöyle olmalıdır:
 
 
-> **Note**
+> **Light**
 >
 > * **Merkeziyetsizlik**
 >   * Güvenilir tarafların kaldırılmasını mümkün kılar

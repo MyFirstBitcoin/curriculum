@@ -19,7 +19,7 @@ Diyelim ki Cem, Elif'e 0,5 BTC borçlu ve borcunu ödemeye hazır. İkisinin de 
 _İşlem tamamlandıktan sonra geri alınamayacağını unutmamak önemlidir._
 
 
-> **Note – Bir Bitcoin İşlemi Nasıl Çalışır?**
+> **Light – Bir Bitcoin İşlemi Nasıl Çalışır?**
 >
 > 1. Birisi bir işlem talep eder
 > 1. İşlem, P2P bilgisayarlara (düğümlere) yayınlanır
@@ -30,7 +30,7 @@ _İşlem tamamlandıktan sonra geri alınamayacağını unutmamak önemlidir._
 
 
 
-> **Note – Bitcoin İşlemlerini Alma**
+> **Light – Bitcoin İşlemlerini Alma**
 >
 > Bitcoin almak için, gönderen kişiye bir Bitcoin genel adresi sağlamanız gerekir. Bu, cüzdanınızı temsil eden ve Bitcoin ağında tanımlanmasını sağlayan benzersiz bir harf ve rakam dizisidir.
 >
@@ -48,7 +48,7 @@ Gönderen adresinizi aldıktan sonra, göndermek istediği miktarı ve adresiniz
 İşlem, Bitcoin Ağı tarafından onaylanır ve genellikle yaklaşık 10 dakika sürer. Daha fazla güvenlik için iki onay beklemeniz önerilir; bu da yaklaşık 20 dakika sürer.
 
 
-> **Note – Bitcoin İşlemleri Gönderme**
+> **Light – Bitcoin İşlemleri Gönderme**
 >
 > Bitcoin göndermek için birkaç şeye ihtiyacınız olacak: bir Bitcoin cüzdanı, alıcının genel adresi ve göndermek istediğiniz bitcoin miktarı.
 >
@@ -68,7 +68,11 @@ Gönderen adresinizi aldıktan sonra, göndermek istediği miktarı ve adresiniz
 
 #### Etkinlik: İşlemler Uygulamada
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Bu, bir Bitcoin işlemine dahil olan kişilerin temel rollerini basitleştiren işbirlikçi bir egzersizdir.**
 

@@ -36,7 +36,7 @@ Usimbaji hutumika kuhakikisha kwamba ni mmiliki halisi wa bitcoin pekee ndiye mw
 Kama hatua ya ziada ya ulinzi, kila muamala wa Bitcoin hupata saini ya kipekee ya kidijitali moja kwa moja. Saini hii ya kipekee ya kidijitali inaendeshwa na teknolojia isiyoweza kuchezewa ambayo inasaidia mtandao kuthibitisha kwamba mmiliki halisi wa bitcoin, na si mtu mwingine, ndiye aliyezituma.
 
 
-> **Info**
+> **Dark**
 >
 > Kila mtumiaji ana funguo mbili: **ufunguo binafsi**, ambao **unabaki siri**, na **ufunguo wa umma** ambao unaweza **kushirikiwa na wengine**. **Ufunguo binafsi** hutumika kama njia ya utambulisho na uthibitisho wa umiliki, ikithibitisha: “Anwani hii ni yangu na ninaidhibiti.”
 
@@ -128,6 +128,10 @@ Mchakato wa kusimba **ufunguo wa umma** kupitia hashing hutumika kuboresha usala
 
 #### Shughuli: Tengeneza SHA 256 Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Una hamu ya kujua jinsi hashing inavyofanya kazi? Skanisha msimbo wa QR ili kutengeneza mara moja SHA256 hash kutoka kwa neno, sentensi, au ingizo lolote unalotaka. Kazi za hash ni kama alama za vidole za kidijitali: ni njia moja tu, maana yake ukishahash, haiwezi kurudishwa nyuma. Jaribu na ujionee mwenyewe!

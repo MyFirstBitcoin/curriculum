@@ -9,12 +9,12 @@ Mata wang yang kita gunakan semakin menjadi digital; hari ini, hanya sebahagian 
 ##### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Tonton video pendek ini untuk mengetahui tentang "Asal Usul Pertukaran", dalam siri “Sejarah Wang Kertas”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Ini adalah episod kedua bertajuk "Bukan Sekadar Mi" daripada "Sejarah Wang Kertas"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Apa yang berlaku apabila anda benar-benar cuba melaksanakan doktrin wang kertas? Ketahui dalam episod keempat "Sejarah Wang Kertas"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

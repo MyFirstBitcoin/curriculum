@@ -5,7 +5,7 @@ Hiç günlük kahvenizi almak ya da market alışverişinizi yapmak için bitcoi
 Kredi kartı veya bir uygulama ile ödeme yapmak, ödeyen kişi için kolay görünebilir, ancak ödemenin işlenmesi aslında çok karmaşıktır ve birçok farklı tarafı içerir.
 
 
-> **Note – Ödeme İşlemi Nasıl Çalışır?**
+> **Light – Ödeme İşlemi Nasıl Çalışır?**
 >
 > Müşteri → Satıcı → Ödeme Geçidi → İşlemci → Kart Ağı → Veren Banka → Kart Ağı → Satıcı Bankası → Satıcı
 
@@ -55,7 +55,7 @@ Bir **döngüsel ekonomi**, katılımcıların mümkün olduğunca birbirlerinde
 Bitcoin’e uygulandığında, döngüsel ekonomi; bitcoin kabul eden yerel satıcıları ve yetenekli çalışanları destekleyerek, tüm katılımcıların Bitcoin’in üstün özellikleri sayesinde birlikte gelişmesini sağlar.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network, neredeyse anlık ve düşük ücretli Bitcoin işlemleri sayesinde dünyanın dört bir yanında Bitcoin döngüsel ekonomilerinin ortaya çıkmasını ve gelişmesini mümkün kılar.
 
@@ -71,4 +71,4 @@ Bugün, dünyanın dört bir yanında, Bitcoin, Lightning Network ve eğitim kay
 ###### Kaynaklar
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Lightning Network hakkında bu videoyu izleyin](https://youtu.be/yKdK-7AtAMQ)

@@ -88,7 +88,7 @@ Rogue then gives up. Why?
 Rogue realises it doesn't have enough hash rate to achieve the double spend, despite controlling 36% of the hash rate of the Bitcoin. To be successful it must mine four further blocks to get ahead of the honest chain. Despite its vast computing power and controlling 36% of the network, Rogue’s chances of success are just 0.100113.
 
 
-> **Info – Game Theory Kicks In**
+> **Dark – Game Theory Kicks In**
 >
 > Rogue’s odds of success are terrible, but it gets worse. For every minute it keeps trying, Rogue is consuming an enormous amount of electricity. This will have all been in vain. Furthermore, for each block it fails to mine honestly, Rogue forfeits the block reward, currently 3.125 coins per block, valued in excess of $300k currently.
 >

@@ -1,20 +1,20 @@
 # Utangulizi
 
-Mwongozo huu unaelezea jinsi ya kusoma na kutumia mipango ya masomo katika Bitcoin for Juniors. Unapitia kila sehemu ya muundo wa mpango wa somo ili walimu wajue la kutarajia, jinsi ya kujiandaa, na jinsi ya kurekebisha maudhui kulingana na mazingira yao. Muundo huu upo kukutumikia wewe — si vinginevyo.
+Mwongozo huu unaelezea jinsi ya kusoma na kutumia mipango ya masomo katika Bitcoin for Juniors. Unaelezea kila sehemu ya muundo wa mpango wa somo ili walimu wajue la kutarajia, jinsi ya kujiandaa, na jinsi ya kurekebisha maudhui kulingana na mazingira yao. Muundo huu upo kukutumikia wewe — si kinyume chake.
 
 #### Kutumia Mipango ya Masomo
 
-Kila mpango wa somo katika Bitcoin for Juniors ni mwongozo ulio na mpangilio maalum. Sio maandishi ambayo lazima yafuatewe neno kwa neno. Walimu wanahimizwa kurekebisha, kurahisisha, kupanua, au kubadilisha shughuli kulingana na wanafunzi wao, mazingira, na muda waliopo. Mipango hii imeundwa kusaidia uwazi na kujiamini, hasa kwa walimu wapya katika kufundisha dhana za pesa au Bitcoin.
+Kila mpango wa somo katika Bitcoin for Juniors ni mwongozo ulio na muundo maalum. Sio maandishi ambayo lazima yafuatewe neno kwa neno. Walimu wanahimizwa kurekebisha, kurahisisha, kupanua, au kubadilisha shughuli kulingana na wanafunzi wao, mazingira, na muda waliopo. Mipango hii imeundwa kusaidia uwazi na kujiamini, hasa kwa walimu wapya katika kufundisha dhana za pesa au Bitcoin.
 
-Marekebisho yanatarajiwa. Rahisisha badala ya kutoa mhadhara. Muundo unatoa mpangilio. Mwalimu anatoa busara na muktadha.
+Marekebisho yanatarajiwa. Rahisisha badala ya kutoa mhadhara. Muundo unatoa mwongozo. Mwalimu anatoa busara na muktadha.
 
 #### Kuelewa Muundo
 
-Kila shughuli inafuata muundo unaofanana. Hii inawawezesha walimu kutambua haraka kinachohitajika na jinsi ya kuendesha kipindi kwa ufanisi.
+Kila shughuli inafuata muundo unaofanana. Hii inawaruhusu walimu kutambua haraka kinachohitajika na jinsi ya kuendesha kipindi kwa ufanisi.
 
 ##### Aina ya Shughuli
 
-Shughuli zimepangwa kwa urahisi wa kupanga. Kwa mfano: mchezo wa kuigiza, majadiliano yanayoongozwa, kujifunza kwa vitendo, changamoto ya ushirikiano. Majina haya yanawasaidia walimu kuchagua shughuli zinazolingana na malengo yao ya ufundishaji na viwango vya nishati darasani.
+Shughuli zimepangwa kwa urahisi wa kupanga. Kwa mfano: mchezo wa kuigiza, majadiliano yanayoongozwa, kujifunza kwa vitendo, changamoto ya ushirikiano. Majina haya yanawasaidia walimu kuchagua shughuli zinazolingana na malengo yao ya ufundishaji na kiwango cha nishati darasani.
 
 ##### Muda
 
@@ -28,21 +28,21 @@ Inaonyesha kama shughuli imepangwa kwa ajili ya:
 * Wawili wawili
 * Kazi binafsi
 
-Kupanga makundi kunasaidia kuweka mazingira ya kujifunza yanayokusudiwa. Kufanya kazi kwa makundi huongeza ushiriki na huwasaidia wanafunzi kuimarisha mawazo kupitia majadiliano.
+Ugawaji wa makundi husaidia kuweka mazingira ya kujifunza yanayokusudiwa. Kufanya kazi kwa makundi huongeza ushiriki na huwasaidia wanafunzi kuimarisha mawazo kupitia majadiliano.
 
 #### Matokeo ya Kujifunza
 
-Matokeo ya kujifunza yanaeleza kile ambacho wanafunzi wanapaswa kujua, kuelewa, au kuweza kufanya mwisho wa shughuli. Matokeo haya ni muhimu. Yanamsaidia mwalimu kubaki akilenga lengo badala ya kumaliza tu kazi. Ikiwa muda ni mfupi, toa kipaumbele kwa matokeo ya kujifunza kuliko kumaliza kila hatua.
+Matokeo ya kujifunza yanafafanua kile ambacho wanafunzi wanapaswa kujua, kuelewa, au kuweza kufanya mwisho wa shughuli. Matokeo haya ni muhimu. Yanamsaidia mwalimu kubaki na lengo badala ya kumaliza tu kazi. Ikiwa muda ni mfupi, pendelea matokeo ya kujifunza kuliko kumaliza kila hatua.
 
 #### Vifaa dhidi ya Zana
 
 ##### Vifaa
 
-Vifaa ni vitu vinavyotumika moja kwa moja na wanafunzi na vinaweza kutumika mara moja tu. Mifano: karatasi za kazi, kadi zilizochapishwa, penseli, shanga, karatasi za kunata, mabango. Hivi ni vitu ambavyo wanafunzi wanashika na kutumia wakati wa shughuli.
+Vifaa ni vitu vinavyotumika moja kwa moja na wanafunzi na vinaweza kutumika mara moja tu. Mifano: karatasi za kazi, kadi zilizochapishwa, penseli, shanga, karatasi za kunata, mabango. Hivi ni vitu ambavyo wanafunzi hutumia wakati wa shughuli.
 
 ##### Zana
 
-Zana ni vifaa visivyomalizika au mahitaji ya mazingira. Mifano: ubao mweupe, saa ya kuhesabu muda, projekta, nafasi wazi darasani. Zana zinasaidia shughuli lakini hazishikwi moja kwa moja na wanafunzi kama vifaa.
+Zana ni vifaa visivyomalizika au mahitaji ya mazingira. Mifano: ubao mweupe, kipima muda, projekta, nafasi wazi ya darasa. Zana zinaunga mkono shughuli lakini hazitumiki moja kwa moja na wanafunzi kama vifaa.
 
 Tofauti hii inawasaidia walimu kujiandaa kwa ufanisi.
 
@@ -56,23 +56,23 @@ Hukamilishwa kabla ya wanafunzi kuingia darasani. Hii inajumuisha kuandaa vifaa,
 
 ##### KABLA YA SHUGHULI
 
-Hii ni hatua ya kuwasha ari. Inaweka matarajio na kuchochea hamu ya kujua. Inaweza kujumuisha swali, hadithi fupi, tukio, au changamoto. Lengo ni kuamsha maarifa ya awali na kuwaandaa wanafunzi kwa kazi.
+Hii ni hatua ya kuwasha akili. Inaweka matarajio na kuchochea hamu ya kujua. Inaweza kujumuisha swali, hadithi fupi, tukio, au changamoto. Lengo ni kuamsha maarifa ya awali na kuwaandaa wanafunzi kwa kazi.
 
 ##### Lengo kwa Maneno ya Mwanafunzi
 
-Mwalimu anaeleza kwa kifupi madhumuni ya shughuli kwa lugha ambayo wanafunzi wanaelewa. Wanafunzi wanapojua kwa nini wanafanya jambo, ushiriki na kumbukumbu huongezeka.
+Mwalimu anaelezea kwa kifupi madhumuni ya shughuli kwa lugha inayoeleweka na wanafunzi. Wanafunzi wanapojua sababu ya kufanya jambo, ushiriki na kumbukumbu huongezeka.
 
 ##### SHUGHULI
 
 1. **Mandalizi** — Maelekezo ya kupanga wanafunzi na kugawa vifaa.
-1. **Onyesho** — Pale inapofaa, onyesha jinsi ya kufanya kazi. Kuonyesha hupunguza mkanganyiko na hujenga kujiamini.
+1. **Onyesho** — Ikiwa inafaa, onyesha jinsi ya kufanya kazi. Kuonyesha hupunguza mkanganyiko na hujenga kujiamini.
 1. **Tekeleza** — Wanafunzi wanakamilisha shughuli. Mwalimu anatazama, anaongoza, na kusaidia badala ya kutawala.
-1. **Kituo cha Ukaguzi** — Simama kwa muda mfupi kuthibitisha uelewa. Rekebisha inapohitajika. Hii huzuia kutokuelewana kukua.
-1. **Tafakari** — Wanafunzi wanajadili kilichotokea na maana yake. Tafakari ni muhimu. Inabadilisha uzoefu kuwa kujifunza. Himiza maswali yasiyo na majibu moja na uhusiano na dhana za ulimwengu halisi.
+1. **Kituo cha Ukaguzi** — Simama kidogo kuthibitisha uelewa. Rekebisha inapohitajika. Hii huzuia kutokuelewana kukua.
+1. **Tafakari** — Wanafunzi wanajadili kilichotokea na maana yake. Tafakari ni muhimu. Inabadilisha uzoefu kuwa kujifunza. Himiza maswali yasiyo na majibu moja na uhusiano na dhana za maisha halisi.
 
 ##### KUFUATILIA
 
-Kipindi kifupi cha kumalizia. Imarisha wazo kuu. Maliza kwa mtazamo chanya. Hii inaweza kujumuisha swali la muhtasari, kushirikiana haraka na mwenzako, au tamko fupi linalounganisha shughuli na mada kuu ya sura.
+Kipindi kifupi cha kumalizia. Imarisha wazo kuu. Maliza kwa mtazamo chanya. Hii inaweza kujumuisha swali la muhtasari, kushirikiana haraka na mwenzako, au kauli fupi inayounganisha shughuli na mada kuu ya sura.
 
 ##### KUFUNGA
 
@@ -80,7 +80,7 @@ Maelezo kwa mwalimu. Sehemu hii inajumuisha vikumbusho vya kukusanya vifaa, kuhi
 
 #### Usimamizi wa Darasa
 
-Kila darasa linatofautiana kwa umri, kiwango cha nishati, na mienendo ya kikundi. Mapendekezo yaliyotolewa katika sehemu hii yanaweza kujumuisha:
+Kila darasa linatofautiana kwa umri, kiwango cha nishati, na mienendo ya kundi. Mapendekezo katika sehemu hii yanaweza kujumuisha:
 
 * Maelekezo wazi kabla ya harakati
 * Mipaka ya muda iliyowekwa
@@ -89,9 +89,9 @@ Kila darasa linatofautiana kwa umri, kiwango cha nishati, na mienendo ya kikundi
 
 Walimu wanapaswa kurekebisha mikakati ya usimamizi kulingana na mazingira yao.
 
-#### Nyongeza & Shughuli za Kuendeleza
+#### Nyongeza & Shughuli za Ziada
 
-Ikiwa muda utabaki, mawazo ya nyongeza — wakati mwingine huitwa shughuli za kuendeleza — huruhusu shughuli kuendelea bila maandalizi mengi. Hizi zinaweza kuongeza kina cha majadiliano, kuongeza ugumu, au kuleta kipengele cha ubunifu. Ni hiari na zinaweza kubadilishwa.
+Ikiwa muda utabaki, mawazo ya nyongeza — wakati mwingine huitwa shughuli za ziada — huruhusu shughuli kuendelea bila maandalizi mengi. Hizi zinaweza kuongeza kina cha mjadala, kuongeza ugumu, au kuleta kipengele cha ubunifu. Ni hiari na zinaweza kubadilishwa.
 
 #### Utofautishaji
 
@@ -107,7 +107,7 @@ Upatikanaji unaweza pia kujumuisha masuala ya usalama wa kimwili na miundo jumui
 
 #### KIAMBATANISHO
 
-Kiambatanisho kina nyenzo za ziada, violezo, rasilimali za kuchapisha, na viungo vilivyotajwa kwenye somo. Walimu wanapaswa kupitia kiambatanisho kabla ya darasa ili kuhakikisha nyenzo zote muhimu zimeandaliwa.
+Kiambatanisho kina nyenzo za ziada, templeti, rasilimali zinazoweza kuchapishwa, na viungo vilivyotajwa kwenye somo. Walimu wanapaswa kupitia kiambatanisho kabla ya darasa ili kuhakikisha nyenzo zote muhimu zimeandaliwa.
 
 #### Mwongozo wa Mwisho
 

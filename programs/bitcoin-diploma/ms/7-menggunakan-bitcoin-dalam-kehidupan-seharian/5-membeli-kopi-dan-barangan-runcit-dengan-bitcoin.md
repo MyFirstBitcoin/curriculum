@@ -5,7 +5,7 @@ Pernahkah anda terfikir sama ada anda boleh menggunakan bitcoin untuk membeli se
 Walaupun membayar dengan kad kredit atau aplikasi nampak mudah difahami bagi orang yang membayar, pemprosesan pembayaran sebenarnya sangat rumit dan melibatkan banyak pihak yang berbeza.
 
 
-> **Note – Bagaimana Pemprosesan Pembayaran Berfungsi**
+> **Light – Bagaimana Pemprosesan Pembayaran Berfungsi**
 >
 > Pelanggan → Peniaga → Gerbang Pembayaran → Pemproses → Rangkaian Kad → Bank Pengeluar → Rangkaian Kad → Bank Peniaga → Peniaga
 
@@ -55,7 +55,7 @@ Satu **ekonomi pekeliling** terdiri daripada peserta yang memutuskan untuk salin
 Apabila diterapkan kepada Bitcoin, ekonomi pekeliling dibina dengan menyokong peniaga tempatan dan pekerja mahir yang menerima bitcoin, supaya semua peserta dapat berkembang bersama-sama hasil daripada kelebihan Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network membolehkan ekonomi pekeliling Bitcoin muncul dan berkembang di seluruh dunia berkat transaksi Bitcoin yang hampir serta-merta dan berbayaran rendah.
 
@@ -71,4 +71,4 @@ Pada [BTCMap.org](https://btcmap.org/communities), anda juga boleh mencari komun
 ###### Sumber
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Tonton video ini tentang Lightning Network](https://youtu.be/yKdK-7AtAMQ)

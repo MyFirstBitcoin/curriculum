@@ -155,7 +155,7 @@ Det finns dock för närvarande vissa begränsningar med detta som behöver beak
 ##### Risker
 
 
-> **Info**
+> **Dark**
 >
 > Kryptoentusiaster lurade en experimentell AI-bot att marknadsföra en memecoin. Den har nu ökat med 16 000 %. Botten – Terminal of Truth – skapades som ett live-experiment i mänsklig interaktion med AI-modeller, men slutade med att marknadsföra en memecoin kallad GOAT.
 >

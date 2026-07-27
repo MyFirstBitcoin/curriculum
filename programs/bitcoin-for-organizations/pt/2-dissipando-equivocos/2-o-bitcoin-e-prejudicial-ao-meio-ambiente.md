@@ -1,6 +1,6 @@
 # 2.2 O Bitcoin é prejudicial ao meio ambiente.
 
-> **Note**
+> **Light**
 >
 > * O Bitcoin frequentemente é alvo de críticas por consumir muita energia.
 > * Em 2017, o Fórum Econômico Mundial (WEF) publicou um artigo em seu site afirmando que 'até 2020, o Bitcoin consumirá mais energia do que o mundo é capaz de produzir'.

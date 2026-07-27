@@ -27,4 +27,4 @@ O saldo da sua carteira é simplesmente o valor total de todos os UTXOs que voc�
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Assista “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

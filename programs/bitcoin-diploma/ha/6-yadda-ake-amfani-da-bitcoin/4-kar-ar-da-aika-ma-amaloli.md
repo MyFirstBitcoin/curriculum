@@ -19,7 +19,7 @@ Misali, mu ce Jim yana bin Eliana bashin 0.5 BTC kuma yana shirye ya biya ta. Du
 _Yana da muhimmanci a lura cewa da zarar an kammala mu'amala, ba za a iya juyawa ba._
 
 
-> **Note – Yadda Mu'amalar Bitcoin Ke Aiki**
+> **Light – Yadda Mu'amalar Bitcoin Ke Aiki**
 >
 > 1. Wani yana buƙatar yin mu'amala
 > 1. An watsa mu'amala zuwa kwamfutocin P2P (nodes)
@@ -30,7 +30,7 @@ _Yana da muhimmanci a lura cewa da zarar an kammala mu'amala, ba za a iya juyawa
 
 
 
-> **Note – Karɓar Mu'amalolin Bitcoin**
+> **Light – Karɓar Mu'amalolin Bitcoin**
 >
 > Don karɓar bitcoin, za ka buƙaci ba mai aikawa adireshin jama'a na Bitcoin. Wannan wata keɓantacciyar jeri ce ta haruffa da lambobi da ke wakiltar walat ɗinka kuma ana amfani da ita don gane shi a hanyar sadarwar Bitcoin.
 >
@@ -48,7 +48,7 @@ Da zarar mai aikawa ya samu adireshinka, zai iya tura maka bitcoin ta hanyar shi
 Hanyar sadarwar Bitcoin ce ke tabbatar da mu'amalar kuma yawanci tana ɗaukar kusan minti 10. Don ƙarin tsaro, ana ba da shawarar a jira tabbatarwa biyu, wanda ke ɗaukar kusan minti 20.
 
 
-> **Note – Aika Mu'amalolin Bitcoin**
+> **Light – Aika Mu'amalolin Bitcoin**
 >
 > Don aika bitcoin, za ka buƙaci wasu abubuwa: walat na Bitcoin, adireshin jama'a na wanda za a tura wa, da adadin bitcoin da kake son tura wa.
 >
@@ -68,7 +68,11 @@ Hanyar sadarwar Bitcoin ce ke tabbatar da mu'amalar kuma yawanci tana ɗaukar ku
 
 #### Ayyuka: Mu'amaloli a Aiki
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Wannan aiki ne na haɗin gwiwa da ke sauƙaƙa rawar da mutane ke takawa a cikin mu'amalar Bitcoin.**
 

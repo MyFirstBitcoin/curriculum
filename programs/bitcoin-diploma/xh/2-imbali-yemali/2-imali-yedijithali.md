@@ -9,12 +9,12 @@ Iimali esizisebenzisayo ziya zisiba zedijithali ngakumbi; namhlanje, kuphela inx
 ##### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Jonga le vidiyo imfutshane ukufunda malunga ne "Imvelaphi yoTshintshiselwano", kuthotho oluthi “The History of Paper Money”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Esi sisahluko sesibini esibizwa ngokuba "Not just Noodles" kuthotho oluthi "The History of Paper Money"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Kwenzeka ntoni xa uzama ngokwenene ukuphumeza umgaqo wemali yephepha? Fumanisa kwisahluko sesine sothotho oluthi "The History of Paper Money"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

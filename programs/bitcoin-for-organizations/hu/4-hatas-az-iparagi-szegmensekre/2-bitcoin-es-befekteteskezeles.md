@@ -166,7 +166,7 @@ A magas árfolyam-ingadozást, amelyet a hozamok szórásával mérnek, a befekt
 A lényeg az, hogy a bitcoin egy volatilis eszköz. Ez várható is, hiszen új, és hosszú úton halad az árképzés és a felhasználói elfogadás felé. A profi befektetők jól fel vannak készülve arra, hogy kezeljék ezt a volatilitást, és a kiemelkedő hozamok lehetősége miatt ennek megfelelően menedzseljék. Meg tudják határozni a megfelelő allokációt, saját befektetési keretrendszerük és kockázatvállalási hajlandóságuk alapján. A rövid távú volatilitás kisimítása érdekében a bitcoin legalább egy, 4 éves felezési cikluson át történő tartása megfelelő minimum tartási időszak lehet.
 
 
-> **Note – A Bitcoin infláció elleni védelem?**
+> **Light – A Bitcoin infláció elleni védelem?**
 >
 > Mivel a bitcoin kínálata rögzített, a támogatók régóta azzal érvelnek, hogy védelmet nyújt a fiat valuták inflációja ellen. Egyértelmű, hogy nagyon hosszú távon a bitcoin rendkívül hatékony védelmet jelentett a fiat pénz vásárlóerejének leértékelődése ellen. Azonban a kritikusok rámutatnak a fogyasztói árindex (CPI) éves növekedésének drámai emelkedésére 2021 elejétől 2022 közepéig, amikor 40 éves csúcsot ért el, és megkérdőjelezik, hogy a bitcoin ára miért nem emelkedett jelentősen ebben az időszakban. Tehát kudarcot vallott a bitcoin infláció elleni védelemként?
 >
@@ -216,7 +216,7 @@ Természetesen kevés elemző számít arra, hogy ez a forgatókönyv hamar bek�
 Mi van, ha – akárcsak az internet elterjedésekor – egyszerűen nem dönthetünk úgy, hogy kimaradunk belőle?
 
 
-> **Info – Figyelmeztetés**
+> **Dark – Figyelmeztetés**
 >
 > Ne feledje, hogy a múltbeli teljesítmény nem garantálja a jövőbeli eredményeket. A bitcoin magas kockázattal járó eszköz. A befektetőknek szem előtt kell tartaniuk, hogy értéke a jövőben jelentősen növekedhet vagy csökkenhet, ahogy azt a múltbeli teljesítmény is mutatja.
 >

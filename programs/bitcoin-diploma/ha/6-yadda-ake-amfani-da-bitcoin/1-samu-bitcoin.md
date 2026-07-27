@@ -24,7 +24,7 @@ An samar da dandamali na tsakanin mutane, inda masu siye da masu sayar da Bitcoi
 A irin waɗannan dandamali, ba sai ka yarda da kowa da bayananka ko kuɗinka ba; za ka haɗu da wasu mutane kai tsaye kuma ku yi mu'amala da juna.
 
 
-> **Note**
+> **Light**
 >
 > A mafi yawan dandamali na tsakanin mutane, ana buƙatar a ajiye wani ɓangare na kuɗi a matsayin jingina don tabbatar da cewa kowanne ɓangare zai cika alkawuransa. Jingina na nufin ajiye kuɗin a wuri mai aminci ƙarƙashin ikon dandalin har sai dukkan ɓangarorin sun cika alkawuransu. Kamar aboki mai aminci da ke riƙe maka kaya har sai kowa ya gamsu da cinikin.
 

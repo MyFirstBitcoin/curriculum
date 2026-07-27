@@ -39,7 +39,7 @@ Na kraju, pretvorite zapažanja iz prethodne vežbe u rizike relevantne za vašu
 
 
 
-> **Info – Primeri**
+> **Dark – Primeri**
 >
 > * Rizik da bitcoin postane primarni, globalni rezervni trezorski aset
 > * Rizik da Bitcoin mreža postane sloj za poravnanje internet trgovine

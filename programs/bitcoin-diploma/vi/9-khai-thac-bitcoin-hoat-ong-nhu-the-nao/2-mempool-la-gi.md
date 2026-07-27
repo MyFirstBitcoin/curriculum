@@ -12,7 +12,11 @@ Khi một giao dịch được đưa vào một khối, nó sẽ được xác n
 
 #### Hoạt động: Khám phá Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Hoạt động này giúp học sinh tiếp cận một công cụ miễn phí và mã nguồn mở mà không cần kỹ năng kỹ thuật để sử dụng. Nó hữu ích cho tất cả những ai quan tâm đến Bitcoin, từ người mới bắt đầu đến người có kinh nghiệm.**
 

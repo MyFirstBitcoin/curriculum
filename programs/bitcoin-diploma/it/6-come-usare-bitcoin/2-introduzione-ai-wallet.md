@@ -76,7 +76,11 @@ Un altro fattore importante da tenere a mente nella scelta di un wallet Bitcoin 
 
 #### Attività: Discussione e valutazione dei wallet Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Vai al seguente sito web: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

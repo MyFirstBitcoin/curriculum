@@ -128,7 +128,7 @@ Nag-aalok ang Bitcoin mining ng matibay na insentibo sa ekonomiya para sa pag-de
 
 
 
-> **Info – Ang Pagwawakas ng Flaring?**
+> **Dark – Ang Pagwawakas ng Flaring?**
 >
 > Ang paggamit ng nasasayang na enerhiya, tulad ng flared natural gas, ay hindi lang nakakatipid ng pera kundi nakakatulong din sa pagbawas ng mga batikos sa kapaligiran. Nangyayari ang flaring kapag sinusunog ang sobrang natural gas (methane) sa mga oil drilling site dahil walang imprastraktura para mahuli at maibenta ito. Ayon sa ilang pag-aaral5, ang methane ay nakakulong ng humigit-kumulang 120 beses na mas maraming init kaysa CO2, kaya't kailangang sunugin ito upang gawing CO2. Gayunpaman, hindi 100% epektibo ang flaring at may methane pa ring nakakalabas sa atmospera. Maaaring gamitin ng mga Bitcoin miner ang enerhiyang ito upang paganahin ang kanilang operasyon, na nagbabawas ng greenhouse gas emissions mula sa flaring. Ang natural gas ay sinusunog sa mga generator upang makalikha ng kuryente, na nagpapagana sa mga portable mining rig na direktang inilalagay sa mismong oil well site.
 >
@@ -178,7 +178,7 @@ Habang tumatanda ang industriya, mas malawak na pakikipagtulungan sa mga renewab
 
 
 
-> **Info**
+> **Dark**
 >
 > **Hindi nasasayang ng Bitcoin ang enerhiya. Ginagamit nito ang nasasayang na enerhiya.**
 >

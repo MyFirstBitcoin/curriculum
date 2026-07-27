@@ -27,4 +27,4 @@ Stanje vašeg novčanika je jednostavno zbir svih UTXO-a koje kontrolišete.
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Pogledajte „How Bitcoin Works under the Hood“](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

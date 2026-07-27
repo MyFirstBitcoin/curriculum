@@ -58,13 +58,21 @@ Lightning Network дозволяє людям надсилати bitcoin мит�
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Це карта всієї мережі Lightning. Завдяки тисячам операторів вузлів Lightning ви можете надсилати сатоші будь-якому користувачу з Bitcoin Lightning-гаманцем, де б він не знаходився у світі. Платіж надійде за кілька секунд і коштуватиме лише кілька копійок.**Перевірте самі!**
 
 #### Завдання: Естафета Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Це практична вправа, під час якої учні надсилають і отримують справжні сатоші через Lightning Network.**
 

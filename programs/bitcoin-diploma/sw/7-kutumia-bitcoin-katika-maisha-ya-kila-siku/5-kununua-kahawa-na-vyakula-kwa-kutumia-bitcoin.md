@@ -5,7 +5,7 @@ Je, umewahi kujiuliza kama unaweza kutumia bitcoin kununua kikombe chako cha kah
 Ingawa kulipa kwa kadi ya mkopo au kwa kutumia programu kunaweza kuonekana rahisi kueleweka kwa anayelipa, mchakato wa malipo ni mgumu sana na unahusisha wahusika wengi tofauti.
 
 
-> **Note – Jinsi Usindikaji wa Malipo Unavyofanya Kazi**
+> **Light – Jinsi Usindikaji wa Malipo Unavyofanya Kazi**
 >
 > Mteja → Mfanyabiashara → Lango la Malipo → Msindikaji → Mtandao wa Kadi → Benki ya Kutoa Kadi → Mtandao wa Kadi → Benki ya Mfanyabiashara → Mfanyabiashara
 
@@ -55,7 +55,7 @@ Uchumi wa **mzunguko** unaundwa na washiriki wanaoamua kusaidiana kwa kujaribu k
 Ukitumia Bitcoin, uchumi wa mzunguko unajengwa kwa kusaidia wafanyabiashara wa karibu na mafundi wanaokubali bitcoin, ili washiriki wote waweze kufanikiwa pamoja kutokana na sifa bora za Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network inaiwezesha uchumi wa mzunguko wa Bitcoin kuonekana na kustawi kote duniani kutokana na miamala ya Bitcoin ya haraka na yenye ada ndogo.
 
@@ -71,4 +71,4 @@ Kwenye [BTCMap.org](https://btcmap.org/communities), unaweza pia kutafuta jamii 
 ###### Rasilimali
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Tazama video hii kuhusu Lightning Network](https://youtu.be/yKdK-7AtAMQ)

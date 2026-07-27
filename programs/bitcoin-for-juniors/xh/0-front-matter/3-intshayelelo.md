@@ -1,101 +1,101 @@
 # Intshayelelo
 
-Esi sikhokelo sichaza indlela yokufunda nokusebenzisa izicwangciso zezifundo kwi-Bitcoin for Juniors. Sihamba ngethuba lonke lesahluko sesicwangciso ukuze ootitshala bazi into abanokuyilindela, indlela yokulungiselela, kunye nendlela yokulungelelanisa umxholo kwimeko yabo. Ulwakhiwo lukhona ukuze likuncede — hayi ukuba wena ulandele lona ngokungqongqo.
+Esi sikhokelo sichaza indlela yokufunda nokusebenzisa izicwangciso zezifundo kwi-Bitcoin for Juniors. Sihamba ngethuba lonke lesahluko sesicwangciso ukuze ootitshala bazi ukuba bangalindela ntoni, bahlale belungile, kwaye benze utshintsho olufanelekileyo kumxholo ukuze ulungele imeko yabo. Ulwakhiwo lukhona ukuze likuncede — hayi ukuba wena ulandele lona ngokungqongqo.
 
 #### Ukusebenzisa Izicwangciso Zezifundo
 
-Isicwangciso ngasinye sesifundo kwi-Bitcoin for Juniors sisikhokelo esilungelelanisiweyo. Asisiyo incwadi ekufuneka ilandelwe igama negama. Ootitshala bayakhuthazwa ukuba balungelelanise, balulule, bandise, okanye baguqule imisebenzi ngokuxhomekeke kubafundi babo, indawo, kunye nexesha elikhoyo. Izicwangciso ziyilelwe ukuxhasa ukucaca nokuzithemba, ngakumbi kubafundisi abatsha ekufundiseni ngemali okanye ngezimvo zeBitcoin.
+Isicwangciso ngasinye seBitcoin for Juniors sisikhokelo esilungiselelwe kakuhle. Asisiyo incwadi ekufuneka ilandelwe igama negama. Ootitshala bayakhuthazwa ukuba benze utshintsho, balulule, bandise, okanye baguqule imisebenzi ngokuxhomekeke kubafundi babo, indawo, kunye nexesha elikhoyo. Izicwangciso ziyilelwe ukuxhasa ukucaca nokuzithemba, ngakumbi kubafundisi abatsha ekufundiseni ngemali okanye ngeBitcoin.
 
-Ulungiso luyalindeleka. Qhuba ingxoxo endaweni yokufundisa ngokuthe ngqo. Isakhelo sibonelela ngolwakhiwo. Utitshala ubonelela ngogwebo kunye nomxholo.
+Utshintsho luyalindeleka. Qhuba ingxoxo endaweni yokufundisa ngokuthe ngqo. Isakhelo sibonelela ngolungelelwaniso. Utitshala ubonelela ngengqiqo kunye nomxholo.
 
 #### Ukuqonda Ulwakhiwo
 
-Umsebenzi ngamnye ulandela ifomathi efanayo. Oku kuvumela ootitshala ukuba bakhawuleze baqonde into efunekayo kunye nendlela yokuphatha isifundo ngempumelelo.
+Umsebenzi ngamnye ulandela ifomathi efanayo. Oku kuvumela ootitshala ukuba bakhawuleze babone into abayifunayo nendlela yokuphumeza isifundo ngempumelelo.
 
 ##### Uhlobo Lomsebenzi
 
-Imisebenzi ihlelwe lula ukuze kube lula ukuyicwangcisa. Umzekelo: umdlalo wokulinganisa, ingxoxo ekhokelelweyo, ukufunda ngamava, umngeni wokusebenzisana. Ezi zimpawu zinceda ootitshala bakhethe imisebenzi ehambelana neenjongo zabo zokufundisa kunye namanqanaba amandla egumbi lokufundela.
+Imisebenzi ihlelwe lula ukuze kube lula ukuyicwangcisa. Umzekelo: umdlalo wokulinganisa, ingxoxo ekhokelwayo, ukufunda ngamava, umngeni wokusebenzisana. Ezi zimpawu zinceda ootitshala bakhethe imisebenzi ehambelana neenjongo zabo zokufundisa kunye namanqanaba amandla egumbi lokufundela.
 
 ##### Ixesha
 
-Ixesha elikhankanyiweyo lilinganiselwe. Amanye amaqela aya kuhamba ngokukhawuleza. Amanye aza kufuna ingxoxo eninzi. Ootitshala mabayithathe ixesha njengesiqhelo esiguquguqukayo hayi umda ongqongqo.
+Ixesha elikhankanyiweyo lisondele. Amanye amaqela aya kuhamba ngokukhawuleza. Amanye aza kufuna ingxoxo eninzi. Ootitshala mabayithathe ixesha njengesiqinisekiso esiguquguqukayo hayi umda ongqongqo.
 
-##### Ukuhlelwa Kwamaqela
+##### Ukwahlulwa Kwamaqela
 
 Ibonisa ukuba umsebenzi uyilelwe ukuba wenziwe ngu:
 
-* Ikilasi lonke
+* Iklasi yonke
 * Ngababini
 * Umsebenzi ngamnye
 
-Ukuhlelwa kwamaqela kunceda ukumisela indlela yokufunda oyifunayo. Ukusebenza kumaqela kuhlala kunyusa ukuzibandakanya kwaye kunceda abafundi baphinde baphonononge izimvo ngengxoxo.
+Ukwahlulwa kwamaqela kunceda ekumiseni indlela yokufunda oyifunayo. Ukusebenza kumaqela kuhlala kunyusa umdla kwaye kunceda abafundi baphucule izimvo zabo ngengxoxo.
 
 #### Iziphumo Zokufunda
 
-Iziphumo zokufunda zichaza into abafundi ekufuneka bayazi, bayiqonde, okanye bakwazi ukuyenza ekupheleni komsebenzi. Ezi ziphumo zibalulekile. Ziyanceda utitshala ahlale egxile kwinjongo hayi ekugqibeni umsebenzi kuphela. Ukuba ixesha lilinganiselwe, phambili isiphumo sokufunda endaweni yokugqiba onke amanyathelo.
+Iziphumo zokufunda zichaza into abafundi ekufuneka bayazi, bayiqonde, okanye bakwazi ukuyenza ekupheleni komsebenzi. Ezi ziphumo zibalulekile. Ziyanceda utitshala ahlale egxile kwinjongo endaweni yokugqiba umsebenzi nje. Ukuba ixesha lilinganiselwe, phambili kwiphumo yokufunda endaweni yokugqiba onke amanyathelo.
 
-#### Izixhobo vs Izixhobo Zokusebenza
+#### Izixhobo vs Izixhobo Zomsebenzi
 
 ##### Izixhobo
 
 Izixhobo zizinto ezisetyenziswayo okanye eziphathwa ngqo ngabafundi. Imizekelo: amaphepha omsebenzi, amakhadi aprintiweyo, iipensile, amaso, amanqaku ancinci ancinci, iiposta. Ezi zizinto abafundi abaziphathayo ngexesha lomsebenzi.
 
-##### Izixhobo Zokusebenza
+##### Izixhobo Zomsebenzi
 
-Izixhobo zokusebenza zibhekisa kwizixhobo ezingapheliyo okanye iimfuno zendalo. Imizekelo: ibhodi emhlophe, isibali-xesha, iprojektha, indawo evulekileyo yeklasi. Izixhobo zokusebenza zixhasa umsebenzi kodwa aziphathwa ngqo ngabafundi ngendlela efanayo nezixhobo.
+Izixhobo zomsebenzi zibhekisa kwizixhobo ezingapheliyo okanye izinto ezifunekayo kwindawo yokufundela. Imizekelo: ibhodi emhlophe, isibali-xesha, iprojektha, indawo evulekileyo yeklasi. Izixhobo zomsebenzi zixhasa umsebenzi kodwa aziphathwa ngqo ngabafundi ngendlela efanayo nezixhobo.
 
-Umehluko unceda ootitshala balungiselele kakuhle.
+Ukwahlula oku kunceda ootitshala balungiselele kakuhle.
 
 #### INKQUBO
 
-Isifundo ngasinye sibandakanya uluhlu lwemigaqo yokukhokela ukuhamba kunye nesantya.
+Isifundo ngasinye siquka uluhlu lwamanyathelo olunceda ukuhamba kakuhle kunye nesantya.
 
 ##### ISIQALO
 
-Kugqitywa phambi kokuba abafundi bangene egumbini. Oku kubandakanya ukulungiselela izixhobo, ukuhlela izitulo, ukubhala imibuzo ebhodini, kunye nokucwangcisa izixhobo. Ukulungiselela kungcono kwenziwe ngaphandle kwabafundi ukuze kuqinisekiswe utshintsho olugudileyo.
+Kugqitywa phambi kokuba abafundi bangene egumbini. Oku kubandakanya ukulungiselela izixhobo, ukulungelelanisa izitulo, ukubhala imibuzo ebhodini, kunye nokucwangcisa izixhobo. Ukulungiselela kungcono kwenziwe ngaphandle kwabafundi ukuze utshintsho lube lula.
 
 ##### PHAMBI KOMSEBENZI
 
-Isigaba sokufudumeza. Oku kuseta okulindelweyo kwaye kuvuse umdla. Kungabandakanya umbuzo, ibali elifutshane, imeko, okanye umngeni. Injongo kukuvuselela ulwazi lwangaphambili kwaye ulungise abafundi kumsebenzi.
+Isigaba sokufudumeza. Oku kumisela okulindelweyo kwaye kuvuse umdla. Kungabandakanya umbuzo, ibali elifutshane, imeko, okanye umngeni. Injongo kukuvusa ulwazi lwangaphambili nokulungiselela abafundi umsebenzi.
 
 ##### Injongo Ngolwimi Lwabafundi
 
-Utitshala uchaza ngokufutshane injongo yomsebenzi esebenzisa ulwimi oluqondwa ngabafundi. Xa abafundi besazi isizathu sokwenza into, ukuzibandakanya kunye nokukhumbula kuyanda.
+Utitshala uchaza ngokufutshane injongo yomsebenzi esebenzisa ulwimi oluqondwa ngabafundi. Xa abafundi besazi ukuba kutheni besenza into ethile, umdla kunye nokukhumbula kuyanda.
 
 ##### UMSEBENZI
 
-1. **Ulungiselelo** — Imiyalelo yokuhlela abafundi kunye nokwabelana ngezixhobo.
+1. **Ukulungiselela** — Imiyalelo yokulungelelanisa abafundi nokwabelana ngezixhobo.
 1. **Umzekelo** — Xa kufanelekile, bonisa umsebenzi. Ukubonisa kunciphisa ukudideka kwaye kwakha ukuzithemba.
-1. **Qhuba** — Abafundi bagqiba umsebenzi. Utitshala ubukela, ukhokele, kwaye axhase endaweni yokulawula ngokupheleleyo.
-1. **Inqaku Lokujonga** — Yima kancinci ukuqinisekisa ukuqonda. Lungisa xa kufuneka. Oku kuthintela ukudideka ukuba kungakhuli.
-1. **Ingqwalasela** — Abafundi baxoxa ngento eyenzekileyo nentsingiselo yayo. Ingqwalasela ibalulekile. Iguqula amava abe kukufunda. Khuthaza imibuzo evulekileyo kunye nokunxulumana neengcinga zehlabathi langempela.
+1. **Qhuba** — Abafundi bagqiba umsebenzi. Utitshala ubukela, ukhokele, kwaye axhase endaweni yokulawula.
+1. **Inqaku Lokujonga** — Yima kancinci ukuqinisekisa ukuqonda. Lungisa xa kufuneka. Oku kuthintela ukudideka okukhulu.
+1. **Ingcinga** — Abafundi baxoxa ngento eyenzekileyo nentsingiselo yayo. Ingcinga ibalulekile. Iguqula amava abe kukufunda. Khuthaza imibuzo evulekileyo kunye nokunxulumana neengcinga zehlabathi langempela.
 
 ##### UKULANDELA
 
-Ixesha elifutshane lokugqiba. Qinisekisa ingcamango ephambili. Gqiba kakuhle. Oku kungabandakanya umbuzo wokuphinda, ukwabelana ngokukhawuleza nomlingane, okanye ingxelo emfutshane edibanisa umsebenzi nomxholo omkhulu wesahluko.
+Ixesha elifutshane lokugqiba. Qinisekisa umxholo ophambili. Gqiba kakuhle. Oku kungabandakanya umbuzo wokuphinda, ukwabelana ngokukhawuleza nomlingane, okanye ingxelo emfutshane edibanisa umsebenzi nesihloko esibanzi sesahluko.
 
 ##### UKUVALA
 
-Amanqaku ootitshala. Eli candelo libandakanya izikhumbuzo zokuqokelela izixhobo, ukugcina izixhobo, ukulungisa igumbi lokufundela, kunye nokulungiselela isifundo esilandelayo.
+Amanqaku ootitshala. Eli candelo liquka izikhumbuzo zokuqokelela izixhobo, ukugcina izixhobo, ukulungisa igumbi, kunye nokulungiselela isifundo esilandelayo.
 
 #### Ulawulo Lwegumbi Lokufundela
 
-Igumbi ngalinye lokufundela liyahluka ngeminyaka, amanqanaba amandla, kunye nendlela amaqela asebenza ngayo. Iingcebiso ezibonelelweyo kweli candelo zingabandakanya:
+Igumbi ngalinye lokufundela liyahluka kwiminyaka yabafundi, amanqanaba amandla, kunye nendlela abasebenza ngayo. Iingcebiso ezibonelelweyo kweli candelo zingabandakanya:
 
 * Imiyalelo ecacileyo phambi kokuba kuhambe
 * Imida yexesha echaziweyo
 * Imithetho ebonakalayo
-* Iindima ezicwangcisiweyo ngaphakathi kwiqela
+* Iindima ezicwangcisiweyo ngaphakathi kwamaqela
 
 Ootitshala kufuneka balungelelanise izicwangciso zolawulo ngokweemeko zabo.
 
-#### Ulwandiso & Imisebenzi yokuzalisa ixesha
+#### Ulwandiso & Imisebenzi yeSongezo
 
-Ukuba ixesha lisekhona, iingcebiso zolwandiso — ngamanye amaxesha ezibizwa ngokuba yimisebenzi yokuzalisa ixesha — zivumela umsebenzi uqhubeke ngaphandle kokulungiselela kakhulu. Zinokwandisa ingxoxo, zongeze ubunzima, okanye zisebenzise into yokuyila. Azinyanzelekanga kwaye ziyaguquguquka.
+Ukuba ixesha lisekhona, iingcebiso zolwandiso — ngamanye amaxesha ezibizwa ngokuba yimisebenzi yesongezo — zivumela umsebenzi uqhubeke ngaphandle kolungiselelo olunzulu. Oku kunokwandisa ingxoxo, kongeze ubunzima, okanye kulethe into yokuyila. Ziyazikhethela kwaye ziyaguquguquka.
 
 #### Umahluko
 
-Umahluko uqinisekisa ukufikeleleka kubafundi abohlukeneyo. Uhlengahlengiso lunokubandakanya:
+Umahluko uqinisekisa ukufikeleleka kubafundi abohlukeneyo. Utshintsho lunokubandakanya:
 
 * Ulwimi olulula kubafundi abancinane
 * Inkxaso ebonakalayo kubafundi abafunda ukufunda
@@ -103,14 +103,14 @@ Umahluko uqinisekisa ukufikeleleka kubafundi abohlukeneyo. Uhlengahlengiso lunok
 * Isantya esilungisiweyo
 * Iindlela ezizezinye zokuphendula
 
-Ukufikeleleka kunokubandakanya nokhuseleko lomzimba kunye nolwakhiwo lokuthatha inxaxheba kwabantu bonke.
+Ukufikeleleka kunokubandakanya nokukhuseleka ngokwasemzimbeni kunye nezakhiwo zokuthatha inxaxheba ezibandakanyayo.
 
 #### ISEKELI
 
-Isesekeli iqulethe izinto ezixhasayo, iitemplate, izixhobo eziprintwayo, kunye namakhonkco akhankanyiweyo kwisifundo. Ootitshala kufuneka bajonge isesekeli phambi kokufundisa ukuqinisekisa ukuba zonke izinto ezifunekayo zilungile.
+Isesekeli iqulethe izinto ezixhasayo, iitemplate, izixhobo eziprintwayo, kunye namakhonkco akhankanyiweyo kwisifundo. Ootitshala kufuneka bajonge isesekeli phambi kokuba kube sekilasini ukuqinisekisa ukuba zonke izinto ezifunekayo zilungile.
 
 #### Isikhokelo Sokugqibela
 
-Ezi zicwangciso zezifundo zicwangciswe ngokucacileyo, kodwa kulindeleke ukuba kube nokuguquguquka. Gxila kwiziphumo zokufunda. Nikezela ithuba kubafundi ukuba bathethe. Beka phambili intsebenziswano kunokugqwesa.
+Ezi zicwangciso zezifundo zicwangciswe ngokucacileyo, kodwa kulindeleke ukuba kube nokuguquguquka. Gxila kwiziphumo zokufunda. Nikezela ithuba kubafundi ukuba bathethe. Beka phambili intsebenziswano endaweni yokugqwesa.
 
-My First Bitcoin for Juniors yenzelwe ukuxhasa ootitshala ukuba bafundise ngokuzithemba kunye nokufunda okubalulekileyo.
+My First Bitcoin for Juniors yenzelwe ukuxhasa ootitshala abathembekileyo kunye nokufunda okubalulekileyo.

@@ -41,4 +41,4 @@ Se você está pronto para dar o próximo passo, confira os recursos adicionais 
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ As possibilidades de mudança positiva são imensas, por isso convidamos você a assistir a este vídeo para saber mais.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

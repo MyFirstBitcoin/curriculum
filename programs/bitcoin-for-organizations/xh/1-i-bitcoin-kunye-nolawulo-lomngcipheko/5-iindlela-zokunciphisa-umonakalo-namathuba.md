@@ -17,7 +17,7 @@ Kuphephe ukuthatha izigqibo ngokukhawuleza kakhulu. Ungazilungiselela iziphumo e
 Kolu candelo sigxininisa amanye amaqela amakhulu amanyathelo ukukunceda uguqule uhlalutyo lube ngamanyathelo. Olu luhlu aluphelelanga, kodwa luyilelwe ukukunceda uqale.
 
 
-> **Note – Iindlela ze-P&L**
+> **Light – Iindlela ze-P&L**
 >
 > * Khusela ingeniso ekhoyo kunye nesabelo sentengiso
 >   * Nciphisa ukubonakaliswa kwiimarike ezichaphazeleka kakubi
@@ -33,7 +33,7 @@ Kolu candelo sigxininisa amanye amaqela amakhulu amanyathelo ukukunceda uguqule 
 
 
 
-> **Note – Iindlela zeBhilanse Sheet**
+> **Light – Iindlela zeBhilanse Sheet**
 >
 > * Qhuba ixabiso kwi-balance sheet yakho
 >   * Nciphisa ukubonakaliswa kwiiasethi ezingaphumeleli ngaphezulu kweendleko zenkunzi, ngaphandle kokunciphisa amandla enkampani

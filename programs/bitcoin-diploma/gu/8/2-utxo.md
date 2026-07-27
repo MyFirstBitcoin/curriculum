@@ -27,4 +27,4 @@
 ###### સ્રોતો
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ “How Bitcoin Works under the Hood” જુઓ](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

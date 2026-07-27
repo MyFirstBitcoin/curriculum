@@ -15,7 +15,7 @@ Ngoku ukuba uyayiqonda imfihlo yoluntu kunye neyabucala, kunye neendima zeenod k
 Xa sele ifakwe kwibhloko, intengiselwano iqinisekisiwe. UAdam akakwazi ukuphinda asebenzise loo bitcoin, kwaye uSipho angayisebenzisa le ayifumeneyo kwintengiselwano entsha.
 
 
-> **Note**
+> **Light**
 >
 > Intengiselwano kunye nomrhumo ukhethwe → Isayinwe yi-wallet kwaye ithunyelwe → Yabelwana ngeenod → Umvukuzi wongeza intengiselwano kwitemplate yebhloko → Umvukuzi uphumelela ukhuphiswano lwe-Proof-of-Work → Ibhloko entsha iqinisekisiwe → Ibhloko entsha yabelwana ngeenod
 
@@ -23,4 +23,4 @@ Xa sele ifakwe kwibhloko, intengiselwano iqinisekisiwe. UAdam akakwazi ukuphinda
 ###### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Jonga le vidiyo malunga neBitcoin Nodes](https://www.youtube.com/watch?v=xc_TxlByxeY)

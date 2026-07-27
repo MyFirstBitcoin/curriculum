@@ -49,7 +49,7 @@ Dalam sistem berpusat, segala-galanya berpusat kepada satu pihak utama, seperti 
 * **Kekurangan ketelusan dan kepercayaan**: Cara sistem berpusat berfungsi boleh jadi sukar difahami, menjadikan sukar untuk orang mempercayainya.
 
 
-> **Note**
+> **Light**
 >
 > Pada tahun 2022, semasa protes aman di Kanada, bank membekukan akaun penunjuk perasaan, menunjukkan bagaimana pihak berkuasa pusat boleh mengawal akses kewangan.
 
@@ -73,7 +73,7 @@ Walaupun sistem terdesentralisasi mempunyai banyak kelebihan, membuat keputusan 
 Dalam dunia sistem berpusat dan terdesentralisasi, semuanya bergantung kepada siapa yang memegang kuasa. Sistem berpusat memberikan kuasa kepada kumpulan kecil, manakala sistem terdesentralisasi mengagihkannya, membolehkan semua orang bersuara. Peralihan kuasa ini bermakna masa depan yang lebih adil, di mana ramai orang mempengaruhi sistem yang membentuk kehidupan mereka.
 
 
-> **Note**
+> **Light**
 >
 > Rangkaian Tor mewujudkan sistem terdesentralisasi di mana orang ramai boleh kekal tanpa nama dalam talian dan rangkaian ini sukar untuk dihentikan atau ditapis.
 
@@ -91,4 +91,4 @@ Percubaan-percubaan ini membantu mendedahkan apa yang kurang. Kemudian, seseoran
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Tonton video ini dan ketahui kisah Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

@@ -5,7 +5,7 @@
 Bitcoin dựa vào năng lượng cho cơ chế đồng thuận ‘bằng chứng công việc’, giúp đảm bảo nó luôn là một loại tiền tệ phi tập trung, không cần sự cho phép. Lưới điện hiện đang đối mặt với những thách thức khi tích hợp các nguồn năng lượng tái tạo mới, gây áp lực lên hạ tầng hiện tại. Chương này cung cấp phần giới thiệu ngắn gọn về những thách thức này và tổng quan về các khía cạnh liên quan của Bitcoin trước khi trình bày cách nó đang hỗ trợ quá trình chuyển đổi sang lưới điện năng lượng tái tạo.
 
 
-> **Info – Bitcoin như một loại tiền tệ năng lượng**
+> **Dark – Bitcoin như một loại tiền tệ năng lượng**
 >
 > Vào ngày 4 tháng 12 năm 1921, tờ New York Tribune đã đăng một bài báo trình bày tầm nhìn của Ford về việc thay thế vàng bằng một loại tiền tệ năng lượng mà ông tin rằng có thể phá vỡ sự kiểm soát của giới tinh hoa ngân hàng đối với tài sản toàn cầu và chấm dứt chiến tranh. Ông dự định thực hiện điều này bằng cách xây dựng “nhà máy điện lớn nhất thế giới” và tạo ra một hệ thống tiền tệ mới dựa trên “đơn vị năng lượng”.
 

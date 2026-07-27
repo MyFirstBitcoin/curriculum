@@ -69,7 +69,7 @@ Od svého vzniku v roce 2009 je bitcoin neustále ve fázi „objevování ceny�
 Analýzou bitcoinového ledgeru lze ukázat, že více než 70 % celkové nabídky bitcoinu drží [dlouhodobí držitelé](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Zdá se tedy, že většina držitelů je spokojena s tím, že své bitcoiny neprodává ani neutrácejí. Vzhledem k dramatickému nárůstu kupní síly bitcoinu od jeho spuštění je rozumné předpokládat, že většina držitelů očekává, že bitcoin bude ještě cennější, a to ovlivňuje jejich rozhodnutí dále držet a neutrácejí.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Každý rok 22. května komunita Bitcoinu slaví a připomíná floridského programátora Laszla Hanyecze, který se stal prvním člověkem, o němž je známo, že použil bitcoin k nákupu fyzického zboží. Dne 18. května 2010 Hanyecz oznámil na fóru Bitcointalk.org, že shání pizzu a je ochoten zaplatit bitcoinem. Nabídl 10 000 bitcoinů komukoliv, kdo bude ochoten transakci uskutečnit. Čekal několik dní, až devatenáctiletý student Jan Sturdivant vyhověl a poslal dvě velké pizzy. Laszlo poslal Sturdivantovi slíbených 10 000 bitcoinů, což má v době psaní hodnotu přes 680 milionů €.
 >

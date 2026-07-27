@@ -166,7 +166,7 @@ Visoka volatilnost cene, merena standardnom devijacijom prinosa, takođe je dobr
 Suština je da je bitcoin volatilna imovina. Ovo je očekivano jer je nov i nalazi se na dugom putu otkrivanja cene i usvajanja od strane korisnika. Profesionalni investitori su dobro opremljeni da prihvate ovu volatilnost i, s obzirom na potencijal za izuzetno visoke prinose, upravljaju njome u skladu sa tim. Oni mogu odrediti odgovarajuću alokaciju, u skladu sa sopstvenim investicionim okvirom i apetitom za rizik. Takođe, da bi se ublažila kratkoročna volatilnost, držanje bitcoina najmanje jedan, četvorogodišnji, halving ciklus može biti odgovarajući minimalni period držanja.
 
 
-> **Note – Da li je Bitcoin zaštita od inflacije?**
+> **Light – Da li je Bitcoin zaštita od inflacije?**
 >
 > Pošto je bitcoin imovina sa fiksnom ponudom, pristalice već dugo tvrde da služi kao zaštita od inflacije u fiat valutama. Jasno je da je na veoma dug rok bitcoin služio kao veoma efikasna zaštita od umanjenja kupovne moći fiat novca. Međutim, kritičari ukazuju na dramatičan rast godišnjeg CPI indeksa11 od početka 2021. do četrdesetogodišnjeg maksimuma sredinom 2022. i postavljaju pitanje zašto cena bitcoina nije značajno porasla tokom tog perioda. Dakle, da li je bitcoin podbacio kao zaštita od inflacije?
 >
@@ -216,7 +216,7 @@ Naravno, malo ko očekuje da će se ovaj scenario uskoro ostvariti – globalno 
 Šta ako, kao i sa usponom interneta, jednostavno ne možemo da izaberemo da ne učestvujemo?
 
 
-> **Info – Upozorenje**
+> **Dark – Upozorenje**
 >
 > Napomena: prošli rezultati nisu garancija budućih rezultata. Bitcoin je imovina koja nosi visoke rizike. Investitori treba da imaju na umu da njegova vrednost može značajno porasti ili opasti u budućnosti, kao što je pokazala i prošla performansa.
 >

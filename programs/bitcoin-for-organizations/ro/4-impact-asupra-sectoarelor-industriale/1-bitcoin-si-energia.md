@@ -128,7 +128,7 @@ Minarea de Bitcoin oferă un stimulent economic puternic pentru dezvoltarea ener
 
 
 
-> **Info – Eliminarea arderii gazelor?**
+> **Dark – Eliminarea arderii gazelor?**
 >
 > Utilizarea energiei reziduale, cum ar fi gazul natural ars la sondă, nu doar economisește bani, ci și atenuează criticile de mediu. Arderea are loc atunci când excesul de gaz natural (metan) este ars la sondele petroliere deoarece nu există infrastructură pentru captarea și vânzarea acestuia. Potrivit unor studii5, metanul reține de aproximativ 120 de ori mai multă căldură decât CO2, de aici și necesitatea arderii sale, convertindu-l eficient în CO2. Totuși, arderea nu este 100% eficientă și permite totuși metanului să ajungă în atmosferă. Minerii de Bitcoin pot folosi această energie pentru a-și alimenta operațiunile, reducând astfel emisiile de gaze cu efect de seră provenite din ardere. Gazul natural este ars în generatoare pentru a produce electricitate, care alimentează echipamentele portabile de minare amplasate direct la sondă.
 >
@@ -178,7 +178,7 @@ Pe măsură ce industria se maturizează, colaborarea tot mai strânsă cu furni
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin nu irosește energie. Folosește energia irosită.**
 >

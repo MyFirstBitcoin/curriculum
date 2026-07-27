@@ -10,6 +10,6 @@ Bitcoin siyo tofauti. Kama Andreas Antonopoulos alivyoelezea maarufu, “Bitcoin
 Moja ya tabaka hizi inaitwa **Lightning Network**. Ni kama barabara kuu ya kasi sana kwa Bitcoin, ikisaidia watu kutuma na kupokea bitcoin haraka na kwa ada ndogo sana. Inaruhusu watumiaji kufanya miamala midogo, ya papo hapo juu ya mtandao wa kawaida wa Bitcoin. Hii inafanya kununua kahawa au kumlipa rafiki kuwa rahisi na haraka! Bila shaka, kama ilivyo kwa kila kitu, hii ina changamoto zake.
 
 
-> **Info**
+> **Dark**
 >
 > Satoshi ni sehemu ndogo kabisa ya bitcoin. Kama vile shilingi inaweza kugawanywa katika senti, bitcoin moja inaweza kugawanywa katika vitengo vidogo vinavyoitwa satoshis. Bitcoin moja ni sawa na satoshi milioni 100, na kufanya satoshis kuwa sehemu ndogo kabisa ya thamani katika mfumo wa Bitcoin. Tunapozungumzia kutuma bitcoin kupitia Lightning Network, tutaita “kutuma sats,” kifupi cha satoshis.

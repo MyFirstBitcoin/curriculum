@@ -8,7 +8,11 @@ _Prehistorie Bitcoinu – Výsledek 40 let výzkumu, vývoje a poptávky_
 
 Jak jsme viděli v předchozím modulu, několik kyberpunkerů se pokusilo vytvořit alternativní formu peněz. Tento modul pokračuje v příběhu jednoho z nich: vizionáře známého jako „Satoshi Nakamoto“. Tato anonymní postava (jednotlivec nebo skupina) se dávno před vznikem Bitcoinu účastnila online diskuzí o kryptografii a informatice, aby našla praktické způsoby, jak nahradit fiat systém.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 V říjnu 2008 Nakamoto představil průlomový dokument s názvem „Bitcoin: Peer-to-Peer elektronický peněžní systém“ na kryptografickém mailing listu. Tento dokument položil základy pro decentralizovaný peer-to-peer protokol navržený k bezpečnému provádění online transakcí bez potřeby zprostředkovatelů. Nakamotova vize byla jasná: vytvořit čistě peer-to-peer verzi elektronických peněz, nezávislou na kontrole mocných vlád a finančních institucí.
 

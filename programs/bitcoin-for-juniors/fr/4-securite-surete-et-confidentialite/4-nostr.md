@@ -1,148 +1,109 @@
 # 4.4 Nostr
 
-**Type d'activité** Jeu de simulation – Codage basé sur l’artisanat – Défi compétitif
-
-**Durée** 50-60 minutes
-
-**Regroupement** Petites équipes de trois élèves
-
-##### **Description**
-
-En s’appuyant sur les activités précédentes concernant la confiance, la transmission de messages et l’interception, les élèves comparent maintenant le transfert d’informations ouvert à la communication codée. Les apprenants expérimentent d’abord comment relayer une information nécessite de faire confiance à des intermédiaires et comment les messages peuvent être entendus ou modifiés. Ils introduisent ensuite des roues de chiffrement pour protéger les messages, découvrant que l’information peut rester privée même lorsqu’elle passe par des canaux non fiables ou publics.
-
-**Pré-requis**
-
-* 4.2 - Téléphone
-* 4.3 - Les cypherpunks écrivent du code
-
-##### **Résultats d'apprentissage**
-
-À la fin de cette activité, les apprenants seront capables de :
-
-* Revoir comment la transmission d’informations nécessite la confiance envers les intermédiaires
-* Reconnaître comment les messages peuvent fuiter ou être modifiés lorsqu’ils sont transmis ouvertement ;
-* Comprendre que le codage protège l’information même lorsque les intermédiaires ne sont pas fiables
-* Encoder et décoder avec succès du vocabulaire à l’aide d’une roue de chiffrement.
-
-##### **Matériel**
-
-* Cartes de mots ou de phrases préparées pour la transmission
-* Gabarits de roue de chiffrement pour chaque élève (_Voir Annexe A_)
-* Fiches d’exercices ou feuilles vierges pour la transcription
-* Crayons ou feutres
-* **Optionnel :** Exemples de messages simples et complexes (_Voir Annexe B_)
-
-##### **Équipement**
-
-* Ciseaux
-* Attaches parisiennes ou attaches pour roues de chiffrement
-* Espace ouvert en classe pour se déplacer
-* **Optionnel**: Chronomètre
-
 #### **PROCÉDURE**
 
 ##### **OUVERTURE**
 
-1. Disposez la salle avec deux tables par équipe placées loin l’une de l’autre pour créer de la distance.
-1. Placez les cartes de messages ouverts sur chaque table d’expéditeur.
-1. Préparez le matériel pour les roues de chiffrement mais gardez-les cachés jusqu’à la Phase 2.
+1. Aménagez la salle en plaçant deux tables par équipe, bien espacées l'une de l'autre, afin de respecter la distanciation physique.
+1. Disposez des cartes de message ouvertes sur chaque table d'invités.
+1. Préparez le matériel nécessaire à la roue de chiffrement, mais gardez-le à l'abri des regards jusqu'à la phase 2.
 
-##### **PRÉ-ACTIVITÉ**
+##### **AVANT L'ACTIVITÉ**
 
 _5 minutes_
 
-1. Demandez aux élèves de se rappeler l’activité précédente où les messages étaient chuchotés ou relayés.
-1. Demandez quels problèmes ils ont remarqués concernant la confiance, les erreurs ou l’écoute indiscrète.
-1. Rappelez aux élèves que la dernière fois, ils ne pouvaient pas garder les messages privés.
-1. Expliquez qu’aujourd’hui ils vont tester si ce problème peut être résolu.
+1. Demandez aux élèves de se remémorer l'activité précédente, au cours de laquelle ils devaient chuchoter ou transmettre des messages.
+1. Demandez-leur quels problèmes ils ont constatés en matière de confiance, d'erreurs ou d'écoutes involontaires.
+1. Rappelez aux élèves que, la dernière fois, ils n'ont pas réussi à préserver la confidentialité de leurs messages.
+1. Expliquez-leur qu'aujourd'hui, ils vont vérifier si ce problème peut être résolu.
 
-**Objectif dans les mots de l’élève**
+**L'objectif selon les mots de l'étudiant**
 
-*  « Trouver une meilleure façon d’envoyer des messages sans que tout le monde ait besoin d’être digne de confiance. »
+*  « Trouver un meilleur moyen d'envoyer des messages sans que tout le monde doive être considéré comme digne de confiance. »
 
 ##### **ACTIVITÉ**
 
-_40–45 minutes_
+_40 à 45 minutes_
 
-**Mise en place**
+**Configuration**
 
-1. Divisez les élèves en équipes de trois.
-1. Attribuez les rôles : Joueur 1 est l'Émetteur, Joueur 2 est le Coureur, Joueur 3 est le Récepteur.
+1. Répartissez les élèves en groupes de trois.
+1. Attribuez les rôles : le joueur 1 est l'expéditeur, le joueur 2 est le coureur, le joueur 3 est le destinataire.
 1. Expliquez que les rôles resteront les mêmes tout au long de l'activité.
 
-**Modélisation**
+**Modèle**
 
-1. Démontrez un court tour de dictée en courant en utilisant un message ouvert.
-1. Soulignez que le coureur doit se souvenir et répéter le message exactement.
-1. Rappelez aux élèves que toute personne à proximité peut entendre le message.
+1. Faites une brève démonstration d'une séance de dictée à la volée à partir d'un message ouvert.
+1. Précisez que le messager doit mémoriser et répéter le message à la lettre.
+1. Rappelez aux élèves que toute personne se trouvant à proximité peut entendre le message.
 
-**Phase 1 – Transmission ouverte (Confiance requise)**
+**Phase 1 – Transmission ouverte (confiance requise)**
 
-1. Le Joueur 1 lit silencieusement le message à la table de l'émetteur.
-1. Le Joueur 1 lit discrètement le message au Joueur 2 à la table de l'émetteur.
-1. Le Joueur 2 court vers le Joueur 3 et transmet le message verbalement.
-1. Le Joueur 3 écrit ce qu'il entend.
-1. Le Joueur 2 peut faire des allers-retours autant que nécessaire.
-1. La première équipe à transmettre correctement le message gagne.
+1. Le joueur 1 lit en silence le message affiché sur la table de l'expéditeur.
+1. Le joueur 1 lit discrètement le message au joueur 2 à la table de l'expéditeur.
+1. Le joueur n° 2 court vers le joueur n° 3 et lui transmet le message oralement.
+1. Le joueur n° 3 note ce qu'il entend.
+1. Le joueur 2 peut faire des allers-retours autant que nécessaire.
+1. La première équipe à réussir à transmettre le message remporte la victoire.
 
-**Discussion de point de contrôle**
+**Discussion sur les points de contrôle**
 
 * Demandez si le message final correspondait à l'original.
-* Demandez si les coureurs ont entendu les messages des autres équipes.
-* Demandez si le coureur avait le pouvoir de modifier le message.
-* Renforcez que le système ne fonctionnait que si le coureur était digne de confiance.
+* Demandez si les coureurs ont entendu des conversations d'autres équipes.
+* Demandez si le messager avait le pouvoir de modifier le message.
+* Insistez sur le fait que le système ne fonctionnait que si le coureur était digne de confiance.
 
-**Phase 2 – Transmission codée (Confiance réduite)**
+**Phase 2 – Transmission cryptée (confiance réduite)**
 
-1. Distribuez les matériaux pour la roue de chiffrement et laissez les élèves les assembler.
-1. L'Émetteur et le Récepteur conviennent en privé d'un décalage de lettre à l'aide de la roue.
-1. Le Joueur 1 code un nouveau message en utilisant le chiffre convenu.
-1. Le Joueur 2 transmet uniquement le message codé sans en connaître la signification.
-1. Le Joueur 3 transcrit et décode le message à l'aide de la roue de chiffrement.
+1. Distribuez les éléments nécessaires à la fabrication des roues de chiffrement et laissez les élèves les assembler.
+1. L'expéditeur et le destinataire conviennent en privé d'un décalage d'une lettre à l'aide de la roue.
+1. Le joueur 1 code un nouveau message à l'aide du chiffrement convenu.
+1. Le joueur 2 ne transmet que le message codé sans en connaître la signification.
+1. Le joueur n° 3 transcrit et décode le message à l'aide de la roue de chiffrement.
 
-**Règles de la compétition**
+**Règlement du concours**
 
-* Les équipes gagnent des points pour chaque décodage correct.
-* La rapidité et la précision comptent toutes les deux.
-* Les coureurs n'ont pas le droit d'apprendre le chiffre.
+* Les équipes marquent des points lorsqu'elles décodent correctement.
+* La rapidité et la précision sont toutes deux importantes.
+* Les coureurs n'ont pas le droit d'apprendre le code.
 
 **Réflexion**
 
-1. Demandez ce qui a changé entre la transmission ouverte et la transmission codée.
-1. Demandez si la confiance envers le coureur était toujours nécessaire.
-1. Demandez qui contrôlait l'accès au message à chaque phase.
+1. Demandez ce qui a changé entre la transmission en clair et la transmission cryptée.
+1. Demandez-vous s'il était encore nécessaire de faire confiance au coureur.
+1. Demandez qui contrôlait l'accès au message à chaque étape.
 
 ##### **SUIVI**
 
-_5-10 minutes_
+_5 à 10 minutes_
 
-1. Rappelez que les activités précédentes ont montré comment les messages peuvent être interceptés ou modifiés.
-1. Rappelez que le codage permet aux messages de circuler en toute sécurité dans un espace public.
-1. Reliez cela à l'idée de choisir quelles informations sont publiques ou privées.
+1. Rappelons que les activités précédentes ont montré comment des messages peuvent être interceptés ou modifiés.
+1. Vérifiez que ce cryptage permet aux messages de circuler en toute sécurité dans l'espace public.
+1. Faites le lien avec la question du choix entre les informations publiques et privées.
 
-##### **CLÔTURE**
+##### **FERMER**
 
 5 minutes
 
-1. Récupérez le matériel partagé et remettez la salle en ordre.
-1. Laissez les élèves garder leur roue de chiffrement.
-1. Message final aux élèves : « Vous n'avez pas besoin de faire confiance à tout le monde lorsque votre message est protégé. »
+1. Rassemblez le matériel mis à disposition et remettez la salle en ordre.
+1. Permettez aux élèves de conserver leurs roues de chiffrement.
+1. Message final à l'attention des élèves : « Vous n'avez pas besoin de faire confiance à tout le monde lorsque vos messages sont protégés. »
 
 #### **NOTES**
 
-##### **Gestion de classe**
+##### **Gestion de la classe**
 
 * Les élèves plus âgés peuvent choisir leur rôle dans le relais
-* Contrôlez les parcours de course et imposez la marche si nécessaire.
-* Soulignez que les erreurs sont attendues et font partie de l'apprentissage.
+* Surveillez les itinéraires de course et imposez la marche si nécessaire.
+* Insistez sur le fait que les erreurs sont normales et font partie intégrante de l'apprentissage.
 
-##### **Prolongements & Activités supplémentaires**
+##### **Activités complémentaires et activités avec des éponges**
 
-* Faites tourner les rôles et recommencez avec un nouveau chiffre.
-* Augmentez la longueur du message ou ajoutez des messages leurres.
+* Changez de rôle et recommencez avec un nouveau code.
+* Augmentez la longueur des messages ou ajoutez des messages leurres.
 
 ##### **Différenciation**
 
-* Élèves plus jeunes : mots uniques et décalage de lettres fixe.
-* ELL/Accessibilité : tableaux alphabétiques et rythme plus lent.
-* Sécurité : règles de déplacement claires et utilisation des outils sous surveillance.
+* Élèves plus jeunes : mots isolés et décalage fixe des lettres.
+* ELL/Accessibilité : tableaux de l'alphabet et rythme plus lent.
+* Sécurité : règles de circulation claires et utilisation des outils sous surveillance.

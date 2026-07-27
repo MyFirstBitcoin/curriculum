@@ -9,12 +9,12 @@ De valutor vi använder blir allt mer digitala; idag återstår endast en liten 
 ##### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Titta på denna korta video för att lära dig om "Ursprunget till utbyte" i serien “The History of Paper Money”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Detta är det andra avsnittet som heter "Inte bara nudlar" från "The History of Paper Money"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Vad händer när man verkligen försöker tillämpa doktrinen om papperspengar i praktiken? Ta reda på det i det fjärde avsnittet av "The History of Paper Money"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

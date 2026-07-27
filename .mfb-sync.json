@@ -1,0 +1,13 @@
+{
+  "rendererVersion": 3,
+  "syncedAt": "2026-07-27T09:58:17.965Z",
+  "programs": [
+    "bitcoin-diploma",
+    "bitcoin-for-juniors",
+    "bitcoin-for-organizations",
+    "educator-guide",
+    "educator-training-program",
+    "introduction-to-bitcoin"
+  ],
+  "tool": "mfb curriculum push"
+}

@@ -1,6 +1,6 @@
 # 2.2 A Bitcoin káros a környezetre.
 
-> **Note**
+> **Light**
 >
 > * A Bitcoint gyakran éri az a vád, hogy túl sok energiát használ.
 > * Már 2017-ben a Világgazdasági Fórum (WEF) közzétett egy cikket a weboldalán, amelyben azt állította, hogy „2020-ra a Bitcoin több energiát fog fogyasztani, mint amennyit a világ képes előállítani”.

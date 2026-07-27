@@ -76,7 +76,11 @@ Još jedan važan faktor na koji treba obratiti pažnju pri izboru Bitcoin novč
 
 #### Aktivnost: Diskusija i procena Bitcoin novčanika
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Posetite sledeći veb-sajt: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

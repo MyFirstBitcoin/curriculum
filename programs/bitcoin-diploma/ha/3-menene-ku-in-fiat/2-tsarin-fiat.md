@@ -65,7 +65,7 @@ A nan ne babban banki ke shiga a matsayin mai bayar da bashi na karshe, yana sam
 1. **Bankuna na biyan riba daga ribar da suka samu ta hanyar bayar da rance** (9% - 5% = 4%) kuma su rike sauran a matsayin riba
 
 
-> **Note – Yadda Bankuna ke Kirkirar Kudi**
+> **Light – Yadda Bankuna ke Kirkirar Kudi**
 >
 > Bankunan kasuwanci na kirkirar sabon kudin fiat idan suka bayar da rance.
 >
@@ -124,7 +124,7 @@ Waɗannan ƙungiyoyi suna cin gajiyar tsarin ta hanyoyi daban-daban, suna ƙirƙ
 A ƙarshe, masu jan ragamar tsarin fiat suna shirya wasan da kaɗan ke cin gajiyar sosai, yayin da mafi yawa ke barin mamaki yadda za su iya cimma nasara.
 
 
-> **Note – Rawar Babban Banki**
+> **Light – Rawar Babban Banki**
 >
 > Babban banki na shiru-shiru yana tsara yadda tattalin arziki ke aiki. Aikin su na hukuma shi ne tabbatar da kwanciyar hankali da gaskiya, amma hanyoyin da suke bi suna nuna wata fuska mai duhu.
 >
@@ -156,7 +156,7 @@ Babban banki da gwamnati na iya amfani da manufofin kuɗi da na kasafin kuɗi do
 * Ƙara Haraji
 
 
-> **Note – Babban Don Rushewa Ba**
+> **Light – Babban Don Rushewa Ba**
 >
 > “Too big to fail” yana nufin cibiyoyin kudi da suka yi girma sosai kuma suna da alaka da juna har idan sun fadi, hakan zai haifar da mummunan tasiri ga dukan tsarin kudi. A lokacin rikicin kudi na 2008, wasu manyan bankuna an dauke su a matsayin “too big to fail,” wanda hakan ya sa gwamnatin Amurka ta shiga tsakani ta ba da tallafin kudi don hana su rushewa.
 >
@@ -169,7 +169,11 @@ Sanin yadda wadannan manufofi ke aiki yana da matukar muhimmanci don fahimtar iy
 
 #### Aiki: Fractional Reserve Banking
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Wannan aikin aji ne da ke bincika yadda mutane da bankuna ke gudanar da ayyukansu ta hanyar amfani da tsarin fractional reserve banking. Manufar ita ce a samu kwarewa kai tsaye yadda wannan kayan aiki ke kara yawan kudin da ke yawo.
 

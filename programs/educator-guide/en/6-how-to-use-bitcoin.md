@@ -1,4 +1,4 @@
-# 6 - How to Use Bitcoin
+# How to Use Bitcoin
 
 Duration: 90 minutes
 

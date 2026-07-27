@@ -128,7 +128,7 @@ Uchimbaji wa Bitcoin unatoa motisha kubwa ya kiuchumi kwa maendeleo ya nishati m
 
 
 
-> **Info – Kuondoa Utoaji wa Gesi kwa Kuchoma Ovyo?**
+> **Dark – Kuondoa Utoaji wa Gesi kwa Kuchoma Ovyo?**
 >
 > Kutumia nishati taka, kama vile gesi asilia inayochomwa ovyo, husaidia sio tu kuokoa pesa bali pia kupunguza lawama za kimazingira. Kuchoma ovyo hutokea pale gesi asilia (methane) inapochomwa kwenye visima vya mafuta kwa sababu hakuna miundombinu ya kuikusanya na kuiuza. Kwa mujibu wa tafiti fulani5, methane inashikilia joto mara 120 zaidi ya CO2, ndiyo maana inahitajika kuchomwa ili kuibadilisha kuwa CO2. Hata hivyo, kuchoma ovyo hakufanikiwi kwa asilimia 100 na bado huruhusu methane kuingia angani. Wachimbaji wa Bitcoin wanaweza kutumia nishati hii kuendesha shughuli zao na hivyo kupunguza utoaji wa gesi chafu unaotokana na kuchoma ovyo. Gesi asilia huchomwa kwenye jenereta ili kuzalisha umeme, ambao huendesha mitambo ya uchimbaji inayohamishika iliyo moja kwa moja kwenye kisima.
 >
@@ -178,7 +178,7 @@ Kadri sekta inavyokua, ushirikiano mkubwa na watoa huduma za nishati mbadala na 
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin haitumii nishati bure. Inatumia nishati inayopotea.**
 >

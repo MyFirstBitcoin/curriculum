@@ -27,4 +27,4 @@
 ###### منابع
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ ویدئوی «How Bitcoin Works under the Hood» را تماشا کنید](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

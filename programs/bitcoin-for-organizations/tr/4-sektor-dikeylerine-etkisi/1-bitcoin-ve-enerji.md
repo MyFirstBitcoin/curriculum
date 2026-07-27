@@ -128,7 +128,7 @@ Bitcoin madenciliği, temiz enerjiye sürekli talep yaratarak, şebekeleri denge
 
 
 
-> **Info – Flaring'in Ortadan Kaldırılması?**
+> **Dark – Flaring'in Ortadan Kaldırılması?**
 >
 > Atık enerjinin, örneğin alevlenen doğal gazın kullanılması sadece para tasarrufu sağlamakla kalmaz, aynı zamanda çevresel eleştirileri de hafifletir. Flaring, fazla doğal gazın (metan) yakıt olarak satılamadığı için petrol sondaj sahalarında yakılmasıdır. Bazı çalışmalara göre5, metan CO2'ye göre yaklaşık 120 kat daha fazla ısı tutar, bu nedenle yakılması gerekir ve bu şekilde CO2'ye dönüştürülür. Ancak, flaring %100 etkili değildir ve yine de metanın atmosfere karışmasına izin verir. Bitcoin madencileri bu enerjiyi operasyonlarını çalıştırmak için kullanabilir, bu da flaring kaynaklı sera gazı emisyonlarını azaltır. Doğal gaz, jeneratörlerde yakılarak elektrik üretilir ve bu elektrik, doğrudan kuyu sahasında bulunan taşınabilir madencilik cihazlarını çalıştırır.
 >
@@ -178,7 +178,7 @@ Sektör olgunlaştıkça, yenilenebilir enerji sağlayıcıları ve şebeke oper
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin enerjiyi boşa harcamaz. Boşa harcanan enerjiyi kullanır.**
 >

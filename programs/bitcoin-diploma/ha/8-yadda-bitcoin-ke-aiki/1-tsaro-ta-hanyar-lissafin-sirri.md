@@ -36,7 +36,7 @@ Ana amfani da kullewa don tabbatar da cewa mai hakkin bitcoin na gaskiya ne kawa
 A matsayin kariya ta musamman, kowace mu'amalar Bitcoin tana samun sa hannun dijital na musamman ta atomatik. Wannan sa hannun dijital na musamman yana amfani da fasahar da ba za a iya canzawa ba, wadda ke taimakawa cibiyar sadarwa wajen tabbatar da cewa mai mallakar bitcoin na gaskiya ne ya tura su, ba wani ba.
 
 
-> **Info**
+> **Dark**
 >
 > Kowane mai amfani yana da makullai biyu: **makullin kansa**, wanda ake **boye shi**, da kuma **makullin jama'a** wanda za a iya **raba shi da wasu**. **Makullin kansa** yana zama wata hanya ta tantancewa da tabbatar da mallaka, yana tabbatar da: “Wannan adireshin nawa ne kuma ina da iko da shi.”
 
@@ -128,6 +128,10 @@ Tsarin lulluɓe **mabudin jama'a** ta hanyar hashing ana amfani da shi don ƙara
 
 #### Ayyuka: Samar da SHA 256 Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Kana sha'awar yadda hashing ke aiki? Duba QR code don samar da SHA256 hash daga kowanne kalma, jumla, ko shigarwa da ka zaɓa nan take. Hash functions kamar yatsan hannu na dijital ne: hanya ɗaya ne, wato da zarar an hash, ba za a iya dawo da asalin ba. Gwada ka gani da kanka!

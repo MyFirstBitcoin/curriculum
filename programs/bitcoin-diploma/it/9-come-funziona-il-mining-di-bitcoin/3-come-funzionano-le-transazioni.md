@@ -15,7 +15,7 @@ Ora che hai compreso le chiavi pubbliche e private, così come i ruoli dei nodi 
 Una volta inclusa in un blocco, la transazione è confermata. Adam non può più spendere quei bitcoin e Giovanni può spendere ciò che ha ricevuto in una nuova transazione.
 
 
-> **Note**
+> **Light**
 >
 > Transazione e commissione selezionate → Firmata dal wallet e inviata → Distribuita dai nodi → Il miner aggiunge la transazione al modello di blocco → Il miner vince la gara di Proof-of-Work → Il nuovo blocco viene validato → Il nuovo blocco viene distribuito dai nodi
 
@@ -23,4 +23,4 @@ Una volta inclusa in un blocco, la transazione è confermata. Adam non può più
 ###### Risorse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Guarda questo video sui nodi Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

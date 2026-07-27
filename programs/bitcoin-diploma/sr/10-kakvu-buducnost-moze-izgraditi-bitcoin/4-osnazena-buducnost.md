@@ -41,4 +41,4 @@ Ako si spreman za sledeći korak, pogledaj dodatne resurse u narednom odeljku, k
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Mogućnosti za pozitivne promene su ogromne, zbog čega te pozivamo da pogledaš ovaj video i saznaš više.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

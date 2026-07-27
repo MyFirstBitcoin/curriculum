@@ -17,7 +17,7 @@ Evite ser excesivamente decisivo. Puede prepararse para resultados mutuamente ex
 En esta sección destacamos algunos grupos genéricos de acciones para ayudarle a convertir el análisis en acciones. Esta lista no pretende ser exhaustiva, sino que está diseñada para ayudarle a comenzar.
 
 
-> **Note – Estrategias de P&G**
+> **Light – Estrategias de P&G**
 >
 > * Proteger los ingresos existentes y la cuota de mercado
 >   * Reducir la exposición a mercados afectados negativamente
@@ -33,7 +33,7 @@ En esta sección destacamos algunos grupos genéricos de acciones para ayudarle 
 
 
 
-> **Note – Estrategias de Balance**
+> **Light – Estrategias de Balance**
 >
 > * Generar valor a partir de su balance
 >   * Reducir la exposición a activos que rinden por debajo del costo de capital, sin reducir la resiliencia del capital

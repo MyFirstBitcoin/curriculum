@@ -30,7 +30,7 @@ Se você quisesse comprar um carro novo, poderia comparar os preços de diferent
 Essas três funções são o que permitem que as economias se tornem complexas e dinâmicas. Sem o dinheiro, seria muito mais difícil comprar e vender bens e serviços, e nossa economia seria muito menos desenvolvida.
 
 
-> **Info**
+> **Dark**
 >
 > As pessoas entendem o valor de algo quando ele tem um preço expresso em dinheiro.
 

@@ -1,40 +1,5 @@
 # 2.6 Smart Choices
 
-**Activity type** Discussion - Visual demonstration - Creative craft - Simple game
-
-**Duration** 60 minutes
-
-**Grouping** Whole class for discussion, individual for craft, pairs or small groups for game and reflection
-
-##### **Description**
-
-Students explore how everyday choices affect long-term outcomes by connecting time preference to food, health, work, play, and education. Through discussion, a visual time-preference axis, creative superhero design, and a lighthearted comparison game, learners reflect on how small daily decisions build strength, focus, and future success.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Understand that long-term thinking leads to stronger outcomes
-* Apply time preference to everyday decisions
-* Reflect on habits related to health, food, learning, and work
-* Recognize that small choices compound over time
-
-##### **Materials**
-
-* Superhero templates (_See Appendix A_)
-* Time Preference (_See Appendix B_)
-* Colouring pencils, crayons, or markers
-* Beads or tokens for rewards
-* Candy or small treats (optional)
-* Hero Stat scoring guide (_See Appendix C_)
-
-##### **Equipment**
-
-* Whiteboard or large poster space
-* Markers
-* Glue and scissors (optional)
-* **Nice-to-have**: Timer or visual countdown clock
-
 #### **PROCEDURE**
 
 ##### **OPENING**

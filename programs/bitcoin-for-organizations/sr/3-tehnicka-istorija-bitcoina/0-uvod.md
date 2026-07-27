@@ -1,6 +1,6 @@
 # 3.0 Uvod
 
-> **Info – Apstrakt Bitcoin White Papera**
+> **Dark – Apstrakt Bitcoin White Papera**
 >
 > **Isključivo peer-to-peer verzija elektronskog novca** omogućila bi da se online plaćanja šalju direktno od jedne strane drugoj bez posredovanja finansijske institucije. **Digitalni potpisi predstavljaju deo rešenja**, ali se glavni benefiti gube ako je **pouzdana treća strana** i dalje potrebna da bi se sprečilo dvostruko trošenje. Predlažemo rešenje problema dvostrukog trošenja korišćenjem **peer-to-peer mreže**. **Mreža vremenski obeležava transakcije** tako što ih hešira u kontinuirani lanac **dokaza o radu zasnovanog na hešu,** formirajući zapis koji ne može biti promenjen bez ponovnog izvršavanja **dokaza o radu**. Najduži lanac ne služi samo kao dokaz redosleda događaja kojima se svedočilo, već i kao dokaz da potiče iz najvećeg skupa CPU snage. Sve dok većinu CPU snage kontrolišu čvorovi koji ne sarađuju u napadu na mrežu, oni će generisati najduži lanac i nadmašiti napadače. **Sama mreža zahteva minimalnu strukturu. Poruke se emituju po principu najbolje namere, a čvorovi mogu napustiti i ponovo se priključiti mreži po želji**, prihvatajući najduži lanac dokaza o radu kao dokaz onoga što se desilo dok su bili odsutni.
 

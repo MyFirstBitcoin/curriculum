@@ -18,7 +18,11 @@ Bu, satın alma gücünün kontrolümüz dışındaki güçlerden nasıl etkilen
 
 #### Etkinlik: Açık Artırma
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Bu, katılımcıların para arzındaki artışın fiyatları nasıl etkilediğini ilk elden öğrendiği bir sınıf etkinliğidir. Amaç, katılımcıların parasal enflasyonu (fiyat enflasyonunu değil) anlamasıdır.
 

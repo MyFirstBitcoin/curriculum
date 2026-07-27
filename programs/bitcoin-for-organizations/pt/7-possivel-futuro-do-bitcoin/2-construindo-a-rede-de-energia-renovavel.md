@@ -5,7 +5,7 @@
 O Bitcoin depende de energia para seu mecanismo de consenso de ‘prova de trabalho’, que ajuda a garantir que ele permaneça uma forma de dinheiro descentralizada e sem permissões. A rede elétrica está enfrentando desafios para integrar novas formas de energia provenientes de fontes renováveis, o que está sobrecarregando a infraestrutura atual. Este capítulo fornece uma breve introdução a esses desafios e uma visão geral dos aspectos relevantes do Bitcoin antes de mostrar como ele está ajudando nessa evolução da rede de energia renovável.
 
 
-> **Info – Bitcoin como moeda energética**
+> **Dark – Bitcoin como moeda energética**
 >
 > Em 4 de dezembro de 1921, o New York Tribune publicou um artigo descrevendo a visão de Ford de substituir o ouro por uma moeda energética que ele acreditava poder quebrar o domínio das elites bancárias sobre a riqueza global e pôr fim às guerras. Ele pretendia fazer isso construindo “a maior usina de energia do mundo” e criando um novo sistema monetário baseado em “unidades de energia”.
 

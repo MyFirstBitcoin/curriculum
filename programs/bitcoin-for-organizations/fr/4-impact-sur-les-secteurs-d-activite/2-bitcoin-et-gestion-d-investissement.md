@@ -166,7 +166,7 @@ Une forte volatilité des prix, mesurée par l’écart-type des rendements, est
 En résumé, le bitcoin est un actif volatil. Cela est attendu car il est nouveau et engagé dans un long processus de découverte de prix et d’adoption par les utilisateurs. Les investisseurs professionnels sont bien équipés pour accepter cette volatilité et, compte tenu du potentiel de rendements exceptionnels, la gérer en conséquence. Ils peuvent déterminer l’allocation appropriée, en accord avec leur propre cadre d’investissement et leur appétence au risque. Et, pour lisser la volatilité à court terme, détenir du bitcoin pendant au moins un cycle de halving de 4 ans pourrait constituer une durée minimale de détention appropriée.
 
 
-> **Note – Le Bitcoin est-il une protection contre l’inflation ?**
+> **Light – Le Bitcoin est-il une protection contre l’inflation ?**
 >
 > Parce que le bitcoin est un actif à offre fixe, ses partisans soutiennent depuis longtemps qu’il sert de couverture contre l’inflation des monnaies fiduciaires. Il est clair qu’à très long terme, le bitcoin a été une couverture très efficace contre la dépréciation du pouvoir d’achat de la monnaie fiduciaire. Cependant, les critiques soulignent la forte hausse de l’indice des prix à la consommation (CPI) d’une année sur l’autre11, du début 2021 à un sommet de 40 ans à la mi-2022, et s’interrogent sur le fait que le prix du bitcoin n’ait pas connu de hausse significative pendant cette période. Le bitcoin a-t-il donc échoué en tant que couverture contre l’inflation ?
 >
@@ -216,7 +216,7 @@ Bien sûr, peu de commentateurs s’attendent à ce que ce scénario se réalise
 Et si, comme pour l’essor d’Internet, il ne nous était tout simplement pas possible de faire l’impasse ?
 
 
-> **Info – Avertissement**
+> **Dark – Avertissement**
 >
 > Veuillez noter que les performances passées ne garantissent pas les résultats futurs. Le bitcoin est un actif qui comporte des risques élevés. Les investisseurs doivent garder à l’esprit que sa valeur peut aussi bien augmenter que diminuer de manière significative à l’avenir, comme l’ont montré les performances passées.
 >

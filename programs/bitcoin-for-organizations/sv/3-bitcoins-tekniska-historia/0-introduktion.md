@@ -1,6 +1,6 @@
 # 3.0 Introduktion
 
-> **Info – Sammanfattning av Bitcoin White Paper**
+> **Dark – Sammanfattning av Bitcoin White Paper**
 >
 > **En helt och hållet peer-to-peer-version av elektroniska pengar** skulle möjliggöra att betalningar online skickas direkt från en part till en annan utan att gå via en finansiell institution. **Digitala signaturer utgör en del av lösningen**, men de största fördelarna går förlorade om en **betrodd tredje part** fortfarande krävs för att förhindra dubbelspendering. Vi föreslår en lösning på dubbelspenderingsproblemet med hjälp av ett **peer-to-peer-nätverk**. **Nätverket tidsstämplar transaktioner** genom att hasha dem in i en pågående kedja av **hashbaserat proof-of-work,** vilket skapar en post som inte kan ändras utan att göra om **proof-of-work**. Den längsta kedjan fungerar inte bara som bevis på den observerade händelseföljden, utan även som bevis på att den kommer från den största poolen av CPU-kraft. Så länge en majoritet av CPU-kraften kontrolleras av noder som inte samarbetar för att attackera nätverket, kommer de att generera den längsta kedjan och överträffa angripare. **Nätverket i sig kräver minimal struktur. Meddelanden sänds ut efter bästa förmåga, och noder kan lämna och återansluta till nätverket när de vill**, och accepterar den längsta proof-of-work-kedjan som bevis på vad som hänt medan de varit borta.
 

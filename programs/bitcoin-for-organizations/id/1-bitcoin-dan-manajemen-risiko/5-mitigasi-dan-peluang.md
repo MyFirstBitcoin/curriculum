@@ -17,7 +17,7 @@ Hindari terlalu tegas dalam mengambil keputusan. Anda dapat mempersiapkan diri u
 Pada bagian ini kami menyoroti beberapa kelompok tindakan umum untuk membantu Anda mengubah analisis menjadi tindakan. Daftar ini tidak dimaksudkan untuk lengkap, tetapi dirancang untuk membantu Anda memulai.
 
 
-> **Note – Strategi Laba & Rugi (P&L)**
+> **Light – Strategi Laba & Rugi (P&L)**
 >
 > * Lindungi pendapatan dan pangsa pasar yang ada
 >   * Kurangi eksposur ke pasar yang terdampak negatif
@@ -33,7 +33,7 @@ Pada bagian ini kami menyoroti beberapa kelompok tindakan umum untuk membantu An
 
 
 
-> **Note – Strategi Neraca**
+> **Light – Strategi Neraca**
 >
 > * Dorong nilai dari neraca Anda
 >   * Kurangi eksposur terhadap aset yang kinerjanya di bawah biaya modal, tanpa mengurangi ketahanan modal

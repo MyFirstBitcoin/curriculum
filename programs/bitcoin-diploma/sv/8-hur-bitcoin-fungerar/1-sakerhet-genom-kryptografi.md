@@ -36,7 +36,7 @@ Kryptering används för att säkerställa att endast den verkliga innehavaren a
 Som ett extra skydd får varje Bitcoin-transaktion automatiskt en UNIK digital signatur. Denna unika digitala signatur drivs av manipuleringssäker teknik som hjälper nätverket att verifiera att det är den verkliga ägaren av bitcoinen, och inte någon annan, som har skickat dem.
 
 
-> **Info**
+> **Dark**
 >
 > Varje användare har två nycklar: en **privat nyckel**, som **hålls hemlig**, och en **offentlig nyckel** som kan **delas med andra**. **Den privata nyckeln** fungerar som en form av identifikation och ägarbevis, och bekräftar: ”Den här adressen tillhör mig och jag har kontroll över den.”
 
@@ -128,6 +128,10 @@ Processen att koda **publik nyckel** genom hashing används för att förbättra
 
 #### Aktivitet: Generera SHA 256-hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Nyfiken på hur hashing fungerar? Skanna QR-koden för att direkt generera en SHA256-hash från vilket ord, mening eller indata du vill. Hashfunktioner är som digitala fingeravtryck: de är envägs, vilket betyder att när något har hashats kan det inte återskapas. Prova själv och se!

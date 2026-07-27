@@ -78,7 +78,7 @@ Dalji problem koji napadač ima je kako da održi kontrolu kada je jednom stekne
 Verovatno je da bi, kada postane očigledno da je mreža pod napadom, Bitcoin programeri napravili 'hard-fork' softvera, tako da bi knjiga bila 'forkovana' od tačke na kojoj su napadači generisali lažne zapise. Većina čvorova bi tada implementirala izmenjenu verziju softvera i napori napadača bi bili ignorisani.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Jedan šaljiviji opis Andreasa Antonopulosa o mogućnosti državnog 51% napada.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Može li biti zabranjeno samostalno čuvanje Bitcoina i peer-to-peer transakcije?
@@ -106,7 +106,7 @@ Takođe treba očekivati da će neke države doneti loše i neizvodljive zakone 
 Britanski Red Flag zakon iz kasnog 19. veka je istorijski primer preterano strogog zakona koji je kasnije ukinut.
 
 
-> **Note**
+> **Light**
 >
 > Do sredine 19. veka, industrije kočija i posebno lokomotiva suočavale su se sa nadolazećom pretnjom disruptivnog potencijala automobila. Plašili su se da će ih automobil zameniti.**Zato su se trudili da ubede vladu da donese stroge zakone, praktično pokušavajući da uspore razvoj ove nove tehnologije.**
 >
@@ -144,7 +144,7 @@ Naravno, okrivljivanje Bitcoina za izazivanje krize fiat valute bilo bi apsurdno
 Takođe je važno napomenuti da Bitcoin postaje jači kada je napadnut. To je zato što ti napadi razbijaju mitove koje šire skeptici da je Bitcoin slab i ranjiv. Dakle, ne samo da treba očekivati da će vlade preterano regulisati Bitcoin, već to treba i pozdraviti.
 
 
-> **Note**
+> **Light**
 >
 > **Vlade će verovatno naučiti o antifragilnosti Bitcoina pokušavajući da ga oslabe i videći šta se dešava kada napadnu mrežu.** Verovatno će videti da, kod Bitcoina više nego kod bilo koje druge klase imovine u istoriji, kapital teži da odlazi u one zemlje gde se prema njemu postupa najbolje. Dakle, kako Bitcoin mreža bude rasla, trebalo bi da postane očiglednije da će zemlje koje ga prihvate, umesto da se bore protiv njega, verovatnije izaći kao pobednici.
 

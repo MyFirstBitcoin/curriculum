@@ -5,7 +5,7 @@
 Bitcoin bergantung kepada tenaga untuk mekanisme konsensus 'bukti kerja' (proof of work), yang membantu memastikan ia kekal sebagai bentuk wang yang terdesentralisasi dan tanpa kebenaran. Grid tenaga kini menghadapi cabaran untuk mengintegrasikan bentuk tenaga baharu daripada tenaga boleh diperbaharui, yang memberi tekanan kepada infrastruktur sedia ada. Bab ini memberikan pengenalan ringkas kepada cabaran-cabaran ini dan gambaran keseluruhan aspek berkaitan Bitcoin sebelum menunjukkan bagaimana ia membantu dalam evolusi grid tenaga boleh diperbaharui.
 
 
-> **Info – Bitcoin sebagai mata wang tenaga**
+> **Dark – Bitcoin sebagai mata wang tenaga**
 >
 > Pada 4 Disember 1921, New York Tribune menerbitkan sebuah artikel yang menggariskan visi Ford untuk menggantikan emas dengan mata wang tenaga yang beliau percaya boleh memecahkan cengkaman elit perbankan ke atas kekayaan global dan menamatkan peperangan. Beliau berhasrat untuk melakukannya dengan membina "loji kuasa terbesar di dunia" dan mencipta sistem mata wang baharu berdasarkan "unit kuasa."
 

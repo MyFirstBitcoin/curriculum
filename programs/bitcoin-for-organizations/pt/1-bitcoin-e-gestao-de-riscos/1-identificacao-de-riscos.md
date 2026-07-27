@@ -39,7 +39,7 @@ Por fim, converta as observações do exercício acima em riscos pertinentes à 
 
 
 
-> **Info – Exemplos**
+> **Dark – Exemplos**
 >
 > * Risco de que o bitcoin se torne o principal ativo de reserva de tesouraria global
 > * Risco de que a rede Bitcoin se torne a camada de liquidação para o comércio baseado na internet

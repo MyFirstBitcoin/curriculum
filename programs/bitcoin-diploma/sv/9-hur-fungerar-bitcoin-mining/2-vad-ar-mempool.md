@@ -12,7 +12,11 @@ När en transaktion har inkluderats i ett block blir den bekräftad och registre
 
 #### Aktivitet: Utforska mempoolen
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Denna aktivitet introducerar elever till ett gratis och öppen källkods-verktyg som inte kräver tekniska kunskaper. Det är användbart för Bitcoin-användare på alla nivåer, från nybörjare till erfarna.**
 

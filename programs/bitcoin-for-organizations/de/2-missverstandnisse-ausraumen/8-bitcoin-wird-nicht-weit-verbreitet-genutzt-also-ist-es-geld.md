@@ -69,7 +69,7 @@ Seit seiner Einführung im Jahr 2009 befindet sich Bitcoin in einem kontinuierli
 Durch die Analyse des Bitcoin-Ledgers lässt sich zeigen, dass über 70 % des gesamten Bitcoin-Angebots von [Langzeitbesitzern](https://buybitcoinworldwide.com/how-many-bitcoin-users/) gehalten werden. Daher scheint die Mehrheit der Besitzer zufrieden zu sein, ihre Bitcoins zu halten und weder zu verkaufen noch auszugeben. Angesichts des dramatischen Anstiegs der Kaufkraft von Bitcoin seit seiner Einführung ist es naheliegend, dass die Mehrheit der Besitzer erwartet, dass Bitcoin noch wertvoller wird, und dies ihre Entscheidung beeinflusst, weiterhin zu halten und nicht auszugeben.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Jedes Jahr am 22. Mai feiert und würdigt die Bitcoin-Community den Programmierer Laszlo Hanyecz aus Florida, der als erster Mensch gilt, der Bitcoin zum Kauf von physischen Gütern verwendet hat. Am 18. Mai 2010 kündigte Hanyecz in einem Forum auf Bitcointalk.org an, dass er auf der Suche nach Pizza sei und bereit wäre, mit Bitcoin zu bezahlen. Er bot 10.000 Bitcoin jedem an, der bereit war, das Geschäft einzugehen. Er wartete mehrere Tage, bis der 19-jährige Student Jeremy Sturdivant zustimmte und zwei große Pizzen schickte. Laszlo schickte Sturdivant wie versprochen 10.000 Bitcoin, die zum Zeitpunkt des Schreibens einen Wert von über 680 Millionen US-Dollar haben.
 >

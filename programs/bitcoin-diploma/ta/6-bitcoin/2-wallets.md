@@ -76,7 +76,11 @@
 
 #### செயல்: Bitcoin வாலெட்டுகளை விவாதித்து மதிப்பீடு செய்யும் செயல்பாடு
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 பின்வரும் இணையதளத்திற்கு செல்லவும்: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

@@ -5,7 +5,7 @@ Te-ai întrebat vreodată dacă poți folosi bitcoin pentru a-ți cumpăra cafea
 Chiar dacă plata cu cardul de credit sau cu o aplicație poate părea ușor de înțeles pentru persoana care plătește, procesarea plății este de fapt foarte complexă și implică multe părți diferite.
 
 
-> **Note – Cum funcționează procesarea plăților**
+> **Light – Cum funcționează procesarea plăților**
 >
 > Client → Comerciant → Gateway de Plăți → Procesator → Rețea de Carduri → Bancă Emitentă → Rețea de Carduri → Bancă a Comerciantului → Comerciant
 
@@ -55,7 +55,7 @@ O **economie circulară** este formată din participanți care decid să se sus�
 Aplicată la Bitcoin, o economie circulară se construiește susținând comercianții locali și meșteșugarii care acceptă bitcoin, astfel încât toți participanții să poată prospera împreună datorită proprietăților superioare ale Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network permite apariția și dezvoltarea economiilor circulare Bitcoin peste tot în lume datorită tranzacțiilor Bitcoin aproape instantanee și cu comisioane reduse.
 
@@ -71,4 +71,4 @@ Pe [BTCMap.org](https://btcmap.org/communities), poți căuta și comunități B
 ###### Resurse
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Urmărește acest videoclip despre Lightning Network](https://youtu.be/yKdK-7AtAMQ)

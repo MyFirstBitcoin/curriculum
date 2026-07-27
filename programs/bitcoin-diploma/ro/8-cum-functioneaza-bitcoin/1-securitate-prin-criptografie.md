@@ -36,7 +36,7 @@ Criptarea este folosită pentru a asigura că doar adevăratul deținător al bi
 Ca măsură suplimentară de protecție, fiecare tranzacție Bitcoin primește automat o SEMNĂTURĂ digitală UNICĂ. Această semnătură digitală unică este alimentată de o tehnologie rezistentă la manipulare care ajută rețeaua să verifice că adevăratul proprietar al bitcoinului, și nu altcineva, i-a trimis.
 
 
-> **Info**
+> **Dark**
 >
 > Fiecare utilizator are două chei: o **cheie privată**, care este **păstrată secretă**, și o **cheie publică** care poate fi **împărtășită cu alții**. **Cheia privată** servește ca o formă de identificare și dovadă a proprietății, confirmând: „Această adresă îmi aparține și am control asupra ei.”
 
@@ -128,6 +128,10 @@ Procesul de codificare a **cheii publice** prin hashing este folosit pentru a î
 
 #### Activitate: Generează un hash SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Ești curios cum funcționează hashing-ul? Scanează codul QR pentru a genera instantaneu un hash SHA256 din orice cuvânt, propoziție sau intrare dorești. Funcțiile hash sunt ca amprentele digitale: sunt unidirecționale, adică odată ce ceva a fost hash-uit, nu poate fi inversat. Încearcă și vezi cu ochii tăi!

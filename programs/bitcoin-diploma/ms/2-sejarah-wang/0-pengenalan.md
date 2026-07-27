@@ -11,7 +11,11 @@ Dalam modul ini, kita akan memulakan perjalanan merentasi masa, mengalami evolus
 
 #### Aktiviti: Permainan Barter Berulang
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Ini adalah latihan kelas yang bertujuan untuk meningkatkan pemahaman anda tentang konsep barter. Penyertaan akan membantu anda melihat bagaimana wang berkembang secara semula jadi dalam pasaran bebas.
 

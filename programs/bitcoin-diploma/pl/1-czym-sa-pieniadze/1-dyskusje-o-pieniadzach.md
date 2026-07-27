@@ -25,7 +25,7 @@ Weź pod uwagę praktyczne zastosowania, takie jak zdobywanie niezbędnych rzecz
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Rozszerz dyskusję na całą grupę, dzieląc się i porównując listy, aby znaleźć pięć najważniejszych powodów, dla których potrzebujemy pieniędzy. Zidentyfikuj wspólne pomysły w klasie. Zastanów się nad swoimi unikalnymi pomysłami, które nie znalazły się na liście, ale są nadal wartościowe, i zanotuj je.
 

@@ -19,7 +19,7 @@ Le yindlela iBitcoin esebenza ngayo. IBitcoin yindawo yabantu abavumelana ngemit
 Umzekelo, enye yemithetho yeBitcoin ithi "Akusoze kubekho iBitcoin ezingaphezu kwezigidi ezingama-21." Ukuba umntu angazama ukwenza iBitcoin ezizigidi ezongezelelweyo, ngeke zibe luncedo kuye, kuba bonke abanye baya kumqaphela baze bamgxothe. Le nto yenza iBitcoin yomelele kangaka.
 
 
-> **Info**
+> **Dark**
 >
 > Akhonto ibalulekileyo ukuba ungubani okanye uvela phi: ukuba ungene kwihlabathi leBitcoin, kufuneka udlale ngemithetho efanayo nabanye bonke.
 
@@ -84,7 +84,11 @@ Umntu ngamnye kolu lwandiso lomculo oluzimeleyo udlala indima ebalulekileyo ekwa
 
 #### Umsebenzi: Ukuvumelana
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Lo ngumsebenzi weklasi apho abathathi-nxaxheba bafunda ngokwabo ukuba kunzima kangakanani ukuvumelanisa intshukumo kwiqela elingenamphathi ocacileyo. Injongo kukuba abathathi-nxaxheba baqonde indlela ukuvumelana (consensus) kufezekiswa ngayo kwiBitcoin.
 

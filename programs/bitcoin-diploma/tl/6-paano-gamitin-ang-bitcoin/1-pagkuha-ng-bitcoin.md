@@ -24,7 +24,7 @@ Dito pumapasok ang peer-to-peer platforms, kung saan nagkikita ang mga bumibili 
 Sa mga ganitong platform, hindi mo kailangang pagkatiwalaan ang kahit sino sa iyong impormasyon o pera; kumokonekta ka lang sa ibang peers at direktang nakikipagpalitan sa kanila.
 
 
-> **Note**
+> **Light**
 >
 > Sa karamihan ng peer-to-peer platforms, kailangang mag-escrow ng ilan sa mga pondo ang mga peers upang matiyak na susunod ang bawat panig sa kanilang kasunduan. Ang escrow ay nangangahulugang ilalagay ang pera sa isang ligtas na lugar na kontrolado ng platform hanggang magawa ng parehong panig ang kanilang ipinangako. Para itong pinagkakatiwalaang kaibigan na nagbabantay ng iyong gamit hanggang masiyahan ang lahat sa kasunduan.
 

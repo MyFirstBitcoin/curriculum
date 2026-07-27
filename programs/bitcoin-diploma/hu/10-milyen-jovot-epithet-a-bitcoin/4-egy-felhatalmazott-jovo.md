@@ -41,4 +41,4 @@ Ha készen állsz a következő lépésre, nézd meg a következő részben tal�
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ A pozitív változás lehetőségei óriásiak, ezért meghívunk, hogy nézd meg ezt a videót, és tudj meg többet.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

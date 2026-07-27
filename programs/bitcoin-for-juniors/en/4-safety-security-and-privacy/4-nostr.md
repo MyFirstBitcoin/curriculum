@@ -1,44 +1,5 @@
 # 4.4 Nostr
 
-**Activity type** Simulation game – Craft-based encoding – Competitive challenge
-
-**Duration** 50-60 minutes
-
-**Grouping** Small teams of three students
-
-##### **Description**
-
-Building on earlier activities about trust, message passing, and interception, students now compare open information transfer with encoded communication. Learners first experience how relaying information requires trusting intermediaries and how messages can be overheard or altered. They then introduce cipher wheels to protect messages, discovering that information can remain private even when passed through untrusted or public channels.
-
-**Pre-requisites**
-
-* 4.2 - Telephone
-* 4.3 - Cypherpunks Write Code
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Review how information transmission requires trust in intermediaries
-* Recognize how messages can leak or change when transmitted openly;
-* Understand that encoding protects information even when intermediaries are untrusted
-* Successfully encode and decode vocabulary using a cipher wheel.
-
-##### **Materials**
-
-* Prepared word or sentence cards for transmission
-* Cipher wheel templates for each student (_See Appendix A_)
-* Worksheets or blank paper for transcription
-* Pencils or markers
-* **Nice-to-have:** Example simple and complex messages (_See Appendix B_)
-
-##### **Equipment**
-
-* Scissors
-* Split pins or brads for cipher wheels
-* Open classroom space for movement
-* **Nice-to-have**: Timer
-
 #### **PROCEDURE**
 
 ##### **OPENING**

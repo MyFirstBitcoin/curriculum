@@ -1,6 +1,6 @@
 # 2.2 Masama ang Bitcoin para sa kalikasan.
 
-> **Note**
+> **Light**
 >
 > * Madalas na binabatikos ang Bitcoin dahil sa paggamit nito ng sobrang enerhiya.
 > * Noong 2017, naglabas ang World Economic Forum (WEF) ng isang artikulo sa kanilang website na nagsasabing 'pagsapit ng 2020, mas marami nang enerhiya ang gagamitin ng Bitcoin kaysa sa kayang likhain ng buong mundo'.

@@ -76,7 +76,11 @@ Jambo lingine muhimu la kuzingatia unapochagua walleti ya Bitcoin ni kujua kama 
 
 #### Shughuli: Majadiliano na tathmini ya walleti za Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Nenda kwenye tovuti ifuatayo: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

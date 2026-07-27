@@ -36,7 +36,7 @@ La cifratura viene utilizzata per garantire che solo il vero possessore dei bitc
 Come ulteriore misura di protezione, ogni transazione Bitcoin riceve automaticamente una firma digitale UNICA. Questa firma digitale unica è alimentata da una tecnologia a prova di manomissione che aiuta la rete a verificare che il vero proprietario dei bitcoin, e non qualcun altro, li abbia inviati.
 
 
-> **Info**
+> **Dark**
 >
 > Ogni utente ha due chiavi: una **chiave privata**, che viene **mantenuta segreta**, e una **chiave pubblica** che può essere **condivisa con altri**. La **chiave privata** serve come forma di identificazione e prova di proprietà, confermando: “Questo indirizzo appartiene a me e ne ho il controllo.”
 
@@ -128,6 +128,10 @@ Il processo di codifica della **chiave pubblica** tramite hashing viene utilizza
 
 #### Attività: Genera hash SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Curioso di sapere come funziona l'hashing? Scansiona il codice QR per generare istantaneamente un hash SHA256 da qualsiasi parola, frase o input che scegli. Le funzioni hash sono come impronte digitali digitali: sono a senso unico, cioè una volta che qualcosa è stato hashato, non può essere invertito. Prova tu stesso!

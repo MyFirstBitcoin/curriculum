@@ -12,7 +12,11 @@ Amint egy tranzakció bekerül egy blokkba, megerősítetté válik, és végleg
 
 #### Tevékenység: A Mempool felfedezése
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Ez a tevékenység egy ingyenes és nyílt forráskódú eszközt mutat be a diákoknak, amelynek használatához nincs szükség technikai tudásra. Hasznos minden szintű Bitcoiner számára, kezdőtől a haladóig.**
 

@@ -58,13 +58,21 @@ Transaksi on-chain terjadi langsung di blockchain Bitcoin dan bisa memerlukan wa
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Ini adalah peta seluruh Lightning Network. Berkat ribuan operator node Lightning, kamu bisa mengirim sats ke siapa saja yang memiliki dompet Bitcoin Lightning, di mana pun mereka berada di dunia. Pembayaran akan sampai dalam beberapa detik dan hanya memerlukan biaya beberapa sen saja.**Coba sendiri!**
 
 #### Aktivitas: Estafet Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Ini adalah latihan langsung di mana siswa mengirim dan menerima sats sungguhan menggunakan Lightning Network.**
 

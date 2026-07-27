@@ -161,7 +161,11 @@ Il est probable qu’il y ait un ensemble plus diversifié de prestataires de pa
 
 Les solutions Bitcoin et stablecoins offrent une réduction significative des frictions et des coûts liés aux paiements internationaux et aux transferts de fonds. Cela peut représenter une menace importante pour les revenus des banques et des prestataires de services de paiement.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 La taille des marchés des changes est passée de pratiquement zéro depuis le déclenchement de la Seconde Guerre mondiale à 7 500 milliards de dollars par jour fin 2022, presque toute cette croissance ayant eu lieu depuis la fin du système de change de Bretton Woods en 1971. Les banques et les prestataires de services de paiement tirent des revenus importants de la fourniture de services sur ces marchés.
 

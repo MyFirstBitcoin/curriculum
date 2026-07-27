@@ -10,7 +10,11 @@ Katika moduli hii, tutaanza safari kupitia historia, tukishuhudia mabadiliko ya 
 
 #### Shughuli: Mchezo wa Kubadilishana Bidhaa Mara kwa Mara
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Hii ni zoezi la darasani lililokusudiwa kuongeza uelewa wako wa dhana za kubadilishana bidhaa. Kushiriki kutakusaidia kuona jinsi pesa zinavyojitokeza kwa asili katika masoko huru.
 

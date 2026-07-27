@@ -1,4 +1,4 @@
-# 2 - The History of Money
+# The History of Money
 
 Duration: 90 minutes
 

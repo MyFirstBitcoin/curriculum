@@ -5,7 +5,7 @@ Naisip mo na ba kung maaari mong gamitin ang bitcoin para bumili ng iyong pang-a
 Kahit na parang madali lang gamitin ang credit card o app para sa nagbabayad, ang proseso ng pagbabayad ay talagang napakakumplikado at sangkot ang maraming iba't ibang partido.
 
 
-> **Note – Paano Gumagana ang Pagpoproseso ng Bayad**
+> **Light – Paano Gumagana ang Pagpoproseso ng Bayad**
 >
 > Customer → Merchant → Payment Gateway → Processor → Card Network → Issuing Bank → Card Network → Merchant Bank → Merchant
 
@@ -55,7 +55,7 @@ Ang **circular na ekonomiya** ay binubuo ng mga kalahok na nagpasiyang suportaha
 Kapag inangkop sa Bitcoin, ang circular na ekonomiya ay nabubuo sa pamamagitan ng pagsuporta sa mga lokal na merchant at manggagawang tumatanggap ng bitcoin, upang lahat ng kalahok ay sabay-sabay na umunlad dahil sa mga natatanging katangian ng Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Pinapagana ng Lightning Network ang mga circular na ekonomiya ng Bitcoin na lumitaw at umunlad saan mang panig ng mundo dahil sa halos instant at mababang bayad na mga transaksyon ng Bitcoin.
 
@@ -71,4 +71,4 @@ Noong [BTCMap.org](https://btcmap.org/communities), maaari ka ring maghanap ng m
 ###### Mga Mapagkukunan
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Panoorin ang video na ito tungkol sa Lightning Network](https://youtu.be/yKdK-7AtAMQ)

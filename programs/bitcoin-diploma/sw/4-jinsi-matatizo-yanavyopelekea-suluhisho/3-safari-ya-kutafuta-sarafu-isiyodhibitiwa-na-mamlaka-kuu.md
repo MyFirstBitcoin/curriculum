@@ -49,7 +49,7 @@ Katika mfumo wa kati, kila kitu kinazunguka mamlaka kuu moja, kama jengo refu ka
 * **Ukosefu wa uwazi na uaminifu**: Namna mifumo ya kati inavyofanya kazi inaweza kuwa ngumu kueleweka, na kufanya iwe vigumu kwa watu kuiamini.
 
 
-> **Note**
+> **Light**
 >
 > Mwaka 2022, wakati wa maandamano ya amani nchini Kanada, benki zilifungia akaunti za waandamanaji, zikionyesha jinsi mamlaka kuu inaweza kudhibiti upatikanaji wa fedha.
 
@@ -73,7 +73,7 @@ Ingawa mifumo iliyogatuliwa ina faida nyingi, kufanya maamuzi pamoja kunaweza ku
 Katika dunia ya mifumo iliyogatuliwa na iliyojikita sehemu moja, yote yanahusu nani ana mamlaka. Mifumo iliyojikita sehemu moja inatoa mamlaka kwa kundi dogo, ilhali mifumo iliyogatuliwa inasambaza mamlaka, na kuruhusu kila mtu kutoa maoni. Mabadiliko haya ya mamlaka yangemaanisha mustakabali wa haki zaidi, ambapo watu wengi wanaathiri mfumo unaounda maisha yao.
 
 
-> **Note**
+> **Light**
 >
 > Mtandao wa Tor unaunda mfumo uliogatuliwa ambapo watu wanaweza kubaki bila kujulikana mtandaoni na mtandao huo ni vigumu kusimamisha au kuzuia.
 
@@ -91,4 +91,4 @@ Majaribio haya yalisaidia kubainisha kilichokuwa kinakosekana. Baadaye, mtu fula
 ###### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Tazama video hii na ugundue hadithi ya Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

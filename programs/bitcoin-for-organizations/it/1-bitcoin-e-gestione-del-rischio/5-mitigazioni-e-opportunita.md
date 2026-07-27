@@ -17,7 +17,7 @@ Evita di essere eccessivamente deciso. Puoi prepararti a esiti mutuamente esclus
 In questa sezione evidenziamo alcuni gruppi generici di azioni per aiutarti a trasformare l’analisi in azioni. Questa lista non è esaustiva, ma è pensata per aiutarti a iniziare.
 
 
-> **Note – Strategie di Conto Economico**
+> **Light – Strategie di Conto Economico**
 >
 > * Proteggi i ricavi esistenti e la quota di mercato
 >   * Riduci l’esposizione ai mercati colpiti negativamente
@@ -33,7 +33,7 @@ In questa sezione evidenziamo alcuni gruppi generici di azioni per aiutarti a tr
 
 
 
-> **Note – Strategie di Stato Patrimoniale**
+> **Light – Strategie di Stato Patrimoniale**
 >
 > * Genera valore dal tuo stato patrimoniale
 >   * Riduci l’esposizione ad asset che non raggiungono il costo del capitale, senza ridurre la resilienza del capitale

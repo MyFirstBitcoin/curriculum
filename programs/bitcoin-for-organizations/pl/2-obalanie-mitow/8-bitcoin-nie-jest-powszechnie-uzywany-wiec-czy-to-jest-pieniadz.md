@@ -69,7 +69,7 @@ Od momentu powstania w 2009 roku bitcoin znajduje się w ciągłym stanie „odk
 Analizując księgę bitcoina, można wykazać, że ponad 70% całkowitej podaży bitcoina jest trzymane przez [długoterminowych posiadaczy](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Wydaje się więc, że większość posiadaczy jest zadowolona z trzymania i nie sprzedaje ani nie wydaje swoich bitcoinów. Biorąc pod uwagę dramatyczny wzrost siły nabywczej bitcoina od czasu jego powstania, można założyć, że większość posiadaczy oczekuje, iż bitcoin stanie się jeszcze bardziej wartościowy, co wpływa na ich decyzję o dalszym trzymaniu, a nie wydawaniu.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Każdego roku 22 maja społeczność Bitcoina świętuje i wspomina programistę z Florydy, Łukasza Hanyecza, który jako pierwszy został odnotowany jako osoba, która użyła bitcoina do zakupu fizycznych dóbr. 18 maja 2010 roku Hanyecz ogłosił na forum Bitcointalk.org, że szuka pizzy i jest gotów zapłacić w bitcoinie. Oferował 10 000 bitcoinów każdemu, kto zdecyduje się na transakcję. Czekał kilka dni, aż 19-letni student Jarek Sturdivant zgodził się i wysłał dwie duże pizze. Łukasz wysłał Jarkowi 10 000 bitcoinów zgodnie z obietnicą, co w chwili pisania tego tekstu jest warte ponad 2,7 miliarda złotych.
 >

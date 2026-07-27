@@ -78,7 +78,7 @@ Enye ingxaki umhlaseli anayo kukugcina olo lawulo xa sele efumene. Isofthiwe yeB
 Kusenokwenzeka ukuba xa sele kubonakala ukuba inethiwekhi ihlaselwe, abaphuhlisi beBitcoin baya 'kuphula' isofthiwe yeBitcoin, ukuze i-ledger 'iphulwe' ukusuka kwindawo apho iirekhodi zobuxoki zenziwe ngumhlaseli. Uninzi lweenod luya kusebenzisa uguqulelo olutsha lwesoftware kwaye imizamo yomhlaseli iya kungahoywa.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Inkcazo enoburharha kancinci evela kuAndreas Antonopoulos malunga nokwenzeka kokuhlaselwa kwe-51% exhaswa ngurhulumente.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Ngaba ukugcina iBitcoin ngokwakho kunye nokuthengiselana phakathi kwabantu kunokunqatshelwa?
@@ -106,7 +106,7 @@ Kufanele silindele nemithetho embi nezingasebenziyo malunga neBitcoin ukuba yenz
 Umthetho we-Red Flag wase-United Kingdom wexesha leminyaka yoo-1800 ngumzekelo wembali womthetho ogqithiseleyo owathi waphinda warhoxiswa.
 
 
-> **Note**
+> **Light**
 >
 > Phakathi kwenkulungwane ye-19, amashishini e-stagecoach kunye neelokomotiva ayesoyika kakhulu amandla okutshintsha kweemoto. Babesoyika ukuba imoto iza kubathatha indawo. **Ngoko ke, basebenza nzima ukucenga urhulumente ukuba enze imithetho engqongqo, bezama ukuthintela ukukhula kwale teknoloji intsha.**
 >
@@ -144,7 +144,7 @@ Kakade ke, ukugxeka iBitcoin ngokubangela ingxaki yemali ye-fiat kuya kuba yinto
 Kubalulekile kwakhona ukuqaphela ukuba iBitcoin iba namandla ngakumbi xa ihlaselwa. Oku kungenxa yokuba olu hlaselo lusebenza ukukhupha iintsomi ezisasazwa ngabagxeki bokuba iBitcoin ibuthathaka kwaye isengozini. Ngoko ke, asimele silindele kuphela ukuba oorhulumente bagqithise kwimigaqo yeBitcoin, kufuneka sikwamkele oko.
 
 
-> **Note**
+> **Light**
 >
 > **Oorhulumente basenokufunda malunga nokungonakali kweBitcoin ngokuzama ukuyithintela baze bafumanise ukuba kwenzeka ntoni xa behlasela inethiwekhi.** Baza kuthi mhlawumbi babone ukuba, kwiBitcoin, ngaphezu kwazo zonke iintlobo ze-asethi kwimbali, imali iya kuhamba iye kumazwe apho iphathwa kakuhle. Ngoko ke, njengoko inethiwekhi yeBitcoin ikhula, kuya kuba kucacile ngakumbi ukuba amazwe akhetha ukuyamkela, endaweni yokulwa nayo, anethuba elingcono lokuphumelela.
 

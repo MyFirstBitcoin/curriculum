@@ -1,6 +1,6 @@
 # 2.2 Bitcoin gây hại cho môi trường
 
-> **Note**
+> **Light**
 >
 > * Bitcoin thường xuyên bị chỉ trích vì sử dụng quá nhiều năng lượng.
 > * Vào năm 2017, Diễn đàn Kinh tế Thế giới (WEF) đã đăng một bài viết trên trang web của mình cho rằng 'đến năm 2020, Bitcoin sẽ tiêu thụ nhiều năng lượng hơn khả năng sản xuất của cả thế giới'.

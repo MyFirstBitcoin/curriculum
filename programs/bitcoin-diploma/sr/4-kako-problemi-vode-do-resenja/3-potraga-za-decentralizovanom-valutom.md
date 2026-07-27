@@ -49,7 +49,7 @@ U centralizovanom sistemu, sve se vrti oko jednog glavnog autoriteta, kao visoka
 * **Nedostatak transparentnosti i poverenja**: Način funkcionisanja centralizovanih sistema može biti teško razumljiv, što ljudima otežava da im veruju.
 
 
-> **Note**
+> **Light**
 >
 > Godine 2022, tokom mirnih protesta u Kanadi, banke su zamrzle račune demonstranata, pokazujući kako centralni autoritet može kontrolisati pristup finansijama.
 
@@ -73,7 +73,7 @@ Iako decentralizovani sistemi imaju mnogo prednosti, donošenje odluka zajedno m
 U svetu centralizovanih i decentralizovanih sistema, sve se svodi na to ko ima moć. Centralizovani sistemi daju moć maloj grupi, dok decentralizovani sistemi tu moć raspodeljuju, omogućavajući svima da učestvuju u odlučivanju. Ova promena moći značila bi pravedniju budućnost, gde mnogi ljudi utiču na sistem koji oblikuje njihove živote.
 
 
-> **Note**
+> **Light**
 >
 > Tor mreža stvara decentralizovani sistem u kojem ljudi mogu ostati anonimni na internetu i mrežu je teško zaustaviti ili cenzurisati.
 
@@ -91,4 +91,4 @@ Ovi pokušaji su pomogli da se otkrije šta nedostaje. Kasnije je neko nadogradi
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Pogledajte ovaj video i otkrijte priču o Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

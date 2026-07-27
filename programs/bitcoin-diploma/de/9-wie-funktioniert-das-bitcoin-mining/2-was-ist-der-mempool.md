@@ -12,7 +12,11 @@ Sobald eine Transaktion in einen Block aufgenommen wurde, gilt sie als bestätig
 
 #### Aktivität: Die Mempool erkunden
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Diese Aktivität stellt den Lernenden ein kostenloses und quelloffenes Werkzeug vor, das keine technischen Vorkenntnisse erfordert. Es ist für Bitcoin-Nutzer aller Erfahrungsstufen nützlich, vom Anfänger bis zum Fortgeschrittenen.**
 

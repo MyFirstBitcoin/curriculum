@@ -69,7 +69,7 @@ Sejak kemunculannya pada tahun 2009, bitcoin berada dalam keadaan ‘penemuan ha
 Dengan menganalisis buku besar bitcoin, dapat ditunjukkan bahwa lebih dari 70% dari seluruh pasokan bitcoin dipegang oleh [pemegang jangka panjang](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Oleh karena itu, tampaknya mayoritas pemegang merasa puas untuk duduk diam dan tidak menjual atau membelanjakan bitcoin mereka. Mengingat peningkatan daya beli bitcoin yang dramatis sejak peluncurannya, masuk akal untuk berasumsi bahwa mayoritas pemegang berharap bitcoin akan menjadi lebih berharga dan hal ini memengaruhi keputusan mereka untuk terus menahan dan tidak membelanjakan.
 
 
-> **Info – Hari Pizza Bitcoin**
+> **Dark – Hari Pizza Bitcoin**
 >
 > Setiap tahun pada tanggal 22 Mei, komunitas Bitcoin merayakan dan mengenang programmer asal Florida, Laszlo Hanyecz, yang menjadi orang pertama yang dilaporkan menggunakan bitcoin untuk membeli barang fisik. Pada 18 Mei 2010, Hanyecz mengumumkan di forum Bitcointalk.org bahwa ia sedang mencari pizza dan bersedia membayar dengan bitcoin. Ia menawarkan 10.000 bitcoin kepada siapa saja yang bersedia melakukan transaksi tersebut. Ia menunggu beberapa hari, hingga akhirnya mahasiswa berusia 19 tahun, Jeremy Sturdivant, memenuhi permintaan itu dan mengirimkan dua pizza besar. Laszlo mengirimkan 10.000 bitcoin kepada Sturdivant seperti yang dijanjikan, yang pada saat penulisan ini nilainya lebih dari $680 juta.
 >

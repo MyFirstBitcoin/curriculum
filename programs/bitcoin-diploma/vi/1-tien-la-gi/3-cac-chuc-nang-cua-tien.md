@@ -30,7 +30,7 @@ Nếu bạn muốn mua một chiếc ô tô mới, bạn có thể so sánh giá
 Ba chức năng này là điều cho phép các nền kinh tế trở nên phức tạp và năng động. Nếu không có tiền, việc mua bán hàng hóa và dịch vụ sẽ khó khăn hơn rất nhiều, và nền kinh tế của chúng ta sẽ kém phát triển hơn.
 
 
-> **Info**
+> **Dark**
 >
 > Mọi người hiểu giá trị của một thứ gì đó khi nó có giá được thể hiện bằng tiền.
 

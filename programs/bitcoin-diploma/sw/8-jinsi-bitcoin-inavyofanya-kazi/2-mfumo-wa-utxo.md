@@ -27,4 +27,4 @@ Salio la pochi yako ni jumla ya thamani ya UTXO zote unazodhibiti.
 ###### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Tazama “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

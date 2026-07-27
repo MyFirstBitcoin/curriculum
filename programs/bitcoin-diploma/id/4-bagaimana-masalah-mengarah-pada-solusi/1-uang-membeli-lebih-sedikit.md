@@ -18,7 +18,11 @@ Ini menunjukkan bagaimana daya beli dapat dipengaruhi oleh kekuatan di luar kend
 
 #### Aktivitas: Lelang
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Ini adalah latihan kelas di mana peserta belajar secara langsung bagaimana peningkatan jumlah uang yang beredar memengaruhi harga. Tujuannya adalah agar peserta memahami inflasi moneter (bukan inflasi harga).
 

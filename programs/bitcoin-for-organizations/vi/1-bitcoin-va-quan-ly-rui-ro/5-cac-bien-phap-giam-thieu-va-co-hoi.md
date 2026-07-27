@@ -17,7 +17,7 @@ Tránh quá quyết đoán. Bạn có thể chuẩn bị cho các kết quả lo
 Trong phần này, chúng tôi nêu bật một số nhóm hành động chung để giúp bạn chuyển đổi phân tích thành hành động. Danh sách này không nhằm đầy đủ, mà chỉ nhằm giúp bạn bắt đầu.
 
 
-> **Note – Chiến lược Lãi & Lỗ**
+> **Light – Chiến lược Lãi & Lỗ**
 >
 > * Bảo vệ doanh thu hiện tại và thị phần
 >   * Giảm tiếp xúc với các thị trường bị ảnh hưởng tiêu cực
@@ -33,7 +33,7 @@ Trong phần này, chúng tôi nêu bật một số nhóm hành động chung �
 
 
 
-> **Note – Chiến lược Bảng Cân Đối Kế Toán**
+> **Light – Chiến lược Bảng Cân Đối Kế Toán**
 >
 > * Tạo giá trị từ bảng cân đối kế toán của bạn
 >   * Giảm tiếp xúc với các tài sản có hiệu suất thấp hơn chi phí vốn, mà không làm giảm khả năng chống chịu vốn

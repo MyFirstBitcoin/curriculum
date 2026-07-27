@@ -27,4 +27,4 @@ Soldul portofelului tău este pur și simplu valoarea totală a tuturor UTXO-uri
 ###### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Urmărește „How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

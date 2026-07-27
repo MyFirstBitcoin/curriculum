@@ -8,7 +8,11 @@ _Bitcoins förhistoria – Resultatet av 40 års forskning, utveckling och efter
 
 Som vi såg i föregående modul försökte flera Cypherpunks skapa en alternativ form av pengar. Den här modulen fortsätter berättelsen om en av dem: en visionär känd som “Satoshi Nakamoto”. Denna anonyma person (eller grupp), långt innan Bitcoin, deltog i online-diskussioner om kryptografi och datavetenskap för att hitta praktiska sätt att ersätta det statliga valutasystemet.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 I oktober 2008 presenterade Nakamoto ett banbrytande whitepaper med titeln “Bitcoin: A Peer-to-Peer Electronic Cash System” på en kryptografi-mailinglista. Detta dokument lade grunden för ett decentraliserat peer-to-peer-protokoll utformat för att möjliggöra säkra transaktioner online utan behov av mellanhänder. Nakamotos vision var tydlig: att skapa en renodlad peer-to-peer-version av elektroniska pengar, fri från kontroll av mäktiga regeringar och finansiella institutioner.
 

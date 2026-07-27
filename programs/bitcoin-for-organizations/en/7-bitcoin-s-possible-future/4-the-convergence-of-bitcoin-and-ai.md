@@ -155,7 +155,7 @@ However, there are currently some limitations to this that needs to be considere
 ##### Risks
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens Baited an Experimental AI Bot Into Promoting a Memecoin. It's Now Up 16,000%. Conceived as a live experiment in human interactions with AI models, the viral bot - Terminal of Truth - ended up promoting a memecoin called GOAT.
 >

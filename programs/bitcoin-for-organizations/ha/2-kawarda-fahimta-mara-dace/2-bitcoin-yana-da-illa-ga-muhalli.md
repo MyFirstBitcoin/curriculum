@@ -1,6 +1,6 @@
 # 2.2 Bitcoin yana da illa ga muhalli
 
-> **Note**
+> **Light**
 >
 > * A sau da yawa ana sukar Bitcoin saboda amfani da makamashi mai yawa.
 > * A shekarar 2017, Hukumar Tattalin Arzikin Duniya (WEF) ta wallafa wani labari a shafinta na yanar gizo tana cewa 'daga shekarar 2020, Bitcoin zai ci makamashi fiye da yadda duniya ke iya samarwa'.

@@ -5,7 +5,7 @@
 Bitcoin är beroende av energi för sin konsensusmekanism ‘proof of work’, vilket hjälper till att säkerställa att det förblir en decentraliserad och tillståndsfri form av pengar. Elnätet står inför utmaningar med att integrera nya energiformer från förnybara källor, vilket sätter press på den nuvarande infrastrukturen. Detta kapitel ger en kort introduktion till dessa utmaningar och en översikt över relevanta aspekter av Bitcoin innan det visas hur det bidrar till utvecklingen av det förnybara energinätet.
 
 
-> **Info – Bitcoin som energivaluta**
+> **Dark – Bitcoin som energivaluta**
 >
 > Den 4 december 1921 publicerade New York Tribune en artikel som beskrev Fords vision om att ersätta guld med en energivaluta som han trodde kunde bryta bankeliternas grepp om världens rikedom och sätta stopp för krig. Han avsåg att göra detta genom att bygga “världens största kraftverk” och skapa ett nytt valutasystem baserat på “kraftenheter”.
 

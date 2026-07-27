@@ -27,4 +27,4 @@ Ang balanse ng iyong wallet ay simpleng kabuuang halaga ng lahat ng UTXO na kont
 ###### Mga Sanggunian
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Panoorin ang “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

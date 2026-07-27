@@ -36,7 +36,7 @@ Verschlüsselung wird verwendet, um sicherzustellen, dass nur der tatsächliche 
 Als zusätzliche Schutzmaßnahme erhält jede Bitcoin-Transaktion automatisch eine EINZIGARTIGE digitale Signatur. Diese einzigartige digitale Signatur wird durch manipulationssichere Technologie ermöglicht, die dem Netzwerk hilft zu überprüfen, dass der tatsächliche Besitzer der Bitcoin – und nicht jemand anderes – sie gesendet hat.
 
 
-> **Info**
+> **Dark**
 >
 > Jeder Nutzer hat zwei Schlüssel: einen **privaten Schlüssel**, der **geheim gehalten** wird, und einen **öffentlichen Schlüssel**, der **mit anderen geteilt** werden kann. Der **private Schlüssel** dient als eine Art Identifikation und Eigentumsnachweis und bestätigt: „Diese Adresse gehört mir und ich habe die Kontrolle darüber.“
 
@@ -128,6 +128,10 @@ Der Prozess der Kodierung des **öffentlichen Schlüssels** durch Hashing wird v
 
 #### Aktivität: Erzeuge einen SHA-256-Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Neugierig, wie Hashing funktioniert? Scanne den QR-Code, um sofort einen SHA256-Hash aus einem beliebigen Wort, Satz oder einer Eingabe deiner Wahl zu erzeugen. Hashfunktionen sind wie digitale Fingerabdrücke: Sie sind nur in eine Richtung anwendbar, das heißt, einmal gehasht, kann es nicht mehr rückgängig gemacht werden. Probiere es aus und überzeuge dich selbst!

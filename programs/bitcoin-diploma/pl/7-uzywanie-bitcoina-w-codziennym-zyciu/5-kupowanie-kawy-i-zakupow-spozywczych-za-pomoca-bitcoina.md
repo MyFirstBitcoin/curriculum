@@ -5,7 +5,7 @@ Czy kiedykolwiek zastanawiałeś się, czy możesz użyć bitcoina, aby kupić c
 Chociaż płacenie kartą kredytową lub aplikacją może wydawać się proste dla osoby płacącej, sam proces płatności jest w rzeczywistości bardzo złożony i angażuje wiele różnych podmiotów.
 
 
-> **Note – Jak działa przetwarzanie płatności**
+> **Light – Jak działa przetwarzanie płatności**
 >
 > Klient → Sprzedawca → Bramka płatnicza → Procesor → Sieć kartowa → Bank wydający → Sieć kartowa → Bank sprzedawcy → Sprzedawca
 
@@ -55,7 +55,7 @@ Niektóre firmy specjalizują się w kupnie i sprzedaży kart podarunkowych w za
 W przypadku Bitcoina gospodarka cyrkularna powstaje poprzez wspieranie lokalnych sprzedawców i rzemieślników akceptujących bitcoina, tak aby wszyscy uczestnicy mogli wspólnie się rozwijać dzięki przewadze Bitcoina.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network umożliwia powstawanie i rozwój gospodarek cyrkularnych Bitcoina na całym świecie dzięki niemal natychmiastowym i niskokosztowym transakcjom bitcoinowym.
 
@@ -71,4 +71,4 @@ Na [BTCMap.org](https://btcmap.org/communities), możesz również poszukać spo
 ###### Materiały
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Obejrzyj ten film o Lightning Network](https://youtu.be/yKdK-7AtAMQ)

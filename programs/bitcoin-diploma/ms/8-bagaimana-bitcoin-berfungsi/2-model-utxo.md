@@ -27,4 +27,4 @@ Baki dompet anda hanyalah jumlah nilai semua UTXO yang anda kawal.
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Tonton “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

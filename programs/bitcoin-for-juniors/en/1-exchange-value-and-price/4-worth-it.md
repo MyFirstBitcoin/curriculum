@@ -1,36 +1,5 @@
 # 1.3 Worth It
 
-**Activity type** Sorting • Visual classification • Guided discussion
-
-**Duration** 45 minutes
-
-**Grouping** Whole class with individual turns
-
-##### **Description**
-
-Students explore the meaning of price by cutting out everyday items and placing them along a shared price line from cheap to expensive. Through comparison, discussion, and teacher guidance, learners develop a concrete understanding that price is the amount of money something costs and that prices can vary widely between items.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Understand that price means how much something costs in money
-* Recognize the difference between cheap and expensive items
-* Compare prices across different types of goods
-* Participate in group discussion and justification
-
-##### **Materials**
-
-* Old catalogues, magazines, or printed product sheets
-* Glue sticks or tape
-* Markers
-* **Nice-to-have:** Sticky notes or voting stickers
-
-##### **Equipment**
-
-* Child-safe scissors
-* **Nice-to-have:** Projector, Visual Aides (_See Appendix A_)
-
 #### **PROCEDURE**
 
 ##### **OPENING**

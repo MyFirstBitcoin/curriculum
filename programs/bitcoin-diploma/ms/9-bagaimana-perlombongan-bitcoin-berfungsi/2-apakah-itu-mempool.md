@@ -12,7 +12,11 @@ Sebaik sahaja transaksi dimasukkan ke dalam satu blok, ia menjadi disahkan dan d
 
 #### Aktiviti: Meneroka Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Aktiviti ini memperkenalkan pelajar kepada alat sumber terbuka yang percuma dan tidak memerlukan kemahiran teknikal untuk digunakan. Ia berguna untuk semua peringkat Bitcoiner, dari pemula hingga yang berpengalaman.**
 

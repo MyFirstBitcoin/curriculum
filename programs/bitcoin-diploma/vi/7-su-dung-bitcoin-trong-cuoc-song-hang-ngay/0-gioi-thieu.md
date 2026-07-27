@@ -10,6 +10,6 @@ Bitcoin cũng không ngoại lệ. Như Andreas Antonopoulos đã nổi tiếng 
 Một trong những lớp này được gọi là **Lightning Network**. Nó giống như một đường cao tốc siêu nhanh dành cho Bitcoin, giúp mọi người gửi và nhận bitcoin một cách nhanh chóng với phí cực thấp. Nó cho phép người dùng thực hiện các giao dịch nhỏ, tức thì trên nền tảng mạng Bitcoin thông thường. Điều này khiến việc mua một ly cà phê hoặc trả tiền cho bạn bè trở nên đơn giản và nhanh chóng! Tất nhiên, như mọi thứ khác, điều này cũng có những đánh đổi nhất định.
 
 
-> **Info**
+> **Dark**
 >
 > Một satoshi là đơn vị nhỏ nhất của bitcoin. Giống như một đồng euro có thể chia thành cent, một bitcoin có thể được chia thành các đơn vị nhỏ hơn gọi là satoshi. Một bitcoin bằng 100 triệu satoshi, khiến satoshi trở thành phần giá trị nhỏ nhất trong hệ thống Bitcoin. Khi chúng ta nói về việc gửi bitcoin qua Lightning Network, chúng ta sẽ gọi đó là “gửi sats”, viết tắt của satoshi.

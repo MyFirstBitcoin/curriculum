@@ -18,19 +18,15 @@ Let’s say Jim owes Eliana 0.5 BTC and is ready to pay her back. Both have digi
 
 _It’s important to note that once the transaction is complete, it cannot be reversed._
 
+###### How a Bitcoin Transaction Works
 
-> **Note – How a Bitcoin Transaction Works**
->
-> 1. Someone requests a transaction
-> 1. Transaction broadcast to P2P computers (nodes)
-> 1. Miners verify the transaction
-> 1. Transactions combined to form a data block
-> 1. New block added to the existing blockchain
-> 1. The transaction is complete
+1. The transaction is broadcast to the network
+1. Miners gather transactions into a block
+1. The block is added to the blockchain
+1. The transaction is confirmed
 
 
-
-> **Note – Receiving Bitcoin Transactions**
+> **Light – Receiving Bitcoin Transactions**
 >
 > To receive bitcoin, you will need to provide the sender with a Bitcoin public address. This is a unique string of letters and numbers that represent your wallet and is used to identify it on the Bitcoin network.
 >
@@ -48,7 +44,7 @@ Once the sender has your address, they can send you bitcoin by entering your add
 The transaction is confirmed by the Bitcoin Network and usually takes about 10 minutes. For greater security, it is recommended to wait for two confirmations, which takes about 20 minutes.
 
 
-> **Note – Sending Bitcoin Transactions**
+> **Light – Sending Bitcoin Transactions**
 >
 > To send bitcoin, you will need a few things: a Bitcoin wallet, the recipient’s public address, and the amount of bitcoin you want to send.
 >
@@ -68,7 +64,11 @@ The transaction is confirmed by the Bitcoin Network and usually takes about 10 m
 
 #### Activity: Transactions In Action
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **This is a cooperative exercise simplifying the basic roles of people involved in a Bitcoin transaction.**
 

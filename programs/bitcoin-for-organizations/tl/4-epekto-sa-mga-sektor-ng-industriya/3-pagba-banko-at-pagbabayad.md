@@ -161,7 +161,11 @@ Malamang na magkakaroon ng mas masiglang hanay ng mga tagapagbigay ng serbisyo s
 
 Nag-aalok ang Bitcoin at mga stable coin na solusyon ng malaking pagbawas sa mga hadlang at gastos na kaugnay ng mga banyagang pagbabayad at internasyonal na remittance. Maaaring ito ay isang malaking banta sa kita ng mga bangko at payment service providers.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Ang laki ng foreign exchange markets ay tumaas mula sa halos wala mula noong sumiklab ang Ikalawang Digmaang Pandaigdig hanggang $7.5 trilyon bawat araw sa pagtatapos ng 2022, na halos lahat ng paglago ay naganap mula noong matapos ang Bretton Woods exchange system noong 1971. Malaki ang kinikita ng mga bangko at payment service providers mula sa pagbibigay ng serbisyo sa mga pamilihang ito.
 

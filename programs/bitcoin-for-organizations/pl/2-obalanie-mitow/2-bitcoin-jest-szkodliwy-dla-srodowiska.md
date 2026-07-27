@@ -1,6 +1,6 @@
 # 2.2 Bitcoin jest szkodliwy dla środowiska
 
-> **Note**
+> **Light**
 >
 > * Bitcoin był często krytykowany za zużywanie zbyt dużej ilości energii.
 > * Już w 2017 roku Światowe Forum Ekonomiczne (WEF) opublikowało na swojej stronie artykuł, w którym twierdziło, że 'do 2020 roku Bitcoin będzie zużywał więcej energii, niż świat jest w stanie wyprodukować'.

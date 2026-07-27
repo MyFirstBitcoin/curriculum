@@ -41,7 +41,7 @@ Quando viene sollevata questa critica, vale la pena considerare se il critico ab
 Il Trilemma della Scalabilità, o della Blockchain, è stato sollevato per la prima volta da Vitalik Buterin nel 2017. Sostiene che c'è sempre un compromesso nella progettazione di una blockchain tra le proprietà di Decentralizzazione, Sicurezza e Scalabilità. Chiunque sollevi la critica che Bitcoin sia troppo lento e che abbia una soluzione più veloce in una blockchain di livello 1, sta sacrificando parte della sicurezza o della decentralizzazione per ottenerla. Sebbene un tale compromesso possa avere senso per una blockchain progettata per altri usi, l'ordine di priorità per una moneta globale deve essere:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralizzazione**
 >   * Rende possibile eliminare le parti fidate

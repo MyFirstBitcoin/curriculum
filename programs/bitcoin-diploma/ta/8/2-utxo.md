@@ -27,4 +27,4 @@
 ###### வளங்கள்
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ “How Bitcoin Works under the Hood” காணொளியைப் பாருங்கள்](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

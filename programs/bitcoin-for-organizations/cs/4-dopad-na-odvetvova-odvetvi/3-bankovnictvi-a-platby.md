@@ -161,7 +161,11 @@ Pravděpodobně vznikne rozmanitější skupina poskytovatelů plateb, včetně 
 
 Bitcoin a řešení se stablecoiny nabízejí výrazné snížení tření a nákladů spojených se zahraničními platbami a mezinárodními remitencemi. To může představovat významnou hrozbu pro příjmy bank a poskytovatelů platebních služeb.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Objem devizových trhů vzrostl od druhé světové války z prakticky nuly na 7,5 bilionu USD denně na konci roku 2022, přičemž téměř veškerý tento růst nastal po ukončení systému Bretton Woods v roce 1971. Banky a poskytovatelé platebních služeb získávají významné příjmy z poskytování služeb na těchto trzích.
 

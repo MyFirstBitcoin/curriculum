@@ -72,4 +72,4 @@ Naša spremnost da se odreknemo veće nagrade u budućnosti u zamenu za manju na
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Pogledaj ovaj kratak video!](https://www.youtube.com/watch?v=InwVM6s7WoY)

@@ -24,7 +24,7 @@ Eşler arası platformlar burada devreye girer; Bitcoin alıcıları ve satıcı
 Bu tür platformlarda, bilgilerinizi veya paranızı kimseye emanet etmenize gerek yoktur; diğer eşlerle doğrudan bağlantı kurar ve onlarla doğrudan ticaret yaparsınız.
 
 
-> **Note**
+> **Light**
 >
 > Çoğu eşler arası platformda, tarafların anlaşmanın her iki tarafının da sözünü tutmasını sağlamak için bir miktar fonu emanete alması gerekir. Emanet, paranın, her iki taraf da vaat ettiğini yerine getirene kadar platformun kontrolünde güvenli bir yerde tutulması anlamına gelir. Bu, güvenilir bir arkadaşınızın, herkes anlaşmadan memnun kalana kadar eşyalarınızı tutması gibidir.
 

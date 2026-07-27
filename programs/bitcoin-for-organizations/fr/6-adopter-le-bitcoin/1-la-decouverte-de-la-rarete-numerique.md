@@ -88,7 +88,7 @@ Rogue abandonne alors. Pourquoi ?
 Rogue se rend compte qu'il ne dispose pas d'assez de puissance de calcul pour réussir la double dépense, malgré le fait qu'il contrôle 36 % du taux de hachage du Bitcoin. Pour réussir, il doit miner quatre blocs supplémentaires pour dépasser la chaîne honnête. Malgré sa puissance de calcul considérable et le contrôle de 36 % du réseau, les chances de succès de Rogue ne sont que de 0,100113.
 
 
-> **Info – La théorie des jeux entre en scène**
+> **Dark – La théorie des jeux entre en scène**
 >
 > Les chances de succès de Rogue sont très faibles, mais cela empire encore. Chaque minute où il continue d’essayer, Rogue consomme une quantité énorme d’électricité. Tout cela aura été vain. De plus, pour chaque bloc qu’il ne mine pas honnêtement, Rogue renonce à la récompense de bloc, actuellement de 3,125 pièces par bloc, d’une valeur supérieure à 300 000 $ actuellement.
 >

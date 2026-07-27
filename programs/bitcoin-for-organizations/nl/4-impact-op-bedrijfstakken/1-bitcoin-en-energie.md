@@ -128,7 +128,7 @@ Bitcoin-mining biedt een sterk economisch prikkel voor de ontwikkeling van herni
 
 
 
-> **Info – Het Elimineren van Aflaring?**
+> **Dark – Het Elimineren van Aflaring?**
 >
 > Het benutten van restenergie, zoals afgefakkeld aardgas, bespaart niet alleen geld maar vermindert ook milieukritiek. Aflaring vindt plaats wanneer overtollig aardgas (methaan) wordt verbrand op olieboorlocaties omdat er geen infrastructuur is om het op te vangen en te verkopen. Volgens sommige studies5 houdt methaan ongeveer 120 keer zoveel warmte vast als CO2, vandaar de noodzaak om het te verbranden en zo effectief om te zetten in CO2. Echter, affakkelen is niet 100% effectief en laat nog steeds methaan in de atmosfeer ontsnappen. Bitcoin-miners kunnen deze energie gebruiken om hun activiteiten van stroom te voorzien, wat de uitstoot van broeikasgassen door affakkelen vermindert. Het aardgas wordt verbrand in generatoren om elektriciteit op te wekken, die draagbare mininginstallaties direct op de boorlocatie aandrijft.
 >
@@ -178,7 +178,7 @@ Naarmate de sector volwassen wordt, zorgt meer samenwerking met aanbieders van h
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin verspilt geen energie. Het gebruikt verspilde energie.**
 >

@@ -72,4 +72,4 @@ Az, hogy hajlandóak vagyunk-e lemondani egy nagyobb jövőbeli jutalomról egy 
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Nézd meg ezt a rövid videót!](https://www.youtube.com/watch?v=InwVM6s7WoY)

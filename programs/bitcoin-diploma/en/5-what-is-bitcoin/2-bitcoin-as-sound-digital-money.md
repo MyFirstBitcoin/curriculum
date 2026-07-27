@@ -5,7 +5,7 @@ In the simplest terms, Bitcoin is money. Bitcoin is not an investment but rather
 Holding bitcoin won’t make you rich because it won’t give you a return of more bitcoin. Its value, measured against any fiat currency, does go up; but this is only because of its growing adoption and the devaluation of fiat currencies.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin is **money**, used to store and send value.  
 > It runs on a global **network** of computers.  
@@ -29,7 +29,7 @@ This software and record of all transactions has a very low chance of disappeari
 Finally, Bitcoin is scarce, which means that the number of bitcoin that will ever exist is absolutely limited. No one can counterfeit on-chain bitcoin — not even the most powerful governments and financial institutions.
 
 
-> **Note – Principles of Bitcoin**
+> **Light – Principles of Bitcoin**
 >
 > Bitcoin is built on three simple ideas:
 >
@@ -93,10 +93,6 @@ Bitcoin is a type of smart money that's programmable, can't be easily confiscate
 
 What do you think? Bitcoin is not yet widely recognized and adopted, but is it sound money?
 
-
----
-
-
 #### Discussion: Is Bitcoin Sound Money?
 
 Now that we have discussed Bitcoin in greater detail, let’s return to our money comparison table from Module 1 and see how Bitcoin compares with other forms of money.
@@ -140,4 +136,4 @@ The key lies in action, in understanding Bitcoin's workings and implementing the
 ###### Resources
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Watch the video "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

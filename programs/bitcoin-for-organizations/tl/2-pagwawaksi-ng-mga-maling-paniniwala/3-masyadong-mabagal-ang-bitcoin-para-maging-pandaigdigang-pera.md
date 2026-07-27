@@ -41,7 +41,7 @@ Kapag lumitaw ang ganitong batikos, mainam na isaalang-alang kung may iba pang m
 Ang Scalability, o Blockchain, Trilemma, ay unang binanggit ni Vitalik Buterin noong 2017. Sinasabi nito na laging may kompromiso sa disenyo ng blockchain sa pagitan ng mga katangian ng Desentralisasyon, Seguridad, at Scalability. Sinumang bumabatikos na masyadong mabagal ang Bitcoin at may mas mabilis silang solusyon sa isang layer 1 blockchain ay magsasakripisyo ng ilang seguridad o desentralisasyon upang makamit ito. Bagaman maaaring may saysay ang ganitong kompromiso para sa blockchain na dinisenyo para sa ibang gamit, ang tamang pagkakasunod-sunod ng prayoridad para sa pandaigdigang pera ay dapat:
 
 
-> **Note**
+> **Light**
 >
 > * **Desentralisasyon**
 >   * Ginagawang posible ang pagtanggal ng mga pinagkakatiwalaang partido

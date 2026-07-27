@@ -27,4 +27,4 @@ Jimillar kudin da ke cikin walat dinka kawai adadin duk UTXOs da kake da iko da 
 ###### Karin Bayani
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Kalli “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

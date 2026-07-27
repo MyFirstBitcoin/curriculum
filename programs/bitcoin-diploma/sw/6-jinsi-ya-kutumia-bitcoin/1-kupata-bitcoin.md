@@ -24,7 +24,7 @@ Hapa ndipo majukwaa ya mtu kwa mtu yanapokuja, ambapo wanunuzi na wauzaji wa Bit
 Katika majukwaa haya, huhitaji kumwamini mtu yeyote na taarifa zako au pesa zako; unaunganishwa na watu wengine na kufanya biashara nao moja kwa moja.
 
 
-> **Note**
+> **Light**
 >
 > Katika majukwaa mengi ya mtu kwa mtu, washiriki hulazimika kuweka sehemu ya fedha zao kwenye escrow ili kuhakikisha kila upande anatimiza sehemu yake ya makubaliano. Escrow inamaanisha kuweka pesa mahali salama chini ya udhibiti wa jukwaa hadi pande zote mbili zitimize walichoahidi. Ni kama rafiki unayemwamini anayeshikilia vitu vyako hadi kila mtu aridhike na makubaliano.
 

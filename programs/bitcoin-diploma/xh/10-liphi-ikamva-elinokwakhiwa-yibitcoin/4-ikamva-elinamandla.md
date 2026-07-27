@@ -41,4 +41,4 @@ Ukuba ukulungele ukuthatha inyathelo elilandelayo, jonga izixhobo ezongezelelwey
 ###### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Amathuba otshintsho oluhle makhulu, yiyo loo nto sikumema ukuba ubukele le vidiyo ukuze ufunde ngakumbi.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

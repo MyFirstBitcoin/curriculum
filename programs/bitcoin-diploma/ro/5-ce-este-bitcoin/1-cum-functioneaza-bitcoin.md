@@ -19,7 +19,7 @@ Așa funcționează, în esență, Bitcoin. Bitcoin este o rețea de oameni care
 De exemplu, una dintre regulile Bitcoin este „Nu vor exista niciodată mai mult de 21 de milioane de bitcoin.” Dacă cineva ar încerca să creeze un milion de bitcoini în plus pentru el însuși, nu i-ar folosi la nimic, pentru că ar fi identificat automat și respins de toți ceilalți. Acesta este motivul pentru care Bitcoin este atât de robust.
 
 
-> **Info**
+> **Dark**
 >
 > Nu contează cine ești sau de unde vii: dacă intri în lumea Bitcoin, trebuie să joci după același set de reguli ca toți ceilalți.
 
@@ -84,7 +84,11 @@ Fiecare participant din această orchestră descentralizată joacă un rol vital
 
 #### Activitate: Consens
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Acesta este un exercițiu de grup în care participanții învață direct cât de dificil este să sincronizezi acțiunile într-un grup fără un lider definit. Scopul este ca participanții să înțeleagă cum se ajunge la acord (consens) în Bitcoin.
 

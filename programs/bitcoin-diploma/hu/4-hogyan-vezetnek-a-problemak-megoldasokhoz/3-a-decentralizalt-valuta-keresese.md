@@ -49,7 +49,7 @@ Egy centralizált rendszerben minden egy fő hatóság körül forog, mint egy m
 * **Átláthatóság és bizalom hiánya**: A centralizált rendszerek belső működése nehezen átlátható, ami megnehezíti, hogy az emberek megbízzanak bennük.
 
 
-> **Note**
+> **Light**
 >
 > 2022-ben, a kanadai békés tüntetések során a bankok befagyasztották a tüntetők számláit, ezzel megmutatva, hogy egy központi hatóság hogyan tudja irányítani a pénzügyi hozzáférést.
 
@@ -73,7 +73,7 @@ Bár a decentralizált rendszereknek sok előnye van, a közös döntéshozatal 
 A központosított és decentralizált rendszerek világában minden azon múlik, hogy kinél van a hatalom. A központosított rendszerek egy kis csoportnak adják a hatalmat, míg a decentralizált rendszerek elosztják azt, így mindenkinek lehetősége van beleszólni. Ez a hatalomváltás igazságosabb jövőt jelentene, ahol sok ember befolyásolja azt a rendszert, amely alakítja az életüket.
 
 
-> **Note**
+> **Light**
 >
 > A Tor hálózat egy decentralizált rendszert hoz létre, ahol az emberek névtelenek maradhatnak az interneten, és a hálózatot nehéz leállítani vagy cenzúrázni.
 
@@ -91,4 +91,4 @@ Ezek a próbálkozások segítettek feltárni, mi hiányzott. Később valaki ez
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Nézd meg ezt a videót, és ismerd meg a Cypherpunkok történetét!](https://www.youtube.com/watch?v=9vM0oIEhMag)

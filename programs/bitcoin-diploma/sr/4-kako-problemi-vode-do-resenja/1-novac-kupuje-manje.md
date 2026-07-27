@@ -18,7 +18,11 @@ Ovo pokazuje kako kupovna moć može biti pogođena silama van naše kontrole i 
 
 #### Aktivnost: Aukcija
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Ovo je vežba u učionici gde učesnici iz prve ruke uče kako povećanje novčane mase utiče na formiranje cena. Cilj je da učesnici razumeju monetarnu inflaciju (ne inflaciju cena).
 

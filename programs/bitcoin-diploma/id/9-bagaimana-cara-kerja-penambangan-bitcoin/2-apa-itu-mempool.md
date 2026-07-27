@@ -12,7 +12,11 @@ Setelah sebuah transaksi dimasukkan ke dalam blok, transaksi tersebut menjadi te
 
 #### Aktivitas: Menjelajahi Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Aktivitas ini memperkenalkan siswa pada alat gratis dan open-source yang tidak memerlukan keahlian teknis untuk digunakan. Alat ini bermanfaat untuk semua tingkat Bitcoiners, dari pemula hingga yang berpengalaman.**
 

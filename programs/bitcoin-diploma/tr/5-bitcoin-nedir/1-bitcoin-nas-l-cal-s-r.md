@@ -19,7 +19,7 @@ Bitcoin temelde böyle çalışır. Bitcoin, aynı kurallar bütününde anlaşa
 Örneğin, Bitcoin'in kurallarından biri "Toplamda asla 21 milyon adetten fazla bitcoin olmayacak" şeklindedir. Birisi kendisi için fazladan bir milyon bitcoin üretmeye kalkarsa, bunun ona hiçbir faydası olmaz çünkü otomatik olarak diğer herkes tarafından tespit edilip reddedilir. Bitcoin'i bu kadar sağlam yapan da budur.
 
 
-> **Info**
+> **Dark**
 >
 > Kim olduğunuzun veya nereden geldiğinizin bir önemi yok: Bitcoin dünyasına giriyorsanız, herkesle aynı kurallar bütününe uymak zorundasınız.
 
@@ -84,7 +84,11 @@ Bu merkeziyetsiz orkestradaki her katılımcı, Bitcoin'in benimsenmesinde ve in
 
 #### Etkinlik: Konsensüs
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Bu, katılımcıların tanımlı bir lider olmadan bir grupta eylemleri senkronize etmenin ne kadar zor olduğunu ilk elden öğrendiği bir sınıf etkinliğidir. Amaç, katılımcıların Bitcoin'de anlaşmanın (konsensüsün) nasıl sağlandığını anlamasıdır.
 

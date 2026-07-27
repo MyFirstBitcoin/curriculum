@@ -58,13 +58,21 @@ Zincir üstü işlemler doğrudan Bitcoin blokzincirinde gerçekleşir ve daha f
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Bu, tüm Lightning Ağının bir haritasıdır. Binlerce Lightning düğüm operatörüne teşekkürler, dünyanın neresinde olursa olsun bir Bitcoin Lightning cüzdanına sahip herhangi bir kullanıcıya sats gönderebilirsiniz. Ödeme birkaç saniye içinde ulaşır ve sadece birkaç kuruşa mal olur.**Kendiniz deneyin!**
 
 #### Etkinlik: Lightning Bayrak Yarışı
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Bu, öğrencilerin Lightning Ağı'nı kullanarak gerçek sats gönderip aldığı uygulamalı bir egzersizdir.**
 

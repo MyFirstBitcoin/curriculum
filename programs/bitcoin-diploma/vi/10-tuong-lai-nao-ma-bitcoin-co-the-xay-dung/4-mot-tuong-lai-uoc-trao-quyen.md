@@ -41,4 +41,4 @@ Nếu bạn đã sẵn sàng cho bước tiếp theo, hãy xem các tài nguyên
 ###### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Những khả năng thay đổi tích cực là vô cùng lớn, đó là lý do tại sao chúng tôi mời bạn xem video này để tìm hiểu thêm.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

@@ -25,7 +25,7 @@ Denke an praktische Verwendungen wie den Erwerb von Notwendigkeiten wie Lebensmi
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Erweitere die Diskussion in der Gruppe, indem ihr eure Listen teilt und vergleicht, um die fünf wichtigsten Gründe für die Notwendigkeit von Geld zu finden. Identifiziert gemeinsame Ideen in der Klasse. Denke über deine eigenen, einzigartigen Ideen nach, die es nicht auf die Liste geschafft haben, aber dennoch wertvoll sind, und notiere sie.
 

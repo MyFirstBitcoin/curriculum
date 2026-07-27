@@ -88,7 +88,7 @@ Wtedy Rogue się poddaje. Dlaczego?
 Rogue zdaje sobie sprawę, że nie ma wystarczającej mocy obliczeniowej, aby przeprowadzić podwójne wydanie, mimo że kontroluje 36% mocy obliczeniowej Bitcoina. Aby odnieść sukces, musi wydobyć jeszcze cztery bloki, by wyprzedzić uczciwy łańcuch. Pomimo ogromnej mocy obliczeniowej i kontroli nad 36% sieci, szanse Rogue na sukces wynoszą zaledwie 0,100113.
 
 
-> **Info – Wkracza teoria gier**
+> **Dark – Wkracza teoria gier**
 >
 > Szanse Rogue na sukces są fatalne, ale to jeszcze nie wszystko. Każda minuta dalszych prób oznacza ogromne zużycie energii elektrycznej przez Rogue. Wszystko to pójdzie na marne. Co więcej, za każdy blok, którego Rogue nie wydobędzie uczciwie, traci nagrodę za blok, która obecnie wynosi 3,125 monet za blok, o wartości przekraczającej obecnie 300 000 €.
 >

@@ -10,6 +10,6 @@ Bitcoin non fa eccezione. Come ha detto famosamente Andreas Antonopoulos, “Bit
 Uno di questi strati si chiama **Lightning Network**. È come un’autostrada super veloce per Bitcoin, che aiuta le persone a inviare e ricevere bitcoin rapidamente e con commissioni molto basse. Permette agli utenti di effettuare transazioni istantanee e di piccolo importo sopra la rete Bitcoin tradizionale. Questo rende semplice e veloce comprare un caffè o pagare un amico! Naturalmente, come per tutto, ci sono dei compromessi.
 
 
-> **Info**
+> **Dark**
 >
 > Un satoshi è la più piccola denominazione di bitcoin. Proprio come un euro può essere suddiviso in centesimi, un bitcoin può essere diviso in unità più piccole chiamate satoshi. Un bitcoin equivale a 100 milioni di satoshi, rendendo i satoshi le più piccole frazioni di valore nel sistema Bitcoin. Quando parliamo di inviare bitcoin tramite il Lightning Network, lo chiameremo “inviare sats”, abbreviazione di satoshi.

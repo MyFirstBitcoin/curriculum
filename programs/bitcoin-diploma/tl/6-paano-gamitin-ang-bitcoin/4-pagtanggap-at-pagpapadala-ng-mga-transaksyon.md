@@ -19,7 +19,7 @@ Halimbawa, may utang si Jim kay Eliana ng 0.5 BTC at handa na siyang bayaran ito
 _Mahalagang tandaan na kapag natapos na ang transaksyon, hindi na ito maaaring baligtarin._
 
 
-> **Note – Paano Gumagana ang Isang Bitcoin Transaction**
+> **Light – Paano Gumagana ang Isang Bitcoin Transaction**
 >
 > 1. May isang humihiling ng transaksyon
 > 1. Ang transaksyon ay ibinobroadcast sa mga P2P computer (node)
@@ -30,7 +30,7 @@ _Mahalagang tandaan na kapag natapos na ang transaksyon, hindi na ito maaaring b
 
 
 
-> **Note – Pagtanggap ng Bitcoin Transaction**
+> **Light – Pagtanggap ng Bitcoin Transaction**
 >
 > Upang makatanggap ng bitcoin, kailangan mong ibigay sa nagpapadala ang iyong Bitcoin public address. Ito ay isang natatanging string ng mga letra at numero na kumakatawan sa iyong wallet at ginagamit upang kilalanin ito sa Bitcoin network.
 >
@@ -48,7 +48,7 @@ Kapag nakuha na ng nagpapadala ang iyong address, maaari ka na niyang padalhan n
 Ang transaksyon ay kinukumpirma ng Bitcoin Network at karaniwang tumatagal ng mga 10 minuto. Para sa mas mataas na seguridad, inirerekomenda na maghintay ng dalawang kumpirmasyon, na tumatagal ng mga 20 minuto.
 
 
-> **Note – Pagpapadala ng Bitcoin Transaction**
+> **Light – Pagpapadala ng Bitcoin Transaction**
 >
 > Upang magpadala ng bitcoin, kakailanganin mo ng ilang bagay: isang Bitcoin wallet, ang public address ng tatanggap, at ang halaga ng bitcoin na nais mong ipadala.
 >
@@ -68,7 +68,11 @@ Ang transaksyon ay kinukumpirma ng Bitcoin Network at karaniwang tumatagal ng mg
 
 #### Gawain: Mga Transaksyon sa Aksyon
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Ito ay isang kooperatibong ehersisyo na nagpapasimple sa mga pangunahing papel ng mga taong kasangkot sa isang Bitcoin transaction.**
 

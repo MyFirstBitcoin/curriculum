@@ -76,7 +76,11 @@ Egy másik fontos szempont a Bitcoin tárca kiválasztásakor, hogy az alkalmaz�
 
 #### Tevékenység: Bitcoin tárcák megbeszélése és értékelése
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Látogasd meg a következő weboldalt: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

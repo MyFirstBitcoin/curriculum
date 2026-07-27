@@ -58,13 +58,21 @@ Lightningを使い始めるために、ミナはスマートフォンにLightnin
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 これはLightningネットワーク全体のマップです。世界中の何千ものLightningノード運営者のおかげで、どこにいるユーザーでもビットコインLightningウォレットを使ってサッツを送ることができます。支払いは数秒で届き、手数料は数円程度です。**ぜひ自分で試してみましょう！**
 
 #### アクティビティ：Lightningリレーレース
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **この実践的な演習では、受講者がLightningネットワークを使って実際にサッツを送受信します。**
 

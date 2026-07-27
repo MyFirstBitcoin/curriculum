@@ -36,7 +36,7 @@ Ukubethela kusetyenziswa ukuqinisekisa ukuba kuphela umnini wokwenyani webitcoin
 Njengenye indlela yokhuseleko, urhwebo ngalunye lweBitcoin lufumana ngokuzenzekelayo utyikityo lwedijithali OLUKHETHEKILEYO. Olu tyikityo lwedijithali lukhethekileyo luxhaswa yitekhnoloji engatshintshiyo enceda inethiwekhi iqinisekise ukuba umnini wokwenyani webitcoin, hayi omnye umntu, nguye othumele yona.
 
 
-> **Info**
+> **Dark**
 >
 > Umsebenzisi ngamnye unazo izitshixo ezimbini: **isitshixo sobucala**, esimele **sifihlwe**, kunye ne **sitshixo soluntu** esinokuthi **sabelwane nabanye**. Isitshixo **sobucala** sisebenza njengobungqina bokuba le dilesi yeyam kwaye ndinolawulo kuyo.
 
@@ -128,6 +128,10 @@ Inkqubo yokuguqulela i-**public key** ngokusebenzisa ukuhashisha isetyenziswa uk
 
 #### Umsebenzi: Yenza i-SHA 256 Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Uyazibuza ukuba ukuhashisha kusebenza njani? Skena i-QR code ukuze wenze i-SHA256 hash kwangoko ukusuka nasiphi na isihloko, isivakalisi, okanye igalelo olukhethayo. Imisebenzi ye-hash ifana neminwe yedijithali: zisebenza ngendlela enye kuphela, oko kuthetha ukuba xa into sele ihashishiweyo, ayinakubuyiselwa umva. Zama ngoku uzibonele!

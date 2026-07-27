@@ -49,7 +49,7 @@ Totuși, o problemă majoră a rămas nerezolvată: lumea încă nu avea o moned
 * **Lipsă de transparență și încredere**: Modul de funcționare intern al sistemelor centralizate poate fi greu de înțeles, ceea ce face dificilă încrederea oamenilor în ele.
 
 
-> **Note**
+> **Light**
 >
 > În 2022, în timpul protestelor pașnice din Canada, băncile au înghețat conturile protestatarilor, arătând cum o autoritate centrală poate controla accesul financiar.
 
@@ -73,7 +73,7 @@ Deși sistemele descentralizate au multe avantaje, luarea deciziilor împreună 
 Într-o lume a sistemelor centralizate și descentralizate, totul ține de cine deține puterea. Sistemele centralizate dau puterea unui grup restrâns, în timp ce sistemele descentralizate o distribuie, permițând tuturor să aibă un cuvânt de spus. Această schimbare de putere ar însemna un viitor mai echitabil, unde mulți oameni influențează sistemul care le modelează viețile.
 
 
-> **Note**
+> **Light**
 >
 > Rețeaua Tor creează un sistem descentralizat unde oamenii pot rămâne anonimi online, iar rețeaua este greu de oprit sau cenzurat.
 
@@ -91,4 +91,4 @@ Aceste încercări au ajutat la evidențierea a ceea ce lipsea. Mai târziu, cin
 ###### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Urmărește acest videoclip și descoperă povestea Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

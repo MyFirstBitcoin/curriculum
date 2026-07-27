@@ -24,7 +24,7 @@ Vstupují do hry peer-to-peer platformy, kde se kupující a prodávající bitc
 Na těchto platformách nemusíte nikomu svěřovat své informace ani peníze; spojíte se s ostatními uživateli a obchodujete s nimi přímo.
 
 
-> **Note**
+> **Light**
 >
 > Na většině peer-to-peer platforem musí uživatelé dát část prostředků do úschovy, aby bylo zajištěno, že každá strana splní svou část dohody. Úschova znamená, že peníze jsou uloženy na bezpečném místě pod kontrolou platformy, dokud obě strany nesplní, co slíbily. Je to jako kdyby důvěryhodný přítel držel vaše věci, dokud nejsou všichni s dohodou spokojeni.
 

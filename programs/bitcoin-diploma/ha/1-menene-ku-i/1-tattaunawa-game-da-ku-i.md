@@ -25,7 +25,7 @@ Ka yi la’akari da amfani na yau da kullum kamar sayen abinci da sauran abubuwa
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Fadada tattaunawa zuwa ga rukuni ta hanyar rabawa da kwatanta jerin dalilai don gano manyan dalilai guda biyar da yasa ake bukatar kudi. Gano ra’ayoyi da suka yi kama a cikin aji. Ka yi tunani a kan ra’ayoyin ka na musamman da ba su shiga jerin ba amma har yanzu suna da muhimmanci, ka rubuta su a gefe.
 

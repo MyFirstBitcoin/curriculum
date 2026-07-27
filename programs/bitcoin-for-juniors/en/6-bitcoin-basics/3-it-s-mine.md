@@ -1,40 +1,5 @@
 # 6.3 It's Mine!
 
-**Activity type** Simulation • Memory Game • Team Competition
-
-**Duration** 45 minutes
-
-**Grouping** Small Teams (3–4 students) + Whole Class moments
-
-##### **Description**
-
-In this activity, learners simulate Bitcoin mining using playing cards as hashes and vocabulary words as transactions. Teams flip cards to find matching pairs. When they find two identical cards, they say “It’s mine.” A valid pair gives them access to the mempool, where they collect one Bitcoin vocabulary word. Words are grouped into blocks and only count after confirmation. The number of cards in the mining pool represents difficulty and is adjusted between rounds. Final scores are calculated by counting the total number of letters in confirmed words stored in each team’s wallet.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Explain that mining requires repeated attempts
-* Describe how difficulty can increase or decrease
-* Understand that transactions are grouped into blocks
-* Recognize that confirmation comes before ownership
-* Connect effort to reward
-
-##### **Materials**
-
-* 1–2 decks of playing cards
-* 40–60 Bitcoin vocabulary word cards (_See Appendix A_)
-* 1 envelope per team labeled WALLET
-* 1 large envelope labeled BLOCK
-* Signs labeled MEMPOOL and MINING POOL
-* **Nice-to-have:** Stickers or stamps for confirmation, Whiteboard for recording scores
-
-##### **Equipment**
-
-* Timer
-* Table or floor space for laying out cards
-* **Nice-to-have**: Bell or signal sound for block completion
-
 #### **PROCEDURE**
 
 ##### **OPENING**

@@ -88,7 +88,7 @@ Sumuko na ang Rogue. Bakit?
 Napagtanto ng Rogue na hindi sapat ang hash rate nito para mag-double spend, kahit na kontrolado nito ang 36% ng hash rate ng Bitcoin. Para magtagumpay, kailangan nitong magmina ng apat pang blocks upang maunahan ang tapat na chain. Sa kabila ng napakalaking computing power at pagkontrol sa 36% ng network, ang tsansa ng tagumpay ng Rogue ay 0.100113 lamang.
 
 
-> **Info – Pumapasok ang Game Theory**
+> **Dark – Pumapasok ang Game Theory**
 >
 > Napakababa ng tsansa ng tagumpay ng Rogue, ngunit mas lumalala pa ito. Sa bawat minuto na patuloy itong sumusubok, napakalaking halaga ng kuryente ang nauubos ng Rogue. Lahat ng ito ay masasayang lamang. Bukod pa rito, sa bawat block na hindi nito namimina nang tapat, isinusuko ng Rogue ang block reward, na kasalukuyang 3.125 coins bawat block, na tinatayang higit sa ₱17 milyon sa kasalukuyan.
 >

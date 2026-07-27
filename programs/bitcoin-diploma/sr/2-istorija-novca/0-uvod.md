@@ -11,7 +11,11 @@ U ovom modulu, krenućemo na putovanje kroz vreme i doživeti evoluciju novca iz
 
 #### Aktivnost: Iterativna igra razmene
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Ovo je vežba u učionici namenjena boljem razumevanju pojma razmene. Učestvovanjem ćeš videti kako novac prirodno nastaje na slobodnom tržištu.
 

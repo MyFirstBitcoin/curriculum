@@ -128,7 +128,7 @@ A Bitcoin bányászat erős gazdasági ösztönzőt kínál a megújuló energia
 
 
 
-> **Info – A fáklyázás megszüntetése?**
+> **Dark – A fáklyázás megszüntetése?**
 >
 > A hulladék energia, például a fáklyázott földgáz hasznosítása nemcsak pénzt takarít meg, hanem csökkenti a környezeti kritikákat is. Fáklyázás akkor történik, amikor a felesleges földgázt (metánt) olajfúró helyszíneken elégetik, mert nincs infrastruktúra annak begyűjtésére és értékesítésére. Egyes tanulmányok szerint5 a metán körülbelül 120-szor annyi hőt csapdáz, mint a CO2, ezért szükséges elégetni, hogy hatékonyan CO2-vé alakuljon. Azonban a fáklyázás nem 100%-ban hatékony, így még mindig jut metán a légkörbe. A Bitcoin bányászok ezt az energiát használhatják fel a műveleteikhez, ami csökkenti az üvegházhatású gázok kibocsátását a fáklyázásból. A földgázt generátorokban égetik el, hogy áramot termeljenek, amely közvetlenül a kúthelyszínen elhelyezett hordozható bányászgépeket működtet.
 >
@@ -178,7 +178,7 @@ Ahogy az iparág érik, a megújuló energia szolgáltatókkal és hálózatüze
 
 
 
-> **Info**
+> **Dark**
 >
 > **A Bitcoin nem pazarolja az energiát. A pazarolt energiát használja fel.**
 >

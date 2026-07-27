@@ -5,7 +5,7 @@ Have you ever wondered if you could use bitcoin to buy your daily cup of coffee 
 Even though paying with a credit card or an app can seem easy to understand for the person paying, the processing of the payment is actually very complex and involves many diﬀerent parties.
 
 
-> **Note – How Payment Processing Works**
+> **Light – How Payment Processing Works**
 >
 > Customer → Merchant → Payment Gateway → Processor → Card Network → Issuing Bank → Card Network → Merchant Bank → Merchant
 
@@ -55,7 +55,7 @@ A **circular economy** is made up of participants who decide to support one anot
 When applied to Bitcoin, a circular economy is built by supporting local merchants and skilled workers who accept bitcoin, so that all participants can flourish together thanks to Bitcoin's superior properties.
 
 
-> **Note**
+> **Light**
 >
 > The Lightning Network enables Bitcoin circular economies to appear and thrive all around the world thanks to near-instant and low-fee Bitcoin transactions.
 
@@ -71,4 +71,4 @@ On [BTCMap.org](https://btcmap.org/communities), you can also look for Bitcoin c
 ###### Resources
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Watch this video on the Lightning Network](https://youtu.be/yKdK-7AtAMQ)

@@ -19,7 +19,7 @@ Supponiamo che Giovanni debba 0,5 BTC a Eliana ed è pronto a restituirglieli. E
 _È importante notare che una volta completata la transazione, non può essere annullata._
 
 
-> **Note – Come funziona una transazione Bitcoin**
+> **Light – Come funziona una transazione Bitcoin**
 >
 > 1. Qualcuno richiede una transazione
 > 1. La transazione viene trasmessa ai computer P2P (nodi)
@@ -30,7 +30,7 @@ _È importante notare che una volta completata la transazione, non può essere a
 
 
 
-> **Note – Ricevere transazioni Bitcoin**
+> **Light – Ricevere transazioni Bitcoin**
 >
 > Per ricevere bitcoin, dovrai fornire al mittente un indirizzo pubblico Bitcoin. Si tratta di una stringa unica di lettere e numeri che rappresenta il tuo wallet e viene utilizzata per identificarlo sulla rete Bitcoin.
 >
@@ -48,7 +48,7 @@ Una volta che il mittente ha il tuo indirizzo, può inviarti bitcoin inserendo i
 La transazione viene confermata dalla rete Bitcoin e di solito richiede circa 10 minuti. Per maggiore sicurezza, si consiglia di attendere due conferme, che richiedono circa 20 minuti.
 
 
-> **Note – Inviare transazioni Bitcoin**
+> **Light – Inviare transazioni Bitcoin**
 >
 > Per inviare bitcoin, ti serviranno alcune cose: un wallet Bitcoin, l'indirizzo pubblico del destinatario e l'importo di bitcoin che vuoi inviare.
 >
@@ -68,7 +68,11 @@ La transazione viene confermata dalla rete Bitcoin e di solito richiede circa 10
 
 #### Attività: Le transazioni in pratica
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Questo è un esercizio cooperativo che semplifica i ruoli di base delle persone coinvolte in una transazione Bitcoin.**
 

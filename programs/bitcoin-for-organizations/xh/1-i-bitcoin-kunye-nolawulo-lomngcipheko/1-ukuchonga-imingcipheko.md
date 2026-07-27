@@ -38,7 +38,7 @@ Ekugqibeleni, guqulela izimvo ezivela kulo msebenzi ungentla zibe yimingcipheko 
 
 
 
-> **Info – Imizekelo**
+> **Dark – Imizekelo**
 >
 > * Umngcipheko wokuba iBitcoin iba yeyona mali iphambili, igcinwe kwiingxowa-mali zehlabathi
 > * Umngcipheko wokuba inethiwekhi yeBitcoin iba linqanaba lokuhlala kwezorhwebo kwi-intanethi

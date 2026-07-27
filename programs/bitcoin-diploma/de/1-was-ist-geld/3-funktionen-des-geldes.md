@@ -30,7 +30,7 @@ Wenn du ein neues Auto kaufen wolltest, könntest du die Preise verschiedener Au
 Diese drei Funktionen ermöglichen es Volkswirtschaften, komplex und dynamisch zu werden. Ohne Geld wäre es viel schwieriger, Waren und Dienstleistungen zu kaufen und zu verkaufen, und unsere Wirtschaft wäre weit weniger entwickelt.
 
 
-> **Info**
+> **Dark**
 >
 > Menschen verstehen den Wert von etwas, wenn es einen in Geld ausgedrückten Preis hat.
 

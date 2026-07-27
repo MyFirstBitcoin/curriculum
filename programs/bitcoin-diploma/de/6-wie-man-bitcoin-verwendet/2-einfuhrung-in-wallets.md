@@ -76,7 +76,11 @@ Ein weiterer wichtiger Faktor bei der Auswahl einer Bitcoin-Wallet ist, ob die A
 
 #### Aktivität: Diskussion und Bewertung von Bitcoin-Wallets
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Gehe auf folgende Webseite: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

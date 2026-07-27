@@ -11,7 +11,11 @@ Neste módulo, vamos embarcar em uma jornada através do tempo, vivenciando a ev
 
 #### Atividade: Jogo Iterativo de Escambo
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Este é um exercício em grupo destinado a aumentar sua compreensão dos conceitos de escambo. Participar ajudará você a ver como o dinheiro se desenvolve naturalmente em mercados livres.
 

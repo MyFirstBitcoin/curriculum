@@ -39,7 +39,7 @@ A karshe, juya abubuwan da aka lura da su daga wannan atisaye zuwa hadurra da su
 
 
 
-> **Info – Misalai**
+> **Dark – Misalai**
 >
 > * Hadarin cewa bitcoin zai zama babban kadarar ajiyar baitul-mali a duniya
 > * Hadarin cewa hanyar sadarwar Bitcoin za ta zama matakin sulhu don kasuwancin yanar gizo

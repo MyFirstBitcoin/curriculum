@@ -76,7 +76,11 @@ En annan viktig faktor att tänka på när du väljer en Bitcoin-plånbok är at
 
 #### Aktivitet: Diskussion och utvärdering av Bitcoin-plånböcker
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Gå till följande webbplats: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

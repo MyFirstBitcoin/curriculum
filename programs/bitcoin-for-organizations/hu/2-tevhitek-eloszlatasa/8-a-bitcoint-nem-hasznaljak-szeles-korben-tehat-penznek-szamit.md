@@ -69,7 +69,7 @@ Jelenleg a világ népességéhez képest a bitcoin tulajdonosok aránya kicsi. 
 A bitcoin főkönyvének elemzésével kimutatható, hogy a teljes bitcoin készlet több mint 70%-át [hosszú távú tulajdonosok](https://buybitcoinworldwide.com/how-many-bitcoin-users/) tartják. Ezért úgy tűnik, hogy a többség elégedett azzal, hogy ül a bitcoinján, és nem adja el vagy költi el. Tekintettel a bitcoin vásárlóerejének drámai növekedésére a bevezetése óta, ésszerű feltételezni, hogy a többség arra számít, hogy a bitcoin értéke tovább nő, és ez befolyásolja döntésüket, hogy továbbra is tartják, nem költik el.
 
 
-> **Info – Bitcoin Pizza Nap**
+> **Dark – Bitcoin Pizza Nap**
 >
 > Minden év május 22-én a Bitcoin közösség ünnepli és elismeri a floridai programozó, László Hanyecz érdemeit, aki elsőként használt bitcoint fizikai áruk vásárlására. 2010. május 18-án Hanyecz a Bitcointalk.org fórumon jelezte, hogy pizzát keres, és hajlandó bitcoinban fizetni. 10 000 bitcoint ajánlott fel annak, aki hajlandó üzletet kötni vele. Néhány napot várt, míg a 19 éves egyetemista, Gergő Sturdivant teljesítette a kérést, és két nagy pizzát küldött neki. László a megbeszéltek szerint 10 000 bitcoint küldött Sturdivantnak, amely a szöveg írásának idején több mint 680 millió eurót ér.
 >

@@ -20,7 +20,7 @@ One of their key goals was to create a form of digital money that people could u
 
 > **Definition – Definition of an orwellian future**
 >
-> **Orwellian future** refers to a dystopian society where a powerful authority, usually the government, closely controls people’s lives. In such a world, citizens are constantly watched, information is manipulated, and speaking against those in power can lead to punishment. Personal freedoms are limited, and the truth is often distorted to maintain control over the population.
+> **Orwellian future** refers to a dystopian society where a powerful authority, usually the government, closely controls people’s lives. In such a world, citizens are constantly watched, information is manipulated, and speaking against those in power can lead to punishment. Personal freedoms are limited, and the truth is often distorted to maintain control.
 
 
 Key figures in the Cypherpunk movement included Eric Hughes, Timothy C. May, and John Gilmore. In 1992, Eric Hughes wrote _A Cypherpunk Manifesto_, which argued that people should have the right to privacy and control over their digital lives.
@@ -49,7 +49,7 @@ In a centralized system, everything revolves around one main authority, like a t
 * **Lack of transparency and trust**: The inner workings of centralized systems can be hard to understand, making it tough for people to trust them.
 
 
-> **Note**
+> **Light**
 >
 > In 2022, during peaceful protests in Canada, banks froze protestors' accounts, showing how a central authority could control financial access.
 
@@ -73,14 +73,14 @@ While decentralized systems have lots of advantages, making decisions together c
 In a world of centralized and decentralized systems, it's all about who holds the power. Centralized systems give power to a small group, while decentralized systems spread it out, letting everyone have a say. This shift in power would mean a fairer future, where many people influence the system that shapes their lives.
 
 
-> **Note**
+> **Light**
 >
 > The Tor Network create a decentralized system where people can stay anonymous online and the network is hard to stop or censor.
 
 
 #### Brief History of Digital Currencies
 
-One of the key ideas discussed by the Cypherpunks was **digital cash**. They believed money should be separated from government control so people could send and receive payments freely and privately online.
+One of the key ideas discussed by the Cypherpunks was **digital cash**. They believed money should be separated from government so people could send and receive payments freely and privately online.
 
 Early cryptographer **David Chaum** created one of the first systems for digital cash using cryptography to make transactions secure and private. However, his system still relied on a **central authority** to operate, which meant it could fail or censor transactions.
 
@@ -91,4 +91,4 @@ These attempts helped reveal what was missing. Later, someone built on these ide
 ###### Resources
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Watch this video and discover the story of the Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

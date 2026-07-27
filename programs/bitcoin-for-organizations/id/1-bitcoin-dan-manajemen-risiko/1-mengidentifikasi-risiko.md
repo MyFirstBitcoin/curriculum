@@ -39,7 +39,7 @@ Akhirnya, ubah pengamatan dari latihan di atas menjadi risiko yang relevan bagi 
 
 
 
-> **Info – Contoh**
+> **Dark – Contoh**
 >
 > * Risiko bahwa bitcoin menjadi aset cadangan utama global untuk perbendaharaan
 > * Risiko bahwa jaringan Bitcoin menjadi lapisan penyelesaian untuk perdagangan berbasis internet

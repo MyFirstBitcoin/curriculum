@@ -166,7 +166,7 @@ Babban canjin farashi, wanda ake auna da daidaiton bambanci na ribar zuba jari, 
 A ƙarshe, bitcoin dukiya ce mai sauyin farashi sosai. Wannan abin tsammani ne saboda sabuwa ce kuma tana cikin dogon tafiya na gano farashinta da kuma karɓuwar masu amfani. Masu saka jari na ƙwararru suna da kayan aiki don rungumar wannan sauyin farashi, kuma, la’akari da yiwuwar samun riba mai yawa, sukan sarrafa hakan yadda ya dace. Suna iya tantance adadin da ya dace, bisa tsarin saka jarinsu da kuma yadda suke iya ɗaukar haɗari. Kuma, don rage sauyin farashi na ɗan gajeren lokaci, riƙe bitcoin akalla tsawon zagaye ɗaya na shekara huɗu na halving na iya zama mafi ƙarancin lokacin riƙewa da ya dace.
 
 
-> **Note – Shin Bitcoin Kariyar Hauhawar Farashi ne?**
+> **Light – Shin Bitcoin Kariyar Hauhawar Farashi ne?**
 >
 > Saboda bitcoin yana da iyakar adadi, magoya bayansa sun dade suna jayayya cewa yana aiki a matsayin kariya daga hauhawar farashi a cikin kuɗaɗen fiat. A bayyane yake cewa, a dogon lokaci, bitcoin ya zama kariya mai inganci sosai daga raguwar ƙarfin siyan kuɗin fiat. Sai dai, masu suka suna nuna tashin gwauron zabi na ma'aunin CPI shekara-shekara daga farkon 2021 zuwa kololuwa na shekaru 40 a tsakiyar 2022, suna tambaya me yasa farashin bitcoin bai tashi sosai a wannan lokacin ba. To, shin bitcoin ya kasa zama kariya daga hauhawar farashi?
 >
@@ -216,7 +216,7 @@ Tabbas, ba yawa daga cikin masu sharhi ke tsammanin wannan yanayi zai faru nan k
 Me zai faru idan, kamar yadda intanet ta tashi, ba za mu iya kawai zabar fita daga ciki ba?
 
 
-> **Info – Gargadi**
+> **Dark – Gargadi**
 >
 > Lura cewa abin da ya faru a baya ba tabbaci ba ne na abin da zai faru a gaba. Bitcoin dukiya ce da ke tattare da haɗari mai yawa. Masu saka jari su tuna cewa ƙimarta na iya ƙaruwa sosai ko raguwa a gaba, kamar yadda aka gani a baya.
 >

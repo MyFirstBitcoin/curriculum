@@ -72,4 +72,4 @@ Ang ating kahandaang isuko ang mas malaking gantimpala sa hinaharap kapalit ng m
 ###### Mga Mapagkukunan
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Panoorin ang maikling video na ito!](https://www.youtube.com/watch?v=InwVM6s7WoY)

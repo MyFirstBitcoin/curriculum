@@ -58,13 +58,21 @@ Az on-chain tranzakciók közvetlenül a Bitcoin blokkláncon történnek, ezér
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Ez a Lightning Network teljes térképe. Több ezer Lightning node futtatónak köszönhetően satokat küldhetsz bármely felhasználónak, akinek van Bitcoin Lightning pénztárcája, bárhol is legyen a világon. A fizetés néhány másodperc alatt megérkezik, és csak néhány forintba kerül.**Próbáld ki te magad is!**
 
 #### Gyakorlat: Lightning váltófutás
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Ez egy gyakorlati feladat, amelyben a diákok valódi satokat küldenek és fogadnak a Lightning Network segítségével.**
 

@@ -17,7 +17,7 @@ Undvik att vara alltför beslutsam. Du kan förbereda dig för ömsesidigt utesl
 I det här avsnittet lyfter vi fram några generella grupper av åtgärder för att hjälpa dig att omvandla analys till handling. Denna lista är inte avsedd att vara uttömmande, utan snarare hjälpa dig att komma igång.
 
 
-> **Note – Resultat- och förluststrategier (P&L-strategier)**
+> **Light – Resultat- och förluststrategier (P&L-strategier)**
 >
 > * Skydda befintliga intäkter och marknadsandelar
 >   * Minska exponeringen mot marknader som påverkas negativt
@@ -33,7 +33,7 @@ I det här avsnittet lyfter vi fram några generella grupper av åtgärder för 
 
 
 
-> **Note – Balansräkningsstrategier**
+> **Light – Balansräkningsstrategier**
 >
 > * Skapa värde från din balansräkning
 >   * Minska exponeringen mot tillgångar som underpresterar kapitalkostnaden, utan att minska kapitalresiliensen

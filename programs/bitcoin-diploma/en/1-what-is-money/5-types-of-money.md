@@ -4,12 +4,12 @@ Money can be divided into two main categories: physical and digital.
 
 ##### Physical money
 
-* **Commodity money**, which is a physical object that is widely valued and accepted as a medium of exchange.
-  * Examples: Gold, silver and even gun powder once served as commodity money.
-* **Representative money**, which represents a claim on a physical commodity.
-  * Example: Silver certificates could be exchanged for silver.
-* **Fiat money**, which is the paper bills and coins issued by governments and accepted as a medium of exchange.
-  * Example: Federal Reserve notes are fiat money, decreed by the federal government to be an acceptable way to pay debts.
+* **Commodity money** is a physical object that is widely valued and accepted as a medium of exchange.
+  * Gold, silver and even gun powder once served as commodity money.
+* **Representative money** represents a claim on a physical commodity.
+  * Silver certificates could be exchanged for silver.
+* **Fiat money** is the paper bills and coins issued by governments and accepted as a medium of exchange.
+  * Federal Reserve notes are fiat money, decreed by the federal government to be an acceptable way to pay debts.
 
 ##### Digital currencies
 
@@ -23,6 +23,9 @@ Common examples of these systems include card networks, which process debit and 
 
 * **Central Bank Digital Currencies (CBDCs)**: Digital versions of a country’s currency, issued and controlled by the central bank.
 * **Stablecoins**: Digital currencies designed to keep a stable value, usually linked to an asset like the U.S. dollar.
-* **Cryptocurrencies**: A type of digital currency. Some are decentralized, meaning no single group controls them, while others are more centralized.
+* **Cryptocurrencies**: Digital currencies. Some are decentralized, meaning no single group controls them, while others are more centralized.
 
 A key idea behind some digital currencies is removing intermediaries. This can make transactions more efficient and reduce the concentration of power. The goal is to create a system that works more like the internet, where control is shared rather than held by a single authority.
+
+
+<!-- micrographic: types-of-money -->

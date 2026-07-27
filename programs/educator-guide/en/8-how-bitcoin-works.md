@@ -1,4 +1,4 @@
-# 8 - How Bitcoin Works
+# How Bitcoin Works
 
 Duration: 90 minutes
 

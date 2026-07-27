@@ -11,7 +11,11 @@ W tym module wyruszymy w podróż przez czas, aby doświadczyć ewolucji pienią
 
 #### Aktywność: Gra w iteracyjny barter
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 To ćwiczenie klasowe ma na celu pogłębienie zrozumienia pojęcia barteru. Udział w nim pomoże ci zobaczyć, jak pieniądz naturalnie powstaje na wolnym rynku.
 

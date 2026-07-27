@@ -58,13 +58,21 @@ Mu'amaloli a kan sarkar suna faruwa kai tsaye a kan blockchain na Bitcoin kuma s
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Wannan taswira ce ta dukkan Lightning Network. Godiya ga dubban masu gudanar da node na Lightning, zaka iya aika sats zuwa kowanne mai amfani da walat ɗin Bitcoin Lightning, a duk inda suke a duniya. Biyan zai isa cikin 'yan daƙiƙa kuma zai ci kuɗi kaɗan kawai.**Ka gwada da kanka!**
 
 #### Ayyuka: Gasar Gudun Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Wannan aiki ne na hannu inda ɗalibai ke aika da karɓar sats na gaske ta hanyar Lightning Network.**
 

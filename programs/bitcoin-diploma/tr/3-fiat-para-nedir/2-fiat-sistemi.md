@@ -65,7 +65,7 @@ Bu süreç, bankaların her kredi verdiklerinde yeni para yaratmasıyla borca da
 1. **Bankalar, verdikleri kredilerden aldıkları faizle mevduatlara faiz öder** (%9 - %5 = %4) ve kalanını kâr olarak tutar
 
 
-> **Note – Bankalar Parayı Nasıl Yaratır?**
+> **Light – Bankalar Parayı Nasıl Yaratır?**
 >
 > Ticari bankalar, kredi verdiklerinde yeni itibari para yaratırlar.
 >
@@ -124,7 +124,7 @@ Bu gruplar çeşitli şekillerde fayda sağlar ve karmaşık bir kontrol ve etki
 Sonuç olarak, fiat sisteminin kuklacıları, az sayıda kişinin büyük fayda sağladığı, çoğunluğun ise nasıl yetişeceğini merak ettiği bir gösteri düzenler.
 
 
-> **Note – Merkez Bankalarının Rolü**
+> **Light – Merkez Bankalarının Rolü**
 >
 > Merkez bankaları, bir ekonominin nasıl işlediğini sessizce şekillendirir. Resmi görevleri istikrarı ve bütünlüğü sağlamak olsa da, yöntemleri daha karanlık bir tarafı ortaya çıkarır.
 >
@@ -156,7 +156,7 @@ Merkez bankaları ve hükümetler, para arzını ve ekonomiyi etkilemek için pa
 * Vergileri Artır
 
 
-> **Note – Batmak İçin Fazla Büyük**
+> **Light – Batmak İçin Fazla Büyük**
 >
 > "Batamayacak kadar büyük" ifadesi, o kadar büyük ve birbirine bağlı olan finansal kurumları ifade eder ki, bunların iflası tüm finansal sistem için felaket sonuçlar doğurur. 2008 finansal krizi sırasında, birkaç büyük banka "batamayacak kadar büyük" olarak kabul edildi ve ABD hükümeti, çöküşlerini önlemek için müdahale ederek kurtarma paketleri sağladı.
 >
@@ -169,7 +169,11 @@ Bu politikaların nasıl işlediğini bilmek, merkezi itibari para sistemlerinin
 
 #### Etkinlik: Kısmi Rezerv Bankacılığı
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Bu, kişilerin ve bankaların kısmi rezerv bankacılığı uygulamasını kullanarak yaptığı bireysel eylemleri keşfeden bir sınıf etkinliğidir. Amaç, bu aracın para arzını nasıl artırdığını ilk elden deneyimlemektir.
 

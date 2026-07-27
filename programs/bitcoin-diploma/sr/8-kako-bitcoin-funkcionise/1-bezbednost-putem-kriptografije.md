@@ -36,7 +36,7 @@ Enkripcija se koristi kako bi se osiguralo da samo pravi vlasnik bitcoina ima ov
 Kao dodatna mera zaštite, svaka Bitcoin transakcija automatski dobija JEDINSTVEN digitalni potpis. Ovaj jedinstveni digitalni potpis pokreće tehnologija otporna na manipulacije koja pomaže mreži da proveri da je pravi vlasnik bitcoina, a ne neko drugi, poslao sredstva.
 
 
-> **Info**
+> **Dark**
 >
 > Svaki korisnik ima dva ključa: **privatni ključ**, koji se **čuva u tajnosti**, i **javni ključ** koji se može **podeliti sa drugima**. **Privatni ključ** služi kao oblik identifikacije i dokaza vlasništva, potvrđujući: „Ova adresa pripada meni i ja imam kontrolu nad njom.“
 
@@ -128,6 +128,10 @@ Proces kodiranja **javnog ključa** kroz heširanje koristi se za poboljšanje b
 
 #### Aktivnost: Generiši SHA 256 heš
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Zanima te kako funkcioniše heširanje? Skeniraj QR kod i odmah generiši SHA256 heš od bilo koje reči, rečenice ili unosa po tvom izboru. Heš funkcije su kao digitalni otisci prsta: jednosmerne su, što znači da kada se nešto hešira, ne može se vratiti nazad. Probaj i uveri se sam!

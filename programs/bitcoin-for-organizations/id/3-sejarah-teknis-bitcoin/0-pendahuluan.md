@@ -1,6 +1,6 @@
 # 3.0 Pendahuluan
 
-> **Info – Abstrak White Paper Bitcoin**
+> **Dark – Abstrak White Paper Bitcoin**
 >
 > **Versi uang elektronik peer-to-peer murni** akan memungkinkan pembayaran online dikirim langsung dari satu pihak ke pihak lain tanpa melalui lembaga keuangan.**Tanda tangan digital menyediakan sebagian dari solusi**, tetapi manfaat utama akan hilang jika **pihak ketiga yang dipercaya** masih diperlukan untuk mencegah pengeluaran ganda. Kami mengusulkan solusi untuk masalah pengeluaran ganda menggunakan **jaringan peer-to-peer**. **Jaringan memberi cap waktu pada transaksi** dengan meng-hash transaksi tersebut ke dalam rantai berkelanjutan dari **bukti kerja berbasis hash,** membentuk catatan yang tidak dapat diubah tanpa mengulang kembali **bukti kerja**. Rantai terpanjang tidak hanya berfungsi sebagai bukti urutan kejadian yang disaksikan, tetapi juga bukti bahwa rantai tersebut berasal dari kumpulan daya CPU terbesar. Selama mayoritas daya CPU dikendalikan oleh node yang tidak bekerja sama untuk menyerang jaringan, mereka akan menghasilkan rantai terpanjang dan mengungguli penyerang.**Jaringan itu sendiri membutuhkan struktur minimal. Pesan disiarkan dengan upaya terbaik, dan node dapat keluar dan bergabung kembali ke jaringan sesuka hati**, menerima rantai bukti kerja terpanjang sebagai bukti atas apa yang terjadi saat mereka tidak terhubung.
 

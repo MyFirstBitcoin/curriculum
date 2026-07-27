@@ -9,12 +9,12 @@ The currencies we use are becoming more and more digital; today, only a small fr
 ##### Resources
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Watch this short video to learn about the "Origins of Exchange", in the series “The History of Paper Money”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ This is the second episode called "Not just Noodles" from "The History of Paper Money"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ What happens when you really try to put the paper money doctrine into practice? Find out in the fourth episode of "The History of Paper Money"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

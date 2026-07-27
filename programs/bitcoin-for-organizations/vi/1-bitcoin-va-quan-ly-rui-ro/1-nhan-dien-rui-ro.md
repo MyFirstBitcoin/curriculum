@@ -39,7 +39,7 @@ Cuối cùng, hãy chuyển các quan sát từ bài tập trên thành các r�
 
 
 
-> **Info – Ví dụ**
+> **Dark – Ví dụ**
 >
 > * Rủi ro rằng bitcoin trở thành tài sản dự trữ kho bạc toàn cầu, chủ đạo
 > * Rủi ro rằng mạng lưới Bitcoin trở thành lớp thanh toán cho thương mại trên internet

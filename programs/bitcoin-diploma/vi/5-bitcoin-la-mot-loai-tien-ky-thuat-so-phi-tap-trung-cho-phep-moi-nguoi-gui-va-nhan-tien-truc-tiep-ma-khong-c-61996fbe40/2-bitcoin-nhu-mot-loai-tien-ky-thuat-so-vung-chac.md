@@ -5,7 +5,7 @@ Nói một cách đơn giản nhất, Bitcoin là tiền. Bitcoin không phải 
 Giữ bitcoin sẽ không làm bạn giàu lên vì nó sẽ không mang lại cho bạn thêm bitcoin. Giá trị của nó, khi so với bất kỳ loại tiền pháp định nào, có thể tăng lên; nhưng điều này chỉ xảy ra do sự chấp nhận ngày càng rộng rãi và sự mất giá của các loại tiền pháp định.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin là **tiền**, được dùng để lưu trữ và chuyển giá trị.  
 > Nó hoạt động trên một **mạng lưới** toàn cầu các máy tính.  
@@ -29,7 +29,7 @@ Phần mềm này và bản ghi tất cả giao dịch có khả năng biến m�
 Cuối cùng, Bitcoin là khan hiếm, nghĩa là số lượng bitcoin tồn tại sẽ luôn bị giới hạn tuyệt đối. Không ai có thể làm giả bitcoin trên chuỗi — ngay cả những chính phủ và tổ chức tài chính quyền lực nhất.
 
 
-> **Note – Nguyên tắc của Bitcoin**
+> **Light – Nguyên tắc của Bitcoin**
 >
 > Bitcoin được xây dựng dựa trên ba ý tưởng đơn giản:
 >
@@ -140,4 +140,4 @@ Chìa khóa nằm ở hành động, ở việc hiểu cách Bitcoin hoạt đ�
 ###### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Xem video "Bitcoin là gì?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

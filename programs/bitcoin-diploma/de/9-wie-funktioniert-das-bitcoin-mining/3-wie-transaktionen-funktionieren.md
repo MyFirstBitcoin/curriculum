@@ -15,7 +15,7 @@ Jetzt, da Sie öffentliche und private Schlüssel sowie die Rollen von Nodes und
 Sobald die Transaktion in einen Block aufgenommen wurde, ist sie bestätigt. Adam kann diese Bitcoin nicht erneut ausgeben, und Gerhard kann das, was er erhalten hat, in einer neuen Transaktion ausgeben.
 
 
-> **Note**
+> **Light**
 >
 > Transaktion & Gebühr ausgewählt → Vom Wallet signiert und gesendet → Von Nodes verteilt → Miner fügt Transaktion zur Blockvorlage hinzu → Miner gewinnt Proof-of-Work-Wettbewerb → Neuer Block wird validiert → Neuer Block wird von Nodes verteilt
 
@@ -23,4 +23,4 @@ Sobald die Transaktion in einen Block aufgenommen wurde, ist sie bestätigt. Ada
 ###### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Sehen Sie sich dieses Video über Bitcoin-Nodes an](https://www.youtube.com/watch?v=xc_TxlByxeY)

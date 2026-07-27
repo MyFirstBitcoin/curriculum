@@ -9,12 +9,12 @@ Le valute che utilizziamo stanno diventando sempre più digitali; oggi, solo una
 ##### Risorse
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Guarda questo breve video per scoprire le "Origini dello Scambio", nella serie “La Storia della Moneta Cartacea”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Questo è il secondo episodio intitolato "Non solo Noodles" della serie "La Storia della Moneta Cartacea"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Cosa succede quando si cerca davvero di mettere in pratica la dottrina della moneta cartacea? Scoprilo nel quarto episodio di "La Storia della Moneta Cartacea"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

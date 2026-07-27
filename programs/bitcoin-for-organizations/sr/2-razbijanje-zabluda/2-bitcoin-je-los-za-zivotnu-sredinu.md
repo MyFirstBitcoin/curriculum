@@ -1,6 +1,6 @@
 # 2.2 Bitcoin je loš za životnu sredinu
 
-> **Note**
+> **Light**
 >
 > * Bitcoin je često bio na meti kritika zbog prevelike potrošnje energije.
 > * Još 2017. godine, Svetski ekonomski forum (WEF) je objavio članak na svom sajtu u kojem se tvrdi da će 'do 2020. godine, Bitcoin trošiti više energije nego što svet može da proizvede'.

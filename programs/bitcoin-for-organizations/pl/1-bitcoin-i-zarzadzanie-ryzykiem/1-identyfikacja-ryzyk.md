@@ -39,7 +39,7 @@ Na koniec zamień obserwacje z powyższego ćwiczenia na ryzyka istotne dla twoj
 
 
 
-> **Info – Przykłady**
+> **Dark – Przykłady**
 >
 > * Ryzyko, że bitcoin stanie się głównym, globalnym aktywem rezerwowym skarbu
 > * Ryzyko, że sieć Bitcoin stanie się warstwą rozliczeniową dla handlu internetowego

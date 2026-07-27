@@ -25,7 +25,7 @@ Razmislite o praktičnim upotrebama kao što su nabavka osnovnih potrepština po
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Proširite diskusiju na grupu tako što ćete podeliti i uporediti liste kako biste pronašli pet najvažnijih razloga zašto nam je potreban novac. Identifikujte zajedničke ideje u celoj grupi. Razmislite o svojim jedinstvenim idejama koje nisu ušle na listu, ali su i dalje vredne, i zapišite ih.
 

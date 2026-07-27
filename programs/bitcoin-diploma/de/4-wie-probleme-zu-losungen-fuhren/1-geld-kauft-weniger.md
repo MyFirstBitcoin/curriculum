@@ -18,7 +18,11 @@ Dies zeigt, wie die Kaufkraft durch Kräfte außerhalb unserer Kontrolle beeinfl
 
 #### Aktivität: Auktion
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Dies ist eine Übung für den Unterricht, bei der die Teilnehmenden aus erster Hand erfahren, wie sich eine Erhöhung der Geldmenge auf die Preisbildung auswirkt. Ziel ist es, dass die Teilnehmenden monetäre Inflation (nicht Preis-Inflation) verstehen.
 

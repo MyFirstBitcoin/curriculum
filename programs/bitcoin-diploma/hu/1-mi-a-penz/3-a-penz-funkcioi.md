@@ -30,7 +30,7 @@ Ha új autót szeretnél venni, összehasonlíthatod a különböző autókeresk
 Ez a három funkció teszi lehetővé, hogy a gazdaságok összetettek és dinamikusak legyenek. Pénz nélkül sokkal nehezebb lenne árukat és szolgáltatásokat vásárolni és eladni, és a gazdaságunk sokkal kevésbé lenne fejlett.
 
 
-> **Info**
+> **Dark**
 >
 > Az emberek akkor értik meg valaminek az értékét, ha annak pénzben kifejezett ára van.
 

@@ -25,7 +25,7 @@ Considera usi pratici come procurarsi beni di prima necessità come il cibo e og
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Amplia la discussione al gruppo condividendo e confrontando le liste per trovare i cinque motivi più importanti per cui abbiamo bisogno del denaro. Identifica le idee comuni tra la classe. Rifletti sulle tue idee uniche che non sono entrate nella lista ma che sono comunque preziose, e annotale.
 

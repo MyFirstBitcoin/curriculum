@@ -5,7 +5,7 @@ Você já se perguntou se poderia usar bitcoin para comprar seu café diário ou
 Embora pagar com cartão de crédito ou aplicativo possa parecer fácil de entender para quem está pagando, o processamento do pagamento é, na verdade, muito complexo e envolve várias partes diferentes.
 
 
-> **Note – Como Funciona o Processamento de Pagamentos**
+> **Light – Como Funciona o Processamento de Pagamentos**
 >
 > Cliente → Comerciante → Gateway de Pagamento → Processadora → Bandeira do Cartão → Banco Emissor → Bandeira do Cartão → Banco do Comerciante → Comerciante
 
@@ -55,7 +55,7 @@ Uma **economia circular** é composta por participantes que decidem apoiar uns a
 Quando aplicada ao Bitcoin, uma economia circular é construída apoiando comerciantes locais e profissionais que aceitam bitcoin, para que todos possam prosperar juntos graças às propriedades superiores do Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > A Lightning Network permite que economias circulares de Bitcoin surjam e prosperem em todo o mundo graças a transações quase instantâneas e de baixas taxas.
 
@@ -71,4 +71,4 @@ Em [BTCMap.org](https://btcmap.org/communities), você também pode procurar com
 ###### Recursos
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Assista a este vídeo sobre a Lightning Network](https://youtu.be/yKdK-7AtAMQ)

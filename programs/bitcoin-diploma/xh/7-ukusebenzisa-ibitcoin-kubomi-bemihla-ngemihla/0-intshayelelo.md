@@ -10,6 +10,6 @@ I-Bitcoin ayisiyonto ingaqhelekanga. Njengoko uAndreas Antonopoulos watsho ngoku
 Enye yale maleko ibizwa ngokuba yi-**Lightning Network**. Ifana nomgaqo omkhulu okhawulezayo weBitcoin, onceda abantu bathumele kwaye bamkele i-bitcoin ngokukhawuleza nangemirhumo ephantsi kakhulu. Ivumela abasebenzisi ukuba benze iintengiselwano ezikhawulezayo, ezincinci phezu kwenethiwekhi eqhelekileyo yeBitcoin. Oku kwenza ukuthenga ikofu okanye ukuhlawula umhlobo kube lula kwaye kukhawuleze! Ewe, njengazo zonke izinto, oku kuza neengxaki ezithile zokutshintshiselana.
 
 
-> **Info**
+> **Dark**
 >
 > I-satoshi yeyona mali incinci kwi-bitcoin. Njengokuba i-randi ingahlulwa ibe ziisenti, i-bitcoin enye ingahlulwa ibe ziinxalenye ezincinci ezibizwa ngokuba ziisatoshis. I-bitcoin enye ilingana ne-100 million satoshis, nto leyo eyenza ii-satoshis zibe yeyona nxalenye incinci yemali kwiNkqubo yeBitcoin. Xa sithetha ngokuthumela i-bitcoin nge-Lightning Network, siza kuyibiza ngokuthi “sithumela ii-sats,” elifutshane le-satoshis.

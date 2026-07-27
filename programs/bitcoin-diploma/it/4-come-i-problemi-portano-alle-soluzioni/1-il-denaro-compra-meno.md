@@ -18,7 +18,11 @@ Questo mostra come il potere d'acquisto possa essere influenzato da forze fuori 
 
 #### Attività: Asta
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Questa è un esercizio di classe in cui i partecipanti imparano in prima persona come l'aumento dell'offerta di moneta influisce sui prezzi. L'obiettivo è che i partecipanti comprendano l'inflazione monetaria (non l'inflazione dei prezzi).
 

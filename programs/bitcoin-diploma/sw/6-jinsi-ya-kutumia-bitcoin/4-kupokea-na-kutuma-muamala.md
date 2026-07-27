@@ -19,7 +19,7 @@ Tuseme Juma anamdai Eliana 0.5 BTC na yuko tayari kumlipa. Wote wawili wana poch
 _Ni muhimu kutambua kwamba mara muamala unapokamilika, hauwezi kurudishwa nyuma._
 
 
-> **Note – Jinsi Muamala wa Bitcoin Unavyofanya Kazi**
+> **Light – Jinsi Muamala wa Bitcoin Unavyofanya Kazi**
 >
 > 1. Mtu anaomba kufanya muamala
 > 1. Muamala unatumiwa kwenye kompyuta za P2P (nodi)
@@ -30,7 +30,7 @@ _Ni muhimu kutambua kwamba mara muamala unapokamilika, hauwezi kurudishwa nyuma.
 
 
 
-> **Note – Kupokea Miamala ya Bitcoin**
+> **Light – Kupokea Miamala ya Bitcoin**
 >
 > Ili kupokea bitcoin, utahitaji kumpa mtumaji anuani yako ya umma ya Bitcoin. Hii ni mfululizo wa kipekee wa herufi na nambari unaowakilisha pochi yako na hutumika kuitambua kwenye mtandao wa Bitcoin.
 >
@@ -48,7 +48,7 @@ Mara tu mtumaji anapopata anuani yako, anaweza kukutumia bitcoin kwa kuingiza an
 Muamala unathibitishwa na Mtandao wa Bitcoin na kawaida huchukua takriban dakika 10. Kwa usalama zaidi, inashauriwa kusubiri uthibitisho mara mbili, ambao huchukua takriban dakika 20.
 
 
-> **Note – Kutuma Miamala ya Bitcoin**
+> **Light – Kutuma Miamala ya Bitcoin**
 >
 > Ili kutuma bitcoin, utahitaji vitu kadhaa: pochi ya Bitcoin, anuani ya umma ya mpokeaji, na kiasi cha bitcoin unachotaka kutuma.
 >
@@ -68,7 +68,11 @@ Muamala unathibitishwa na Mtandao wa Bitcoin na kawaida huchukua takriban dakika
 
 #### Shughuli: Miamala Kwa Vitendo
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Hii ni zoezi la ushirikiano linalorahisisha majukumu ya msingi ya watu wanaohusika kwenye muamala wa Bitcoin.**
 

@@ -17,7 +17,7 @@ Epuka kuwa na uamuzi wa haraka kupita kiasi. Unaweza kujiandaa kwa matokeo yanay
 Katika sehemu hii tunaangazia baadhi ya makundi ya jumla ya hatua ili kukusaidia kubadilisha uchambuzi kuwa vitendo. Orodha hii haikusudiwi kuwa kamili, bali imeundwa kukusaidia kuanza.
 
 
-> **Note – Mikakati ya P&L**
+> **Light – Mikakati ya P&L**
 >
 > * Linda mapato yaliyopo na sehemu ya soko
 >   * Punguza kuathirika na masoko yaliyoathiriwa vibaya
@@ -33,7 +33,7 @@ Katika sehemu hii tunaangazia baadhi ya makundi ya jumla ya hatua ili kukusaidia
 
 
 
-> **Note – Mikakati ya Mizania**
+> **Light – Mikakati ya Mizania**
 >
 > * Ongeza thamani kutoka kwenye mizania yako
 >   * Punguza kuathirika na mali zinazoshindwa kuzalisha zaidi ya gharama ya mtaji, bila kupunguza uimara wa mtaji

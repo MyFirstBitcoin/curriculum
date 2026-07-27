@@ -88,7 +88,7 @@ Rogue kemudian menyerah. Kenapa?
 Rogue menyadari bahwa ia tidak memiliki cukup hash rate untuk melakukan double spend, meskipun mengendalikan 36% dari hash rate Bitcoin. Agar berhasil, ia harus menambang empat blok lagi untuk mendahului rantai jujur. Meskipun memiliki kekuatan komputasi yang sangat besar dan menguasai 36% jaringan, peluang keberhasilan Rogue hanya 0,100113.
 
 
-> **Info – Teori Permainan Mulai Berlaku**
+> **Dark – Teori Permainan Mulai Berlaku**
 >
 > Peluang keberhasilan Rogue sangat buruk, dan bahkan menjadi lebih buruk lagi. Setiap menit ia terus mencoba, Rogue mengonsumsi listrik dalam jumlah sangat besar. Semua ini akan sia-sia. Selain itu, untuk setiap blok yang gagal ia tambang secara jujur, Rogue kehilangan hadiah blok, yang saat ini sebesar 3,125 koin per blok, dengan nilai lebih dari $300 ribu saat ini.
 >

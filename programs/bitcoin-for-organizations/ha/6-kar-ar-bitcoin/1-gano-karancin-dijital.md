@@ -88,7 +88,7 @@ Rogue sai ya daina ƙoƙari. Me ya sa?
 Rogue ya fahimci cewa ba shi da isasshen ƙarfin hash don cimma kashe kuɗi sau biyu, duk da yana da 36% na ƙarfin hash na Bitcoin. Don ya yi nasara, dole ne ya hako tubalan ƙari guda huɗu don ya zarce sarkar gaskiya. Duk da ƙarfin kwamfutarsa mai yawa da kuma iko da 36% na hanyar sadarwa, damar nasarar Rogue kawai 0.100113 ce.
 
 
-> **Info – Ka'idar Wasan Ta Shiga Ciki**
+> **Dark – Ka'idar Wasan Ta Shiga Ciki**
 >
 > Damar nasarar Rogue ba ta da kyau, amma har ma da haka lamarin ya fi muni. Kowanne minti da ya ci gaba da ƙoƙari, Rogue yana cinye wutar lantarki mai yawa. Duk wannan zai zama a banza. Bugu da ƙari, duk lokacin da ya kasa hako tubali da gaskiya, Rogue yana rasa lada na tubali, wanda a yanzu ya kai 3.125 tsabar kudi a kowane tubali, wanda darajarsa ta fi Naira 300,000,000 a yanzu.
 >

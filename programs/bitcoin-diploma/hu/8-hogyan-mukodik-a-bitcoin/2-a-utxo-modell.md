@@ -27,4 +27,4 @@ A tárcád egyenlege egyszerűen az összes általad birtokolt UTXO összérték
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Nézd meg a „How Bitcoin Works under the Hood” című videót](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

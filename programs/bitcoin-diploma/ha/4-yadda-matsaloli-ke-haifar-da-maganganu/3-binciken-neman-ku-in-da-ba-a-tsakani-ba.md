@@ -49,7 +49,7 @@ A cikin tsarin tsakiya, komai yana karkata ne zuwa wata babbar hukuma guda daya,
 * **Rashin gaskiya da amana**: Yadda tsarin tsakiya ke aiki na iya zama wahala a fahimta, wanda ke sa mutane su kasa yarda da shi.
 
 
-> **Note**
+> **Light**
 >
 > A shekarar 2022, lokacin zanga-zangar lumana a Kanada, bankuna sun kulle asusun masu zanga-zanga, wanda ya nuna yadda babbar hukuma ke iya sarrafa damar kudi.
 
@@ -73,7 +73,7 @@ Duk da cewa tsarin da aka rarraba yana da fa'idodi da dama, yanke shawara tare n
 A cikin duniyar da ke da tsarin da aka mayar da iko a wuri guda da kuma tsarin da aka rarraba, komai yana dogara ne da wanda ke da iko. Tsarin da aka mayar da iko a wuri guda yana baiwa ƙungiya kaɗan iko, yayin da tsarin da aka rarraba ke yaduwa, yana ba kowa damar bayyana ra'ayinsa. Wannan sauyin iko zai nufi makoma mai adalci, inda mutane da yawa ke da tasiri a tsarin da ke tsara rayuwarsu.
 
 
-> **Note**
+> **Light**
 >
 > Tor Network yana ƙirƙirar tsarin da aka rarraba inda mutane za su iya zama ba a san su ba a intanet kuma yana da wahala a dakatar ko takaita hanyar sadarwar.
 
@@ -91,4 +91,4 @@ Wadannan ƙoƙarin sun taimaka wajen bayyana abin da ke bacewa. Daga baya, wani 
 ###### Kayan Karatu
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Kalli wannan bidiyon don gano labarin Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

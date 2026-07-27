@@ -78,7 +78,7 @@ Das weitere Problem für den Angreifer ist, wie er die Kontrolle aufrechterhalte
 Es ist wahrscheinlich, dass, sobald offensichtlich ist, dass das Netzwerk angegriffen wird, die Bitcoin-Entwickler einen ‚Hard Fork‘ der Bitcoin-Software durchführen würden, sodass das Ledger von dem Punkt an, an dem die betrügerischen Einträge vom Angreifer erzeugt wurden, abgezweigt würde. Die Mehrheit der Nodes würde dann die überarbeitete Version der Software implementieren und die Bemühungen des Angreifers würden ignoriert.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Eine etwas humorvollere Beschreibung von Andreas Antonopoulos zur Möglichkeit eines staatlich geförderten 51%-Angriffs.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Könnte die Selbstverwahrung von Bitcoin und Peer-to-Peer-Transaktionen verboten werden?
@@ -106,7 +106,7 @@ Wir sollten auch erwarten, dass einige Nationen schlechte und nicht praktikable 
 Das Red-Flag-Gesetz des Vereinigten Königreichs aus dem späten 19. Jahrhundert ist ein historisches Beispiel für ein übermäßig strenges Gesetz, das später wieder aufgehoben wurde.
 
 
-> **Note**
+> **Light**
 >
 > Mitte des 19. Jahrhunderts sahen sich die Kutsch- und insbesondere die Lokomotivindustrie mit dem drohenden Gespenst des disruptiven Potenzials des Automobils konfrontiert. Sie fürchteten, das Auto würde sie ersetzen.**Also arbeiteten sie hart daran, die Regierung davon zu überzeugen, strenge Gesetze zu erlassen, um das Wachstum dieser neuen Technologie effektiv zu behindern.**
 >
@@ -144,7 +144,7 @@ Natürlich wäre es absurd, Bitcoin für eine Fiat-Währungskrise verantwortlich
 Es ist außerdem wichtig zu beachten, dass Bitcoin durch Angriffe stärker wird. Denn diese Angriffe entlarven die von Kritikern verbreiteten Mythen, Bitcoin sei fragil und verwundbar. Wir sollten also nicht nur erwarten, dass Regierungen Bitcoin überregulieren, sondern dies sogar begrüßen.
 
 
-> **Note**
+> **Light**
 >
 > **Regierungen werden wahrscheinlich durch den Versuch, Bitcoin zu behindern, lernen, was passiert, wenn sie das Netzwerk angreifen – und dabei die Anti-Fragilität von Bitcoin entdecken.** Sie werden vermutlich feststellen, dass Kapital bei Bitcoin mehr als bei jeder anderen Anlageklasse der Geschichte in jene Länder fließt, in denen es am besten behandelt wird. Daher sollte mit dem Wachstum des Bitcoin-Netzwerks immer deutlicher werden, dass Länder, die es annehmen statt bekämpfen, eher als Gewinner hervorgehen werden.
 

@@ -11,7 +11,11 @@ Ebben a modulban időutazásra indulunk, hogy első kézből tapasztaljuk meg a 
 
 #### Tevékenység: Iteratív cserejáték
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Ez egy osztálytermi gyakorlat, amelynek célja a cserekereskedelem fogalmának mélyebb megértése. A részvétel segít meglátni, hogyan alakul ki a pénz természetes módon a szabad piacokon.
 

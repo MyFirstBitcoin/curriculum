@@ -30,7 +30,7 @@ Om du ville köpa en ny bil skulle du kunna jämföra priser från olika bilhand
 Dessa tre funktioner är det som gör att ekonomier kan bli komplexa och dynamiska. Utan pengar skulle det vara mycket svårare att köpa och sälja varor och tjänster, och vår ekonomi skulle vara mycket mindre utvecklad.
 
 
-> **Info**
+> **Dark**
 >
 > Folk förstår värdet av något när det har ett pris uttryckt i pengar.
 

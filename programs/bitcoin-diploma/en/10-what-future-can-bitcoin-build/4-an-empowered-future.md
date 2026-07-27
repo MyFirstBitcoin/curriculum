@@ -41,4 +41,4 @@ If you’re ready to take the next step, check out the additional resources in t
 ###### Resources
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ The possibilities for positive change are immense, which is why we invite you to watch this video to learn more.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

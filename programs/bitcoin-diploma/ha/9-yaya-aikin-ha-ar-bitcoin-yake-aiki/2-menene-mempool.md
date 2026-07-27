@@ -12,7 +12,11 @@ Da zarar an saka mu'amala cikin bulok, an tabbatar da ita kuma za ta kasance a r
 
 #### Aiki: Binciken Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Wannan aikin yana bai wa ɗalibai damar amfani da kayan aiki kyauta kuma buɗaɗɗen tushe wanda ba ya bukatar kwarewar fasaha. Yana da amfani ga masu amfani da Bitcoin a kowane mataki, daga masu farawa har zuwa masu ƙwarewa.**
 

@@ -25,7 +25,7 @@ Tänk på praktiska användningsområden som att skaffa nödvändigheter som mat
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Utvidga diskussionen till gruppen genom att dela och jämföra listor för att hitta de fem viktigaste anledningarna till att behöva pengar. Identifiera gemensamma idéer i klassen. Reflektera över dina egna unika idéer som inte kom med på listan men ändå är värdefulla, och skriv ner dem.
 

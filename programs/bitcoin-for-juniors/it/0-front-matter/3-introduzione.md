@@ -4,9 +4,9 @@ Questa guida spiega come leggere e utilizzare i piani di lezione di Bitcoin for 
 
 #### Utilizzare i piani di lezione
 
-Ogni piano di lezione in Bitcoin for Juniors è una linea guida strutturata. Non è un copione da seguire parola per parola. Gli insegnanti sono incoraggiati ad adattare, semplificare, ampliare o modificare le attività in base agli studenti, all'ambiente e ai limiti di tempo. I piani sono pensati per offrire chiarezza e sicurezza, soprattutto agli insegnanti che sono nuovi all'insegnamento dei concetti di denaro o di Bitcoin.
+Ogni piano di lezione in Bitcoin for Juniors è una linea guida strutturata. Non è un copione da seguire parola per parola. Gli insegnanti sono incoraggiati ad adattare, semplificare, ampliare o modificare le attività in base agli studenti, all'ambiente e ai limiti di tempo. I piani sono pensati per offrire chiarezza e sicurezza, soprattutto agli educatori che sono nuovi all'insegnamento dei concetti di denaro o di Bitcoin.
 
-Sono previsti adattamenti. Facilita invece di fare lezione frontale. Il quadro fornisce la struttura. L'insegnante offre giudizio e contesto.
+Sono previsti adattamenti. Facilita invece di fare una lezione frontale. Il quadro fornisce la struttura. L'insegnante offre giudizio e contesto.
 
 #### Comprendere la struttura
 
@@ -14,25 +14,25 @@ Ogni attività segue un formato coerente. Questo permette agli insegnanti di ind
 
 ##### Tipo di attività
 
-Le attività sono categorizzate per facilitare la pianificazione. Ad esempio: gioco di simulazione, discussione guidata, apprendimento esperienziale, sfida cooperativa. Queste etichette aiutano gli insegnanti a scegliere le attività che meglio si adattano agli obiettivi didattici e al livello di energia della classe.
+Le attività sono categorizzate per facilitare la pianificazione. Ad esempio: gioco di simulazione, discussione guidata, apprendimento esperienziale, sfida cooperativa. Queste etichette aiutano gli insegnanti a scegliere le attività che meglio si adattano agli obiettivi didattici e ai livelli di energia della classe.
 
 ##### Durata
 
-Il tempo indicato è approssimativo. Alcuni gruppi saranno più veloci. Altri avranno bisogno di più discussione. Gli insegnanti dovrebbero considerare la durata come una guida flessibile, non come un limite rigido.
+Il tempo indicato è approssimativo. Alcuni gruppi procederanno velocemente. Altri avranno bisogno di più discussione. Gli insegnanti dovrebbero considerare la durata come una guida flessibile, non come un limite rigido.
 
 ##### Modalità di raggruppamento
 
 Indica se l'attività è pensata per:
 
 * Intera classe
-* A coppie
+* Coppie
 * Lavoro individuale
 
 La modalità di raggruppamento aiuta a stabilire la dinamica di apprendimento desiderata. Lavorare in gruppo tende ad aumentare il coinvolgimento e aiuta gli studenti a rafforzare le idee attraverso la discussione.
 
 #### Obiettivi di apprendimento
 
-Gli obiettivi di apprendimento definiscono cosa gli studenti dovrebbero sapere, comprendere o saper fare al termine dell'attività. Questi obiettivi sono essenziali. Aiutano l'insegnante a rimanere focalizzato sullo scopo, invece che semplicemente sul completamento del compito. Se il tempo è limitato, dai priorità all'obiettivo di apprendimento piuttosto che a completare ogni passaggio.
+Gli obiettivi di apprendimento definiscono cosa gli studenti dovrebbero sapere, comprendere o saper fare al termine dell'attività. Questi obiettivi sono essenziali. Aiutano l'insegnante a rimanere focalizzato sullo scopo, invece che semplicemente completare un compito. Se il tempo è limitato, dai priorità all'obiettivo di apprendimento piuttosto che al completamento di ogni passaggio.
 
 #### Materiali vs Attrezzature
 
@@ -65,18 +65,18 @@ L'insegnante spiega brevemente lo scopo dell'attività usando un linguaggio comp
 ##### ATTIVITÀ
 
 1. **Preparazione** — Istruzioni per organizzare gli studenti e distribuire i materiali.
-1. **Esempio** — Quando opportuno, mostra come svolgere il compito. L'esempio riduce la confusione e aumenta la sicurezza.
+1. **Modello** — Quando opportuno, mostra come svolgere il compito. Mostrare riduce la confusione e aumenta la sicurezza.
 1. **Svolgimento** — Gli studenti completano l'attività. L'insegnante osserva, guida e supporta invece di dominare.
 1. **Verifica** — Fai una breve pausa per verificare la comprensione. Adatta se necessario. Questo previene che i malintesi si aggravino.
 1. **Riflessione** — Gli studenti discutono cosa è successo e cosa significa. La riflessione è fondamentale. Trasforma l'esperienza in apprendimento. Incoraggia domande aperte e collegamenti con concetti del mondo reale.
 
 ##### FOLLOW-UP
 
-Un breve momento di chiusura. Rafforza l'idea chiave. Concludi in modo positivo. Può includere una domanda di riepilogo, una breve condivisione a coppie o una frase che collega l'attività al tema più ampio del capitolo.
+Un breve momento di chiusura. Rafforza l'idea chiave. Concludi in modo positivo. Può includere una domanda di riepilogo, una condivisione veloce a coppie o una breve affermazione che collega l'attività al tema più ampio del capitolo.
 
 ##### CHIUSURA
 
-Note per l'insegnante. Questa sezione include promemoria per raccogliere i materiali, riporre le risorse, riordinare l'aula e prepararsi per la sessione successiva.
+Note per l'insegnante. Questa sezione include promemoria per raccogliere i materiali, riporre le risorse, riordinare l'aula e prepararsi per la prossima sessione.
 
 #### Gestione della classe
 

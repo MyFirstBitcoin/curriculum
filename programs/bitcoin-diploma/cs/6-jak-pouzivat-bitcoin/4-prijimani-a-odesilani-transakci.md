@@ -19,7 +19,7 @@ Nové bitcoinové transakce jsou zahajovány z peněženek po celém světě, al
 _Je důležité si uvědomit, že jakmile je transakce dokončena, nelze ji vrátit zpět._
 
 
-> **Note – Jak funguje bitcoinová transakce**
+> **Light – Jak funguje bitcoinová transakce**
 >
 > 1. Někdo požádá o transakci
 > 1. Transakce je vyslána do P2P počítačů (uzlů)
@@ -30,7 +30,7 @@ _Je důležité si uvědomit, že jakmile je transakce dokončena, nelze ji vrá
 
 
 
-> **Note – Přijímání bitcoinových transakcí**
+> **Light – Přijímání bitcoinových transakcí**
 >
 > Pro přijetí bitcoinů budete muset poskytnout odesílateli bitcoinovou veřejnou adresu. Jedná se o jedinečný řetězec písmen a čísel, který reprezentuje vaši peněženku a slouží k její identifikaci v bitcoinové síti.
 >
@@ -48,7 +48,7 @@ Jakmile má odesílatel vaši adresu, může vám poslat bitcoiny tak, že zadá
 Transakce je potvrzena bitcoinovou sítí a obvykle trvá asi 10 minut. Pro větší bezpečnost se doporučuje počkat na dvě potvrzení, což trvá přibližně 20 minut.
 
 
-> **Note – Odesílání bitcoinových transakcí**
+> **Light – Odesílání bitcoinových transakcí**
 >
 > K odeslání bitcoinů budete potřebovat několik věcí: bitcoinovou peněženku, veřejnou adresu příjemce a částku bitcoinů, kterou chcete odeslat.
 >
@@ -68,7 +68,11 @@ Transakce je potvrzena bitcoinovou sítí a obvykle trvá asi 10 minut. Pro vět
 
 #### Aktivita: Transakce v praxi
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Toto je kooperativní cvičení, které zjednodušuje základní role lidí zapojených do bitcoinové transakce.**
 

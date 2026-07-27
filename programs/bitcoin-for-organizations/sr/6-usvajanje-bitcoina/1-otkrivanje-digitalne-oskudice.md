@@ -88,7 +88,7 @@ Rogue tada odustaje. Zašto?
 Rogue shvata da nema dovoljno hash snage da izvede dvostruko trošenje, uprkos tome što kontroliše 36% hash snage Bitcoin mreže. Da bi bio uspešan, mora da iskopa još četiri bloka kako bi pretekao pošteni lanac. Uprkos ogromnoj računarskoj snazi i kontroli nad 36% mreže, Rogue-ove šanse za uspeh su samo 0,100113.
 
 
-> **Info – Uključuje se teorija igara**
+> **Dark – Uključuje se teorija igara**
 >
 > Rogue-ove šanse za uspeh su užasne, ali postaje još gore. Za svaki minut pokušavanja, Rogue troši ogromnu količinu električne energije. Sve to biće uzalud. Štaviše, za svaki blok koji ne iskopa pošteno, Rogue gubi nagradu za blok, koja je trenutno 3,125 novčića po bloku, što trenutno vredi više od 300.000 €.
 >

@@ -76,7 +76,11 @@ Un alt factor important de avut în vedere atunci când alegi un portofel Bitcoi
 
 #### Activitate: Discuție și evaluare a portofelelor Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Accesează următorul site web: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

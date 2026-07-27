@@ -39,7 +39,7 @@ Akhir sekali, tukarkan pemerhatian daripada latihan di atas kepada risiko yang b
 
 
 
-> **Info – Contoh**
+> **Dark – Contoh**
 >
 > * Risiko bahawa bitcoin menjadi aset rizab perbendaharaan utama, global
 > * Risiko bahawa rangkaian Bitcoin menjadi lapisan penyelesaian untuk perdagangan berasaskan internet

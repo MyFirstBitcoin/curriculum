@@ -10,6 +10,6 @@ Bitcoin tidak terkecuali. Seperti yang pernah dikatakan Andreas Antonopoulos, �
 Salah satu lapisan ini disebut **Lightning Network**. Ini seperti jalan tol super cepat untuk Bitcoin, membantu orang mengirim dan menerima bitcoin dengan cepat dan biaya yang sangat rendah. Ini memungkinkan pengguna melakukan transaksi kecil secara instan di atas jaringan Bitcoin reguler. Hal ini membuat membeli kopi atau membayar teman menjadi mudah dan cepat! Tentu saja, seperti halnya segala sesuatu, ada kompromi yang harus diambil.
 
 
-> **Info**
+> **Dark**
 >
 > Satoshi adalah denominasi terkecil dari bitcoin. Sama seperti rupiah bisa dipecah menjadi sen, satu bitcoin dapat dibagi menjadi unit-unit kecil yang disebut satoshi. Satu bitcoin sama dengan 100 juta satoshi, menjadikan satoshi sebagai bagian nilai terkecil dalam sistem Bitcoin. Ketika kita berbicara tentang mengirim bitcoin melalui Lightning Network, kita akan menyebutnya “mengirim sats,” singkatan dari satoshi.

@@ -41,7 +41,7 @@ Gdy pojawia się ta krytyka, warto zastanowić się, czy krytyk nie ma innych mo
 Dylemat skalowalności, czyli Blockchain Trilemma, został po raz pierwszy przedstawiony przez Vitalika Buterina w 2017 roku. Mówi on, że w projektowaniu blockchaina zawsze istnieje kompromis między decentralizacją, bezpieczeństwem a skalowalnością. Każdy, kto podnosi zarzut, że Bitcoin jest zbyt wolny i że ma szybsze rozwiązanie w blockchainie warstwy 1, poświęca część bezpieczeństwa lub decentralizacji, aby to osiągnąć. Taki kompromis może mieć sens dla blockchaina zaprojektowanego do innych celów, ale dla globalnego pieniądza kolejność priorytetów musi być następująca:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralizacja**
 >   * Umożliwia usunięcie zaufanych pośredników

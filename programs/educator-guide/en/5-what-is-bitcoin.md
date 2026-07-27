@@ -1,4 +1,4 @@
-# 5 - What Is Bitcoin?
+# What Is Bitcoin?
 
 Duration: 90 minutes
 

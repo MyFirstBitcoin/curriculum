@@ -15,7 +15,7 @@ Teraz, gdy rozumiesz klucze publiczne i prywatne, a także role węzłów i gór
 Po włączeniu do bloku transakcja jest potwierdzona. Adam nie może ponownie wydać tych bitcoinów, a Adam może wydać to, co otrzymał, w nowej transakcji.
 
 
-> **Note**
+> **Light**
 >
 > Wybrano transakcję i opłatę → Podpisana przez portfel i wysłana → Rozpowszechniona przez węzły → Górnik dodaje transakcję do szablonu bloku → Górnik wygrywa konkurs Proof-of-Work → Nowy blok jest weryfikowany → Nowy blok jest rozpowszechniany przez węzły
 
@@ -23,4 +23,4 @@ Po włączeniu do bloku transakcja jest potwierdzona. Adam nie może ponownie wy
 ###### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Obejrzyj ten film o węzłach Bitcoina](https://www.youtube.com/watch?v=xc_TxlByxeY)

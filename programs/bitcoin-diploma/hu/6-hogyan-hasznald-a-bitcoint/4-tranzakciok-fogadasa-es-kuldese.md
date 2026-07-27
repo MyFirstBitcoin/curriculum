@@ -19,7 +19,7 @@ Tegyük fel, hogy Gábor tartozik Elenának 0,5 BTC-vel, és készen áll arra, 
 _Fontos megjegyezni, hogy ha a tranzakció befejeződött, azt nem lehet visszafordítani._
 
 
-> **Note – Hogyan működik egy Bitcoin-tranzakció**
+> **Light – Hogyan működik egy Bitcoin-tranzakció**
 >
 > 1. Valaki tranzakciót kezdeményez
 > 1. A tranzakciót továbbítják a P2P számítógépekhez (csomópontokhoz)
@@ -30,7 +30,7 @@ _Fontos megjegyezni, hogy ha a tranzakció befejeződött, azt nem lehet visszaf
 
 
 
-> **Note – Bitcoin-tranzakciók fogadása**
+> **Light – Bitcoin-tranzakciók fogadása**
 >
 > A bitcoin fogadásához meg kell adnod a küldőnek egy Bitcoin nyilvános címet. Ez egy egyedi betű- és számsorozat, amely a pénztárcádat jelöli, és a Bitcoin-hálózaton azonosítja azt.
 >
@@ -48,7 +48,7 @@ Miután a küldő megkapta a címedet, elküldheti neked a bitcoint úgy, hogy b
 A tranzakciót a Bitcoin-hálózat megerősíti, ami általában körülbelül 10 percet vesz igénybe. Nagyobb biztonság érdekében ajánlott két megerősítésre várni, ami körülbelül 20 perc.
 
 
-> **Note – Bitcoin-tranzakciók küldése**
+> **Light – Bitcoin-tranzakciók küldése**
 >
 > A bitcoin küldéséhez néhány dologra lesz szükséged: egy Bitcoin pénztárcára, a címzett nyilvános címére, és a küldeni kívánt bitcoin mennyiségére.
 >
@@ -68,7 +68,11 @@ A tranzakciót a Bitcoin-hálózat megerősíti, ami általában körülbelül 1
 
 #### Tevékenység: Tranzakciók működés közben
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Ez egy együttműködésen alapuló gyakorlat, amely leegyszerűsíti a Bitcoin-tranzakcióban részt vevő emberek alapvető szerepeit.**
 

@@ -58,13 +58,21 @@ Ang mga on-chain na transaksyon ay nangyayari direkta sa Bitcoin blockchain at m
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Ito ay isang mapa ng buong Lightning Network. Salamat sa libu-libong nagpapatakbo ng Lightning node, maaari kang magpadala ng sats sa kahit sinong gumagamit ng Bitcoin Lightning wallet, saan man sila sa mundo. Ang bayad ay darating sa loob ng ilang segundo at ilang sentimos lang ang halaga.**Subukan mo mismo!**
 
 #### Gawain: Lightning Relay Race
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Ito ay isang praktikal na ehersisyo kung saan ang mga estudyante ay magpapadala at tatanggap ng totoong sats gamit ang Lightning Network.**
 

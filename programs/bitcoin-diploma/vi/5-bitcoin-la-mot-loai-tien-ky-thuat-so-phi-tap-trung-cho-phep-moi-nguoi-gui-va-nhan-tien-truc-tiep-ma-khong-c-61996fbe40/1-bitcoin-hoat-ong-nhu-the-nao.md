@@ -19,7 +19,7 @@ Về cơ bản, Bitcoin hoạt động như vậy. Bitcoin là một mạng lư�
 Ví dụ, một trong những quy tắc của Bitcoin là "Sẽ không bao giờ có nhiều hơn 21 triệu bitcoin." Nếu ai đó tạo thêm một triệu bitcoin cho riêng mình, điều đó cũng vô ích, vì họ sẽ tự động bị tất cả những người khác phát hiện và loại bỏ. Đây chính là điều làm cho Bitcoin trở nên vững chắc.
 
 
-> **Info**
+> **Dark**
 >
 > Không quan trọng bạn là ai hay đến từ đâu: nếu bạn bước vào thế giới Bitcoin, bạn phải chơi theo cùng một bộ quy tắc như mọi người khác.
 
@@ -84,7 +84,11 @@ Mỗi thành viên trong dàn nhạc phi tập trung này đều đóng vai trò
 
 #### Hoạt động: Đồng thuận
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Đây là một bài tập nhóm nơi các thành viên sẽ trải nghiệm trực tiếp việc đồng bộ hóa hành động trong một nhóm mà không có người lãnh đạo khó khăn như thế nào. Mục đích là để các thành viên hiểu cách đạt được sự đồng thuận trong Bitcoin.
 

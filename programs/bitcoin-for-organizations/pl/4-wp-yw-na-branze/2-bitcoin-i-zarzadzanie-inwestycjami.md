@@ -166,7 +166,7 @@ Wysoka zmienność cen, mierzona odchyleniem standardowym zwrotów, jest równie
 Podsumowując, bitcoin jest aktywem o dużej zmienności. Jest to do przewidzenia, ponieważ jest nowy i znajduje się na długiej drodze odkrywania ceny oraz adopcji przez użytkowników. Profesjonalni inwestorzy są dobrze przygotowani, aby zaakceptować tę zmienność i – biorąc pod uwagę potencjał ponadprzeciętnych zysków – odpowiednio nią zarządzać. Mogą określić odpowiednią alokację, zgodnie z własnymi ramami inwestycyjnymi i apetytem na ryzyko. Aby złagodzić krótkoterminową zmienność, trzymanie bitcoina przez co najmniej jeden, czteroletni cykl halvingu może być odpowiednim minimalnym okresem inwestycji.
 
 
-> **Note – Czy Bitcoin jest zabezpieczeniem przed inflacją?**
+> **Light – Czy Bitcoin jest zabezpieczeniem przed inflacją?**
 >
 > Ponieważ bitcoin ma ograniczoną podaż, jego zwolennicy od dawna twierdzą, że służy jako zabezpieczenie przed inflacją walut fiducjarnych. Jasne jest, że w bardzo długim okresie bitcoin był bardzo skutecznym zabezpieczeniem przed utratą siły nabywczej pieniądza fiducjarnego. Jednak krytycy wskazują na gwałtowny wzrost rocznego wskaźnika CPI11 od początku 2021 roku do 40-letniego maksimum w połowie 2022 roku i pytają, dlaczego cena bitcoina nie wzrosła znacząco w tym okresie. Czy więc bitcoin zawiódł jako zabezpieczenie przed inflacją?
 >
@@ -216,7 +216,7 @@ Oczywiście niewielu komentatorów spodziewa się, że ten scenariusz zrealizuje
 Co jeśli, podobnie jak w przypadku rozwoju internetu, nie możemy po prostu zrezygnować z udziału?
 
 
-> **Info – Ostrzeżenie**
+> **Dark – Ostrzeżenie**
 >
 > Należy pamiętać, że wyniki osiągnięte w przeszłości nie gwarantują przyszłych rezultatów. Bitcoin jest aktywem obarczonym wysokim ryzykiem. Inwestorzy powinni mieć na uwadze, że jego wartość może zarówno znacząco wzrosnąć, jak i spaść w przyszłości, co pokazały wyniki z przeszłości.
 >

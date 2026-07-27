@@ -63,7 +63,7 @@ Apha ke ibhanki ephakathi ingena njengombolekisi wokugqibela, inikezela ngemali 
 1. **Iibhanki zibhatalela inzala ngemali abayifumene ngokubolekisa** (9% - 5% = 4%) baze bagcine eseleyo njengenzuzo
 
 
-> **Note – Indlela Iibhanki Ezenza Ngayo Imali**
+> **Light – Indlela Iibhanki Ezenza Ngayo Imali**
 >
 > Iibhanki zorhwebo zenza imali entsha ye-fiat xa zibolekisa.
 >
@@ -122,7 +122,7 @@ La maqela axhamla ngeendlela ezahlukeneyo, enza umnatha onzima wolawulo nefuthe.
 Ekugqibeleni, abaqhubi benkqubo ye-fiat balawula umboniso apho bambalwa baxhamla kakhulu ngexabiso labaninzi, abashiyekileyo bezibuza ukuba baza kuyifumana njani indlela yokulingana.
 
 
-> **Note – Indima yeeBhanki Ezikhulu**
+> **Light – Indima yeeBhanki Ezikhulu**
 >
 > Iibhanki eziphakathi zenza buthule indlela oqoqosho olusebenza ngayo. Umsebenzi wazo osemthethweni kukuqinisekisa uzinzo nokuthembeka, kodwa iindlela zazo zityhila icala elimnyama.
 >
@@ -154,7 +154,7 @@ Iibhanki eziphakathi kunye norhulumente banokusebenzisa izixhobo zomgaqo-nkqubo 
 * Nyusa irhafu
 
 
-> **Note – Kukhulu kakhulu ukuba kungawa**
+> **Light – Kukhulu kakhulu ukuba kungawa**
 >
 > “Too big to fail” ibhekisa kwiinkampani zezezimali ezinkulu kakhulu nezidibaniselene kangangokuba ukusilela kwazo kungabangela iziphumo ezibi kakhulu kuyo yonke inkqubo yezezimali. Ngexesha lembandezelo yezezimali ka-2008, iibhanki ezininzi ezinkulu zathathwa njenge “too big to fail,” nto leyo eyabangela ukuba urhulumente wase-US angenelele kwaye anike inkxaso-mali ukuze kuthintelwe ukuwa kwazo.
 >
@@ -167,7 +167,11 @@ Ukuyazi indlela ezi migaqo zisebenza ngayo kubalulekile ukuze uqonde imida yeenk
 
 #### Umsebenzi: Ibhanki yeFractional Reserve
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Lo ngumsebenzi weklasi ophanda izenzo zabantu kunye neebhanki kusetyenziswa indlela ye-fractional reserve banking. Injongo kukufumana amava okuqala ngendlela esi sixhobo sandisa ngayo inani lemali eshishinayo.
 

@@ -128,7 +128,7 @@ Perlombongan Bitcoin menawarkan insentif ekonomi yang kukuh untuk pembangunan te
 
 
 
-> **Info – Penghapusan Flaring?**
+> **Dark – Penghapusan Flaring?**
 >
 > Menggunakan tenaga terbuang, seperti gas asli yang dibakar (flared), bukan sahaja menjimatkan wang tetapi juga mengurangkan kritikan alam sekitar. Flaring berlaku apabila lebihan gas asli (metana) dibakar di tapak penggerudian minyak kerana tiada infrastruktur untuk menangkap dan menjualnya. Menurut beberapa kajian5, metana memerangkap kira-kira 120 kali lebih banyak haba berbanding CO2, oleh itu keperluan untuk membakarnya, secara efektif menukarkannya kepada CO2. Namun, flaring tidak 100% berkesan dan masih membenarkan metana dilepaskan ke atmosfera. Pelombong Bitcoin boleh menggunakan tenaga ini untuk menjalankan operasi mereka yang mengurangkan pelepasan gas rumah hijau daripada flaring. Gas asli dibakar dalam penjana untuk menghasilkan elektrik, yang membekalkan kuasa kepada pelantar perlombongan mudah alih yang terletak terus di tapak telaga.
 >
@@ -178,7 +178,7 @@ Apabila industri semakin matang, kerjasama yang lebih erat dengan pembekal tenag
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin tidak membazir tenaga. Ia menggunakan tenaga yang dibazirkan.**
 >

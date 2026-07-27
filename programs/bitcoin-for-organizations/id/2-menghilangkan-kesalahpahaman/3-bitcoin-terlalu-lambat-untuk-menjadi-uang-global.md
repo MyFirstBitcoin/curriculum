@@ -41,7 +41,7 @@ Ketika kritik ini muncul, ada baiknya mempertimbangkan apakah si pengkritik memi
 Trilema Skalabilitas, atau Blockchain, pertama kali diangkat oleh Vitalik Buterin pada tahun 2017. Trilema ini menyatakan bahwa selalu ada kompromi dalam desain blockchain antara sifat Desentralisasi, Keamanan, dan Skalabilitas. Siapa pun yang mengkritik bahwa Bitcoin terlalu lambat dan mereka memiliki solusi yang lebih cepat di blockchain layer 1 akan mengorbankan sebagian keamanan atau desentralisasi untuk mencapainya. Meskipun kompromi seperti itu untuk blockchain yang dirancang untuk kegunaan lain mungkin masuk akal, urutan prioritas untuk uang global haruslah:
 
 
-> **Note**
+> **Light**
 >
 > * **Desentralisasi**
 >   * Memungkinkan penghapusan pihak yang dipercaya

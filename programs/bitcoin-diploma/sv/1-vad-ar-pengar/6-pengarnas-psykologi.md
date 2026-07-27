@@ -72,4 +72,4 @@ Vår vilja att ge upp en större belöning i framtiden i utbyte mot en mindre be
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Titta på denna korta video!](https://www.youtube.com/watch?v=InwVM6s7WoY)

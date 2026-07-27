@@ -76,7 +76,11 @@ Outro fator importante a considerar ao escolher uma carteira Bitcoin é saber se
 
 #### Atividade: Discussão e avaliação de carteiras Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Acesse o seguinte site: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

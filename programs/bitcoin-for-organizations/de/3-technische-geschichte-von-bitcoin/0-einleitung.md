@@ -1,6 +1,6 @@
 # 3.0 Einleitung
 
-> **Info – Die Zusammenfassung des Bitcoin-Whitepapers**
+> **Dark – Die Zusammenfassung des Bitcoin-Whitepapers**
 >
 > **Eine rein Peer-to-Peer-Version von elektronischem Geld** würde es ermöglichen, Online-Zahlungen direkt von einer Partei zur anderen zu senden, ohne eine Finanzinstitution zu durchlaufen. **Digitale Signaturen liefern einen Teil der Lösung**, aber die Hauptvorteile gehen verloren, wenn eine **vertrauenswürdige dritte Partei** weiterhin erforderlich ist, um Doppel-Ausgaben zu verhindern. Wir schlagen eine Lösung für das Problem der Doppel-Ausgaben vor, die ein **Peer-to-Peer-Netzwerk** verwendet. Das **Netzwerk versieht Transaktionen mit Zeitstempeln**, indem es sie in eine fortlaufende Kette von **Hash-basiertem Proof-of-Work** einfügt und so einen Datensatz bildet, der nicht verändert werden kann, ohne den **Proof-of-Work** erneut durchzuführen. Die längste Kette dient nicht nur als Nachweis der beobachteten Ereignisabfolge, sondern auch als Beweis dafür, dass sie aus dem größten Pool an Rechenleistung stammt. Solange die Mehrheit der Rechenleistung von Knoten kontrolliert wird, die nicht zusammenarbeiten, um das Netzwerk anzugreifen, werden sie die längste Kette erzeugen und Angreifer überholen.**Das Netzwerk selbst erfordert nur minimale Struktur. Nachrichten werden nach bestem Bemühen übertragen, und Knoten können das Netzwerk nach Belieben verlassen und wieder beitreten**, wobei sie die längste Proof-of-Work-Kette als Nachweis dessen akzeptieren, was während ihrer Abwesenheit geschehen ist.
 

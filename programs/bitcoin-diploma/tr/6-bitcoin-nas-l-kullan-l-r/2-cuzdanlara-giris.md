@@ -76,7 +76,11 @@ Bir Bitcoin cüzdanı seçerken göz önünde bulundurulması gereken bir diğer
 
 #### Etkinlik: Bitcoin cüzdanlarının tartışılması ve değerlendirilmesi
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Aşağıdaki web sitesine gidin: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

@@ -58,13 +58,21 @@ On-chain transakcije se dešavaju direktno na Bitcoin blockchain-u i mogu zahtev
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Ovo je mapa cele Lightning mreže. Zahvaljujući hiljadama pokretača Lightning čvorova, možete poslati sate bilo kom korisniku sa Bitcoin Lightning novčanikom, gde god da se nalazi u svetu. Plaćanje će stići za nekoliko sekundi i koštaće samo nekoliko dinara.**Pogledajte sami!**
 
 #### Aktivnost: Lightning štafeta
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Ovo je praktična vežba u kojoj učenici šalju i primaju prave sate koristeći Lightning mrežu.**
 

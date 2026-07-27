@@ -27,4 +27,4 @@ Cüzdan bakiyeniz, kontrol ettiğiniz tüm UTXO'ların toplam değeridir.
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ “How Bitcoin Works under the Hood” videosunu izleyin](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

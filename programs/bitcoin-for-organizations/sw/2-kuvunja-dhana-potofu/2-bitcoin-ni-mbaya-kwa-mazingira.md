@@ -1,6 +1,6 @@
 # 2.2 Bitcoin ni mbaya kwa mazingira
 
-> **Note**
+> **Light**
 >
 > * Bitcoin mara nyingi imekuwa ikishutumiwa kwa kutumia nishati nyingi sana.
 > * Mnamo mwaka 2017, Jukwaa la Uchumi Duniani (WEF) lilichapisha makala kwenye tovuti yake likidai kwamba 'ifikiapo 2020, Bitcoin itatumia nishati zaidi kuliko dunia inavyoweza kuzalisha'.

@@ -5,7 +5,7 @@
 Bitcoin spoléhá na energii pro svůj konsensuální mechanismus „proof of work“, který pomáhá zajistit, že zůstává decentralizovanou, bezpovolenou formou peněz. Energetická síť čelí výzvám při integraci nových forem energie z obnovitelných zdrojů, což zatěžuje současnou infrastrukturu. Tato kapitola poskytuje stručný úvod do těchto výzev a přehled relevantních aspektů Bitcoinu, než ukáže, jak pomáhá v této evoluci sítě obnovitelné energie.
 
 
-> **Info – Bitcoin jako energetická měna**
+> **Dark – Bitcoin jako energetická měna**
 >
 > Dne 4. prosince 1921 zveřejnil New York Tribune článek, který popisoval Fordovu vizi nahrazení zlata energetickou měnou, o níž věřil, že by mohla zlomit moc bankovní elity nad světovým bohatstvím a ukončit války. Zamýšlel toho dosáhnout vybudováním „největší elektrárny na světě“ a vytvořením nového měnového systému založeného na „jednotkách energie“.
 

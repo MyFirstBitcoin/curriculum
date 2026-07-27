@@ -30,7 +30,7 @@ Yeni bir araba almak isteseydiniz, farklı galerilerden fiyatları karşılaşt�
 Bu üç işlev, ekonomilerin karmaşık ve dinamik hale gelmesini sağlar. Para olmadan, mal ve hizmet alıp satmak çok daha zor olurdu ve ekonomimiz çok daha az gelişmiş olurdu.
 
 
-> **Info**
+> **Dark**
 >
 > Bir şeyin değeri, parayla ifade edilen bir fiyatı olduğunda insanlar tarafından anlaşılır.
 

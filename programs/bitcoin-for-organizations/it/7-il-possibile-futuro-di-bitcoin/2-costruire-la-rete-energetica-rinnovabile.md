@@ -5,7 +5,7 @@
 Bitcoin si basa sull'energia per il suo meccanismo di consenso 'proof of work', che contribuisce a garantirne la natura decentralizzata e senza permessi come forma di denaro. La rete elettrica sta affrontando sfide nell'integrare nuove fonti di energia rinnovabile, il che mette sotto pressione l'infrastruttura attuale. Questo capitolo offre una breve introduzione a queste sfide e una panoramica degli aspetti rilevanti di Bitcoin, prima di mostrare come stia contribuendo a questa evoluzione della rete energetica rinnovabile.
 
 
-> **Info – Bitcoin come valuta energetica**
+> **Dark – Bitcoin come valuta energetica**
 >
 > Il 4 dicembre 1921, il New York Tribune pubblicò un articolo che illustrava la visione di Ford di sostituire l'oro con una valuta energetica che, secondo lui, avrebbe potuto spezzare il controllo delle élite bancarie sulla ricchezza globale e porre fine alle guerre. Intendeva farlo costruendo "la più grande centrale elettrica del mondo" e creando un nuovo sistema monetario basato su "unità di potenza".
 

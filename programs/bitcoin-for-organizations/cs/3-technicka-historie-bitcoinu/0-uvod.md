@@ -1,6 +1,6 @@
 # 3.0 Úvod
 
-> **Info – Abstrakt Bitcoin White Paper**
+> **Dark – Abstrakt Bitcoin White Paper**
 >
 > **Čistě peer-to-peer verze elektronické hotovosti** by umožnila posílat online platby přímo od jedné strany ke druhé bez nutnosti procházet finanční institucí. **Digitální podpisy poskytují část řešení**, ale hlavní výhody jsou ztraceny, pokud je **důvěryhodná třetí strana** stále vyžadována k zabránění dvojitému utrácení. Navrhujeme řešení problému dvojitého utrácení pomocí **peer-to-peer sítě**. **Síť časově označuje transakce** tím, že je hashováním řetězí do probíhajícího řetězce **důkazu o vykonané práci založeného na hashi,** čímž vytváří záznam, který nelze změnit bez opětovného provedení **důkazu o vykonané práci**. Nejdelší řetězec slouží nejen jako důkaz posloupnosti událostí, ale i jako důkaz, že pochází z největšího fondu výpočetního výkonu CPU. Dokud většinu výpočetního výkonu ovládají uzly, které nespolupracují na útoku na síť, budou generovat nejdelší řetězec a předběhnou útočníky. **Samotná síť vyžaduje minimální strukturu. Zprávy jsou vysílány podle nejlepší snahy a uzly mohou síť kdykoliv opustit a znovu se připojit**, přičemž přijímají nejdelší řetězec důkazu o vykonané práci jako důkaz toho, co se stalo během jejich nepřítomnosti.
 

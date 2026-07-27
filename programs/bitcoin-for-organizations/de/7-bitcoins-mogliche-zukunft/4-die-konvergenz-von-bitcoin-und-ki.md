@@ -155,7 +155,7 @@ Es gibt jedoch derzeit einige Einschränkungen, die berücksichtigt werden müss
 ##### Risiken
 
 
-> **Info**
+> **Dark**
 >
 > Krypto-Degens haben einen experimentellen KI-Bot dazu verleitet, einen Memecoin zu bewerben. Dieser ist jetzt um 16.000 % gestiegen. Ursprünglich als Live-Experiment für menschliche Interaktionen mit KI-Modellen konzipiert, hat der virale Bot – Terminal of Truth – schließlich einen Memecoin namens GOAT beworben.
 >

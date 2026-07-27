@@ -10,6 +10,6 @@ Bitcoin nie jest wyjątkiem. Jak słynnie powiedział Andreas Antonopoulos: „B
 Jedną z tych warstw jest **Lightning Network**. To jak superszybka autostrada dla Bitcoina, która pomaga ludziom szybko wysyłać i odbierać bitcoiny przy bardzo niskich opłatach. Pozwala użytkownikom na natychmiastowe, drobne transakcje ponad zwykłą siecią Bitcoina. Dzięki temu kupienie kawy czy szybka spłata długu wobec znajomego staje się proste i błyskawiczne! Oczywiście, jak zawsze, wiąże się to z pewnymi kompromisami.
 
 
-> **Info**
+> **Dark**
 >
 > Satoshi to najmniejsza jednostka bitcoina. Tak jak euro można podzielić na centy, tak jeden bitcoin można rozbić na mniejsze części zwane satoshi. Jeden bitcoin to 100 milionów satoshi, co czyni satoshi najmniejszymi cząstkami wartości w systemie Bitcoina. Gdy mówimy o wysyłaniu bitcoina przez Lightning Network, będziemy mówić „wysyłać sats”, czyli skrót od satoshi.

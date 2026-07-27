@@ -19,7 +19,7 @@ Załóżmy, że Jakub jest winien Elżbiecie 0,5 BTC i jest gotów jej oddać. O
 _Ważne jest, aby pamiętać, że po zakończeniu transakcji nie można jej cofnąć._
 
 
-> **Note – Jak działa transakcja Bitcoin**
+> **Light – Jak działa transakcja Bitcoin**
 >
 > 1. Ktoś zleca transakcję
 > 1. Transakcja jest rozgłaszana do komputerów P2P (węzłów)
@@ -30,7 +30,7 @@ _Ważne jest, aby pamiętać, że po zakończeniu transakcji nie można jej cofn
 
 
 
-> **Note – Odbieranie transakcji Bitcoin**
+> **Light – Odbieranie transakcji Bitcoin**
 >
 > Aby otrzymać bitcoiny, musisz podać nadawcy publiczny adres Bitcoin. Jest to unikalny ciąg liter i cyfr, który reprezentuje Twój portfel i służy do jego identyfikacji w sieci Bitcoin.
 >
@@ -48,7 +48,7 @@ Gdy nadawca ma Twój adres, może wysłać Ci bitcoiny, wpisując Twój adres i 
 Transakcja jest potwierdzana przez sieć Bitcoin i zwykle trwa to około 10 minut. Dla większego bezpieczeństwa zaleca się poczekać na dwa potwierdzenia, co zajmuje około 20 minut.
 
 
-> **Note – Wysyłanie transakcji Bitcoin**
+> **Light – Wysyłanie transakcji Bitcoin**
 >
 > Aby wysłać bitcoiny, będziesz potrzebować kilku rzeczy: portfela Bitcoin, publicznego adresu odbiorcy oraz kwoty bitcoinów, którą chcesz wysłać.
 >
@@ -68,7 +68,11 @@ Transakcja jest potwierdzana przez sieć Bitcoin i zwykle trwa to około 10 minu
 
 #### Ćwiczenie: Transakcje w praktyce
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **To ćwiczenie kooperacyjne upraszcza podstawowe role osób zaangażowanych w transakcję Bitcoin.**
 

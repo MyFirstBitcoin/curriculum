@@ -5,7 +5,7 @@ Har du någonsin undrat om du kan använda bitcoin för att köpa din dagliga ko
 Även om det kan verka enkelt att betala med kreditkort eller en app för den som betalar, är själva betalningsprocessen faktiskt mycket komplex och involverar många olika parter.
 
 
-> **Note – Hur betalningshantering fungerar**
+> **Light – Hur betalningshantering fungerar**
 >
 > Kund → Handlare → Betalningsgateway → Processor → Kortnätverk → Utfärdande bank → Kortnätverk → Handelsbank → Handlare
 
@@ -55,7 +55,7 @@ En **cirkulär ekonomi** består av deltagare som bestämmer sig för att stött
 När det gäller Bitcoin byggs en cirkulär ekonomi upp genom att stötta lokala handlare och yrkesskickliga arbetare som accepterar bitcoin, så att alla deltagare kan blomstra tillsammans tack vare Bitcoins överlägsna egenskaper.
 
 
-> **Note**
+> **Light**
 >
 > Lightning-nätverket gör det möjligt för Bitcoin-cirkulära ekonomier att uppstå och blomstra över hela världen tack vare nästan omedelbara och låga transaktionsavgifter.
 
@@ -71,4 +71,4 @@ På [BTCMap.org](https://btcmap.org/communities), kan du också leta efter Bitco
 ###### Resurser
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Titta på den här videon om Lightning-nätverket](https://youtu.be/yKdK-7AtAMQ)

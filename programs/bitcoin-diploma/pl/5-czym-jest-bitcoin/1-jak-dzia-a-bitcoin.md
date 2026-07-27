@@ -19,7 +19,7 @@ Właśnie tak działa Bitcoin. Bitcoin to sieć ludzi, którzy zgadzają się na
 Na przykład jedną z zasad Bitcoina jest: „Nigdy nie będzie więcej niż 21 milionów bitcoinów”. Gdyby ktoś próbował stworzyć dla siebie milion dodatkowych bitcoinów, nie miałoby to dla niego żadnego sensu, ponieważ zostałby automatycznie zidentyfikowany i odrzucony przez wszystkich innych. To właśnie czyni Bitcoina tak odpornym.
 
 
-> **Info**
+> **Dark**
 >
 > Nie ma znaczenia, kim jesteś ani skąd pochodzisz: jeśli wchodzisz do świata Bitcoina, musisz grać według tych samych zasad co wszyscy inni.
 
@@ -84,7 +84,11 @@ Każdy uczestnik tej zdecentralizowanej orkiestry odgrywa kluczową rolę w kszt
 
 #### Ćwiczenie: Konsensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 To ćwiczenie grupowe, w którym uczestnicy uczą się z pierwszej ręki, jak trudna jest synchronizacja działań w grupie bez wyznaczonego lidera. Celem jest, aby uczestnicy zrozumieli, jak osiągany jest konsensus (zgoda) w Bitcoinie.
 

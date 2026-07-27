@@ -9,7 +9,11 @@ _Historia ya awali ya Bitcoin - Ni matokeo ya miaka 40 ya utafiti, maendeleo na 
 
 Kama tulivyoona katika moduli iliyopita, Cypherpunks kadhaa walijaribu kuunda aina mbadala ya pesa. Moduli hii inaendeleza hadithi ya mmoja wao: mvisionari anayeitwa “Satoshi Nakamoto”. Huyu mtu asiyejulikana (mtu mmoja au kundi), muda mrefu kabla ya Bitcoin, alishiriki katika mijadala ya mtandaoni kuhusu usimbaji fiche na sayansi ya kompyuta ili kutafuta njia za vitendo za kubadilisha mfumo wa fiat.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Mwezi Oktoba 2008, Nakamoto alitoa waraka wa msingi ulioitwa “Bitcoin: A Peer-to-Peer Electronic Cash System” kwenye orodha ya barua pepe ya wataalamu wa usimbaji fiche. Hati hii iliweka msingi wa itifaki ya mtandao wa wenzao (peer-to-peer) iliyoundwa kuwezesha miamala salama mtandaoni bila haja ya wapatanishi. Maono ya Nakamoto yalikuwa wazi: kuunda toleo la pesa ya kielektroniki linalotegemea mtandao wa wenzao pekee, bila udhibiti wa serikali zenye nguvu na taasisi za kifedha.
 

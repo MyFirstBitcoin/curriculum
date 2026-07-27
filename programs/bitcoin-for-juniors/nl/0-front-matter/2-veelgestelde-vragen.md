@@ -1,40 +1,40 @@
 # Veelgestelde vragen
 
-#### 1. Wat is Bitcoin voor Junioren?
+#### 1. Wat is Bitcoin for Juniors?
 
-Bitcoin voor Junioren is een basisprogramma voor kinderen van 8 tot 12 jaar. Het introduceert de kernideeën die nodig zijn om Bitcoin te begrijpen, zonder dat kinderen het direct hoeven te gebruiken.
+Bitcoin for Juniors is een basisprogramma voor kinderen van 8 tot 12 jaar. Het introduceert de kernideeën die nodig zijn om Bitcoin te begrijpen, zonder dat kinderen het direct hoeven te gebruiken.
 
-Het programma wordt in twee delen aangeboden:
+Het programma bestaat uit twee delen:
 
-* Een uitgebreide Leerkrachtenhandleiding (PDF) met gestructureerde lesplannen, pedagogische aantekeningen en begeleidingstips
+* Een uitgebreide lerarenhandleiding (PDF) met gestructureerde lesplannen, pedagogische aantekeningen en begeleidingstips
 * Printbare werkbladen en activiteitenmateriaal voor interactief gebruik in de klas
 
 Het is een voorbereidingscursus, geen technische training.
 
-#### 2. Voor wie is Bitcoin voor Junioren bedoeld?
+#### 2. Voor wie is Bitcoin for Juniors bedoeld?
 
-Bitcoin voor Junioren is ontworpen voor:
+Bitcoin for Juniors is ontworpen voor:
 
 * Leerkrachten in het basisonderwijs
 * Thuisonderwijzers
 * Gemeenschapsleiders en jeugdmentoren
-* Ouders die hun kinderen vroeg bewust willen maken van financiën
+* Ouders die hun kinderen vroeg bewust willen maken van geldzaken
 
-Gemaakt voor kinderen van 8 tot 12 jaar, is het aanpasbaar aan verschillende onderwijsomgevingen en culturele contexten.
+Ontwikkeld voor kinderen van 8 tot 12 jaar, maar aanpasbaar aan verschillende onderwijsomgevingen en culturele contexten.
 
 #### 3. Waarom moeten kinderen leren over Bitcoin?
 
 Kinderen hoeven geen Bitcoin-wallets te gebruiken of privésleutels te beheren. Wat ze nodig hebben zijn de basisprincipes om Bitcoin later te kunnen begrijpen.
 
-B4J is bewust laagdrempelig — lessen maken gebruik van fysieke materialen, niet van apparaten — waardoor het toegankelijk is in elke klasomgeving en geschikt voor jongere leerlingen. Het doel is conceptuele voorbereiding, geen technische beheersing.
+B4J is bewust laagdrempelig — de lessen maken gebruik van fysieke materialen, geen apparaten — waardoor het toegankelijk is in elke klas en geschikt voor jongere leerlingen. Het doel is conceptuele voorbereiding, geen technische beheersing.
 
 #### 4. Wat leert het programma?
 
-Bitcoin voor Junioren leert de belangrijkste concepten die nodig zijn om Bitcoin te begrijpen, waaronder:
+Bitcoin for Juniors behandelt de belangrijkste concepten die nodig zijn om Bitcoin te begrijpen, waaronder:
 
 * Wat geld is en waarom samenlevingen het gebruiken
 * Het verschil tussen waarde en prijs
-* Tijd, energie, inzet en beloning
+* Tijd, energie, inspanning en beloning
 * Schaarste en overvloed
 * Openbare versus privé-informatie
 * Basisideeën achter encryptie en codes
@@ -53,15 +53,15 @@ Bitcoin wordt geïntroduceerd via analogieën, spel en begeleide gesprekken. Com
 
 #### 7. Hoe kan ik dit in mijn klas of leeromgeving geven?
 
-Het programma is ontworpen om laagdrempelig en zeer interactief te zijn. Lessen kunnen worden gegeven met behulp van:
+Het programma is ontworpen om laagdrempelig en zeer interactief te zijn. De lessen kunnen gegeven worden met behulp van:
 
 * Gedrukte werkbladen
-* Rollenspelsimulaties
-* Fysieke fiches, kaarten of eenvoudige klasmaterialen
+* Rollenspellen
+* Fysieke fiches, kaarten of eenvoudig klaslokaalmateriaal
 * Begeleide groepsgesprekken
 
-De Leerkrachtenhandleiding biedt stapsgewijze instructies, tips voor klassenmanagement, reflectievragen en uitbreidingsideeën. Geen geavanceerde technische kennis van Bitcoin is vereist.
+De lerarenhandleiding biedt stapsgewijze instructies, tips voor klassenmanagement, reflectievragen en uitbreidingsideeën. Geen geavanceerde technische kennis van Bitcoin is vereist.
 
 #### 8. Wat gebeurt er nadat leerlingen het programma hebben afgerond?
 
-Leerlingen verlaten het programma met een sterker financieel bewustzijn, kritisch denkvermogen en een gestructureerd begrip van de ontwikkeling van geld. Ze zijn geen "Bitcoin-gebruikers." Ze zijn voorbereide leerlingen. Wanneer ze later in hun leven met Bitcoin in aanraking komen, hebben ze het intellectuele fundament om het verantwoord en zelfstandig te begrijpen.
+Leerlingen verlaten het programma met een sterker financieel bewustzijn, kritisch denkvermogen en een gestructureerd begrip van de evolutie van geld. Ze zijn geen "Bitcoin-gebruikers." Ze zijn voorbereide leerlingen. Wanneer ze later in hun leven met Bitcoin in aanraking komen, hebben ze het intellectuele fundament om het verantwoord en zelfstandig te begrijpen.

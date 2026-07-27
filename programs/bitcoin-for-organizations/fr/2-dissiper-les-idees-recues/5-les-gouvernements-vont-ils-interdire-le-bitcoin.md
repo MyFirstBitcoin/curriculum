@@ -78,7 +78,7 @@ Le problème supplémentaire pour l'attaquant est de savoir comment maintenir le
 Il est probable qu'une fois qu'il serait évident que le réseau est attaqué, les développeurs de Bitcoin procéderaient à un « hard fork » du logiciel Bitcoin, de sorte que le registre serait « bifurqué » à partir du point où les entrées frauduleuses ont été générées par l'attaquant. La majorité des nœuds mettraient alors en œuvre la version révisée du logiciel et les efforts de l'attaquant seraient ignorés.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ A more light-hearted description from Andreas Antonopoulos on the possibility of state-sponsored 51% attack.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### L'auto-garde du Bitcoin et les transactions de pair à pair pourraient-elles être interdites ?
@@ -106,7 +106,7 @@ Nous devons également nous attendre à ce que certaines nations adoptent des lo
 La loi du drapeau rouge du Royaume-Uni à la fin du XIXe siècle est un exemple historique d'une loi excessivement sévère qui a ensuite été abrogée.
 
 
-> **Note**
+> **Light**
 >
 > Au milieu du XIXe siècle, les industries de la diligence et surtout de la locomotive faisaient face à la menace imminente du potentiel disruptif de l'automobile. Elles craignaient que la voiture ne les remplace.**Ainsi, elles ont travaillé dur pour convaincre le gouvernement d'adopter des lois strictes, tentant effectivement de freiner la croissance de cette nouvelle technologie.**
 >
@@ -144,7 +144,7 @@ Bien sûr, accuser le Bitcoin d’être à l’origine d’une crise de la monna
 Il est également important de noter que le Bitcoin devient plus fort lorsqu’il est attaqué. En effet, ces attaques servent à dissiper les mythes entretenus par les détracteurs selon lesquels le Bitcoin serait fragile et vulnérable. Ainsi, non seulement nous devons nous attendre à ce que les gouvernements sur-réglementent le Bitcoin, mais nous devrions même nous en réjouir.
 
 
-> **Note**
+> **Light**
 >
 > **Les gouvernements apprendront probablement la robustesse du Bitcoin en essayant de le freiner et en découvrant ce qui se passe lorsqu’ils attaquent le réseau.** Ils constateront probablement que, avec le Bitcoin, plus que pour toute autre classe d’actifs dans l’histoire, les capitaux iront là où ils sont le mieux traités. Ainsi, à mesure que le réseau Bitcoin se développe, il devrait devenir évident que les pays qui choisissent de l’adopter, plutôt que de le combattre, ont plus de chances d’en sortir gagnants.
 

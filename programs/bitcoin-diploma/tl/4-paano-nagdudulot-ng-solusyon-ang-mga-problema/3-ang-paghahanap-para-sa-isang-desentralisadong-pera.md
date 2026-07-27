@@ -49,7 +49,7 @@ Sa isang sentralisadong sistema, umiikot ang lahat sa isang pangunahing awtorida
 * **Kawalan ng transparency at tiwala**: Mahirap maintindihan ang takbo ng sentralisadong sistema, kaya mahirap pagkatiwalaan ng mga tao.
 
 
-> **Note**
+> **Light**
 >
 > Noong 2022, sa panahon ng mapayapang protesta sa Canada, nag-freeze ang mga bangko ng account ng mga nagpoprotesta, na nagpapakita kung paano kayang kontrolin ng sentral na awtoridad ang access sa pananalapi.
 
@@ -73,7 +73,7 @@ Bagama't maraming benepisyo ang mga desentralisadong sistema, maaaring maging ma
 Sa mundo ng sentralisado at desentralisadong mga sistema, ang mahalaga ay kung sino ang may hawak ng kapangyarihan. Ang mga sentralisadong sistema ay nagbibigay ng kapangyarihan sa iilang tao, samantalang ang mga desentralisadong sistema ay hinahati-hati ito, kaya't lahat ay may boses. Ang pagbabagong ito ng kapangyarihan ay nangangahulugan ng mas patas na hinaharap, kung saan maraming tao ang may impluwensya sa sistemang humuhubog sa kanilang buhay.
 
 
-> **Note**
+> **Light**
 >
 > Ang Tor Network ay lumilikha ng isang desentralisadong sistema kung saan maaaring manatiling anonymous ang mga tao online at mahirap pigilan o i-censor ang network.
 
@@ -91,4 +91,4 @@ Ang mga pagtatangkang ito ay tumulong upang matukoy kung ano ang kulang. Kalauna
 ###### Mga Sanggunian
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Panoorin ang video na ito at tuklasin ang kwento ng mga Cypherpunk!](https://www.youtube.com/watch?v=9vM0oIEhMag)

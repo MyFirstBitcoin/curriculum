@@ -69,7 +69,7 @@ Mula nang ito ay nilikha noong 2009, ang bitcoin ay patuloy na nasa estado ng �
 Sa pagsusuri ng bitcoin ledger, makikita na higit 70% ng kabuuang suplay ng bitcoin ay hawak ng mga [pangmatagalang may hawak](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Kaya, tila karamihan ng mga may hawak ay kuntento na itago at hindi ibenta o gastusin ang kanilang bitcoin. Dahil sa napakalaking pagtaas ng kakayahang bumili ng bitcoin mula nang ito ay inilunsad, makatuwirang isipin na karamihan ng mga may hawak ay umaasang lalo pang tataas ang halaga ng bitcoin at ito ang dahilan kung bakit patuloy nilang hinahawakan at hindi ginagastos.
 
 
-> **Info – Araw ng Bitcoin Pizza**
+> **Dark – Araw ng Bitcoin Pizza**
 >
 > Tuwing ika-22 ng Mayo bawat taon, ipinagdiriwang at kinikilala ng komunidad ng Bitcoin si Laszlo Hanyecz, isang programmer mula Florida, na naging unang tao na naiulat na gumamit ng bitcoin upang bumili ng pisikal na produkto. Noong ika-18 ng Mayo 2010, inanunsyo ni Hanyecz sa isang Bitcointalk.org forum na naghahanap siya ng pizza at handang magbayad gamit ang bitcoin. Nag-alok siya ng 10,000 bitcoin sa sinumang papayag sa transaksyon. Ilang araw siyang naghintay, hanggang sa isang 19-anyos na estudyanteng si Jericho ang tumugon at nagpadala ng dalawang malaking pizza. Ipinadala ni Laszlo kay Jericho ang 10,000 bitcoin bilang kabayaran na, sa panahon ng pagsulat, ay nagkakahalaga ng higit sa ₱680 milyon.
 >

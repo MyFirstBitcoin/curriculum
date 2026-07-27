@@ -58,13 +58,21 @@ On-chain பரிவர்த்தனைகள் நேரடியாக Bit
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 இது முழு Lightning நெட்வொர்க்கின் வரைபடம். ஆயிரக்கணக்கான Lightning node இயக்குபவர்களுக்கு நன்றி, நீங்கள் உலகின் எங்கும் உள்ள எந்த Bitcoin Lightning வாலட் வைத்த பயனாளருக்கும் sats அனுப்ப முடியும். பணம் சில விநாடிகளில் வந்தடையும் மற்றும் செலவு சில காசுகள் மட்டுமே ஆகும்.**நீங்களே பார்த்து தெரிந்துகொள்ளுங்கள்!**
 
 #### செயல்பாடு: Lightning ரிலே ஓட்டம்
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **இது ஒரு நடைமுறை பயிற்சி. இதில் மாணவர்கள் Lightning நெட்வொர்க் பயன்படுத்தி உண்மையான sats அனுப்பவும் பெறவும் செய்கிறார்கள்.**
 

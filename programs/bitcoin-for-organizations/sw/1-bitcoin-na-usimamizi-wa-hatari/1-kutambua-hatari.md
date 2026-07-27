@@ -38,7 +38,7 @@ Hatimaye, geuza uchunguzi kutoka zoezi hapo juu kuwa hatari zinazohusiana na shi
 
 
 
-> **Info – Mifano**
+> **Dark – Mifano**
 >
 > * Hatari kwamba bitcoin inakuwa rasilimali kuu ya akiba ya hazina duniani
 > * Hatari kwamba mtandao wa Bitcoin unakuwa tabaka la malipo kwa biashara ya mtandaoni

@@ -161,7 +161,11 @@ Prawdopodobnie pojawi się bardziej zróżnicowany zestaw dostawców płatności
 
 Bitcoin i rozwiązania stablecoin oferują znaczną redukcję tarć i kosztów związanych z płatnościami zagranicznymi i przekazami międzynarodowymi. Może to stanowić poważne zagrożenie dla dochodów banków i dostawców usług płatniczych.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Wielkość rynków walutowych wzrosła z praktycznie zera od wybuchu II wojny światowej do 7,5 biliona dolarów dziennie pod koniec 2022 roku, przy czym niemal cały ten wzrost nastąpił po zakończeniu systemu wymiany Bretton Woods w 1971 roku. Banki i dostawcy usług płatniczych czerpią znaczne dochody z oferowania usług na tych rynkach.
 

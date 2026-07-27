@@ -41,4 +41,4 @@ Jeśli jesteś gotowy na kolejny krok, sprawdź dodatkowe materiały w następne
 ###### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Możliwości pozytywnej zmiany są ogromne, dlatego zapraszamy Cię do obejrzenia tego filmu, aby dowiedzieć się więcej.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

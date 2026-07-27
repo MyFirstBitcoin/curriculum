@@ -41,7 +41,7 @@ Khi xuất hiện lời chỉ trích này, đáng để cân nhắc xem người
 Bài toán bộ ba khả năng mở rộng, hay còn gọi là Blockchain Trilemma, lần đầu tiên được Vitalik Buterin nêu ra vào năm 2017. Nó nói rằng luôn có sự đánh đổi trong thiết kế blockchain giữa các thuộc tính Phi tập trung, Bảo mật và Khả năng mở rộng. Bất kỳ ai chỉ trích rằng Bitcoin quá chậm và họ có giải pháp nhanh hơn ở blockchain lớp 1 sẽ phải hy sinh một phần bảo mật hoặc phi tập trung để đạt được điều đó. Mặc dù sự đánh đổi như vậy đối với một blockchain được thiết kế cho mục đích khác có thể hợp lý, nhưng thứ tự ưu tiên cho một loại tiền tệ toàn cầu phải là:
 
 
-> **Note**
+> **Light**
 >
 > * **Phi tập trung**
 >   * Giúp loại bỏ các bên trung gian đáng tin cậy

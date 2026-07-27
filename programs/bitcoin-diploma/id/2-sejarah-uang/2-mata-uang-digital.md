@@ -9,12 +9,12 @@ Mata uang yang kita gunakan semakin lama semakin digital; saat ini, hanya sebagi
 ##### Sumber daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Tonton video singkat ini untuk mempelajari tentang "Asal Usul Pertukaran", dalam seri “Sejarah Uang Kertas”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Ini adalah episode kedua berjudul "Bukan Sekadar Mie" dari "Sejarah Uang Kertas"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Apa yang terjadi ketika Anda benar-benar mencoba menerapkan doktrin uang kertas? Temukan jawabannya di episode keempat dari "Sejarah Uang Kertas"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

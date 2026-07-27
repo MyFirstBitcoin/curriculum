@@ -78,7 +78,7 @@ Saldırganın sahip olacağı bir diğer sorun ise, kontrolü ele geçirdikten s
 Ağın saldırı altında olduğu açıkça belli olduğunda, Bitcoin geliştiricilerinin Bitcoin yazılımında ‘hard fork’ yapması, yani defterin saldırganın sahte kayıtları oluşturduğu noktadan itibaren ‘çatallanması’ muhtemeldir. Node’ların çoğu daha sonra yazılımın revize edilmiş sürümünü uygular ve saldırganın çabaları görmezden gelinir.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Andreas Antonopoulos’tan, devlet destekli %51 saldırısı olasılığına dair daha eğlenceli bir açıklama.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Bitcoin’in kendi kendine saklanması ve eşler arası işlemler yasaklanabilir mi?
@@ -106,7 +106,7 @@ Ayrıca, bazı ülkeler tarafından kötü ve uygulanamaz Bitcoin yasalarının 
 Birleşik Krallık’ın 19. yüzyıl sonlarındaki Kırmızı Bayrak Yasası, aşırı derecede katı bir yasanın daha sonra yürürlükten kaldırılmasına tarihsel bir örnektir.
 
 
-> **Note**
+> **Light**
 >
 > 19. yüzyılın ortalarına gelindiğinde, posta arabası ve özellikle lokomotif endüstrileri, otomobilin yıkıcı potansiyelinin tehdidiyle karşı karşıyaydı. Arabaların kendilerinin yerini alacağından korkuyorlardı.**Bu yüzden, hükümeti sıkı yasalar çıkarmaya ikna etmek için çok çalıştılar ve bu yeni teknolojinin büyümesini engellemeye çalıştılar.**
 >
@@ -144,7 +144,7 @@ Elbette, Bitcoin'i bir itibari para krizi yaratmakla suçlamak saçma olurdu. So
 Ayrıca, Bitcoin'e saldırıldığında daha da güçlendiğini unutmamak gerekir. Çünkü bu saldırılar, Bitcoin'in kırılgan ve savunmasız olduğu yönündeki karşıt görüşlerin yaydığı efsaneleri çürütmeye yarar. Yani, hükümetlerin Bitcoin'i aşırı düzenlemesini beklememiz gerektiği gibi, bunu memnuniyetle karşılamalıyız.
 
 
-> **Note**
+> **Light**
 >
 > **Hükümetler, Bitcoin'i engellemeye çalışıp ağı saldırıya uğrattıklarında ne olacağını görerek Bitcoin'in anti-kırılganlığını muhtemelen öğrenecekler.** Muhtemelen görecekler ki, tarihteki diğer tüm varlık sınıflarından daha fazla olarak, Bitcoin'de sermaye en iyi muamele gördüğü ülkelere akacaktır. Bu nedenle, Bitcoin ağı büyüdükçe, onu benimsemeyi seçen ülkelerin, savaşmak yerine, kazanan olarak öne çıkma olasılıklarının daha yüksek olduğu daha belirgin hale gelecektir.
 

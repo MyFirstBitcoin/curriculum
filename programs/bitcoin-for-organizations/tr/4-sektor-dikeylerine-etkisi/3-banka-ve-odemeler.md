@@ -161,7 +161,11 @@ Kendi kişisel veya topluluk bitcoin lightning hizmetlerini çalıştırarak baz
 
 Bitcoin ve stabil coin çözümleri, yabancı ödemeler ve uluslararası para transferleriyle ilgili sürtünmeleri ve maliyetleri önemli ölçüde azaltır. Bu, bankalar ve ödeme hizmeti sağlayıcıları için önemli bir gelir tehdidi oluşturabilir.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Döviz piyasalarının büyüklüğü, II. Dünya Savaşı'nın patlak vermesinden bu yana neredeyse sıfırdan 2022 sonunda günde 7,5 trilyon dolara yükseldi ve bu büyümenin neredeyse tamamı 1971'de Bretton Woods döviz sisteminin sona ermesinden sonra gerçekleşti. Bankalar ve ödeme hizmeti sağlayıcıları, bu piyasalarda hizmet sunarak önemli gelirler elde etmektedir.
 

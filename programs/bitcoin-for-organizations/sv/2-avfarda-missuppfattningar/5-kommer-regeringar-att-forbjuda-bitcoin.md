@@ -78,7 +78,7 @@ Ytterligare ett problem för angriparen är hur kontrollen ska upprätthållas n
 Det är troligt att när det blir uppenbart att nätverket är under attack, skulle Bitcoin-utvecklare 'hard-forka' Bitcoin-mjukvaran, så att registret 'forkas' bort från den punkt där de bedrägliga posterna skapades av angriparen. Majoriteten av noderna skulle då implementera den reviderade versionen av mjukvaran och angriparens ansträngningar skulle ignoreras.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ En mer lättsam beskrivning från Andreas Antonopoulos om möjligheten till en statssponsrad 51%-attack.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Kan självförvaring av Bitcoin och transaktioner mellan privatpersoner förbjudas?
@@ -106,7 +106,7 @@ Vi bör också förvänta oss dåliga och ogenomförbara Bitcoin-lagar som infö
 Storbritanniens Red Flag-lag från slutet av 1800-talet är ett historiskt exempel på en alltför sträng lag som senare upphävdes.
 
 
-> **Note**
+> **Light**
 >
 > Vid mitten av 1800-talet stod diligens- och särskilt lokomotivindustrin inför hotet från bilens omvälvande potential. De var rädda att bilen skulle ersätta dem.**Så de arbetade hårt för att övertyga regeringen att införa strikta lagar, i praktiken i ett försök att hämma tillväxten av denna nya teknik.**
 >
@@ -144,7 +144,7 @@ Att skylla Bitcoin för att orsaka en fiatvalutakris vore förstås absurt. Bitc
 Det är också viktigt att notera att Bitcoin blir starkare när det attackeras. Detta eftersom attackerna hjälper till att skingra de myter som skeptiker sprider om att Bitcoin är bräckligt och sårbart. Så vi bör inte bara förvänta oss att regeringar överreglerar Bitcoin, vi bör välkomna det.
 
 
-> **Note**
+> **Light**
 >
 > **Regeringar kommer sannolikt att lära sig om Bitcoins antifragilitet genom att försöka hämma det och se vad som händer när de attackerar nätverket.**De kommer sannolikt att märka att, i Bitcoin, mer än någon annan tillgångsklass i historien, kommer kapital att flöda till de länder där det behandlas bäst. Därför bör det, i takt med att Bitcoin-nätverket växer, bli allt tydligare att de länder som väljer att omfamna det, snarare än att bekämpa det, har störst chans att bli vinnare.
 

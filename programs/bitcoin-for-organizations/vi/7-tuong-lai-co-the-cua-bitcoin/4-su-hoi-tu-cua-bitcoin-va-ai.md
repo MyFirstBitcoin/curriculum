@@ -155,7 +155,7 @@ Tuy nhiên, hiện tại vẫn còn một số hạn chế cần được xem x�
 ##### Rủi ro
 
 
-> **Info**
+> **Dark**
 >
 > Các nhà đầu cơ tiền mã hóa đã dụ một bot AI thử nghiệm quảng bá một đồng memecoin. Hiện đồng này đã tăng 16.000%. Được tạo ra như một thí nghiệm trực tiếp về tương tác giữa con người và mô hình AI, bot lan truyền này - Terminal of Truth - cuối cùng đã quảng bá một đồng memecoin tên là GOAT.
 >

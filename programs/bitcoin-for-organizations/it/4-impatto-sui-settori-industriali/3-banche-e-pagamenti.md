@@ -161,7 +161,11 @@ Questa non è solo una minaccia per alcuni guadagni che le banche ottengono dai 
 
 Bitcoin e le soluzioni con stablecoin offrono una significativa riduzione degli attriti e dei costi legati ai pagamenti esteri e alle rimesse internazionali. Questo può rappresentare una minaccia significativa ai guadagni per banche e fornitori di servizi di pagamento.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 La dimensione dei mercati dei cambi è passata da praticamente zero dallo scoppio della Seconda Guerra Mondiale a 7,5 trilioni di dollari al giorno alla fine del 2022, con quasi tutta questa crescita avvenuta dalla fine del sistema di cambio di Bretton Woods nel 1971. Banche e fornitori di servizi di pagamento ricavano guadagni significativi dalla fornitura di servizi in questi mercati.
 

@@ -5,7 +5,7 @@ Sa pinakasimpleng paliwanag, ang Bitcoin ay pera. Ang Bitcoin ay hindi isang pam
 Ang paghawak ng bitcoin ay hindi ka yayaman dahil hindi ito magbibigay sa iyo ng dagdag na bitcoin bilang tubo. Tumataas ang halaga nito kapag ikinumpara sa anumang fiat na pera; ngunit ito ay dahil lamang sa lumalawak na paggamit nito at sa pagbagsak ng halaga ng mga fiat na pera.
 
 
-> **Info**
+> **Dark**
 >
 > Ang Bitcoin ay **pera**, na ginagamit upang mag-imbak at magpadala ng halaga.  
 > Ito ay tumatakbo sa isang pandaigdigang **network** ng mga computer.  
@@ -29,7 +29,7 @@ Ang software na ito at talaan ng lahat ng transaksyon ay may napakaliit na tsans
 Sa huli, ang Bitcoin ay limitado, ibig sabihin, ang bilang ng bitcoin na kailanman ay iiral ay ganap na may hangganan. Walang sinuman ang maaaring magpalsipika ng on-chain bitcoin — kahit na ang pinakamakapangyarihang gobyerno at institusyong pinansyal.
 
 
-> **Note – Mga Prinsipyo ng Bitcoin**
+> **Light – Mga Prinsipyo ng Bitcoin**
 >
 > Ang Bitcoin ay nakabatay sa tatlong simpleng ideya:
 >
@@ -140,4 +140,4 @@ Ang susi ay nasa pagkilos, sa pag-unawa kung paano gumagana ang Bitcoin at sa pa
 ###### Mga Sanggunian
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Panoorin ang video na "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

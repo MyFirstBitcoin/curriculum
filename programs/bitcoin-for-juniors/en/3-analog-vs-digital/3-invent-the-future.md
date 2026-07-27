@@ -1,35 +1,5 @@
 # 3.3 Invent The Future
 
-**Activity type** Creative invention - Pitch presentation - Structured discussion
-
-**Duration** 45-60 minutes
-
-**Grouping** Individual or small teams of 2–4 students
-
-##### **Description**
-
-Students imagine the future of technology by inventing a new product or system and pitching it in a “Dragons’ Den” format. Learners reflect on how technology evolves, identify real problems to solve, and practice explaining ideas clearly. The activity encourages creativity, critical thinking, and communication while reinforcing the idea that innovation responds to needs over time.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Predict how technology might evolve in the future
-* Design a simple invention to solve a problem
-* Explain how and why their invention works
-* Practice presenting and defending an idea.
-
-##### **Materials**
-
-* Blank paper for sketches and notes
-* Pencils, crayons, or markers
-* **Nice-to-have:** Pitch Template (_See Appendix A_)
-
-##### **Equipment**
-
-* Whiteboard or poster space
-* **Nice-to-have**: Timer for pitches
-
 #### **PROCEDURE**
 
 ##### **OPENING**

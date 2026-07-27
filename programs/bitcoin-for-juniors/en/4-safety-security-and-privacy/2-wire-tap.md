@@ -1,36 +1,5 @@
 # 4.2 Wire Tap
 
-**Activity type** Simulation game - Guided discussion - Experiential learning
-
-**Duration** 40-50 minutes
-
-**Grouping** Small teams, whole class discussion
-
-##### **Description**
-
-Students explore how information changes depending on who carries it and who is allowed to hear it. Through a series of short message-passing games with changing rules, learners experience trust, mistakes, and intentional interference firsthand. Reflection focuses on how messages can change, leak, or be protected, and who should decide who gets access to information.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Experience how information can change when passed between people
-* Recognize the difference between mistakes and intentional changes
-* Understand that not everyone should hear every message
-* Begin thinking critically about trust, privacy, and control of information
-
-##### **Materials**
-
-* Prepared short and long message cards (for teacher reference) (_See Appendix A_)
-* Paper and pencil for running dictation variant
-* **Nice-to-have:** Simple symbol or substitution code sheet for optional locked message (_See Appendix B_)
-
-##### **Equipment**
-
-* Open classroom space for movement
-* Whiteboard or poster board for reflection notes
-* **Nice-to-have**: Timer
-
 #### **PROCEDURE**
 
 ##### **OPENING**

@@ -19,7 +19,7 @@ Masithi uSipho uboleke uNoluthando i-0.5 BTC kwaye ulungele ukumhlawula. Bobabin
 _Kubalulekile ukuqaphela ukuba xa intengiselwano igqityiwe, ayinakuguqulwa._
 
 
-> **Note – Indlela Esisebenza Ngayo Intengiselwano yeBitcoin**
+> **Light – Indlela Esisebenza Ngayo Intengiselwano yeBitcoin**
 >
 > 1. Umntu ucelile intengiselwano
 > 1. Intengiselwano isakazwa kwiikhompyutha zeP2P (ii-node)
@@ -30,7 +30,7 @@ _Kubalulekile ukuqaphela ukuba xa intengiselwano igqityiwe, ayinakuguqulwa._
 
 
 
-> **Note – Ukufumana Iintengiselwano zeBitcoin**
+> **Light – Ukufumana Iintengiselwano zeBitcoin**
 >
 > Ukuze ufumane i-bitcoin, kuya kufuneka unike umthumeli idilesi yakho kawonke-wonke yeBitcoin. Le yintambo eyodwa yeencwadi kunye namanani amele i-wallet yakho kwaye isetyenziselwa ukuyichonga kwinethiwekhi yeBitcoin.
 >
@@ -48,7 +48,7 @@ Xa umthumeli sele enedilesi yakho, angakuthumelela i-bitcoin ngokufaka idilesi y
 Intengiselwano iqinisekiswa yiNethiwekhi yeBitcoin kwaye idla ngokuthatha malunga nemizuzu eli-10. Ukuze ukhuseleke ngakumbi, kucetyiswa ukuba ulinde iziqinisekiso ezimbini, ezithatha malunga nemizuzu engama-20.
 
 
-> **Note – Ukuthumela Iintengiselwano zeBitcoin**
+> **Light – Ukuthumela Iintengiselwano zeBitcoin**
 >
 > Ukuze uthumele i-bitcoin, uya kufuna izinto ezimbalwa: i-wallet yeBitcoin, idilesi kawonke-wonke yomamkeli, kunye nesixa se-bitcoin ofuna ukusithumela.
 >
@@ -68,7 +68,11 @@ Intengiselwano iqinisekiswa yiNethiwekhi yeBitcoin kwaye idla ngokuthatha malung
 
 #### Umsebenzi: Iintengiselwano Zisebenza
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Lo ngumsebenzi wokusebenzisana owenza lula indima ezisisiseko zabantu abathatha inxaxheba kwintengiselwano yeBitcoin.**
 

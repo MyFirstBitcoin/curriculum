@@ -12,7 +12,11 @@ Gdy transakcja zostanie umieszczona w bloku, staje się potwierdzona i jest trwa
 
 #### Aktywność: Odkrywamy Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **To ćwiczenie pozwala uczniom zapoznać się z darmowym i otwartym narzędziem, które nie wymaga umiejętności technicznych. Jest przydatne dla wszystkich Bitcoinowców – od początkujących po zaawansowanych.**
 

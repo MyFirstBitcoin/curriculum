@@ -11,7 +11,11 @@ I denna modul kommer vi att ge oss ut på en resa genom tiden och uppleva pengar
 
 #### Aktivitet: Iterativt byteshandelsspel
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Detta är en klassövning som syftar till att öka din förståelse för byteshandel. Ditt deltagande hjälper dig att se hur pengar naturligt utvecklas på fria marknader.
 

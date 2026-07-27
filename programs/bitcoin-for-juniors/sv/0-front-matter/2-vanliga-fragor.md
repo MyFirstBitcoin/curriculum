@@ -6,25 +6,25 @@ Bitcoin for Juniors är ett grundläggande program för barn mellan 8 och 12 år
 
 Programmet levereras i två delar:
 
-* En omfattande lärarhandledning i PDF-format med strukturerade lektionsplaner, pedagogiska anteckningar och vägledning för genomförande
+* En omfattande lärarhandledning i PDF-format med strukturerade lektionsplaner, pedagogiska anteckningar och vägledning för handledning
 * Utskrivbara elevblad och aktivitetsmaterial för interaktivt klassrumsbruk
 
 Det är en förberedande kurs, inte en teknisk utbildning.
 
-#### 2. Vem är Bitcoin for Juniors till för?
+#### 2. Vem är Bitcoin for Juniors för?
 
 Bitcoin for Juniors är utformat för:
 
-* Klassrumslärare
+* Klasslärare
 * Hemundervisare
-* Ledare i föreningar och ungdomsmentorer
+* Ledare i lokalsamhället och ungdomsmentorer
 * Föräldrar som vill introducera ekonomisk medvetenhet tidigt
 
-Utformat för barn mellan 8 och 12 år, men kan anpassas till olika utbildningsmiljöer och kulturella sammanhang.
+Utformat för barn mellan 8 och 12 år, men det kan anpassas till olika utbildningsmiljöer och kulturella sammanhang.
 
 #### 3. Varför behöver barn lära sig om Bitcoin?
 
-Barn behöver inte använda Bitcoin-plånböcker eller hantera privata nycklar. Det de behöver är grunderna för att kunna förstå Bitcoin senare.
+Barn behöver inte använda Bitcoin-plånböcker eller hantera privata nycklar. Det de behöver är grunderna för att förstå Bitcoin senare.
 
 B4J är medvetet lågteknologiskt — lektionerna använder fysiskt material, inte digitala enheter — vilket gör det tillgängligt i alla klassrumsmiljöer och lämpligt för yngre elever. Målet är konceptuell förberedelse, inte teknisk färdighet.
 
@@ -32,7 +32,7 @@ B4J är medvetet lågteknologiskt — lektionerna använder fysiskt material, in
 
 Bitcoin for Juniors lär ut de nyckelbegrepp som krävs för att förstå Bitcoin, inklusive:
 
-* Vad pengar är och varför samhällen använder dem
+* Vad pengar är och varför samhällen använder det
 * Skillnaden mellan värde och pris
 * Tid, energi, ansträngning och belöning
 * Brist och överflöd
@@ -45,18 +45,18 @@ Dessa idéer utforskas genom spel, berättande, rörelse och samarbetsövningar.
 
 #### 5. Är detta en kurs om investering, handel eller att använda riktiga pengar?
 
-Nej. Det här programmet lär inte barn att investera, handla eller spekulera. Det involverar inte riktiga pengar. Det finns ingen finansiell risk och ingen uppmuntran till investeringsbeteende.
+Nej. Detta program lär inte barn att investera, handla eller spekulera. Det involverar inte riktiga pengar. Det finns ingen finansiell risk och ingen uppmuntran till investeringsbeteende.
 
 #### 6. Hur förklaras Bitcoin på ett åldersanpassat sätt?
 
 Bitcoin introduceras genom analogier, lek och guidade diskussioner. Komplexa tekniska idéer som kryptografi eller decentraliserade nätverk förenklas till begrepp om tillit, integritet, rättvisa och ansvar. Fokus ligger på att förstå principer, inte att memorera tekniska detaljer.
 
-#### 7. Hur kan jag undervisa detta i mitt klassrum eller lärmiljö?
+#### 7. Hur kan jag undervisa detta i mitt klassrum eller lärandemiljö?
 
 Programmet är utformat för att vara lågteknologiskt och mycket interaktivt. Lektionerna kan genomföras med hjälp av:
 
 * Utskrivna arbetsblad
-* Rollspel och simuleringar
+* Rollspelssimuleringar
 * Fysiska spelmarker, kort eller enkla klassrumsmaterial
 * Guidad gruppdiskussion
 

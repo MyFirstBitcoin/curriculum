@@ -128,7 +128,7 @@ La minería de Bitcoin ofrece un fuerte incentivo económico para el desarrollo 
 
 
 
-> **Info – ¿La eliminación de la quema de gas?**
+> **Dark – ¿La eliminación de la quema de gas?**
 >
 > Utilizar energía residual, como el gas natural quemado, no solo ahorra dinero sino que también mitiga las críticas medioambientales. La quema de gas ocurre cuando el exceso de gas natural (metano) se quema en los sitios de perforación petrolera porque no existe infraestructura para capturarlo y venderlo. Según algunos estudios5, el metano atrapa alrededor de 120 veces más calor que el CO2, de ahí la necesidad de quemarlo, convirtiéndolo efectivamente en CO2. Sin embargo, la quema no es 100% efectiva y aún permite que el metano llegue a la atmósfera. Los mineros de Bitcoin pueden utilizar esta energía para alimentar sus operaciones, lo que reduce las emisiones de gases de efecto invernadero provenientes de la quema. El gas natural se quema en generadores para producir electricidad, que alimenta equipos portátiles de minería ubicados directamente en el pozo.
 >
@@ -178,7 +178,7 @@ A medida que la industria madura, una mayor colaboración con los proveedores de
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin no desperdicia energía. Utiliza energía desperdiciada.**
 >

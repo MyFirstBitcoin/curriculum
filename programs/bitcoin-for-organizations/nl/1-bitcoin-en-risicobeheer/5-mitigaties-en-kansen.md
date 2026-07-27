@@ -17,7 +17,7 @@ Vermijd te beslissingsgericht te zijn. U kunt zich voorbereiden op wederzijds ex
 In deze sectie belichten we enkele generieke groepen van acties om u te helpen analyse om te zetten in acties. Deze lijst is niet bedoeld als uitputtend, maar is bedoeld om u op weg te helpen.
 
 
-> **Note – Winst- en verliesstrategieën**
+> **Light – Winst- en verliesstrategieën**
 >
 > * Bescherm bestaande inkomsten en marktaandeel
 >   * Verminder blootstelling aan nadelig beïnvloede markten
@@ -33,7 +33,7 @@ In deze sectie belichten we enkele generieke groepen van acties om u te helpen a
 
 
 
-> **Note – Balansstrategieën**
+> **Light – Balansstrategieën**
 >
 > * Haal waarde uit uw balans
 >   * Verminder blootstelling aan activa die slechter presteren dan de kapitaalkosten, zonder de kapitaalweerbaarheid te verminderen

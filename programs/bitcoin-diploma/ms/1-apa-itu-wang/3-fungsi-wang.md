@@ -30,7 +30,7 @@ Jika anda ingin membeli kereta baharu, anda boleh membandingkan harga dari pelba
 Tiga fungsi inilah yang membolehkan ekonomi menjadi kompleks dan dinamik. Tanpa wang, akan menjadi jauh lebih sukar untuk membeli dan menjual barang serta perkhidmatan, dan ekonomi kita akan jauh kurang berkembang.
 
 
-> **Info**
+> **Dark**
 >
 > Orang memahami nilai sesuatu apabila ia mempunyai harga yang dinyatakan dalam wang.
 

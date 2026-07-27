@@ -41,7 +41,7 @@ Amikor ez a kritika felmerül, érdemes megfontolni, hogy a kritikusnak van-e m�
 A skálázhatósági, vagy blokklánc trilemmát először Vitalik Buterin vetette fel 2017-ben. Eszerint a blokklánc tervezésében mindig kompromisszum van a decentralizáció, a biztonság és a skálázhatóság tulajdonságai között. Bárki, aki azt kritizálja, hogy a Bitcoin túl lassú, és hogy van egy gyorsabb megoldása egy első rétegű blokkláncban, az valamilyen biztonságot vagy decentralizációt fog feláldozni ennek érdekében. Bár egy más célra tervezett blokklánc esetében ez a kompromisszum értelmes lehet, egy globális pénz esetében a prioritási sorrendnek a következőnek kell lennie:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralizáció**
 >   * Lehetővé teszi a megbízható közvetítők eltávolítását

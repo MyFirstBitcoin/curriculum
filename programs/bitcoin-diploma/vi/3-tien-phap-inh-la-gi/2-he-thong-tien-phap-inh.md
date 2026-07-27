@@ -65,7 +65,7 @@ Quy trình này dẫn đến một hệ thống tiền tệ dựa trên nợ vì
 1. **Ngân hàng trả lãi từ lãi thu được khi cho vay** (9% - 5% = 4%) và giữ phần còn lại làm lợi nhuận
 
 
-> **Note – Cách Ngân Hàng Tạo Ra Tiền**
+> **Light – Cách Ngân Hàng Tạo Ra Tiền**
 >
 > Ngân hàng thương mại tạo ra tiền pháp định mới khi họ cấp các khoản vay.
 >
@@ -124,7 +124,7 @@ Những nhóm này hưởng lợi theo nhiều cách khác nhau, tạo nên mộ
 Cuối cùng, những người giật dây trong hệ thống tiền pháp định dàn dựng một vở kịch mà chỉ một số ít được hưởng lợi lớn, còn đa số thì mãi loay hoay không biết làm sao để bắt kịp.
 
 
-> **Note – Vai trò của ngân hàng trung ương**
+> **Light – Vai trò của ngân hàng trung ương**
 >
 > Ngân hàng trung ương âm thầm định hình cách nền kinh tế vận hành. Nhiệm vụ chính thức của họ là đảm bảo sự ổn định và liêm chính, nhưng các phương pháp của họ lại cho thấy một mặt tối hơn.
 >
@@ -156,7 +156,7 @@ Ngân hàng trung ương và chính phủ có thể sử dụng các công cụ 
 * Tăng thuế
 
 
-> **Note – Quá lớn để sụp đổ**
+> **Light – Quá lớn để sụp đổ**
 >
 > “Quá lớn để sụp đổ” đề cập đến các tổ chức tài chính có quy mô và mức độ liên kết quá lớn đến mức nếu họ phá sản sẽ gây ra hậu quả thảm khốc cho toàn bộ hệ thống tài chính. Trong cuộc khủng hoảng tài chính năm 2008, một số ngân hàng lớn đã được coi là “quá lớn để sụp đổ”, dẫn đến việc chính phủ Hoa Kỳ can thiệp và cung cấp các gói cứu trợ để ngăn chặn sự sụp đổ của họ.
 >
@@ -169,7 +169,11 @@ Hiểu cách các chính sách này vận hành là điều quan trọng để n
 
 #### Hoạt động: Ngân hàng Dự trữ Một phần
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Đây là một bài tập nhóm nhằm khám phá các hành động cá nhân của mọi người và ngân hàng khi áp dụng thực tiễn ngân hàng dự trữ một phần. Mục đích là để trải nghiệm trực tiếp cách công cụ này làm tăng cung tiền.
 

@@ -5,7 +5,7 @@
 Ang Bitcoin ay umaasa sa enerhiya para sa ‘proof of work’ consensus mechanism nito, na tumutulong upang matiyak na ito ay nananatiling desentralisado at walang kinakailangang pahintulot bilang anyo ng pera. Ang energy grid ay nahaharap sa mga hamon sa pag-integrate ng mga bagong anyo ng enerhiya mula sa renewable sources, na nagdudulot ng dagdag na pressure sa kasalukuyang imprastraktura. Ang kabanatang ito ay nagbibigay ng maikling pagpapakilala sa mga hamong ito at isang pangkalahatang-ideya ng mga kaugnay na aspeto ng Bitcoin bago ipakita kung paano ito nakakatulong sa ebolusyon ng renewable energy grid.
 
 
-> **Info – Bitcoin bilang isang energy currency**
+> **Dark – Bitcoin bilang isang energy currency**
 >
 > Noong Disyembre 4, 1921, naglathala ang New York Tribune ng isang artikulo na naglalarawan ng pananaw ni Ford na palitan ang ginto ng isang energy currency na pinaniniwalaan niyang makakaputol sa kontrol ng mga banking elite sa yaman ng mundo at makakapagwakas ng mga digmaan. Plano niyang gawin ito sa pamamagitan ng pagtatayo ng “pinakamalaking power plant sa mundo” at paglikha ng bagong sistema ng pera na nakabase sa “mga yunit ng kuryente.”
 

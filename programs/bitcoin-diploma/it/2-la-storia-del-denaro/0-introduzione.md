@@ -11,7 +11,11 @@ In questo modulo, intraprenderemo un viaggio nel tempo, vivendo in prima persona
 
 #### Attività: Gioco del baratto iterativo
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Questo è un esercizio di classe pensato per aumentare la tua comprensione dei concetti di baratto. Partecipare ti aiuterà a vedere come il denaro si sviluppa naturalmente nei mercati liberi.
 

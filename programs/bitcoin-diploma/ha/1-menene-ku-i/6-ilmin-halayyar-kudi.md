@@ -72,4 +72,4 @@ Yadda muke son barin lada mafi girma a gaba don karamin lada yanzu yana shafar f
 ###### Albarkatu
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Duba wannan gajeren bidiyon!](https://www.youtube.com/watch?v=InwVM6s7WoY)

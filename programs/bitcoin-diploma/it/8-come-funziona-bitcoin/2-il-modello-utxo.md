@@ -27,4 +27,4 @@ Il saldo del tuo portafoglio è semplicemente il valore totale di tutti gli UTXO
 ###### Risorse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Guarda “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

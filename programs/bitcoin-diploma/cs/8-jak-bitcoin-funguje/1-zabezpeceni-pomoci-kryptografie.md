@@ -36,7 +36,7 @@ Bitcoinové transakce zahrnují převod vlastnictví bitcoinu z jedné adresy na
 Jako další ochranné opatření získá každá bitcoinová transakce automaticky JEDINEČNÝ digitální podpis. Tento jedinečný digitální podpis je poháněn technologií odolnou proti manipulaci, která pomáhá síti ověřit, že bitcoin skutečně odeslal jeho pravý vlastník, a ne někdo jiný.
 
 
-> **Info**
+> **Dark**
 >
 > Každý uživatel má dva klíče: **soukromý klíč**, který je **uchováván v tajnosti**, a **veřejný klíč** který lze **sdílet s ostatními**. **Soukromý klíč** slouží jako forma identifikace a důkaz vlastnictví, potvrzující: „Tato adresa patří mně a mám nad ní kontrolu.“
 
@@ -128,6 +128,10 @@ Proces kódování **veřejného klíče** pomocí hashování slouží ke zvý�
 
 #### Aktivita: Vygenerujte SHA 256 hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Zajímá vás, jak hashování funguje? Naskenujte QR kód a okamžitě si vygenerujte SHA256 hash z jakéhokoli slova, věty nebo vstupu, který si vyberete. Hashovací funkce jsou jako digitální otisky prstů: jsou jednosměrné, což znamená, že jakmile je něco zahashováno, nelze to převrátit zpět. Vyzkoušejte si to sami!

@@ -27,4 +27,4 @@
 ###### 参考資料
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ 「How Bitcoin Works under the Hood」を視聴する](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

@@ -1,6 +1,6 @@
 # 2.2 Bitcoin çevre için zararlıdır
 
-> **Note**
+> **Light**
 >
 > * Bitcoin, çok fazla enerji kullandığı için sık sık eleştirilmektedir.
 > * 2017 yılında, Dünya Ekonomik Forumu (WEF) internet sitesinde, '2020 yılına kadar Bitcoin, dünyanın üretebileceğinden daha fazla enerji tüketecek' iddiasında bulunan bir makale yayımladı.

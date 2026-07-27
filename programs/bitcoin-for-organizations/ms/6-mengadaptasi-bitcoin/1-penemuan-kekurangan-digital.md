@@ -88,7 +88,7 @@ Rogue kemudian berputus asa. Kenapa?
 Rogue menyedari ia tidak mempunyai kadar hash yang mencukupi untuk melakukan perbelanjaan berganda, walaupun mengawal 36% kadar hash Bitcoin. Untuk berjaya, ia mesti melombong empat blok lagi untuk mendahului rantaian jujur. Walaupun dengan kuasa pengkomputeran yang besar dan mengawal 36% rangkaian, peluang kejayaan Rogue hanyalah 0.100113.
 
 
-> **Info – Teori Permainan Bermula**
+> **Dark – Teori Permainan Bermula**
 >
 > Peluang kejayaan Rogue sangat rendah, malah menjadi lebih buruk. Setiap minit ia terus mencuba, Rogue menggunakan sejumlah besar elektrik. Semua ini akan menjadi sia-sia. Tambahan pula, untuk setiap blok yang gagal dilombong secara jujur, Rogue kehilangan ganjaran blok, yang kini sebanyak 3.125 syiling setiap blok, bernilai lebih daripada RM1.400.000 pada masa ini.
 >

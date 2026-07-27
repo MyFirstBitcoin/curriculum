@@ -1,6 +1,6 @@
 # 2.2 IBitcoin imbi kwindalo.
 
-> **Note**
+> **Light**
 >
 > * I-Bitcoin ihlala igxekwa ngokusebenzisa amandla amaninzi kakhulu.
 > * Kwiminyaka ka-2017, i-World Economic Forum (WEF) yapapasha inqaku kwiwebhusayithi yayo ithi 'ngo-2020, i-Bitcoin iza kusebenzisa amandla amaninzi kunalawo umhlaba onokuwavelisa'.

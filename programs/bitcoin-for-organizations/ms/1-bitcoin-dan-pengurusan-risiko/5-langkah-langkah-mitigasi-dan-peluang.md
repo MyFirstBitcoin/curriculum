@@ -17,7 +17,7 @@ Elakkan terlalu tegas. Anda boleh bersedia untuk hasil yang saling eksklusif dan
 Dalam bahagian ini kami mengetengahkan beberapa kumpulan tindakan umum untuk membantu anda menukar analisis kepada tindakan. Senarai ini bukanlah menyeluruh, tetapi direka untuk membantu anda bermula.
 
 
-> **Note – Strategi Untung & Rugi (P&L)**
+> **Light – Strategi Untung & Rugi (P&L)**
 >
 > * Lindungi hasil dan bahagian pasaran sedia ada
 >   * Kurangkan pendedahan kepada pasaran yang terjejas secara negatif
@@ -33,7 +33,7 @@ Dalam bahagian ini kami mengetengahkan beberapa kumpulan tindakan umum untuk mem
 
 
 
-> **Note – Strategi Lembaran Imbangan**
+> **Light – Strategi Lembaran Imbangan**
 >
 > * Gerakkan nilai daripada lembaran imbangan anda
 >   * Kurangkan pendedahan kepada aset yang berprestasi lebih rendah daripada kos modal, tanpa mengurangkan daya tahan modal

@@ -76,7 +76,11 @@ Dalším důležitým faktorem při výběru Bitcoin peněženky je zjistit, zda
 
 #### Aktivita: Diskuze a hodnocení Bitcoin peněženek
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Přejděte na následující webovou stránku: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

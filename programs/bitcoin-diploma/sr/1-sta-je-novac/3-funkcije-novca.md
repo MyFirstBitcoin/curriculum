@@ -30,7 +30,7 @@ Ako želite da kupite novi automobil, možete uporediti cene kod različitih pro
 Ove tri funkcije su ono što omogućava ekonomijama da postanu složene i dinamične. Bez novca, bilo bi mnogo teže kupovati i prodavati dobra i usluge, a naša ekonomija bi bila mnogo manje razvijena.
 
 
-> **Info**
+> **Dark**
 >
 > Ljudi razumeju vrednost nečega kada ima cenu izraženu u novcu.
 

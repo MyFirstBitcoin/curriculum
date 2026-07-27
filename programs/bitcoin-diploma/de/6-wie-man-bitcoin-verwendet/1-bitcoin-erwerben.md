@@ -24,7 +24,7 @@ Hier kommen Peer-to-Peer-Plattformen ins Spiel, auf denen sich Bitcoin-Käufer u
 Auf solchen Plattformen musst du niemandem deine Informationen oder dein Geld anvertrauen; du verbindest dich direkt mit anderen Nutzern und handelst direkt mit ihnen.
 
 
-> **Note**
+> **Light**
 >
 > Auf den meisten Peer-to-Peer-Plattformen müssen die Handelspartner einen Teil der Gelder in ein Treuhandkonto einzahlen, um sicherzustellen, dass beide Seiten ihren Teil des Geschäfts erfüllen. Treuhand bedeutet, dass das Geld an einem sicheren Ort unter Kontrolle der Plattform gehalten wird, bis beide Parteien das tun, was sie versprochen haben. Es ist wie ein vertrauenswürdiger Freund, der deine Sachen aufbewahrt, bis alle mit dem Geschäft zufrieden sind.
 

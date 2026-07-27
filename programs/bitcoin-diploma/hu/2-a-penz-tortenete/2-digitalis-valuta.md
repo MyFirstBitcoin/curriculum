@@ -9,12 +9,12 @@ Az általunk használt pénzek egyre inkább digitálisak; ma már csak a pénzk
 ##### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Nézd meg ezt a rövid videót, hogy megtudd, hogyan alakult ki a "Csere eredete" a „Papírpénz története” sorozatban.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Ez a második epizód, címe: "Nem csak tészta" a „Papírpénz története” sorozatból.](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Mi történik, ha tényleg megpróbálod a papírpénz elméletét a gyakorlatba ültetni? Tudd meg a „Papírpénz története” negyedik epizódjából.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

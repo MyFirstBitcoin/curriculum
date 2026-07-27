@@ -88,7 +88,7 @@ Rogue to pak vzdá. Proč?
 Rogue si uvědomuje, že nemá dostatečný hash rate na provedení dvojího utracení, i když ovládá 36 % hash rate Bitcoinu. Aby byl úspěšný, musí vytěžit ještě čtyři další bloky, aby předběhl poctivý řetězec. Navzdory svému obrovskému výpočetnímu výkonu a ovládání 36 % sítě má Rogue šanci na úspěch pouze 0,100113.
 
 
-> **Info – Nastupuje teorie her**
+> **Dark – Nastupuje teorie her**
 >
 > Šance Rogue na úspěch jsou mizerné, ale je to ještě horší. Každou minutu, kdy to zkouší, Rogue spotřebovává obrovské množství elektřiny. To vše bude zbytečné. Navíc za každý blok, který nevytěží poctivě, Rogue přichází o blokovou odměnu, která je aktuálně 3,125 mincí za blok, což má v současnosti hodnotu přes 7 000 000 Kč.
 >

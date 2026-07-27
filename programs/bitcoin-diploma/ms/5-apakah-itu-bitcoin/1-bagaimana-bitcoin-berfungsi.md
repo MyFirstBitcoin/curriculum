@@ -19,7 +19,7 @@ Inilah pada dasarnya cara Bitcoin berfungsi. Bitcoin ialah rangkaian orang yang 
 Sebagai contoh, salah satu peraturan Bitcoin ialah "Tidak akan ada lebih daripada 21 juta bitcoin." Jika seseorang cuba mencipta sejuta bitcoin tambahan untuk dirinya sendiri, ia tidak akan berguna kerana mereka akan dikenalpasti dan ditolak secara automatik oleh semua orang lain. Inilah yang menjadikan Bitcoin sangat kukuh.
 
 
-> **Info**
+> **Dark**
 >
 > Tidak kira siapa anda atau dari mana anda berasal: jika anda memasuki dunia Bitcoin, anda mesti bermain mengikut set peraturan yang sama seperti orang lain.
 
@@ -84,7 +84,11 @@ Setiap peserta dalam orkestra terdesentralisasi ini memainkan peranan penting da
 
 #### Aktiviti: Konsensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Ini adalah latihan kelas di mana peserta belajar secara langsung betapa sukarnya menyelaraskan tindakan dalam kumpulan tanpa pemimpin yang ditetapkan. Tujuannya adalah untuk peserta memahami bagaimana persetujuan (konsensus) dicapai dalam Bitcoin.
 

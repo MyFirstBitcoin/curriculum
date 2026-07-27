@@ -1,38 +1,5 @@
 # 6.1 From Problem to Protocol
 
-**Activity type** Storytelling – Guided Discussion – Reflection
-
-**Duration** 45-60 minutes
-
-**Grouping** Whole Class/Pairs/Individual
-
-##### **Description**
-
-Students listen to the story of Satoshi and the Genesis of Bitcoin. Through guided pauses and discussion, they connect the narrative to prior lessons on value, scarcity, time and energy, analogue vs digital systems, and safety and privacy. The teacher uses a printed “white paper” prop to dramatize the moment Satoshi presents his idea to the world. Students reflect on how Bitcoin began as a proposal, required hard work to build, and depends on participants to keep the network alive.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Explain who Satoshi is in simple terms.
-* Describe what a white paper is.
-* Identify the Genesis Block as the beginning of Bitcoin.
-* Explain why Bitcoin requires time, energy, and shared rules.
-* Recognize that networks stay alive when people participate.
-
-##### **Materials**
-
-* Printed copy of the story (_See Appendix A_)
-* Printed “White Paper” prop (_See Appendix B_)
-* Three keyword cards: VALUE - TIME & ENERGY - TRUST & PRIVACY (_See Appendix C_)
-* Whiteboard and markers
-* Exit slips or small paper
-* **Nice-to-have:** Printed image of a chain of blocks, Small envelope labeled ‘BTC’
-
-##### **Equipment**
-
-* **Nice-to-have**: Whiteboard or Projector (optional)
-
 #### **PROCEDURE**
 
 ##### **OPENING**

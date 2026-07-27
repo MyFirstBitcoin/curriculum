@@ -27,4 +27,4 @@
 ###### 자료
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ “How Bitcoin Works under the Hood” 영상을 시청하세요](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

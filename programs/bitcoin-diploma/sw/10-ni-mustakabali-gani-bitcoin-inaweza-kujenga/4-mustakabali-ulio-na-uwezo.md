@@ -41,4 +41,4 @@ Kama uko tayari kuchukua hatua inayofuata, angalia rasilimali za ziada katika se
 ###### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Uwezekano wa mabadiliko chanya ni mkubwa, ndiyo maana tunakukaribisha utazame video hii ili kujifunza zaidi.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

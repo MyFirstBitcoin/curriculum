@@ -72,4 +72,4 @@ Naši ochotu vzdát se větší odměny v budoucnu výměnou za menší odměnu 
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Podívejte se na toto krátké video!](https://www.youtube.com/watch?v=InwVM6s7WoY)

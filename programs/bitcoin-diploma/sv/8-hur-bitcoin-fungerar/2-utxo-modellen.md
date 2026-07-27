@@ -27,4 +27,4 @@ Din plånboks saldo är helt enkelt det totala värdet av alla UTXO:er du kontro
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Titta på “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

@@ -1,78 +1,78 @@
 # Panimula
 
-Ipinaliliwanag ng gabay na ito kung paano basahin at gamitin ang mga lesson plan sa Bitcoin for Juniors. Tinatalakay nito ang bawat bahagi ng format ng lesson plan upang malaman ng mga guro kung ano ang aasahan, paano maghanda, at paano iangkop ang nilalaman ayon sa kanilang konteksto. Ang estruktura ay narito upang pagsilbihan ka — hindi para ikaw ang sumunod dito.
+Ipinaliliwanag ng gabay na ito kung paano basahin at gamitin ang mga lesson plan sa Bitcoin for Juniors. Tinatalakay nito ang bawat bahagi ng format ng lesson plan upang malaman ng mga guro kung ano ang aasahan, paano maghanda, at paano iangkop ang nilalaman ayon sa kanilang konteksto. Ang estruktura ay narito upang maglingkod sa iyo — hindi baliktad.
 
 #### Paggamit ng mga Lesson Plan
 
-Ang bawat lesson plan sa Bitcoin for Juniors ay isang organisadong gabay. Hindi ito isang script na kailangang sundin nang salita-sa-salita. Hinihikayat ang mga guro na iangkop, gawing mas simple, palawakin, o baguhin ang mga aktibidad batay sa kanilang mga estudyante, lugar, at oras. Dinisenyo ang mga plano upang suportahan ang kalinawan at kumpiyansa, lalo na para sa mga gurong bago pa lang nagtuturo tungkol sa pera o konsepto ng Bitcoin.
+Ang bawat lesson plan sa Bitcoin for Juniors ay isang organisadong gabay. Hindi ito isang script na kailangang sundin nang salita-sa-salita. Hinihikayat ang mga guro na iangkop, gawing mas simple, palawakin, o baguhin ang mga aktibidad batay sa kanilang mga estudyante, lugar, at limitasyon sa oras. Dinisenyo ang mga plano upang suportahan ang kalinawan at kumpiyansa, lalo na para sa mga gurong bago pa lang nagtuturo tungkol sa pera o mga konsepto ng Bitcoin.
 
-Inaasahan ang mga pagbabago. Mag-facilitate sa halip na mag-lecture. Ang balangkas ay nagbibigay ng estruktura. Ang guro ang nagbibigay ng paghusga at konteksto.
+Inaasahan ang mga pagbabago. Mag-facilitate sa halip na mag-lecture. Nagbibigay ng estruktura ang balangkas. Ang guro ang nagbibigay ng paghusga at konteksto.
 
 #### Pag-unawa sa Estruktura
 
-Ang bawat aktibidad ay sumusunod sa pare-parehong format. Ito ay nagpapadali sa mga guro na mabilis matukoy kung ano ang kailangan at kung paano epektibong isagawa ang sesyon.
+Ang bawat aktibidad ay sumusunod sa pare-parehong format. Ito ay nagpapadali sa mga guro na mabilis matukoy kung ano ang kailangan at kung paano patakbuhin nang epektibo ang sesyon.
 
 ##### Uri ng Aktibidad
 
-Ang mga aktibidad ay ikinategorya para sa madaling pagpaplano. Halimbawa: simulation game, guided discussion, experiential learning, cooperative challenge. Ang mga label na ito ay tumutulong sa mga guro na pumili ng aktibidad na akma sa kanilang layunin sa pagtuturo at antas ng enerhiya ng klase.
+Inaayos ang mga aktibidad para mapadali ang pagpaplano. Halimbawa: simulation game, guided discussion, experiential learning, cooperative challenge. Ang mga label na ito ay tumutulong sa mga guro na pumili ng aktibidad na akma sa kanilang layunin sa pagtuturo at antas ng enerhiya ng klase.
 
 ##### Tagal
 
-Ang nakasaad na oras ay tinatayang lamang. May mga grupong mabilis matapos. May iba namang nangangailangan ng mas maraming talakayan. Dapat ituring ng mga guro ang tagal bilang gabay na maaaring baguhin, hindi bilang mahigpit na limitasyon.
+Ang oras na nakalista ay tinatayang lamang. May mga grupong mabilis matapos. May iba namang nangangailangan ng mas maraming talakayan. Dapat ituring ng mga guro ang tagal bilang gabay na maaaring baguhin, hindi bilang mahigpit na limitasyon.
 
 ##### Pagbubuo ng Grupo
 
 Ipinapakita kung ang aktibidad ay para sa:
 
 * Buong klase
-* Magkapareha
+* Magkakapareha
 * Indibidwal na gawain
 
-Ang pagbubuo ng grupo ay tumutulong magtakda ng inaasahang dinamika ng pagkatuto. Ang pagtatrabaho sa grupo ay kadalasang nagpapataas ng partisipasyon at tumutulong sa mga estudyante na mapalalim ang pag-unawa sa pamamagitan ng talakayan.
+Tumutulong ang pagbubuo ng grupo upang maitatag ang inaasahang dinamika ng pagkatuto. Ang pagtatrabaho sa grupo ay kadalasang nagpapataas ng partisipasyon at tumutulong sa mga estudyante na mapalalim ang ideya sa pamamagitan ng talakayan.
 
-#### Mga Layunin sa Pagkatuto
+#### Mga Kinalabasan ng Pagkatuto
 
-Ang mga layunin sa pagkatuto ay naglalarawan kung ano ang dapat malaman, maunawaan, o magawa ng mga estudyante sa pagtatapos ng aktibidad. Mahalaga ang mga layuning ito. Tinutulungan nito ang guro na manatiling nakatuon sa layunin at hindi lang matapos ang gawain. Kung limitado ang oras, unahin ang layunin sa pagkatuto kaysa matapos ang bawat hakbang.
+Tinutukoy ng mga kinalabasan ng pagkatuto kung ano ang dapat malaman, maunawaan, o magawa ng mga estudyante sa pagtatapos ng aktibidad. Mahalaga ang mga kinalabasan na ito. Tinutulungan nito ang guro na manatiling nakatuon sa layunin at hindi lang matapos ang gawain. Kung limitado ang oras, unahin ang kinalabasan ng pagkatuto kaysa matapos ang bawat hakbang.
 
 #### Mga Materyales vs Kagamitan
 
 ##### Mga Materyales
 
-Ang mga materyales ay mga gamit na nauubos o ginagamit mismo ng mga estudyante. Halimbawa: worksheets, naka-print na cards, lapis, beads, sticky notes, posters. Ito ang mga bagay na hinahawakan at ginagamit ng mga estudyante habang isinasagawa ang aktibidad.
+Ang mga materyales ay mga gamit na nauubos o nahahawakan ng mga estudyante. Halimbawa: worksheets, naka-print na cards, lapis, beads, sticky notes, posters. Ito ang mga bagay na ginagamit o hinahawakan ng mga estudyante habang ginagawa ang aktibidad.
 
 ##### Kagamitan
 
-Ang kagamitan ay tumutukoy sa mga hindi nauubos na gamit o pangangailangan sa paligid. Halimbawa: whiteboard, timer, projector, maluwag na espasyo sa silid-aralan. Ang kagamitan ay sumusuporta sa aktibidad ngunit hindi direktang hinahawakan ng mga estudyante tulad ng mga materyales.
+Ang kagamitan ay tumutukoy sa mga hindi nauubos na gamit o pangangailangan sa kapaligiran. Halimbawa: whiteboard, timer, projector, maluwag na espasyo sa silid-aralan. Ang kagamitan ay sumusuporta sa aktibidad ngunit hindi direktang hinahawakan ng mga estudyante tulad ng mga materyales.
 
-Ang pagkakaiba ay tumutulong sa mga guro na maghanda nang mas episyente.
+Ang pagkakaiba ay tumutulong sa mga guro na makapaghanda nang mas episyente.
 
 #### PROSESO
 
-Ang bawat lesson ay may sunod-sunod na hakbang upang gabayan ang daloy at bilis ng pagtuturo.
+Ang bawat lesson ay may sunod-sunod na proseso upang gabayan ang daloy at bilis ng klase.
 
 ##### PAGBUBUKAS
 
-Tinatapos bago pumasok ang mga estudyante sa silid. Kabilang dito ang paghahanda ng mga materyales, pag-aayos ng upuan, pagsusulat ng mga prompt sa pisara, at pag-oorganisa ng mga resources. Pinakamainam gawin ang paghahanda nang wala ang mga estudyante upang maging maayos ang daloy ng klase.
+Tapos na bago pumasok ang mga estudyante sa silid. Kabilang dito ang paghahanda ng mga materyales, pag-aayos ng upuan, pagsusulat ng mga prompt sa pisara, at pag-oorganisa ng mga resources. Pinakamainam na gawin ang paghahanda nang wala ang mga estudyante upang maging maayos ang daloy ng klase.
 
 ##### BAGO ANG AKTIBIDAD
 
-Ang yugto ng pag-init. Dito itinatakda ang mga inaasahan at pinupukaw ang kuryosidad. Maaaring kabilang dito ang isang tanong, maikling kwento, sitwasyon, o hamon. Layunin nitong buhayin ang dating kaalaman at ihanda ang mga estudyante para sa gawain.
+Ang yugto ng pag-init. Itinatakda nito ang mga inaasahan at pumupukaw ng kuryosidad. Maaaring kabilang dito ang isang tanong, maikling kwento, sitwasyon, o hamon. Layunin nitong buhayin ang dating kaalaman at ihanda ang mga estudyante para sa gawain.
 
 ##### Layunin sa Salita ng Estudyante
 
-Ipinaliliwanag ng guro nang maikli ang layunin ng aktibidad gamit ang wikang madaling maintindihan ng mga estudyante. Kapag alam ng mga estudyante kung bakit nila ginagawa ang isang bagay, tumataas ang kanilang partisipasyon at pagkatuto.
+Ipinaliwanag ng guro nang maikli ang layunin ng aktibidad gamit ang wikang maiintindihan ng mga estudyante. Kapag alam ng mga estudyante kung bakit nila ginagawa ang isang bagay, tumataas ang kanilang partisipasyon at pagkatuto.
 
 ##### AKTIBIDAD
 
-1. **Pagsasaayos** — Mga tagubilin para sa pag-oorganisa ng mga estudyante at pamamahagi ng mga materyales.
+1. **Pagsasaayos** — Mga tagubilin para sa pag-aayos ng mga estudyante at pamamahagi ng mga materyales.
 1. **Pagmomodelo** — Kung naaangkop, ipakita kung paano gawin ang gawain. Ang pagmomodelo ay nagpapababa ng kalituhan at nagpapataas ng kumpiyansa.
 1. **Pagsasagawa** — Tinatapos ng mga estudyante ang aktibidad. Ang guro ay nagmamasid, gumagabay, at sumusuporta sa halip na mangibabaw.
 1. **Checkpoint** — Sandaling huminto upang tiyakin ang pag-unawa. Baguhin kung kinakailangan. Pinipigilan nito ang paglala ng hindi pagkakaintindihan.
-1. **Pagmumuni-muni** — Pinag-uusapan ng mga estudyante kung ano ang nangyari at ano ang kahulugan nito. Mahalaga ang pagmumuni-muni. Ginagawa nitong pagkatuto ang karanasan. Hikayatin ang mga bukas na tanong at koneksyon sa mga tunay na konsepto.
+1. **Pagmumuni-muni** — Pinag-uusapan ng mga estudyante kung ano ang nangyari at ang kahulugan nito. Mahalaga ang pagmumuni-muni. Ginagawa nitong pagkatuto ang karanasan. Hikayatin ang mga bukas na tanong at koneksyon sa mga konsepto sa totoong buhay.
 
 ##### PAGTATAPOS
 
-Maikling sandali ng pagtatapos. Palakasin ang pangunahing ideya. Tapusin sa positibong paraan. Maaaring kabilang dito ang tanong sa recap, mabilisang pagbahagi ng magkapareha, o maikling pahayag na nag-uugnay ng aktibidad sa mas malawak na tema ng kabanata.
+Maikling sandali ng pagwawakas. Palakasin ang pangunahing ideya. Tapusin sa positibong paraan. Maaaring kabilang dito ang tanong sa recap, mabilisang pagbahagi sa kapareha, o maikling pahayag na nag-uugnay ng aktibidad sa mas malawak na tema ng kabanata.
 
 ##### PAGWAWAKAS
 
@@ -84,8 +84,8 @@ Magkakaiba ang bawat klase sa saklaw ng edad, antas ng enerhiya, at dinamika ng 
 
 * Malinaw na tagubilin bago gumalaw
 * Itinakdang limitasyon ng oras
-* Nakatampok na mga patakaran
-* May estrukturang mga tungkulin sa loob ng mga grupo
+* Nakapaskil na mga patakaran
+* May estrukturang mga tungkulin sa loob ng grupo
 
 Dapat iangkop ng mga guro ang mga estratehiya sa pamamahala ayon sa kanilang konteksto.
 
@@ -111,6 +111,6 @@ Naglalaman ang apendise ng mga pantulong na materyales, template, mga mapiprint 
 
 #### Panghuling Gabay
 
-Ang mga lesson plan na ito ay inayos para sa kalinawan, ngunit inaasahan ang pagiging flexible. Ituon ang pansin sa mga layunin ng pagkatuto. Bigyan ng puwang ang tinig ng mag-aaral. Bigyang-priyoridad ang interaksyon kaysa sa pagiging perpekto.
+Ang mga lesson plan na ito ay inayos para sa kalinawan, ngunit inaasahan ang pagiging flexible. Ituon ang pansin sa mga layunin ng pagkatuto. Magbigay ng espasyo para sa boses ng mag-aaral. Bigyang-priyoridad ang interaksyon kaysa sa pagiging perpekto.
 
 Ang Bitcoin for Juniors ay idinisenyo upang suportahan ang kumpiyansang pagtuturo at makahulugang pagkatuto.

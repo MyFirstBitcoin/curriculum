@@ -5,7 +5,7 @@ Pernahkah Anda bertanya-tanya apakah Anda bisa menggunakan bitcoin untuk membeli
 Meskipun membayar dengan kartu kredit atau aplikasi tampak mudah dipahami bagi pembayar, proses pembayaran sebenarnya sangat kompleks dan melibatkan banyak pihak yang berbeda.
 
 
-> **Note – Bagaimana Proses Pembayaran Bekerja**
+> **Light – Bagaimana Proses Pembayaran Bekerja**
 >
 > Pelanggan → Pedagang → Gerbang Pembayaran → Prosesor → Jaringan Kartu → Bank Penerbit → Jaringan Kartu → Bank Pedagang → Pedagang
 
@@ -55,7 +55,7 @@ Sebuah **ekonomi sirkular** terdiri dari peserta yang memutuskan untuk saling me
 Ketika diterapkan pada Bitcoin, ekonomi sirkular dibangun dengan mendukung pedagang lokal dan pekerja terampil yang menerima bitcoin, sehingga semua peserta dapat berkembang bersama berkat keunggulan Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network memungkinkan ekonomi sirkular Bitcoin muncul dan berkembang di seluruh dunia berkat transaksi Bitcoin yang hampir instan dan berbiaya rendah.
 
@@ -71,4 +71,4 @@ Di [BTCMap.org](https://btcmap.org/communities), kamu juga dapat mencari komunit
 ###### Sumber daya
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Tonton video ini tentang Lightning Network](https://youtu.be/yKdK-7AtAMQ)

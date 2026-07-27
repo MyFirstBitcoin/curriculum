@@ -19,7 +19,7 @@ Haka Bitcoin ke aiki a asali. Bitcoin hanyar sadarwa ce ta mutane da suka amince
 Misali, daya daga cikin dokokin Bitcoin shi ne "Ba za a taba wuce bitcoin miliyan 21 ba." Idan wani ya ƙirƙiri karin bitcoin miliyan daya don kansa, hakan ba zai amfane shi ba, domin za a gano shi nan take kuma kowa zai ƙi karɓarsa. Wannan ne ke sa Bitcoin ya zama mai ƙarfi sosai.
 
 
-> **Info**
+> **Dark**
 >
 > Ba ya damuwa ko kai wane ne ko daga ina ka fito: idan ka shiga duniyar Bitcoin, dole ne ka bi dokoki iri ɗaya da kowa.
 
@@ -84,7 +84,11 @@ Kowane mai shiga wannan kide-kide na rarrabuwa yana taka muhimmiyar rawa wajen k
 
 #### Aiki: Yarjejeniya
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Wannan aikin aji ne inda mahalarta za su koyi da kansu yadda da wuya ne a daidaita aiki a cikin rukuni ba tare da shugaba ba. Manufar ita ce mahalarta su fahimci yadda ake samun yarjejeniya (consensus) a Bitcoin.
 

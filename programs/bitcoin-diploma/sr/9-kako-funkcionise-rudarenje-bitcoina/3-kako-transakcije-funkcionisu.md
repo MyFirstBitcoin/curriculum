@@ -15,7 +15,7 @@ Sada kada razumeš javne i privatne ključeve, kao i uloge čvorova i rudara, ev
 Kada je transakcija uključena u blok, ona je potvrđena. Adam više ne može da potroši taj bitcoin, a Gerard može da potroši ono što je primio u novoj transakciji.
 
 
-> **Note**
+> **Light**
 >
 > Transakcija i naknada izabrane → Potpisuje je novčanik i šalje → Distribuiraju čvorovi → Rudar dodaje transakciju u šablon bloka → Rudar pobeđuje u Proof-of-Work takmičenju → Novi blok se validira → Novi blok distribuiraju čvorovi
 
@@ -23,4 +23,4 @@ Kada je transakcija uključena u blok, ona je potvrđena. Adam više ne može da
 ###### Resursi
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Pogledaj ovaj video o Bitcoin čvorovima](https://www.youtube.com/watch?v=xc_TxlByxeY)

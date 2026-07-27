@@ -65,7 +65,7 @@ Dito pumapasok ang sentral na bangko bilang huling takbuhan ng pautang, nagbibig
 1. **Nagbabayad ang mga bangko ng interes mula sa interes na natatanggap nila sa pagpapautang** (9% - 5% = 4%) at kinukuha ang natitira bilang kita
 
 
-> **Note – Paano Lumilikha ng Pera ang mga Bangko**
+> **Light – Paano Lumilikha ng Pera ang mga Bangko**
 >
 > Lumilikha ng bagong fiat money ang mga komersyal na bangko kapag sila ay nagpapautang.
 >
@@ -124,7 +124,7 @@ Nakikinabang ang mga grupong ito sa iba't ibang paraan, na bumubuo ng masalimuot
 Sa huli, ang mga nagpapagalaw ng fiat system ay nagdidirek ng isang palabas kung saan kakaunti lang ang lubos na nakikinabang habang ang nakararami ay naiwan na nagtataka kung paano sila makakahabol.
 
 
-> **Note – Ang Papel ng Sentral na Bangko**
+> **Light – Ang Papel ng Sentral na Bangko**
 >
 > Tahimik na hinuhubog ng mga sentral na bangko kung paano gumagana ang ekonomiya. Ang opisyal nilang tungkulin ay tiyakin ang katatagan at integridad, pero ang kanilang mga paraan ay nagpapakita ng mas madilim na bahagi.
 >
@@ -156,7 +156,7 @@ Maaaring gamitin ng mga sentral na bangko at pamahalaan ang mga kasangkapan ng m
 * Dagdagan ang Buwis
 
 
-> **Note – Sobrang Laki Para Bumagsak**
+> **Light – Sobrang Laki Para Bumagsak**
 >
 > Ang “Too big to fail” ay tumutukoy sa mga institusyong pinansyal na napakalaki at magkakaugnay na ang kanilang pagbagsak ay magdudulot ng napakalaking epekto sa buong sistemang pinansyal. Noong krisis pinansyal ng 2008, ilang malalaking bangko ang itinuring na “too big to fail,” kaya’t kinailangang manghimasok ang pamahalaan ng U.S. at magbigay ng bailout upang maiwasan ang kanilang pagbagsak.
 >
@@ -169,7 +169,11 @@ Mahalagang malaman kung paano gumagana ang mga polisiyang ito upang maunawaan an
 
 #### Gawain: Fractional Reserve Banking
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Ito ay isang gawaing pang-klase na sumusuri sa mga indibidwal na kilos ng mga tao at bangko gamit ang praktis ng fractional reserve banking. Layunin nitong maranasan mismo kung paano nadaragdagan ng kasangkapang ito ang dami ng pera.
 

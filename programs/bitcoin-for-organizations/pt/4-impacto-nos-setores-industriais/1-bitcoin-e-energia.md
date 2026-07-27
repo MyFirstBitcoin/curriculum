@@ -128,7 +128,7 @@ A mineração de Bitcoin oferece um forte incentivo econômico para o desenvolvi
 
 
 
-> **Info – A Eliminação da Queima de Gás?**
+> **Dark – A Eliminação da Queima de Gás?**
 >
 > Utilizar energia desperdiçada, como o gás natural queimado em flares, não só economiza dinheiro como também reduz críticas ambientais. A queima ocorre quando o excesso de gás natural (metano) é queimado em locais de perfuração de petróleo porque não há infraestrutura para capturá-lo e vendê-lo. Segundo alguns estudos, o metano retém cerca de 120 vezes mais calor que o CO2, daí a necessidade de queimá-lo, convertendo-o efetivamente em CO2. No entanto, a queima não é 100% eficaz e ainda permite que metano escape para a atmosfera. Mineradores de Bitcoin podem usar essa energia para alimentar suas operações, reduzindo as emissões de gases de efeito estufa provenientes da queima. O gás natural é queimado em geradores para produzir eletricidade, que alimenta equipamentos portáteis de mineração localizados diretamente no poço.
 >
@@ -178,7 +178,7 @@ O escrutínio ambiental sobre a mineração de Bitcoin é esperado e bem-vindo. 
 
 
 
-> **Info**
+> **Dark**
 >
 > **O Bitcoin não desperdiça energia. Ele utiliza energia desperdiçada.**
 >

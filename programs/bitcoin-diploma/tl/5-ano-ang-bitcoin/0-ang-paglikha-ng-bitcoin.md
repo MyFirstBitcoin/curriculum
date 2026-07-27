@@ -9,7 +9,11 @@ _Prehistorya ng Bitcoin - Bunga ito ng 40 taon ng pananaliksik, pag-unlad, at pa
 
 Tulad ng nakita natin sa nakaraang modyul, ilang Cypherpunks ang nagtangkang lumikha ng alternatibong anyo ng pera. Ipinagpapatuloy ng modyul na ito ang kuwento ng isa sa kanila: isang mapanuring kilala bilang “Satoshi Nakamoto”. Ang hindi kilalang taong ito (indibidwal o grupo), bago pa man ang Bitcoin, ay lumahok sa mga online na talakayan tungkol sa cryptography at computer science upang maghanap ng praktikal na paraan para palitan ang fiat system.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Noong Oktubre 2008, inilathala ni Nakamoto ang isang makasaysayang whitepaper na pinamagatang “Bitcoin: A Peer-to-Peer Electronic Cash System” sa isang cryptography mailing list. Ang dokumentong ito ang naglatag ng pundasyon para sa isang desentralisadong peer-to-peer na protocol na idinisenyo upang gawing posible ang ligtas na online na transaksyon nang walang tagapamagitan. Malinaw ang bisyon ni Nakamoto: lumikha ng isang purong peer-to-peer na bersyon ng electronic cash, malaya mula sa kontrol ng makapangyarihang mga gobyerno at institusyong pinansyal.
 

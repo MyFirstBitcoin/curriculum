@@ -76,7 +76,11 @@ Enye into ebalulekileyo ekufuneka uyigcine engqondweni xa ukhetha i-wallet ye-Bi
 
 #### Umsebenzi: Ingxoxo kunye novavanyo lwee-wallet ze-Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Ngena kule webhusayithi ilandelayo: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

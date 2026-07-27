@@ -15,7 +15,7 @@ Yanzu da ka fahimci maɓallan jama'a da na sirri, da kuma rawar da nodes da ma'a
 Da zarar an haɗa mu'amalar cikin bulogi, an tabbatar da ita. Adam ba zai iya sake kashe wannan bitcoin ba, kuma Musa zai iya kashe abin da ya karɓa a cikin sabuwar mu'amala.
 
 
-> **Note**
+> **Light**
 >
 > An zaɓi mu'amala & kuɗin mu'amala → Wallet ta sa hannu kuma ta aika → Nodes suka rarraba → Ma'adini ya ƙara mu'amala cikin tsarin bulogi → Ma'adini ya ci nasarar gasa Proof-of-Work → An tabbatar da sabon bulogi → Nodes suka rarraba sabon bulogi
 
@@ -23,4 +23,4 @@ Da zarar an haɗa mu'amalar cikin bulogi, an tabbatar da ita. Adam ba zai iya sa
 ###### Albarkatu
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Kalli wannan bidiyon game da Bitcoin Nodes](https://www.youtube.com/watch?v=xc_TxlByxeY)

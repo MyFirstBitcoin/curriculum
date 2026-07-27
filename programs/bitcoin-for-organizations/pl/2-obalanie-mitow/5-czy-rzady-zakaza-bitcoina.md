@@ -78,7 +78,7 @@ Kolejnym problemem dla atakującego jest utrzymanie kontroli po jej zdobyciu. Op
 Prawdopodobnie, gdy stanie się oczywiste, że sieć jest atakowana, deweloperzy Bitcoina dokonają „hard forka” oprogramowania, tak by księga została „odcięta” od momentu, w którym atakujący wygenerował fałszywe wpisy. Większość węzłów wdroży wtedy nową wersję oprogramowania, a wysiłki atakującego zostaną zignorowane.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Bardziej żartobliwy opis możliwości ataku 51% sponsorowanego przez państwo według Andreasa Antonopoulosa.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Czy samodzielne przechowywanie Bitcoina i transakcje peer-to-peer mogą zostać zakazane?
@@ -106,7 +106,7 @@ Powinniśmy się również spodziewać, że niektóre kraje wprowadzą złe i ni
 Brytyjskie prawo Red Flag z końca XIX wieku to historyczny przykład zbyt surowego prawa, które zostało później uchylone.
 
 
-> **Note**
+> **Light**
 >
 > W połowie XIX wieku branże dyliżansów i zwłaszcza kolei stawały w obliczu nadchodzącego zagrożenia ze strony potencjału samochodu jako technologii wywrotowej. Obawiały się, że samochód je zastąpi.**Dlatego ciężko pracowały, by przekonać rząd do wprowadzenia surowych przepisów, próbując w ten sposób zahamować rozwój tej nowej technologii.**
 >
@@ -144,7 +144,7 @@ Oczywiście obwinianie Bitcoina za wywołanie kryzysu waluty fiat byłoby absurd
 Warto również zauważyć, że Bitcoin staje się silniejszy, gdy jest atakowany. Dzieje się tak, ponieważ te ataki obalają mity szerzone przez sceptyków, że Bitcoin jest kruchy i podatny na zagrożenia. Dlatego nie tylko powinniśmy się spodziewać, że rządy będą nadmiernie regulować Bitcoina, ale powinniśmy to wręcz przyjmować z zadowoleniem.
 
 
-> **Note**
+> **Light**
 >
 > **Rządy prawdopodobnie nauczą się o antykruchości Bitcoina, próbując go ograniczyć i przekonując się, co się stanie, gdy zaatakują sieć.** Prawdopodobnie zobaczą, że w przypadku Bitcoina, bardziej niż jakiejkolwiek innej klasy aktywów w historii, kapitał będzie płynął do tych krajów, gdzie jest traktowany najlepiej. Dlatego w miarę rozwoju sieci Bitcoin powinno być coraz bardziej oczywiste, że kraje, które zdecydują się go przyjąć, zamiast z nim walczyć, mają większe szanse na sukces.
 

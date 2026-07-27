@@ -27,4 +27,4 @@ bitcoin ทั้งหมดที่คุณเป็นเจ้าของ
 ###### แหล่งข้อมูล
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ ชมวิดีโอ “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

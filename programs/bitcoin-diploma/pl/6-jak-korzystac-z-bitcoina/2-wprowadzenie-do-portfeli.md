@@ -76,7 +76,11 @@ Kolejnym ważnym czynnikiem, o którym warto pamiętać przy wyborze portfela Bi
 
 #### Aktywność: Dyskusja i ocena portfeli Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Przejdź na następującą stronę internetową: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

@@ -5,7 +5,7 @@ Da li ste se ikada zapitali da li možete koristiti bitcoin da kupite svoju dnev
 Iako plaćanje kreditnom karticom ili aplikacijom može izgledati jednostavno za osobu koja plaća, obrada te uplate je zapravo veoma složena i uključuje mnogo različitih strana.
 
 
-> **Note – Kako funkcioniše obrada plaćanja**
+> **Light – Kako funkcioniše obrada plaćanja**
 >
 > Kupac → Trgovac → Platni prolaz → Procesor → Kartična mreža → Izdavačka banka → Kartična mreža → Banka trgovca → Trgovac
 
@@ -55,7 +55,7 @@ Neke firme su specijalizovane za kupovinu i prodaju poklon kartica u zamenu za b
 Kada se primeni na Bitcoin, kružna ekonomija se gradi podržavanjem lokalnih trgovaca i zanatlija koji prihvataju bitcoin, tako da svi učesnici mogu zajedno napredovati zahvaljujući superiornim osobinama Bitcoina.
 
 
-> **Note**
+> **Light**
 >
 > Lightning mreža omogućava da Bitcoin kružne ekonomije nastanu i napreduju širom sveta zahvaljujući gotovo trenutnim i niskim naknadama za Bitcoin transakcije.
 
@@ -71,4 +71,4 @@ Na [BTCMap.org](https://btcmap.org/communities), možete takođe potražiti Bitc
 ###### Resursi
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Pogledajte ovaj video o Lightning mreži](https://youtu.be/yKdK-7AtAMQ)

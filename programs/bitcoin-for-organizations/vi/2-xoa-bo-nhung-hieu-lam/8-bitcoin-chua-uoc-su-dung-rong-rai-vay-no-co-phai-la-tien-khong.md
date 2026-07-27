@@ -69,7 +69,7 @@ Kể từ khi ra đời năm 2009, bitcoin luôn ở trạng thái ‘khám phá
 Bằng cách phân tích sổ cái bitcoin, có thể thấy rằng hơn 70% tổng nguồn cung bitcoin được nắm giữ bởi [nhà đầu tư dài hạn](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Do đó, có vẻ như phần lớn người nắm giữ hài lòng với việc giữ và không bán hoặc tiêu bitcoin của mình. Với sự gia tăng mạnh mẽ sức mua của bitcoin kể từ khi ra mắt, có thể giả định rằng phần lớn người nắm giữ kỳ vọng bitcoin sẽ còn giá trị hơn nữa và điều này ảnh hưởng đến quyết định tiếp tục giữ thay vì tiêu.
 
 
-> **Info – Ngày Pizza Bitcoin**
+> **Dark – Ngày Pizza Bitcoin**
 >
 > Hàng năm vào ngày 22 tháng 5, cộng đồng Bitcoin kỷ niệm và ghi nhận lập trình viên người Florida Laszlo Hanyecz, người đầu tiên được ghi nhận đã sử dụng bitcoin để mua hàng hóa vật chất. Vào ngày 18 tháng 5 năm 2010, Hanyecz đã đăng trên diễn đàn Bitcointalk.org rằng anh đang tìm mua pizza và sẵn sàng trả bằng bitcoin. Anh đề nghị 10.000 bitcoin cho bất kỳ ai sẵn sàng thực hiện giao dịch. Anh đã chờ vài ngày, cho đến khi sinh viên 19 tuổi tên Minh đồng ý và gửi hai chiếc pizza lớn. Laszlo đã gửi cho Minh 10.000 bitcoin như đã hứa, số bitcoin này tại thời điểm viết bài có giá trị hơn 680 triệu €.
 >

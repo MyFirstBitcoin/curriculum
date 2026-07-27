@@ -128,7 +128,7 @@ Penambangan Bitcoin menawarkan insentif ekonomi yang kuat untuk pengembangan ene
 
 
 
-> **Info – Penghapusan Flaring?**
+> **Dark – Penghapusan Flaring?**
 >
 > Memanfaatkan energi limbah, seperti gas alam yang dibakar (flared), tidak hanya menghemat uang tetapi juga mengurangi kritik lingkungan. Flaring terjadi ketika kelebihan gas alam (metana) dibakar di lokasi pengeboran minyak karena tidak ada infrastruktur untuk menangkap dan menjualnya. Menurut beberapa studi5, metana memerangkap sekitar 120 kali lebih banyak panas dibandingkan CO2, sehingga perlu dibakar untuk mengubahnya menjadi CO2. Namun, flaring tidak 100% efektif dan masih memungkinkan metana terlepas ke atmosfer. Penambang Bitcoin dapat menggunakan energi ini untuk menjalankan operasi mereka sehingga mengurangi emisi gas rumah kaca dari flaring. Gas alam tersebut dibakar dalam generator untuk menghasilkan listrik, yang kemudian menggerakkan perangkat penambangan portabel yang ditempatkan langsung di lokasi sumur.
 >
@@ -178,7 +178,7 @@ Seiring industri berkembang, kolaborasi yang lebih besar dengan penyedia energi 
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin tidak membuang-buang energi. Ia menggunakan energi yang terbuang.**
 >

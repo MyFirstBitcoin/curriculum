@@ -30,7 +30,7 @@ Idan kana so ka sayi sabuwar mota, zaka iya kwatanta farashin daga dillalai daba
 Waɗannan ayyuka guda uku ne ke ba tattalin arziki damar zama mai rikitarwa da motsi. Idan babu kudi, zai yi wahala sosai a saye da sayar da kaya da ayyuka, kuma tattalin arzikimu zai kasance baya ci gaba sosai.
 
 
-> **Info**
+> **Dark**
 >
 > Mutane suna fahimtar darajar wani abu idan yana da farashi da aka bayyana da kudi.
 

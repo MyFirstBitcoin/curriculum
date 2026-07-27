@@ -161,7 +161,11 @@ Isso não é apenas uma ameaça a alguns ganhos que os bancos obtêm com pagamen
 
 Soluções em Bitcoin e stablecoins oferecem uma redução significativa nas fricções e custos ligados a pagamentos estrangeiros e remessas internacionais. Isso pode representar uma ameaça significativa aos ganhos de bancos e provedores de serviços de pagamento.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 O tamanho dos mercados de câmbio subiu de praticamente zero desde o início da Segunda Guerra Mundial para US$ 7,5 trilhões por dia no final de 2022, com quase todo esse crescimento ocorrendo desde o fim do sistema de câmbio de Bretton Woods em 1971. Bancos e provedores de serviços de pagamento obtêm ganhos significativos ao fornecer serviços nesses mercados.
 

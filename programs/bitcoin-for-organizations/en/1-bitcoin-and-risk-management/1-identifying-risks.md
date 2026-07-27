@@ -39,7 +39,7 @@ Finally, convert observations from the above exercise into risks pertinent to yo
 
 
 
-> **Info – Examples**
+> **Dark – Examples**
 >
 > * Risk that bitcoin becomes the primary, global treasury reserve asset
 > * Risk that the Bitcoin network becomes the settlement layer for internet-based commerce

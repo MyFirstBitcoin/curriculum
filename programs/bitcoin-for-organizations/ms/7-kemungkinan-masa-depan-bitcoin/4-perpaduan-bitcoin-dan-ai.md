@@ -155,7 +155,7 @@ Walau bagaimanapun, pada masa ini terdapat beberapa batasan yang perlu dipertimb
 ##### Risiko
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens telah memancing bot AI eksperimen untuk mempromosikan memecoin. Kini ia naik 16,000%. Direka sebagai eksperimen langsung dalam interaksi manusia dengan model AI, bot tular - Terminal of Truth - akhirnya mempromosikan memecoin yang dipanggil GOAT.
 >

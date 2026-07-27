@@ -12,7 +12,11 @@ Mara tu muamala unapowekwa kwenye bloku, unathibitishwa na kuhifadhiwa kabisa kw
 
 #### Shughuli: Kuchunguza Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Shughuli hii inawapa wanafunzi fursa ya kutumia zana huria na isiyolipishwa ambayo haihitaji ujuzi wa kiufundi kuitumia. Inafaa kwa watumiaji wa Bitcoin wa viwango vyote, kuanzia wanaoanza hadi wenye uzoefu.**
 

@@ -155,7 +155,7 @@ Gayunpaman, may ilang limitasyon sa kasalukuyan na kailangang isaalang-alang:
 ##### Mga Panganib
 
 
-> **Info**
+> **Dark**
 >
 > Naakit ng mga Crypto Degen ang isang Experimental AI Bot na I-promote ang isang Memecoin. Tumaas na ito ng 16,000%. Bilang isang live experiment sa interaksyon ng tao at AI models, ang viral bot - Terminal of Truth - ay nauwi sa pag-promote ng memecoin na tinatawag na GOAT.
 >

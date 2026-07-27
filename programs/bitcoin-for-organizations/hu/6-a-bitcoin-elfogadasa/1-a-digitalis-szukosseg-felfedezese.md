@@ -88,7 +88,7 @@ Ekkor a Rogue feladja. Miért?
 A Rogue rájön, hogy nincs elég hash kapacitása a double spend végrehajtásához, annak ellenére, hogy a Bitcoin hash arányának 36%-át irányítja. A sikerhez további négy blokkot kellene bányásznia, hogy megelőzze a tisztességes láncot. Óriási számítási teljesítménye és a hálózat 36%-ának birtoklása ellenére a Rogue sikerének esélye mindössze 0,100113.
 
 
-> **Info – A játékelmélet szerepe**
+> **Dark – A játékelmélet szerepe**
 >
 > A Rogue sikerének esélye nagyon rossz, de még rosszabbá válik. Minden egyes percben, amíg próbálkozik, a Rogue hatalmas mennyiségű áramot fogyaszt. Ez mind hiábavaló lesz. Ráadásul minden olyan blokkért, amit nem tisztességesen bányászik, a Rogue elveszíti a blokk jutalmat, amely jelenleg 3,125 érme blokkonként, értéke jelenleg meghaladja a 300 000 eurót.
 >

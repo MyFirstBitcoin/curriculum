@@ -18,7 +18,11 @@ Hii inaonyesha jinsi uwezo wa kununua unaweza kuathiriwa na nguvu zilizo nje ya 
 
 #### Shughuli: Mnada
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Hii ni zoezi la darasani ambapo washiriki wanajifunza moja kwa moja jinsi ongezeko la kiasi cha fedha linavyoathiri bei. Lengo ni kwa washiriki kuelewa mfumuko wa fedha (sio mfumuko wa bei).
 

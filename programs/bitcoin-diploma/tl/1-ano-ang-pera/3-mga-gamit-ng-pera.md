@@ -30,7 +30,7 @@ Kung gusto mong bumili ng bagong kotse, maaari mong ikumpara ang mga presyo mula
 Ang tatlong tungkuling ito ang nagpapahintulot sa mga ekonomiya na maging masalimuot at dinamiko. Kung walang pera, magiging mas mahirap bumili at magbenta ng mga produkto at serbisyo, at ang ating ekonomiya ay magiging mas hindi maunlad.
 
 
-> **Info**
+> **Dark**
 >
 > Nauunawaan ng mga tao ang halaga ng isang bagay kapag ito ay may presyong ipinapahayag sa pera.
 

@@ -2,7 +2,7 @@
 
 #### 1. Šta je Bitcoin for Juniors?
 
-Bitcoin for Juniors je osnovni program namenjen deci uzrasta od 8 do 12 godina. Uvodi ih u ključne ideje potrebne za razumevanje Bitcoina, bez potrebe da deca direktno koriste Bitcoin.
+Bitcoin for Juniors je osnovni program namenjen deci uzrasta od 8 do 12 godina. Uvodi ih u ključne ideje potrebne za razumevanje Bitcoina, bez potrebe da ga deca direktno koriste.
 
 Program se sastoji iz dva dela:
 
@@ -34,14 +34,14 @@ Bitcoin for Juniors podučava ključne koncepte potrebne za razumevanje Bitcoina
 
 * Šta je novac i zašto ga društva koriste
 * Razliku između vrednosti i cene
-* Vreme, energiju, trud i nagradu
-* Oskudicu i obilje
+* Vreme, energija, trud i nagrada
+* Oskudica i obilje
 * Javne naspram privatnih informacija
 * Osnovne ideje o enkripciji i šiframa
-* Istorijsku evoluciju novca
-* Poreklo i svrhu Bitcoina
+* Istorijski razvoj novca
+* Poreklo i svrha Bitcoina
 
-Ove ideje se istražuju kroz igre, pričanje priča, pokret i zajedničke aktivnosti. Deci se ne govori šta da misle o Bitcoinu — dobijaju alate da razmišljaju o novcu, vrednosti i pravičnosti, i da sami donesu zaključke.
+Ove ideje se istražuju kroz igre, pričanje priča, pokret i zajedničke aktivnosti. Deci se ne govori šta da misle o Bitcoinu — dobijaju alate da razmišljaju o novcu, vrednosti i pravičnosti i da sami donesu zaključke.
 
 #### 5. Da li je ovo kurs o investiranju, trgovanju ili korišćenju pravog novca?
 
@@ -53,15 +53,15 @@ Bitcoin se uvodi kroz analogije, igru i vođene diskusije. Složene tehničke id
 
 #### 7. Kako mogu da predajem ovo u svojoj učionici ili obrazovnom okruženju?
 
-Program je osmišljen da bude niskotehnološki i veoma interaktivan. Lekcije se mogu realizovati korišćenjem:
+Program je osmišljen da bude niskotehnološki i veoma interaktivan. Lekcije se mogu izvoditi koristeći:
 
-* Štampanih radnih listova
-* Simulacija kroz igru uloga
-* Fizičkih tokena, kartica ili jednostavnih materijala iz učionice
+* Štampane radne listove
+* Simulacije kroz igru uloga
+* Fizičke žetone, kartice ili jednostavne materijale iz učionice
 * Vođene grupne diskusije
 
 Vodič za nastavnike pruža detaljna uputstva, savete za upravljanje učionicom, pitanja za razmišljanje i ideje za proširenje nastave. Nije potrebno napredno tehničko znanje o Bitcoinu.
 
 #### 8. Šta se dešava nakon što učenici završe program?
 
-Učenici izlaze sa jačom finansijskom svešću, veštinama kritičkog razmišljanja i strukturiranim razumevanjem evolucije novca. Oni nisu „korisnici Bitcoina“. Oni su pripremljeni učenici. Kada kasnije u životu naiđu na Bitcoin, imaće intelektualnu osnovu da ga razumeju odgovorno i samostalno.
+Učenici izlaze sa jačom finansijskom pismenošću, veštinama kritičkog razmišljanja i strukturiranim razumevanjem razvoja novca. Oni nisu „korisnici Bitcoina“. Oni su pripremljeni učenici. Kada kasnije u životu naiđu na Bitcoin, imaće intelektualnu osnovu da ga razumeju odgovorno i samostalno.

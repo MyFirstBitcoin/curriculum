@@ -36,7 +36,7 @@ A titkosítást arra használják, hogy csak a bitcoin valódi birtokosa rendelk
 További védelmi intézkedésként minden Bitcoin tranzakció automatikusan EGYEDI digitális aláírást kap. Ez az egyedi digitális aláírás manipulációbiztos technológián alapul, amely segíti a hálózatot abban, hogy ellenőrizze: valóban a bitcoin tulajdonosa, és nem valaki más küldte el azt.
 
 
-> **Info**
+> **Dark**
 >
 > Minden felhasználónak két kulcsa van: egy **magánkulcs**, amelyet **titokban tartanak**, és egy **nyilvános kulcs**, amely **megosztható másokkal**. A **magánkulcs** azonosítóként és tulajdonjog igazolásaként szolgál, megerősítve: „Ez a cím hozzám tartozik, és én rendelkezem felette.”
 
@@ -128,6 +128,10 @@ A **nyilvános kulcs** hash-eléssel történő kódolása növeli az informáci
 
 #### Gyakorlat: SHA 256 hash generálása
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Kíváncsi vagy, hogyan működik a hash-elés? Olvasd be a QR-kódot, és azonnal generálj SHA256 hash-t bármilyen általad választott szóból, mondatból vagy bemenetből. A hash függvények olyanok, mint a digitális ujjlenyomatok: egyirányúak, vagyis ha valamit hash-elsz, azt nem lehet visszafejteni. Próbáld ki, és győződj meg róla magad!

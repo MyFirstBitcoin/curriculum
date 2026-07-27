@@ -36,7 +36,7 @@ Encryption is used to ensure that only the real holder of the bitcoin has the au
 As an additional measure of protection, each Bitcoin transaction automatically gets a UNIQUE digital signature. This unique digital signature is powered by tamper-proof technology that helps the network verify that the real owner of the bitcoin, and not someone else, has sent them.
 
 
-> **Info**
+> **Dark**
 >
 > Each user has two keys: a **private key**, which is **kept secret**, and a **public key** that can be **shared with others**. The **private key** serves as a form of identification and proof of ownership, confirming: “This address belongs to me and I have control over it.”
 
@@ -128,6 +128,10 @@ The process of encoding the **public key** through hashing is used to improve th
 
 #### Activity: Generate SHA 256 Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Curious about how hashing works? Scan the QR code to instantly generate a SHA256 hash from any word, sentence, or input you choose. Hash functions are like digital fingerprints: they're one-way, meaning once something is hashed, it can't be reversed. Try it out and see for yourself!

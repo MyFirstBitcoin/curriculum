@@ -128,7 +128,7 @@ Bitcoin mining offers a strong economic incentive for the development of renewab
 
 
 
-> **Info – The Elimination of Flaring?**
+> **Dark – The Elimination of Flaring?**
 >
 > Utilising waste energy, such as flared natural gas, not only saves money but also mitigates environmental criticisms. Flaring occurs when excess natural gas (methane) is burned off at oil drilling sites because there is no infrastructure to capture and sell it. According to some studies5, methane traps around 120 times as much heat as CO2, hence the requirement to burn it off, effectively converting it to CO2. However, flaring is not 100% effective and still allows methane into the atmosphere. Bitcoin miners can use this energy to power their operations which reduces greenhouse gas emissions from flaring. The natural gas is combusted in generators to produce electricity, which powers portable mining rigs located directly at the well site.
 >
@@ -178,7 +178,7 @@ As the industry matures, greater collaboration with renewable energy providers a
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin doesn’t waste energy. It uses wasted energy.**
 >

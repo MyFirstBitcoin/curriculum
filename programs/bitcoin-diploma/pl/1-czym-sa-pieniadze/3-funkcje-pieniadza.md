@@ -30,7 +30,7 @@ Jeśli chciałbyś kupić nowy samochód, mógłbyś porównać ceny w różnych
 Te trzy funkcje pozwalają gospodarkom stać się złożonymi i dynamicznymi. Bez pieniędzy znacznie trudniej byłoby kupować i sprzedawać towary i usługi, a nasza gospodarka byłaby znacznie mniej rozwinięta.
 
 
-> **Info**
+> **Dark**
 >
 > Ludzie rozumieją wartość czegoś, gdy ma ono cenę wyrażoną w pieniądzu.
 

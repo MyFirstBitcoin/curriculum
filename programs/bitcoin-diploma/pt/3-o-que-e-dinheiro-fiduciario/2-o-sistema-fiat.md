@@ -65,7 +65,7 @@ Esse processo leva a um sistema monetário movido a dívida, pois os bancos cria
 1. **Os bancos pagam juros a partir dos juros recebidos nos empréstimos** (9% - 5% = 4%) e ficam com o restante como lucro
 
 
-> **Note – Como os Bancos Criam Dinheiro**
+> **Light – Como os Bancos Criam Dinheiro**
 >
 > Os bancos comerciais criam novo dinheiro fiduciário quando concedem empréstimos.
 >
@@ -124,7 +124,7 @@ Esses grupos se beneficiam de várias formas, criando uma teia complexa de contr
 No fim das contas, os marionetistas do sistema fiat orquestram um espetáculo onde poucos se beneficiam muito às custas de muitos, que ficam se perguntando como conseguirão alcançar algum dia.
 
 
-> **Note – O Papel dos Bancos Centrais**
+> **Light – O Papel dos Bancos Centrais**
 >
 > Os bancos centrais moldam silenciosamente o funcionamento de uma economia. Seu papel oficial é garantir estabilidade e integridade, mas seus métodos revelam um lado mais sombrio.
 >
@@ -156,7 +156,7 @@ Bancos centrais e governos podem usar ferramentas de política monetária e fisc
 * Aumentar Impostos
 
 
-> **Note – Grande Demais para Quebrar**
+> **Light – Grande Demais para Quebrar**
 >
 > "Grande demais para quebrar" refere-se a instituições financeiras tão grandes e interconectadas que sua falência teria repercussões catastróficas para todo o sistema financeiro. Durante a crise financeira de 2008, vários grandes bancos foram considerados "grandes demais para quebrar", levando o governo dos EUA a intervir e fornecer resgates para evitar seu colapso.
 >
@@ -169,7 +169,11 @@ Saber como essas políticas funcionam é fundamental para entender as limitaçõ
 
 #### Atividade: Banco de Reserva Fracionária
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Este é um exercício em grupo que explora as ações individuais de pessoas e bancos utilizando a prática de reserva fracionária. O objetivo é vivenciar na prática como essa ferramenta aumenta a oferta de dinheiro.
 

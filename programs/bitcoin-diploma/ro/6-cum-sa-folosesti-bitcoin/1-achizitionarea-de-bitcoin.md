@@ -24,7 +24,7 @@ Aici intervin platformele peer-to-peer, unde cumpărătorii și vânzătorii de 
 Pe astfel de platforme, nu trebuie să ai încredere în nimeni cu informațiile sau banii tăi; te conectezi cu alți utilizatori și faci schimb direct cu ei.
 
 
-> **Note**
+> **Light**
 >
 > Pe majoritatea platformelor peer-to-peer, utilizatorii trebuie să blocheze o parte din fonduri în escrow pentru a se asigura că fiecare parte își respectă partea din înțelegere. Escrow înseamnă să pui banii într-un loc sigur, sub controlul platformei, până când ambele părți fac ceea ce au promis. E ca și cum un prieten de încredere ar ține lucrurile tale până când toată lumea este mulțumită de tranzacție.
 

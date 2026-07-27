@@ -88,7 +88,7 @@ Rogue gibt dann auf. Warum?
 Rogue erkennt, dass es nicht genug Hashrate hat, um den Double-Spend durchzuführen, obwohl es 36% der Hashrate von Bitcoin kontrolliert. Um erfolgreich zu sein, müsste es vier weitere Blöcke minen, um der ehrlichen Kette voraus zu sein. Trotz seiner enormen Rechenleistung und der Kontrolle über 36% des Netzwerks liegen Rogues Erfolgschancen nur bei 0,100113.
 
 
-> **Info – Spieltheorie greift**
+> **Dark – Spieltheorie greift**
 >
 > Rogues Erfolgschancen sind miserabel, aber es wird noch schlimmer. Für jede Minute, die Rogue es weiter versucht, verbraucht es enorme Mengen an Strom. Das alles wäre umsonst gewesen. Außerdem verzichtet Rogue für jeden Block, den es nicht ehrlich mined, auf die Blockbelohnung, die derzeit 3,125 Coins pro Block beträgt und aktuell mit über 300.000 $ bewertet ist.
 >

@@ -127,7 +127,7 @@ Hakar Bitcoin na samar da kwarin gwiwa na tattalin arziki don ci gaban makamashi
 
 
 
-> **Info – Kawarda Fitar Hayaki?**
+> **Dark – Kawarda Fitar Hayaki?**
 >
 > Amfani da makamashi da ake zubarwa, kamar iskar gas da ake kona wa a wuraren hakar mai, ba wai kawai yana rage kashe kudi ba ne, har ma yana rage suka daga masu kula da muhalli. Ana kona iskar gas idan ya wuce kima a wuraren hakar mai saboda babu hanyar tara shi ko sayarwa. Wasu bincike sun nuna cewa methane na da karfin rike zafi sau 120 fiye da CO2, don haka ake bukatar a kona shi, a mayar da shi CO2. Amma kona shi ba ya aiki dari bisa dari, har yanzu methane na shiga sararin samaniya. Masu hakar Bitcoin za su iya amfani da wannan makamashi don gudanar da ayyukansu, wanda ke rage fitar hayakin da ke cutar da muhalli daga kona iskar gas. Ana kona iskar gas a cikin janareto don samar da lantarki, wanda ke ba da wuta ga na'urorin hakar da aka kai kai tsaye wurin rijiyar mai.
 >
@@ -177,7 +177,7 @@ Yayin da masana'antar ke kara girma, hadin kai da masu samar da makamashi mai sa
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin ba ya bata makamashi. Yana amfani da makamashin da ake zubarwa.**
 >

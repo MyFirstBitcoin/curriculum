@@ -39,7 +39,7 @@ Slutligen, omvandla observationer från ovanstående övning till risker som är
 
 
 
-> **Info – Exempel**
+> **Dark – Exempel**
 >
 > * Risk att bitcoin blir den primära, globala reservtillgången för statskassor
 > * Risk att Bitcoin-nätverket blir avvecklingslagret för internetbaserad handel

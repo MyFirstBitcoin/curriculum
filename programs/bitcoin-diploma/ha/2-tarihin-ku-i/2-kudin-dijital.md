@@ -9,12 +9,12 @@ Kudaden da muke amfani da su suna kara zama na dijital; a yau, ƙananan kaso ne 
 ##### Albarkatu
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Kalli wannan gajeren bidiyo don koyo game da "Asalin Musanya", a cikin jerin “The History of Paper Money”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Wannan shi ne shirin na biyu mai suna "Ba Taliya Kadai Ba" daga "The History of Paper Money"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Me ke faruwa idan ka yi ƙoƙarin aiwatar da tsarin takardun kuɗi a zahiri? Gano amsar a cikin shirin na huɗu na "The History of Paper Money"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

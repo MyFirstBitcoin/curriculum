@@ -41,7 +41,7 @@ Kada se iznese ova kritika, vredi razmisliti da li kritičar ima druge motive. N
 Skalabilnost, ili blockchain trilema, prvi je postavio Vitalik Buterin 2017. godine. Ona kaže da uvek postoji kompromis u dizajnu blockchaina između svojstava decentralizacije, bezbednosti i skalabilnosti. Svako ko iznosi kritiku da je Bitcoin previše spor i da ima brže rešenje u blockchainu prvog sloja, žrtvuje deo bezbednosti ili decentralizacije da bi to postigao. Iako takav kompromis za blockchain dizajniran za druge namene može imati smisla, redosled prioriteta za globalni novac mora biti:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralizacija**
 >   * Omogućava uklanjanje poverenih strana

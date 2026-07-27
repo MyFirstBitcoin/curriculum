@@ -25,7 +25,7 @@ Fikirkan kegunaan praktikal seperti mendapatkan keperluan asas seperti makanan d
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Kembangkan perbincangan kepada kumpulan dengan berkongsi dan membandingkan senarai untuk mencari lima sebab paling penting mengapa kita memerlukan wang. Kenal pasti idea-idea yang sama dalam kelas. Renungkan idea unik anda sendiri yang tidak tersenarai tetapi masih bernilai, dan catatkan.
 

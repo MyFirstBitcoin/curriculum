@@ -88,7 +88,7 @@ Entonces Rogue se rinde. ¿Por qué?
 Rogue se da cuenta de que no tiene suficiente tasa de hash para lograr el doble gasto, a pesar de controlar el 36% de la tasa de hash de Bitcoin. Para tener éxito, debe minar cuatro bloques adicionales para adelantarse a la cadena honesta. A pesar de su enorme poder de cómputo y de controlar el 36% de la red, las probabilidades de éxito de Rogue son solo de 0.100113.
 
 
-> **Info – La teoría de juegos entra en acción**
+> **Dark – La teoría de juegos entra en acción**
 >
 > Las probabilidades de éxito de Rogue son pésimas, pero aún puede empeorar. Por cada minuto que siga intentándolo, Rogue consume una enorme cantidad de electricidad. Todo esto habrá sido en vano. Además, por cada bloque que no logre minar honestamente, Rogue pierde la recompensa del bloque, que actualmente es de 3.125 monedas por bloque, valoradas actualmente en más de $300,000.
 >

@@ -25,7 +25,7 @@ Zvažte praktické využití, například získávání nezbytností jako je jí
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Rozšiřte diskusi na celou skupinu tím, že budete sdílet a porovnávat seznamy, abyste našli pět nejdůležitějších důvodů, proč peníze potřebujeme. Určete společné myšlenky napříč třídou. Zamyslete se nad svými vlastními jedinečnými nápady, které se na seznam nedostaly, ale přesto jsou cenné, a poznamenejte si je.
 

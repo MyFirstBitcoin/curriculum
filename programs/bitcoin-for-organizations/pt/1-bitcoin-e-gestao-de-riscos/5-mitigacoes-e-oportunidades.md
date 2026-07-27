@@ -17,7 +17,7 @@ Evite ser excessivamente decisivo. Você pode se preparar para resultados mutuam
 Nesta seção destacamos alguns grupos genéricos de ações para ajudá-lo a transformar análise em ações. Esta lista não pretende ser exaustiva, mas sim ajudá-lo a começar.
 
 
-> **Note – Estratégias de DRE**
+> **Light – Estratégias de DRE**
 >
 > * Proteger receitas existentes e participação de mercado
 >   * Reduzir exposição a mercados negativamente afetados
@@ -33,7 +33,7 @@ Nesta seção destacamos alguns grupos genéricos de ações para ajudá-lo a tr
 
 
 
-> **Note – Estratégias de Balanço Patrimonial**
+> **Light – Estratégias de Balanço Patrimonial**
 >
 > * Gerar valor a partir do seu balanço patrimonial
 >   * Reduzir exposição a ativos que têm desempenho inferior ao custo de capital, sem reduzir a resiliência de capital

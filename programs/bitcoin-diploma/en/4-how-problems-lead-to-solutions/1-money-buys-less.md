@@ -12,13 +12,13 @@ In this example, their purchasing power fell because the money supply increased.
 
 This shows how purchasing power can be affected by forces outside our control and why it is important to understand how money systems work.
 
-
----
-
-
 #### Activity: Auction
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 This is a class exercise where participants learn firsthand how the increase in money supply impacts pricing. The intent is for participants to understand monetary inflation (not price inflation).
 

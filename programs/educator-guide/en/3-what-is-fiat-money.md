@@ -1,4 +1,4 @@
-# 3 - What Is Fiat Money?
+# What Is Fiat Money?
 
 Duration: 90 minutes
 

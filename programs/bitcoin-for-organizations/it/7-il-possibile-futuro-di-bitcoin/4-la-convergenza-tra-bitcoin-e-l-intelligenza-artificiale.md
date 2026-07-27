@@ -155,7 +155,7 @@ Tuttavia, attualmente ci sono alcune limitazioni che devono essere considerate:
 ##### Rischi
 
 
-> **Info**
+> **Dark**
 >
 > I Crypto Degens hanno indotto un bot IA sperimentale a promuovere una memecoin. Ora è salito del 16.000%. Concepite come un esperimento dal vivo sulle interazioni umane con i modelli IA, il bot virale - Terminal of Truth - ha finito per promuovere una memecoin chiamata GOAT.
 >

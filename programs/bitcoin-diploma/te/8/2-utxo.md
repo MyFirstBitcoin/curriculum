@@ -27,4 +27,4 @@
 ###### వనరులు
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ “How Bitcoin Works under the Hood” వీడియోను చూడండి](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

@@ -9,7 +9,11 @@ _A Bitcoin előtörténete – 40 évnyi kutatás, fejlesztés és igény eredm�
 
 Ahogy az előző modulban láttuk, több Cypherpunk is megpróbált alternatív pénzformát létrehozni. Ez a modul egyikük történetét folytatja: egy vízionáriusét, akit „Satoshi Nakamoto” néven ismerünk. Ez az anonim személy (vagy csoport) már jóval a Bitcoin előtt részt vett online beszélgetésekben a kriptográfiáról és a számítástechnikáról, hogy gyakorlati megoldásokat találjon a fiat rendszer kiváltására.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 2008 októberében Nakamoto egy úttörő tanulmányt tett közzé „Bitcoin: Egy Peer-to-Peer Elektronikus Pénzrendszer” címmel egy kriptográfiai levelezőlistán. Ez a dokumentum lefektette egy decentralizált, peer-to-peer protokoll alapjait, amely biztonságos online tranzakciókat tesz lehetővé közvetítők nélkül. Nakamoto víziója egyértelmű volt: egy tisztán peer-to-peer elektronikus pénz létrehozása, amely mentes a hatalmas kormányok és pénzügyi intézmények irányításától.
 

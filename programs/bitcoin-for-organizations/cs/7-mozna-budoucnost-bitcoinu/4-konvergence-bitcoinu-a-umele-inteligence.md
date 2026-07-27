@@ -155,7 +155,7 @@ V současné době však existují určitá omezení, která je třeba zvážit:
 ##### Rizika
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens nalákali experimentálního AI bota k propagaci memecoinu. Nyní je nahoře o 16 000 %. Vznikl jako živý experiment lidské interakce s AI modely, virální bot – Terminal of Truth – nakonec propagoval memecoin s názvem GOAT.
 >

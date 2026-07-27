@@ -1,6 +1,6 @@
 # 3.0 Giriş
 
-> **Info – Bitcoin White Paper Özeti**
+> **Dark – Bitcoin White Paper Özeti**
 >
 > **Tamamen eşler arası bir elektronik nakit versiyonu** çevrimiçi ödemelerin bir taraftan diğerine doğrudan, bir finansal kurumdan geçmeden gönderilmesine olanak tanırdı. **Dijital imzalar çözümün bir kısmını sağlar**, ancak ana faydalar **güvenilir bir üçüncü taraf** hâlâ çift harcamayı önlemek için gerekiyorsa kaybolur. Biz, çift harcama sorununa bir **eşler arası ağ** kullanarak bir çözüm öneriyoruz.**Ağ, işlemlere zaman damgası ekler** ve bunları sürekli bir zincire, **karma tabanlı iş ispatı** ile zincirleyerek değiştirilemeyecek bir kayıt oluşturur; bu kayıt, **iş ispatı** yeniden yapılmadan değiştirilemez. En uzun zincir, yalnızca tanık olunan olayların sırasının kanıtı olarak değil, aynı zamanda en büyük CPU gücü havuzundan geldiğinin de kanıtı olarak hizmet eder. CPU gücünün çoğunluğu, ağı saldırmak için iş birliği yapmayan düğümler tarafından kontrol edildiği sürece, en uzun zinciri oluşturacak ve saldırganları geride bırakacaklardır.**Ağın kendisi minimum yapıya ihtiyaç duyar. Mesajlar, en iyi çaba esasına göre yayınlanır ve düğümler istedikleri zaman ağdan ayrılıp tekrar katılabilirler**, yokken gerçekleşenleri en uzun iş ispatı zincirini kabul ederek öğrenirler.
 

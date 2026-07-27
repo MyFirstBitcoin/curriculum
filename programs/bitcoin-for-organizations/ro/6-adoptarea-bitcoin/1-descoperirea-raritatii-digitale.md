@@ -88,7 +88,7 @@ Rogue renunță atunci. De ce?
 Rogue își dă seama că nu are suficientă putere de hash pentru a realiza dublă cheltuire, deși controlează 36% din puterea de hash a Bitcoin. Pentru a reuși, trebuie să mineze încă patru blocuri pentru a depăși lanțul onest. În ciuda puterii sale de calcul vaste și a controlului a 36% din rețea, șansele de succes ale lui Rogue sunt doar 0,100113.
 
 
-> **Info – Teoria jocurilor intră în acțiune**
+> **Dark – Teoria jocurilor intră în acțiune**
 >
 > Șansele de succes ale lui Rogue sunt foarte mici, dar devine și mai rău. Pentru fiecare minut în care continuă să încerce, Rogue consumă o cantitate enormă de electricitate. Tot acest efort va fi în zadar. Mai mult, pentru fiecare bloc pe care nu îl minează onest, Rogue pierde recompensa de bloc, care este în prezent de 3,125 monede pe bloc, evaluate la peste 300.000 € în prezent.
 >

@@ -161,7 +161,11 @@ Kusenokwenzeka ukuba kuya kubakho iqela elahlukeneyo labanikezeli beentlawulo, k
 
 Izisombululo zeBitcoin kunye ne-stable coin zinika ukuncitshiswa okukhulu kweengxaki kunye neendleko ezinxulumene neentlawulo zangaphandle kunye nokuthumela imali phesheya. Oku kunokuba yingozi enkulu kwingeniso yeebhanki kunye nabanikezeli beenkonzo zokuhlawula.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Ubungakanani beemarike zokutshintshiselana ngemali yangaphandle bukhule ukusuka phantse zero ukusukela ukuqala kweMfazwe Yehlabathi II ukuya kwi-$7.5trn ngosuku ekupheleni kuka-2022, phantse lonke olo khula lwenzeka ukusukela ukuphela kwenkqubo yeBretton Woods ngo-1971. Iibhanki kunye nabanikezeli beenkonzo zokuhlawula bafumana ingeniso enkulu ngokubonelela ngeenkonzo kwezi marike.
 

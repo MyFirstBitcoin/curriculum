@@ -25,7 +25,7 @@ Fikiria matumizi ya kila siku kama kupata mahitaji muhimu kama chakula na vitu u
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Panua mjadala kwa kundi kwa kushirikiana na kulinganisha orodha zenu ili kupata sababu tano muhimu zaidi za kuhitaji pesa. Tambua mawazo yanayofanana katika darasa. Fikiria pia mawazo yako ya kipekee ambayo hayakuingia kwenye orodha lakini bado ni muhimu, na uyaandike chini.
 

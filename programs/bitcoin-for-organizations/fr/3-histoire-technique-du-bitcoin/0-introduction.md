@@ -1,6 +1,6 @@
 # 3.0 Introduction
 
-> **Info – Résumé du livre blanc sur le Bitcoin**
+> **Dark – Résumé du livre blanc sur le Bitcoin**
 >
 > **Une version purement pair-à-pair de la monnaie électronique** permettrait d’envoyer des paiements en ligne directement d’une partie à une autre sans passer par une institution financière. **Les signatures numériques fournissent une partie de la solution**, mais les principaux avantages sont perdus si un **tiers de confiance** est toujours nécessaire pour empêcher la double dépense. Nous proposons une solution au problème de la double dépense en utilisant un **réseau pair-à-pair**. Le **réseau horodate les transactions** en les hachant dans une chaîne continue de **preuve de travail basée sur le hachage,** formant un registre qui ne peut pas être modifié sans refaire la **preuve de travail**. La chaîne la plus longue sert non seulement de preuve de la séquence des événements observés, mais aussi de preuve qu’elle provient du plus grand pool de puissance de calcul. Tant qu’une majorité de la puissance de calcul est contrôlée par des nœuds qui ne coopèrent pas pour attaquer le réseau, ils généreront la chaîne la plus longue et dépasseront les attaquants. **Le réseau lui-même nécessite une structure minimale. Les messages sont diffusés selon le principe du meilleur effort, et les nœuds peuvent quitter et rejoindre le réseau à leur guise**, acceptant la chaîne de preuve de travail la plus longue comme preuve de ce qui s’est passé pendant leur absence.
 

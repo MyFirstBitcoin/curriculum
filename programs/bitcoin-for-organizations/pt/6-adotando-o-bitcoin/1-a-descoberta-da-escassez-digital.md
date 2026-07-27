@@ -88,7 +88,7 @@ A Rogue então desiste. Por quê?
 A Rogue percebe que não tem poder de hash suficiente para realizar o duplo gasto, apesar de controlar 36% do poder de hash do Bitcoin. Para ter sucesso, ela precisaria minerar mais quatro blocos para ultrapassar a cadeia honesta. Apesar de seu vasto poder computacional e de controlar 36% da rede, as chances de sucesso da Rogue são de apenas 0,100113.
 
 
-> **Info – A Teoria dos Jogos Entra em Cena**
+> **Dark – A Teoria dos Jogos Entra em Cena**
 >
 > As chances de sucesso da Rogue são péssimas, mas ainda pioram. A cada minuto que continua tentando, a Rogue consome uma enorme quantidade de eletricidade. Tudo isso terá sido em vão. Além disso, para cada bloco que ela deixa de minerar honestamente, a Rogue perde a recompensa do bloco, atualmente 3,125 moedas por bloco, avaliadas em mais de US$ 300 mil atualmente.
 >

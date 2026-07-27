@@ -76,7 +76,11 @@ Another important factor to keep in mind when choosing a Bitcoin wallet is knowi
 
 #### Activity: Discussion and evaluation of Bitcoin wallets
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Go to the following website: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

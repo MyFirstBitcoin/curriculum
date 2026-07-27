@@ -19,7 +19,7 @@ Ganito rin ang prinsipyo ng Bitcoin. Ang Bitcoin ay isang network ng mga tao na 
 Halimbawa, isa sa mga patakaran ng Bitcoin ay "Hindi lalampas sa 21 milyon ang kabuuang bitcoin." Kung may gumawa ng dagdag na isang milyong bitcoin para sa sarili niya, wala itong silbi dahil awtomatiko siyang makikilala at tatanggihan ng lahat ng iba pa. Ito ang dahilan kung bakit matatag ang Bitcoin.
 
 
-> **Info**
+> **Dark**
 >
 > Hindi mahalaga kung sino ka o saan ka galing: kung papasok ka sa mundo ng Bitcoin, kailangan mong sumunod sa parehong hanay ng mga patakaran tulad ng lahat.
 
@@ -84,7 +84,11 @@ Bawat kalahok sa desentralisadong orkestra na ito ay may mahalagang papel sa pag
 
 #### Gawain: Konsensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Ito ay isang aktibidad sa klase kung saan matututuhan ng mga kalahok mismo kung gaano kahirap mag-synchronize ng mga kilos sa isang grupo na walang itinalagang lider. Layunin nitong maunawaan ng mga kalahok kung paano nakakamit ang pagkakasundo (konsensus) sa Bitcoin.
 

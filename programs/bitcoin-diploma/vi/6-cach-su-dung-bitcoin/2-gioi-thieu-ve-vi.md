@@ -76,7 +76,11 @@ Một yếu tố quan trọng khác cần lưu ý khi chọn ví Bitcoin là bi�
 
 #### Hoạt động: Thảo luận và đánh giá các loại ví Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Truy cập trang web sau: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

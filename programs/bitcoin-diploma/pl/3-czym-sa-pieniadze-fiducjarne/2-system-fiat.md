@@ -65,7 +65,7 @@ Wtedy do akcji wkracza bank centralny jako pożyczkodawca ostatniej instancji, d
 1. **Banki płacą odsetki z odsetek uzyskanych z udzielonych kredytów** (9% - 5% = 4%) i resztę zatrzymują jako zysk
 
 
-> **Note – Jak banki tworzą pieniądze**
+> **Light – Jak banki tworzą pieniądze**
 >
 > Banki komercyjne tworzą nowy pieniądz fiducjarny, gdy udzielają kredytów.
 >
@@ -124,7 +124,7 @@ Te grupy korzystają na różne sposoby, tworząc złożoną sieć kontroli i wp
 Ostatecznie marionetkarze systemu fiat reżyserują przedstawienie, w którym nieliczni zyskują ogromnie kosztem wielu, którzy zostają z pytaniem, jak kiedykolwiek nadrobią straty.
 
 
-> **Note – Rola banków centralnych**
+> **Light – Rola banków centralnych**
 >
 > Banki centralne po cichu kształtują sposób funkcjonowania gospodarki. Ich oficjalnym zadaniem jest zapewnienie stabilności i integralności, ale ich metody ujawniają bardziej mroczną stronę.
 >
@@ -156,7 +156,7 @@ Banki centralne i rządy mogą używać narzędzi polityki pieniężnej i fiskal
 * Podwyższenie podatków
 
 
-> **Note – Zbyt duży, by upaść**
+> **Light – Zbyt duży, by upaść**
 >
 > „Zbyt duży, by upaść” odnosi się do instytucji finansowych tak dużych i powiązanych, że ich upadek miałby katastrofalne skutki dla całego systemu finansowego. Podczas kryzysu finansowego w 2008 roku kilka dużych banków uznano za „zbyt duże, by upaść”, co skłoniło rząd USA do interwencji i udzielenia im pomocy finansowej, aby zapobiec ich upadkowi.
 >
@@ -169,7 +169,11 @@ Znajomość działania tych polityk jest kluczowa, aby zrozumieć ograniczenia s
 
 #### Ćwiczenie: Bankowość rezerw cząstkowych
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 To ćwiczenie klasowe bada indywidualne działania osób i banków korzystających z praktyki bankowości rezerw cząstkowych. Celem jest osobiste doświadczenie, jak to narzędzie zwiększa podaż pieniądza.
 

@@ -1,6 +1,6 @@
 # 3.0 Inleiding
 
-> **Info – De samenvatting van het Bitcoin White Paper**
+> **Dark – De samenvatting van het Bitcoin White Paper**
 >
 > **Een puur peer-to-peer versie van elektronisch geld** zou het mogelijk maken om online betalingen rechtstreeks van de ene partij naar de andere te sturen zonder tussenkomst van een financiële instelling. **Digitale handtekeningen bieden een deel van de oplossing**, maar de belangrijkste voordelen gaan verloren als er een **vertrouwde derde partij** nog steeds nodig is om dubbel uitgeven te voorkomen. Wij stellen een oplossing voor het probleem van dubbel uitgeven voor met behulp van een **peer-to-peer netwerk**. Het **netwerk voorziet transacties van een tijdstempel** door ze te hashen in een voortdurende keten van **hash-gebaseerd proof-of-work,** waarmee een registratie wordt gevormd die niet kan worden gewijzigd zonder het **proof-of-work** opnieuw uit te voeren. De langste keten dient niet alleen als bewijs van de volgorde van gebeurtenissen, maar ook als bewijs dat deze afkomstig is van de grootste pool van rekenkracht (CPU power). Zolang de meerderheid van de rekenkracht wordt gecontroleerd door nodes die niet samenwerken om het netwerk aan te vallen, zullen zij de langste keten genereren en aanvallers voorblijven. **Het netwerk zelf vereist minimale structuur. Berichten worden op basis van best effort uitgezonden, en nodes kunnen het netwerk naar wens verlaten en opnieuw toetreden**, waarbij ze de langste proof-of-work keten accepteren als bewijs van wat er is gebeurd terwijl ze weg waren.
 

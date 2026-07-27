@@ -58,13 +58,21 @@ Tranzacțiile on-chain au loc direct pe blockchain-ul Bitcoin și pot dura mai m
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Aceasta este o hartă a întregii rețele Lightning. Datorită miilor de operatori de noduri Lightning, poți trimite sats oricărui utilizator cu un portofel Bitcoin Lightning, oriunde s-ar afla în lume. Plata va ajunge în câteva secunde și va costa doar câțiva bani.**Verifică singur!**
 
 #### Activitate: Ștafeta Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Acesta este un exercițiu practic în care elevii trimit și primesc sats reali folosind rețeaua Lightning.**
 

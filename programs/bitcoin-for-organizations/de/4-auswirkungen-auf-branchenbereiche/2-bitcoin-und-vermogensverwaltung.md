@@ -166,7 +166,7 @@ Hohe Preisvolatilität, gemessen an der Standardabweichung der Renditen, ist Inv
 Das Fazit ist, dass Bitcoin ein volatiler Vermögenswert ist. Das ist zu erwarten, da er neu ist und sich auf einer langen Reise der Preisfindung und Nutzerakzeptanz befindet. Professionelle Investoren sind gut darauf vorbereitet, diese Volatilität zu akzeptieren und sie angesichts des Potenzials für überdurchschnittliche Renditen entsprechend zu steuern. Sie können die angemessene Allokation im Einklang mit ihrem eigenen Investmentrahmen und ihrer Risikobereitschaft bestimmen. Und um kurzfristige Schwankungen auszugleichen, könnte das Halten von Bitcoin für mindestens einen, vierjährigen Halving-Zyklus eine angemessene Mindesthaltedauer sein.
 
 
-> **Note – Ist Bitcoin ein Inflationsschutz?**
+> **Light – Ist Bitcoin ein Inflationsschutz?**
 >
 > Da Bitcoin ein Vermögenswert mit begrenztem Angebot ist, argumentieren Befürworter schon lange, dass er als Absicherung gegen Inflation in Fiatwährungen dient. Es ist klar, dass Bitcoin über einen sehr langen Zeitraum als äußerst effektiver Schutz gegen die Entwertung der Kaufkraft von Fiatgeld gedient hat. Kritiker verweisen jedoch auf den dramatischen Anstieg des jährlichen Verbraucherpreisindex (CPI)11 von Anfang 2021 bis zu einem 40-Jahres-Hoch Mitte 2022 und fragen, warum der Bitcoin-Preis in diesem Zeitraum keinen signifikanten Anstieg verzeichnete. Hat Bitcoin also als Inflationsschutz versagt?
 >
@@ -216,7 +216,7 @@ Natürlich erwarten nur wenige Kommentatoren, dass dieses Szenario bald eintritt
 Was, wenn wir – wie beim Aufstieg des Internets – nicht einfach aussteigen können?
 
 
-> **Info – Warnung**
+> **Dark – Warnung**
 >
 > Beachten Sie, dass vergangene Wertentwicklungen keine Garantie für zukünftige Ergebnisse sind. Bitcoin ist ein Vermögenswert mit hohen Risiken. Investoren sollten bedenken, dass sein Wert sowohl erheblich steigen als auch fallen kann, wie die Vergangenheit gezeigt hat.
 >

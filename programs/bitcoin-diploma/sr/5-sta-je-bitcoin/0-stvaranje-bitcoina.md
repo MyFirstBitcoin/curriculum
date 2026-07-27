@@ -9,7 +9,11 @@ _Preistorija Bitcoina – Rezultat je 40 godina istraživanja, razvoja i potraž
 
 Kao što smo videli u prethodnom modulu, nekoliko Cypherpunka je pokušalo da stvori alternativni oblik novca. Ovaj modul nastavlja priču o jednom od njih: vizionaru poznatom kao „Satoshi Nakamoto“. Ova anonimna ličnost (pojedinac ili grupa), mnogo pre Bitcoina, učestvovala je u onlajn diskusijama o kriptografiji i računarstvu kako bi pronašla praktične načine za zamenu fiat sistema.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 U oktobru 2008. godine, Nakamoto je predstavio revolucionarni dokument pod nazivom „Bitcoin: Peer-to-Peer elektronski novčani sistem“ na mejling listi o kriptografiji. Ovaj dokument postavio je temelje za decentralizovani peer-to-peer protokol dizajniran da omogući sigurne onlajn transakcije bez potrebe za posrednicima. Nakamotova vizija bila je jasna: stvoriti čisto peer-to-peer verziju elektronskog novca, oslobođenu kontrole moćnih vlada i finansijskih institucija.
 

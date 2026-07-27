@@ -19,7 +19,7 @@ Nehmen wir an, Jens schuldet Eliana 0,5 BTC und ist bereit, sie zurückzuzahlen.
 _Es ist wichtig zu beachten, dass eine abgeschlossene Transaktion nicht rückgängig gemacht werden kann._
 
 
-> **Note – Wie eine Bitcoin-Transaktion funktioniert**
+> **Light – Wie eine Bitcoin-Transaktion funktioniert**
 >
 > 1. Jemand fordert eine Transaktion an
 > 1. Transaktion wird an P2P-Computer (Knoten) gesendet
@@ -30,7 +30,7 @@ _Es ist wichtig zu beachten, dass eine abgeschlossene Transaktion nicht rückgä
 
 
 
-> **Note – Bitcoin-Transaktionen empfangen**
+> **Light – Bitcoin-Transaktionen empfangen**
 >
 > Um Bitcoin zu empfangen, musst du dem Absender eine Bitcoin-Öffentlich-Adresse bereitstellen. Dies ist eine einzigartige Zeichenfolge aus Buchstaben und Zahlen, die deine Wallet repräsentiert und zur Identifizierung im Bitcoin-Netzwerk dient.
 >
@@ -48,7 +48,7 @@ Sobald der Absender deine Adresse hat, kann er dir Bitcoin senden, indem er dein
 Die Transaktion wird vom Bitcoin-Netzwerk bestätigt und dauert in der Regel etwa 10 Minuten. Für mehr Sicherheit empfiehlt es sich, auf zwei Bestätigungen zu warten, was etwa 20 Minuten dauert.
 
 
-> **Note – Bitcoin-Transaktionen senden**
+> **Light – Bitcoin-Transaktionen senden**
 >
 > Um Bitcoin zu senden, benötigst du Folgendes: eine Bitcoin-Wallet, die öffentliche Adresse des Empfängers und den Betrag an Bitcoin, den du senden möchtest.
 >
@@ -68,7 +68,11 @@ Die Transaktion wird vom Bitcoin-Netzwerk bestätigt und dauert in der Regel etw
 
 #### Aktivität: Transaktionen in Aktion
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Dies ist eine kooperative Übung, die die grundlegenden Rollen der an einer Bitcoin-Transaktion beteiligten Personen vereinfacht.**
 

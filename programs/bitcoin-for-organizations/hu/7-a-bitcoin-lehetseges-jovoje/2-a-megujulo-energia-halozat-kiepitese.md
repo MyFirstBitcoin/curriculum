@@ -5,7 +5,7 @@
 A Bitcoin az energiára támaszkodik a „proof of work” konszenzus mechanizmusához, amely segít biztosítani, hogy decentralizált, engedély nélküli pénzformaként működjön. Az energiahálózat kihívásokkal néz szembe az új, megújuló energiaforrások integrálásában, ami terheli a jelenlegi infrastruktúrát. Ez a fejezet rövid bevezetést nyújt ezekhez a kihívásokhoz, áttekintést ad a Bitcoin releváns aspektusairól, mielőtt bemutatná, hogyan segíti elő a megújuló energia hálózat fejlődését.
 
 
-> **Info – A Bitcoin mint energia-alapú pénz**
+> **Dark – A Bitcoin mint energia-alapú pénz**
 >
 > 1921. december 4-én a New York Tribune egy cikket közölt Henry Ford elképzeléséről, amelyben az aranyat egy energia-alapú pénzzel kívánta felváltani, amellyel szerinte megtörhető lenne a banki elit globális vagyon feletti uralma, és véget lehetne vetni a háborúknak. Ezt úgy akarta elérni, hogy megépíti „a világ legnagyobb erőművét”, és egy új pénzrendszert hoz létre „energiaegységeken” alapulva.
 

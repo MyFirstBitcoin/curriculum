@@ -58,13 +58,21 @@ On-chain transactions happen directly on the Bitcoin blockchain and can take mor
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 This is a map of the entire Lightning Network. Thanks to thousands of Lightning node runners, you can send sats to any user with a Bitcoin Lightning wallet, wherever they are in the world. The payment will arrive in a few seconds and will only cost a few cents. **Check it out for yourself!**
 
 #### Activity: Lightning Relay Race
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **This is a hands-on exercise where students send and receive real sats using the Lightning Network.**
 

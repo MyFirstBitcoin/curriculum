@@ -19,7 +19,7 @@ Să presupunem că Mihai îi datorează Elenei 0,5 BTC și este gata să îi ret
 _Este important de reținut că, odată ce tranzacția este finalizată, aceasta nu poate fi anulată._
 
 
-> **Note – Cum funcționează o tranzacție Bitcoin**
+> **Light – Cum funcționează o tranzacție Bitcoin**
 >
 > 1. Cineva solicită o tranzacție
 > 1. Tranzacția este transmisă computerelor P2P (noduri)
@@ -30,7 +30,7 @@ _Este important de reținut că, odată ce tranzacția este finalizată, aceasta
 
 
 
-> **Note – Primirea tranzacțiilor Bitcoin**
+> **Light – Primirea tranzacțiilor Bitcoin**
 >
 > Pentru a primi bitcoin, va trebui să oferiți expeditorului o adresă publică Bitcoin. Aceasta este un șir unic de litere și cifre care reprezintă portofelul dumneavoastră și este folosit pentru a-l identifica pe rețeaua Bitcoin.
 >
@@ -48,7 +48,7 @@ Odată ce expeditorul are adresa dumneavoastră, vă poate trimite bitcoin intro
 Tranzacția este confirmată de Rețeaua Bitcoin și, de obicei, durează aproximativ 10 minute. Pentru o siguranță sporită, se recomandă să așteptați două confirmări, ceea ce durează aproximativ 20 de minute.
 
 
-> **Note – Trimiterea tranzacțiilor Bitcoin**
+> **Light – Trimiterea tranzacțiilor Bitcoin**
 >
 > Pentru a trimite bitcoin, veți avea nevoie de câteva lucruri: un portofel Bitcoin, adresa publică a destinatarului și suma de bitcoin pe care doriți să o trimiteți.
 >
@@ -68,7 +68,11 @@ Tranzacția este confirmată de Rețeaua Bitcoin și, de obicei, durează aproxi
 
 #### Activitate: Tranzacțiile în acțiune
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Acesta este un exercițiu cooperativ care simplifică rolurile de bază ale persoanelor implicate într-o tranzacție Bitcoin.**
 

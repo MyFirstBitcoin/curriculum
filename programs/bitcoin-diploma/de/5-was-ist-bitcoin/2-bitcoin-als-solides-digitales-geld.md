@@ -5,7 +5,7 @@ Ganz einfach gesagt ist Bitcoin Geld. Bitcoin ist keine Investition, sondern vie
 Das Halten von Bitcoin wird dich nicht reich machen, denn es bringt dir keine Rendite in Form von mehr Bitcoin. Sein Wert, gemessen an jeder Fiat-Währung, steigt zwar; aber das liegt nur an der zunehmenden Verbreitung und der Abwertung von Fiat-Währungen.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin ist **Geld**, das verwendet wird, um Wert zu speichern und zu übertragen.  
 > Es läuft auf einem globalen **Netzwerk** von Computern.  
@@ -29,7 +29,7 @@ Diese Software und das Protokoll aller Transaktionen haben eine sehr geringe Wah
 Schließlich ist Bitcoin knapp, das heißt, die Anzahl der jemals existierenden Bitcoin ist absolut begrenzt. Niemand kann On-Chain-Bitcoin fälschen – nicht einmal die mächtigsten Regierungen und Finanzinstitute.
 
 
-> **Note – Prinzipien von Bitcoin**
+> **Light – Prinzipien von Bitcoin**
 >
 > Bitcoin basiert auf drei einfachen Ideen:
 >
@@ -140,4 +140,4 @@ Der Schlüssel liegt im Handeln, im Verständnis der Funktionsweise von Bitcoin 
 ###### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Sieh dir das Video „Was ist Bitcoin?“ an](https://www.youtube.com/watch?v=Gc2en3nHxA4)

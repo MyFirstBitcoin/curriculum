@@ -18,7 +18,11 @@ Isso mostra como o poder de compra pode ser afetado por forças fora do nosso co
 
 #### Atividade: Leilão
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Este é um exercício em grupo onde os participantes aprendem na prática como o aumento da oferta de dinheiro impacta os preços. O objetivo é que os participantes entendam a inflação monetária (não a inflação de preços).
 

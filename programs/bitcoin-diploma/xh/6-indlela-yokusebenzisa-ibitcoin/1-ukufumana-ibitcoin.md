@@ -24,7 +24,7 @@ Nazi iindawo zokutshintshiselana phakathi kwabantu ababini kwi-intanethi, apho a
 Kwiindawo ezinjalo, akudingeki ukuba uthembe nabani na ngolwazi lwakho okanye ngemali yakho; udibana nabanye abantu kwaye nithengiselana ngokuthe ngqo.
 
 
-> **Note**
+> **Light**
 >
 > Kwiindawo ezininzi zokutshintshiselana phakathi kwabantu ababini kwi-intanethi, abantu kufuneka babeke imali ethile kwi-escrow ukuqinisekisa ukuba amaqela omabini aya kwenza oko avumelene ngako. I-escrow ithetha ukubeka imali kwindawo ekhuselekileyo phantsi kolawulo lweqonga de amaqela omabini enze oko athembisileyo. Kufana nomhlobo othembekileyo ogcina izinto zakho de wonke umntu aneliseke ngentengiselwano.
 

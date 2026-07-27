@@ -5,7 +5,7 @@
 Bitcoin se oslanja na energiju za svoj konsenzus mehanizam 'proof of work', koji pomaže da ostane decentralizovan i bez dozvola kao oblik novca. Energetska mreža se suočava sa izazovima u integraciji novih oblika energije iz obnovljivih izvora, što stvara pritisak na postojeću infrastrukturu. Ovo poglavlje daje kratak uvod u te izazove i pregled relevantnih aspekata Bitcoina pre nego što pokaže kako on pomaže u evoluciji mreže obnovljive energije.
 
 
-> **Info – Bitcoin kao energetska valuta**
+> **Dark – Bitcoin kao energetska valuta**
 >
 > Dana 4. decembra 1921. godine, New York Tribune je objavio članak u kojem je izložena Fordova vizija zamene zlata energetskom valutom za koju je verovao da može da razbije kontrolu bankarske elite nad globalnim bogatstvom i okonča ratove. On je to nameravao da postigne izgradnjom „najveće elektrane na svetu“ i stvaranjem novog valutnog sistema zasnovanog na „jedinicama snage“.
 

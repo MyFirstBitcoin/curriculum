@@ -24,7 +24,7 @@ Entram em cena as plataformas peer-to-peer, onde compradores e vendedores de Bit
 Nessas plataformas, você não precisa confiar suas informações ou dinheiro a ninguém; você se conecta com outros pares e negocia diretamente com eles.
 
 
-> **Note**
+> **Light**
 >
 > Na maioria das plataformas peer-to-peer, os participantes precisam colocar parte dos fundos em garantia (escrow) para garantir que cada lado cumpra sua parte do acordo. Escrow significa colocar o dinheiro em um local seguro sob controle da plataforma até que ambas as partes façam o que prometeram. É como um amigo de confiança guardando suas coisas até que todos estejam satisfeitos com o acordo.
 

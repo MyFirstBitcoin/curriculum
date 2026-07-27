@@ -5,7 +5,7 @@ Ngamagama alula, iBitcoin yimali. IBitcoin ayisosixhobo sokutyala imali kodwa yi
 Ukugcina iBitcoin akuyi kukwenza ube sisityebi kuba ayikuniki mbuyekezo yeBitcoin engakumbi. Ixabiso layo, xa lithelekiswa nayiphi na imali ye-fiat, liyenyuka; kodwa oku kungenxa yokwamkelwa kwayo okukhulayo kunye nokwehla kwamaxabiso eemali ze-fiat.
 
 
-> **Info**
+> **Dark**
 >
 > IBitcoin yimali**imali**, esetyenziswa ukugcina nokuthumela ixabiso.  
 > Isebenza kwinethiwekhi yehlabathi**yomnatha** yeekhompyutha.  
@@ -29,7 +29,7 @@ Le software kunye nerekhodi yazo zonke iintengiselwano inethuba elincinci kakhul
 Ekugqibeleni, iBitcoin iyancipha, okuthetha ukuba inani leBitcoin eliza kubakho lilinganiselwe ngokupheleleyo. Akukho mntu unokwenza iBitcoin yobuxoki kwi-blockchain — nkqu noorhulumente nabantu abakhulu kwezomali abanakho.
 
 
-> **Note – Imigaqo yeBitcoin**
+> **Light – Imigaqo yeBitcoin**
 >
 > IBitcoin yakhiwe kwiingcamango ezintathu ezilula:
 >
@@ -140,4 +140,4 @@ Isitshixo sikwiintshukumo, ekuqondeni indlela iBitcoin esebenza ngayo nasekuyise
 ###### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Jonga ividiyo ethi "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

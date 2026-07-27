@@ -24,7 +24,7 @@ Enter peer-to-peer platforms, where Bitcoin buyers and sellers meet in cyberspac
 On such platforms, you don’t have to trust anyone with your information or money; you connect with other peers and trade with them directly.
 
 
-> **Note**
+> **Light**
 >
 > On most peer-to-peer platforms, peers have to escrow some of the funds to ensure each side will comply with their part of the deal. Escrow means putting the money in a safe place under the control of the platform until both parties do what they promised. It's like a trusted friend holding onto your stuff until everyone is satisfied with the deal.
 

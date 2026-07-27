@@ -9,7 +9,11 @@ _Pra-sejarah Bitcoin - Ini adalah hasil dari 40 tahun penelitian, pengembangan, 
 
 Seperti yang telah kita lihat di modul sebelumnya, beberapa Cypherpunk mencoba menciptakan bentuk uang alternatif. Modul ini melanjutkan kisah salah satu dari mereka: seorang visioner yang dikenal sebagai “Satoshi Nakamoto”. Sosok anonim ini (individu atau kelompok), jauh sebelum Bitcoin, ikut serta dalam diskusi daring tentang kriptografi dan ilmu komputer untuk mencari cara praktis menggantikan sistem fiat.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Pada bulan Oktober 2008, Nakamoto memperkenalkan sebuah whitepaper revolusioner berjudul “Bitcoin: A Peer-to-Peer Electronic Cash System” di sebuah milis kriptografi. Dokumen ini menjadi dasar bagi protokol peer-to-peer terdesentralisasi yang dirancang untuk memfasilitasi transaksi daring yang aman tanpa perlu perantara. Visi Nakamoto sangat jelas: menciptakan versi uang elektronik peer-to-peer murni, bebas dari kendali pemerintah dan institusi keuangan yang berkuasa.
 

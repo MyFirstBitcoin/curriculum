@@ -5,7 +5,7 @@ Ti sei mai chiesto se puoi usare bitcoin per comprare il tuo caffè quotidiano o
 Anche se pagare con una carta di credito o un'app può sembrare semplice per chi paga, l'elaborazione del pagamento è in realtà molto complessa e coinvolge molte parti diverse.
 
 
-> **Note – Come funziona l'elaborazione dei pagamenti**
+> **Light – Come funziona l'elaborazione dei pagamenti**
 >
 > Cliente → Commerciante → Gateway di pagamento → Processore → Circuito della carta → Banca emittente → Circuito della carta → Banca del commerciante → Commerciante
 
@@ -55,7 +55,7 @@ Un'**economia circolare** è composta da partecipanti che decidono di sostenersi
 Applicata a Bitcoin, un'economia circolare si costruisce sostenendo commercianti locali e lavoratori specializzati che accettano bitcoin, così che tutti i partecipanti possano prosperare insieme grazie alle proprietà superiori di Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Il Lightning Network permette alle economie circolari Bitcoin di nascere e prosperare in tutto il mondo grazie a transazioni Bitcoin quasi istantanee e a basso costo.
 
@@ -71,4 +71,4 @@ Su [BTCMap.org](https://btcmap.org/communities), puoi anche cercare comunità Bi
 ###### Risorse
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Guarda questo video sulla Lightning Network](https://youtu.be/yKdK-7AtAMQ)

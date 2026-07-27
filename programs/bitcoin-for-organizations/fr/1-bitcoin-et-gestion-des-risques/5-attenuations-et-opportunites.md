@@ -17,7 +17,7 @@ Soyez conscient de la tentation de seulement surveiller, plutôt que d'agir, sur
 Dans cette section, nous mettons en avant quelques groupes d'actions génériques pour vous aider à transformer l'analyse en actions. Cette liste n'est pas exhaustive, mais vise à vous aider à démarrer.
 
 
-> **Note – Stratégies P&L**
+> **Light – Stratégies P&L**
 >
 > * Protéger les revenus existants et la part de marché
 >   * Réduire l'exposition aux marchés affectés négativement
@@ -33,7 +33,7 @@ Dans cette section, nous mettons en avant quelques groupes d'actions générique
 
 
 
-> **Note – Stratégies de bilan**
+> **Light – Stratégies de bilan**
 >
 > * Générer de la valeur à partir de votre bilan
 >   * Réduire l'exposition aux actifs qui sous-performent le coût du capital, sans réduire la résilience du capital

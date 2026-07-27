@@ -5,7 +5,7 @@ Kwa maneno rahisi kabisa, Bitcoin ni pesa. Bitcoin si uwekezaji bali ni njia sal
 Kushikilia bitcoin hakutakufanya uwe tajiri kwa sababu haitakupa faida ya bitcoin zaidi. Thamani yake, ikipimwa dhidi ya sarafu yoyote ya serikali, hupanda; lakini hii ni kwa sababu tu ya kuongezeka kwa matumizi yake na kushuka kwa thamani ya sarafu za serikali.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin ni **pesa**, inayotumika kuhifadhi na kutuma thamani.  
 > Inaendeshwa kwenye **mtandao** wa kompyuta duniani.  
@@ -29,7 +29,7 @@ Programu hii na rekodi ya miamala yote ina uwezekano mdogo sana wa kutoweka kwa 
 Mwishowe, Bitcoin ni adimu, ambayo inamaanisha kuwa idadi ya bitcoin zitakazowahi kuwepo imewekewa kikomo kabisa. Hakuna anayeweza kughushi bitcoin kwenye mtandao — hata serikali na taasisi kubwa za kifedha haziwezi.
 
 
-> **Note – Kanuni za Bitcoin**
+> **Light – Kanuni za Bitcoin**
 >
 > Bitcoin imejengwa juu ya mawazo matatu rahisi:
 >
@@ -140,4 +140,4 @@ Ufunguo uko kwenye vitendo, katika kuelewa jinsi Bitcoin inavyofanya kazi na kui
 ###### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Tazama video "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

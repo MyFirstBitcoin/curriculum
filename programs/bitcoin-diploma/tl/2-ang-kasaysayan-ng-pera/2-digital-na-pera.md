@@ -9,12 +9,12 @@ Ang mga pera na ginagamit natin ay nagiging mas digital na; sa ngayon, maliit na
 ##### Mga Sanggunian
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Panoorin ang maikling video na ito upang matutunan ang tungkol sa "Pinagmulan ng Palitan", mula sa seryeng “The History of Paper Money”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Ito ang ikalawang episode na tinatawag na "Hindi Lang Pansit" mula sa "The History of Paper Money"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Ano ang mangyayari kapag sinubukan mong isabuhay talaga ang doktrina ng papel na pera? Alamin sa ika-apat na episode ng "The History of Paper Money"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

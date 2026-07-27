@@ -161,7 +161,11 @@ Es probable que haya un conjunto más diverso de proveedores de pagos, incluyend
 
 Bitcoin y las soluciones de stablecoins ofrecen una reducción significativa en las fricciones y costos asociados a los pagos extranjeros y remesas internacionales. Esto puede representar una amenaza importante para los ingresos de bancos y proveedores de servicios de pago.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 El tamaño de los mercados de divisas extranjeras ha pasado de ser prácticamente nulo desde el estallido de la Segunda Guerra Mundial a $7.5 billones por día a finales de 2022, con casi todo ese crecimiento ocurriendo desde el fin del sistema de tipo de cambio de Bretton Woods en 1971. Los bancos y proveedores de servicios de pago obtienen ingresos significativos por proveer servicios en estos mercados.
 

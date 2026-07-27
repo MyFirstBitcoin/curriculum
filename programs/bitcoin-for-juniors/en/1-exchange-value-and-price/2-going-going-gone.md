@@ -1,34 +1,5 @@
 # 1.2 Going, Going, Gone!
 
-**Activity type** Role-play • Auction
-
-**Duration** 45 minutes
-
-**Grouping** Whole Class
-
-**Description**
-
-In this activity, students take part in a classroom auction using “shells” (or tokens) as a simple form of money. The class runs a live auction where everyday objects are sold one at a time to the highest bidder. As prices emerge in real time, students observe how scarcity (limited items and limited money) and demand (how many people want the same item) shape what something “costs.” A guided reflection links their auction outcomes to core ideas in value, exchange, and price formation, emphasizing that prices are not fixed and that different people value the same object differently.
-
-**Learning Outcomes**
-
-* Students experience scarcity and price formation by participating in a live auction.
-* They learn that objects gain value depending on how many people want them, and how limited they are.
-* Students understand that:
-  * Scarcity makes items more valuable.
-  * Prices are not fixed; they depend on demand.
-  * People value different things differently.
-
-**Materials**
-
-* 10 small classroom objects (fun or useful: stickers, pencils, snacks, erasers, funny hats, toys, etc.)
-* Shells (or paper tokens/coins if no shells available) — at least 3–5 per student
-
-**Equipment**
-
-* Pen & paper for recording bids
-* **Nice-to-have**: Whiteboard and markers, Auction bell or clap/signal
-
 #### **PROCEDURE**
 
 ##### **OPENING**

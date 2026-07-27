@@ -5,7 +5,7 @@ Dalam istilah paling mudah, Bitcoin ialah wang. Bitcoin bukanlah satu pelaburan 
 Menyimpan bitcoin tidak akan membuat anda kaya kerana ia tidak akan memberikan pulangan dalam bentuk bitcoin tambahan. Nilainya, jika diukur terhadap mana-mana mata wang fiat, memang meningkat; tetapi ini hanya kerana penerimaannya yang semakin meluas dan penurunan nilai mata wang fiat.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin ialah **wang**, digunakan untuk menyimpan dan menghantar nilai.  
 > Ia beroperasi di atas **rangkaian** komputer global.  
@@ -29,7 +29,7 @@ Perisian ini dan rekod semua transaksi mempunyai kemungkinan yang sangat rendah 
 Akhir sekali, Bitcoin adalah terhad, bermakna jumlah bitcoin yang akan wujud adalah benar-benar terhad. Tiada siapa boleh memalsukan bitcoin di atas rantaian — malah kerajaan dan institusi kewangan paling berkuasa sekalipun.
 
 
-> **Note – Prinsip-prinsip Bitcoin**
+> **Light – Prinsip-prinsip Bitcoin**
 >
 > Bitcoin dibina atas tiga idea mudah:
 >
@@ -140,4 +140,4 @@ Kuncinya terletak pada tindakan, dalam memahami cara Bitcoin berfungsi dan melak
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Tonton video "Apa itu Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

@@ -15,7 +15,7 @@ Ngayon na nauunawaan mo na ang tungkol sa pampubliko at pribadong susi, pati na 
 Kapag naisama na sa isang block, kumpirmado na ang transaksyon. Hindi na muling magagastos ni Adam ang bitcoin na iyon, at maaari nang gastusin ni Gerardo ang natanggap niya sa isang bagong transaksyon.
 
 
-> **Note**
+> **Light**
 >
 > Napili ang transaksyon at bayad → Nilagdaan ng wallet at ipinadala → Ipinamahagi ng mga node → Idinagdag ng miner ang transaksyon sa block template → Nanalo ang miner sa Proof-of-Work contest → Na-validate ang bagong block → Ipinamahagi ng mga node ang bagong block
 
@@ -23,4 +23,4 @@ Kapag naisama na sa isang block, kumpirmado na ang transaksyon. Hindi na muling 
 ###### Mga Sanggunian
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Panoorin ang video na ito tungkol sa Bitcoin Nodes](https://www.youtube.com/watch?v=xc_TxlByxeY)

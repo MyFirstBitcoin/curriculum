@@ -24,7 +24,7 @@ Pojawiają się platformy peer-to-peer, na których kupujący i sprzedający bit
 Na takich platformach nie musisz nikomu ufać w kwestii swoich danych czy pieniędzy; łączysz się z innymi użytkownikami i handlujesz bezpośrednio z nimi.
 
 
-> **Note**
+> **Light**
 >
 > Na większości platform peer-to-peer użytkownicy muszą zdeponować część środków w depozycie, aby zapewnić, że każda ze stron wywiąże się ze swojej części umowy. Depozyt oznacza umieszczenie pieniędzy w bezpiecznym miejscu pod kontrolą platformy do czasu, aż obie strony zrobią to, co obiecały. To tak, jakby zaufany przyjaciel przechowywał twoje rzeczy, dopóki wszyscy nie będą zadowoleni z transakcji.
 

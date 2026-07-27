@@ -58,13 +58,21 @@ On-chain transakce probíhají přímo na bitcoinovém blockchainu a mohou trvat
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Toto je mapa celé Lightning Network. Díky tisícům provozovatelů Lightning uzlů můžete posílat sats komukoliv s Bitcoin Lightning peněženkou, ať už je kdekoliv na světě. Platba dorazí během několika vteřin a bude stát jen pár haléřů.**Vyzkoušejte si to sami!**
 
 #### Aktivita: Lightning štafeta
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Toto je praktické cvičení, při kterém studenti posílají a přijímají skutečné sats pomocí Lightning Network.**
 

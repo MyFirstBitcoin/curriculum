@@ -2,12 +2,12 @@
 
 #### 1. Ce este Bitcoin for Juniors?
 
-Bitcoin for Juniors este un program de bază pentru copii cu vârste între 8 și 12 ani. Acesta introduce ideile esențiale necesare pentru a înțelege Bitcoin, fără a cere copiilor să îl folosească direct.
+Bitcoin for Juniors este un program de bază pentru copii cu vârste între 8 și 12 ani. Acesta introduce ideile esențiale necesare pentru a înțelege Bitcoin, fără a le cere copiilor să îl folosească direct.
 
 Programul este livrat în două părți:
 
-* Un Ghid complet pentru profesori în format PDF, cu planuri de lecție structurate, note de pedagogie și îndrumări pentru facilitare
-* Fișe de lucru și materiale de activitate printabile pentru utilizare interactivă la clasă
+* Un Ghid complet pentru profesori în format PDF, cu planuri de lecție structurate, note pedagogice și îndrumări pentru facilitare
+* Fișe de lucru și materiale de activitate tipăribile pentru utilizare interactivă în clasă
 
 Este un curs de pregătire, nu un curs de instruire tehnică.
 
@@ -16,11 +16,11 @@ Este un curs de pregătire, nu un curs de instruire tehnică.
 Bitcoin for Juniors este conceput pentru:
 
 * Profesori de clasă
-* Educatori care predau acasă
+* Educatori pentru școala de acasă
 * Lideri comunitari și mentori pentru tineri
 * Părinți care doresc să introducă noțiuni financiare de timpuriu
 
-Creat pentru copii cu vârste între 8 și 12 ani, programul este adaptabil pentru diferite medii educaționale și contexte culturale.
+Creat pentru copii cu vârste între 8 și 12 ani, este adaptabil pentru diferite medii educaționale și contexte culturale.
 
 #### 3. De ce este important ca cei mici să învețe despre Bitcoin?
 
@@ -47,9 +47,9 @@ Aceste idei sunt explorate prin jocuri, povești, mișcare și activități cola
 
 Nu. Acest program nu îi învață pe copii să investească, să tranzacționeze sau să speculeze. Nu implică bani reali. Nu există risc financiar și nu se promovează comportamentul investițional.
 
-#### 6. Cum este explicat Bitcoin pe înțelesul copiilor?
+#### 6. Cum este explicat Bitcoin într-un mod potrivit vârstei?
 
-Bitcoin este introdus prin analogii, joc și discuții ghidate. Ideile tehnice complexe, precum criptografia sau rețelele descentralizate, sunt simplificate în concepte despre încredere, intimitate, corectitudine și responsabilitate. Accentul este pus pe înțelegerea principiilor, nu pe memorarea detaliilor tehnice.
+Bitcoin este introdus prin analogii, joc și discuții ghidate. Ideile tehnice complexe precum criptografia sau rețelele descentralizate sunt simplificate în concepte despre încredere, intimitate, corectitudine și responsabilitate. Accentul este pus pe înțelegerea principiilor, nu pe memorarea detaliilor tehnice.
 
 #### 7. Cum pot preda acest program în clasa mea sau într-un alt mediu de învățare?
 
@@ -64,4 +64,4 @@ Ghidul pentru profesori oferă instrucțiuni pas cu pas, sfaturi pentru gestiona
 
 #### 8. Ce se întâmplă după ce elevii termină programul?
 
-Elevii pleacă cu o conștientizare financiară mai puternică, abilități de gândire critică și o înțelegere structurată a evoluției banilor. Ei nu devin „utilizatori de Bitcoin”. Sunt învățăcei pregătiți. Când vor întâlni Bitcoin mai târziu în viață, vor avea baza intelectuală pentru a-l înțelege responsabil și independent.
+Elevii pleacă cu o conștientizare financiară mai puternică, abilități de gândire critică și o înțelegere structurată a evoluției banilor. Ei nu devin „utilizatori de Bitcoin”. Ei sunt cursanți pregătiți. Când vor întâlni Bitcoin mai târziu în viață, vor avea baza intelectuală pentru a-l înțelege responsabil și independent.

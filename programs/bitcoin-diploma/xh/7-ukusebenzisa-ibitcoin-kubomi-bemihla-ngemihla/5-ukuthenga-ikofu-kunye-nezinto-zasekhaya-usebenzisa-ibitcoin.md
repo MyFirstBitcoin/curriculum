@@ -5,7 +5,7 @@ Ukhe wakhe wazibuza ukuba ungasebenzisa i-bitcoin ukuthenga indebe yakho yekofu 
 Nangona ukuhlawula ngekhadi letyala okanye nge-app kunokubonakala kulula kumntu ohlawulayo, inkqubo yokuhlawula inzima kakhulu kwaye ibandakanya amaqela amaninzi ahlukeneyo.
 
 
-> **Note – Indlela Yokusebenza Kwenkqubo Yokuhlawula**
+> **Light – Indlela Yokusebenza Kwenkqubo Yokuhlawula**
 >
 > Umthengi → Umrhwebi → Isango leNtlawulo → Umphathi weNtlawulo → Inethiwekhi yeKhadi → Ibhanki ekhupha amakhadi → Inethiwekhi yeKhadi → Ibhanki yomrhwebi → Umrhwebi
 
@@ -55,7 +55,7 @@ Uqoqosho **olujikelezayo** luquka abathathi-nxaxheba abathatha isigqibo sokuxhas
 Xa kusetyenziswa kwiBitcoin, uqoqosho olujikelezayo lwakhiwa ngokuxhasa abathengisi basekuhlaleni kunye nabasebenzi abanobuchule abamkela i-bitcoin, ukuze bonke abathathi-nxaxheba bakhule kunye ngenxa yeempawu eziphambili zeBitcoin.
 
 
-> **Note**
+> **Light**
 >
 > I-Lightning Network ivumela uqoqosho olujikelezayo lweBitcoin ukuba luvele kwaye luphumelele kwihlabathi liphela ngenxa yeentlawulo zeBitcoin ezikhawulezayo nezibiza kancinci.
 
@@ -71,4 +71,4 @@ Ngomhla [BTCMap.org](https://btcmap.org/communities), unokukhangela iindawo zolu
 ###### Izixhobo
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Bukela le vidiyo malunga neLightning Network](https://youtu.be/yKdK-7AtAMQ)

@@ -5,7 +5,7 @@ A legegyszerűbben megfogalmazva, a Bitcoin pénz. A Bitcoin nem befektetés, ha
 A bitcoin tartása önmagában nem tesz gazdaggá, mert nem kapsz érte több bitcoint. Az értéke, bármely fiat valutához mérve, valóban emelkedik; de ez csak a növekvő elterjedtségének és a fiat valuták elértéktelenedésének köszönhető.
 
 
-> **Info**
+> **Dark**
 >
 > A Bitcoin **pénz**, amelyet érték tárolására és küldésére használnak.  
 > Egy globális **hálózaton** fut.  
@@ -29,7 +29,7 @@ Ennek a szoftvernek és a tranzakciók teljes nyilvántartásának rendkívül k
 Végül, a Bitcoin szűkös, vagyis a létező bitcoinok száma abszolút korlátozott. Senki sem tud hamisítani láncon lévő bitcoint — még a leghatalmasabb kormányok és pénzügyi intézmények sem.
 
 
-> **Note – A Bitcoin alapelvei**
+> **Light – A Bitcoin alapelvei**
 >
 > A Bitcoin három egyszerű elvre épül:
 >
@@ -140,4 +140,4 @@ A kulcs a cselekvésben rejlik: abban, hogy megérted a Bitcoin működését, �
 ###### Források
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Nézd meg a "Mi az a Bitcoin?" című videót](https://www.youtube.com/watch?v=Gc2en3nHxA4)

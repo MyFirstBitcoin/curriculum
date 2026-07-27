@@ -39,7 +39,7 @@ Zet ten slotte de observaties uit bovenstaande oefening om in risico's die relev
 
 
 
-> **Info – Voorbeelden**
+> **Dark – Voorbeelden**
 >
 > * Risico dat bitcoin het primaire, wereldwijde reserve-activum van schatkisten wordt
 > * Risico dat het Bitcoin-netwerk de afwikkelingslaag wordt voor internetgebaseerde handel

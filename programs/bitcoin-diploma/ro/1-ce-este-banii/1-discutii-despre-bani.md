@@ -25,7 +25,7 @@ Gândește-te la utilizări practice, cum ar fi achiziționarea lucrurilor neces
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Extinde discuția la nivel de grup, împărtășind și comparând listele pentru a găsi cele mai importante cinci motive pentru care avem nevoie de bani. Identifică ideile comune din clasă. Reflectează asupra propriilor tale idei unice care nu au ajuns pe listă, dar care sunt totuși valoroase, și notează-le.
 

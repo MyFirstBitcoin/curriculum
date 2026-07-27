@@ -58,13 +58,21 @@ Lightning Network ช่วยให้ผู้คนส่งบิตคอ�
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 นี่คือแผนที่ของ Lightning Network ทั้งหมด ขอบคุณผู้ดูแลโหนด Lightning หลายพันคน คุณสามารถส่ง sats ให้กับผู้ใช้ที่มี Bitcoin Lightning wallet ได้ทุกที่ในโลก การชำระเงินจะถึงปลายทางภายในไม่กี่วินาทีและมีค่าธรรมเนียมเพียงไม่กี่บาทเท่านั้น**ลองดูด้วยตัวคุณเอง!**
 
 #### กิจกรรม: วิ่งผลัด Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **นี่คือกิจกรรมปฏิบัติจริงที่นักเรียนจะได้ส่งและรับ sats จริงผ่าน Lightning Network**
 

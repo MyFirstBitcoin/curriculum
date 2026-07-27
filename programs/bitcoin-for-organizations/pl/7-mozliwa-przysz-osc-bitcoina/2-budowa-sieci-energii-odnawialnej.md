@@ -5,7 +5,7 @@
 Bitcoin opiera się na energii w swoim mechanizmie konsensusu „proof of work”, co pomaga zapewnić, że pozostaje zdecentralizowaną, pozbawioną zezwoleń formą pieniądza. Sieć energetyczna stoi przed wyzwaniami związanymi z integracją nowych źródeł energii odnawialnej, co powoduje obciążenia obecnej infrastruktury. Ten rozdział stanowi krótkie wprowadzenie do tych wyzwań oraz przegląd istotnych aspektów Bitcoina, zanim pokaże, jak pomaga on w ewolucji sieci energii odnawialnej.
 
 
-> **Info – Bitcoin jako waluta energetyczna**
+> **Dark – Bitcoin jako waluta energetyczna**
 >
 > 4 grudnia 1921 roku New York Tribune opublikował artykuł przedstawiający wizję Forda zastąpienia złota walutą energetyczną, która według niego mogłaby przełamać kontrolę elit bankowych nad światowym bogactwem i położyć kres wojnom. Zamierzał to osiągnąć, budując „największą na świecie elektrownię” i tworząc nowy system walutowy oparty na „jednostkach mocy”.
 

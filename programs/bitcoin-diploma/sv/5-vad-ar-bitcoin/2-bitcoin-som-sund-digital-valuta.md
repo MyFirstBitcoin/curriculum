@@ -5,7 +5,7 @@ Enkelt uttryckt är Bitcoin pengar. Bitcoin är inte en investering utan snarare
 Att hålla bitcoin kommer inte att göra dig rik eftersom det inte ger dig fler bitcoin som avkastning. Dess värde, mätt mot vilken fiatvaluta som helst, ökar; men detta beror endast på dess växande användning och devalveringen av fiatvalutor.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin är **pengar**, som används för att lagra och skicka värde.  
 > Det drivs av ett globalt **nätverk** av datorer.  
@@ -29,7 +29,7 @@ Denna programvara och register över alla transaktioner har mycket liten chans a
 Slutligen är Bitcoin begränsat, vilket betyder att antalet bitcoin som någonsin kommer att finnas är absolut begränsat. Ingen kan förfalska bitcoin på kedjan — inte ens de mäktigaste regeringarna och finansiella institutionerna.
 
 
-> **Note – Principer för Bitcoin**
+> **Light – Principer för Bitcoin**
 >
 > Bitcoin bygger på tre enkla idéer:
 >
@@ -140,4 +140,4 @@ Nyckeln ligger i handling, i att förstå hur Bitcoin fungerar och tillämpa det
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Titta på videon "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

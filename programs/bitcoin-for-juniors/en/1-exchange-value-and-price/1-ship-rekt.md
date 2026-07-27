@@ -1,42 +1,5 @@
 # 1.1 Ship Rekt
 
-**Activity type**
-
-* Simulation - Roleplay - Game
-
-**Duration**
-
-* 60 minutes
-
-**Grouping**
-
-* Whole class
-
-**Description**
-
-In this 60 minute whole class simulation, students roleplay as shipwrecked survivors who must secure essential resources to “survive” a week on a desert island. Using playing cards to represent tools and supplies, learners begin with pure barter, practicing negotiation while encountering common trade barriers such as surplus, scarcity, and the coincidence of wants. A timed “Shell Hunt” then introduces commodity money, as students collect tokens that can be used to simplify exchange. With shells in circulation, the class enters a guided marketplace where students set prices, respond to supply and demand, and experience price discovery. The activity culminates in budgeting and a structured auction or trade round for “treasure” wishlist items, bridging to why money exists.
-
-**Learning Outcomes**
-
-* Students experience barter, the “coincidence of wants,” scarcity, supply/demand, price discovery, budgeting, and auctions.
-* Bridge to money: commodity money (shells) and why money helps trade.
-
-**Materials**
-
-* Playing cards
-* “Shells” (physical tokens: paper circles, buttons, craft shells)
-* Treasure chest (Small box/enveloppe)
-* Gift card (expired or fake $100 gift card)
-* Blank flash cards (or slips of paper)
-* **Nice-to-have:** Visual aids (_See Appendix A & B_), Treasure map, Reward stickers
-
-**Equipment**
-
-* Timer/phone stopwatch
-* Whiteboard or screen
-* Marker pen
-* **Nice-to-have**: Whiteboard/markers, projector, bell/signal for time, music (optional for treasure hunt)
-
 #### **PROCEDURE**
 
 ##### **OPENING**
@@ -305,9 +268,3 @@ The wishlist items can be randomly distributed to the students. This can be expl
 * Younger students trade fewer categories (just Food/Water); older students handle more complex needs and dynamic pricing.
 * ELL/Accessibility: Provide picture cards; sentence frames for offers; assign peer buddies.
 * Safety: Movement is walking only; clear boundaries; timed rounds.
-
-#### **APPENDIX**
-
-**Appendix A - Story visual aids**
-
-**Appendix B - Trade Table**

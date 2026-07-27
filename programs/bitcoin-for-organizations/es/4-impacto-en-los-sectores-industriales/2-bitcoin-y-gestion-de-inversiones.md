@@ -166,7 +166,7 @@ La alta volatilidad de precios, medida por la desviación estándar de los retor
 En resumen, bitcoin es un activo volátil. Esto es de esperarse porque es nuevo y está en un largo proceso de descubrimiento de precio y adopción de usuarios. Los inversores profesionales están bien preparados para asumir esta volatilidad y, dado el potencial de rendimientos extraordinarios, gestionarla en consecuencia. Ellos pueden determinar la asignación adecuada, en línea con su propio marco de inversión y apetito de riesgo. Además, para suavizar la volatilidad a corto plazo, mantener bitcoin durante al menos un ciclo de halving de 4 años podría ser un periodo mínimo de tenencia apropiado.
 
 
-> **Note – ¿Es Bitcoin una cobertura contra la inflación?**
+> **Light – ¿Es Bitcoin una cobertura contra la inflación?**
 >
 > Debido a que bitcoin es un activo de suministro fijo, sus partidarios han argumentado durante mucho tiempo que sirve como cobertura contra la inflación en las monedas fiduciarias. Está claro que, a muy largo plazo, bitcoin ha servido como una cobertura muy efectiva contra la devaluación del poder adquisitivo en el dinero fiduciario. Sin embargo, los críticos señalan el aumento dramático en el índice CPI interanual11 desde principios de 2021 hasta un máximo de 40 años a mediados de 2022 y cuestionan por qué el precio de bitcoin no experimentó un aumento significativo durante este periodo. ¿Entonces, falló bitcoin como cobertura contra la inflación?
 >
@@ -216,7 +216,7 @@ Por supuesto, pocos comentaristas esperan que este escenario ocurra pronto: la a
 ¿Y si, como con el auge de internet, no podemos simplemente optar por no participar?
 
 
-> **Info – Advertencia**
+> **Dark – Advertencia**
 >
 > Tenga en cuenta que el rendimiento pasado no garantiza resultados futuros. Bitcoin es un activo que conlleva altos riesgos. Los inversores deben tener en cuenta que su valor tiene tanto el potencial de aumentar significativamente como de disminuir en el futuro, como lo ha demostrado el rendimiento pasado.
 >

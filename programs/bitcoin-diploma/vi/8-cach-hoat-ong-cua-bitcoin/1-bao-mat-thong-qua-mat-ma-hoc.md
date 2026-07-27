@@ -36,7 +36,7 @@ Mã hóa được sử dụng để đảm bảo rằng chỉ người thực s�
 Như một biện pháp bảo vệ bổ sung, mỗi giao dịch Bitcoin tự động nhận được một chữ ký số DUY NHẤT. Chữ ký số duy nhất này được hỗ trợ bởi công nghệ chống giả mạo giúp mạng lưới xác minh rằng chủ sở hữu thực sự của bitcoin, chứ không phải ai khác, đã gửi chúng.
 
 
-> **Info**
+> **Dark**
 >
 > Mỗi người dùng có hai khóa: một **khóa riêng**, được **giữ bí mật**, và một **khóa công khai** có thể được **chia sẻ với người khác**. **Khóa riêng** đóng vai trò như một hình thức nhận dạng và bằng chứng sở hữu, xác nhận: “Địa chỉ này thuộc về tôi và tôi kiểm soát nó.”
 
@@ -128,6 +128,10 @@ Quá trình mã hóa **khóa công khai** thông qua việc băm được sử d
 
 #### Hoạt động: Tạo giá trị băm SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Bạn tò mò về cách hoạt động của hàm băm? Hãy quét mã QR để tạo ngay giá trị băm SHA256 từ bất kỳ từ, câu hoặc dữ liệu nào bạn chọn. Hàm băm giống như dấu vân tay kỹ thuật số: chúng chỉ đi một chiều, nghĩa là một khi đã băm thì không thể đảo ngược lại. Hãy thử và tự mình trải nghiệm nhé!

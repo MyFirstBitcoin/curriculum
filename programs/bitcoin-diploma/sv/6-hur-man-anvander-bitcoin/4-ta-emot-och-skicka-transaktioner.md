@@ -19,7 +19,7 @@ Låt oss säga att Johan är skyldig Elin 0,5 BTC och är redo att betala tillba
 _Det är viktigt att notera att när transaktionen är slutförd kan den inte återkallas._
 
 
-> **Note – Hur en Bitcoin-transaktion fungerar**
+> **Light – Hur en Bitcoin-transaktion fungerar**
 >
 > 1. Någon begär en transaktion
 > 1. Transaktionen sänds ut till P2P-datorer (noder)
@@ -30,7 +30,7 @@ _Det är viktigt att notera att när transaktionen är slutförd kan den inte å
 
 
 
-> **Note – Ta emot Bitcoin-transaktioner**
+> **Light – Ta emot Bitcoin-transaktioner**
 >
 > För att ta emot bitcoin behöver du ge avsändaren en Bitcoin-publik adress. Detta är en unik sträng av bokstäver och siffror som representerar din plånbok och används för att identifiera den på Bitcoin-nätverket.
 >
@@ -48,7 +48,7 @@ När avsändaren har din adress kan de skicka dig bitcoin genom att ange din adr
 Transaktionen bekräftas av Bitcoin-nätverket och tar vanligtvis cirka 10 minuter. För ökad säkerhet rekommenderas att vänta på två bekräftelser, vilket tar cirka 20 minuter.
 
 
-> **Note – Skicka Bitcoin-transaktioner**
+> **Light – Skicka Bitcoin-transaktioner**
 >
 > För att skicka bitcoin behöver du några saker: en Bitcoin-plånbok, mottagarens publika adress och det belopp av bitcoin du vill skicka.
 >
@@ -68,7 +68,11 @@ Transaktionen bekräftas av Bitcoin-nätverket och tar vanligtvis cirka 10 minut
 
 #### Aktivitet: Transaktioner i praktiken
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Detta är en samarbetsövning som förenklar de grundläggande rollerna för personer som är involverade i en Bitcoin-transaktion.**
 

@@ -1,45 +1,5 @@
 # 5.1 Money Matters
 
-**Activity type** Simulation • LARP • Experiential Learning
-
-**Duration** 90 minutes
-
-**Grouping** Individual with cooperative learning
-
-##### **Description**
-
-Money Matters is a classroom economy simulation where each learner operates from a personal Home base. Each student begins with an individual HOME tile displaying their name, challenge card, and financial objective. Learners move through a shared economic system using dice-based movement rules to earn, save, invest, borrow, and trade. The economy is introduced progressively before opening into autonomous role-play, where learners pursue individual goals under shared rules, time constraints, and access limits. Optional extensions allow the system to scale into a richer economy with businesses, infrastructure costs, and education.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Identify different ways people earn money
-* Explain saving, investing, borrowing, and trade
-* Understand how rules, chance, and access affect outcomes
-* Track progress toward a visible financial objective
-* Reflect on effort, risk, fairness, and decision-making
-
-##### **Materials**
-
-* Individual HOME tiles (paper or card stock, one per student)
-* Sticky tack
-* Pens or markers
-* Gold coin tokens
-* Dice
-* Calculators
-* Playing cards (52-card deck)
-* Challenge index cards
-* Grain and flour tokens/cards
-* Bank rate card
-* **Nice-to-have:** Timer or visible clock
-
-##### **Equipment**
-
-* Tables or desks arranged as stations
-* Clear classroom space for movement
-* **Nice-to-have**:
-
 #### **PROCEDURE**
 
 ##### **OPENING**

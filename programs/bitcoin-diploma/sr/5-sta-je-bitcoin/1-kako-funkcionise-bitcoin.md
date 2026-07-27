@@ -19,7 +19,7 @@ U suštini, tako funkcioniše Bitcoin. Bitcoin je mreža ljudi koji se slažu ok
 Na primer, jedno od pravila Bitcoina je „Nikada neće biti više od 21 milion bitcoina.“ Ako bi neko pokušao da stvori milion dodatnih bitcoina za sebe, to mu ne bi koristilo, jer bi ga svi ostali automatski prepoznali i odbacili. To je ono što čini Bitcoin tako otpornim.
 
 
-> **Info**
+> **Dark**
 >
 > Nije važno ko ste ili odakle dolazite: ako uđete u svet Bitcoina, morate igrati po istim pravilima kao i svi ostali.
 
@@ -84,7 +84,11 @@ Svaki učesnik u ovom decentralizovanom orkestru igra vitalnu ulogu u oblikovanj
 
 #### Aktivnost: Konsenzus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Ovo je grupna vežba u kojoj učesnici iz prve ruke uče koliko je teško uskladiti akcije u grupi bez definisanog vođe. Cilj je da učesnici shvate kako se dogovor (konsenzus) postiže u Bitcoinu.
 

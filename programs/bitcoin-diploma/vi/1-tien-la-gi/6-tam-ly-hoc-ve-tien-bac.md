@@ -72,4 +72,4 @@ Việc chúng ta sẵn sàng từ bỏ phần thưởng lớn hơn trong tương
 ###### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Xem video ngắn này nhé!](https://www.youtube.com/watch?v=InwVM6s7WoY)

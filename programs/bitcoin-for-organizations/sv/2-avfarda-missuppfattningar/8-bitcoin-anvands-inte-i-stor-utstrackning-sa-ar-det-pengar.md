@@ -69,7 +69,7 @@ Sedan starten 2009 har bitcoin befunnit sig i ett ständigt tillstånd av ‘pri
 Genom att analysera bitcoin-ledgern kan man se att över 70 % av hela bitcoin-utbudet hålls av [långsiktiga innehavare](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Det verkar alltså som att majoriteten av innehavarna är nöjda med att sitta still och inte sälja eller spendera sina bitcoin. Givet den dramatiska ökningen av bitcoins köpkraft sedan lanseringen är det rimligt att anta att majoriteten av innehavarna förväntar sig att bitcoin ska bli mer värdefullt och att detta påverkar deras beslut att fortsätta hålla och inte spendera.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Varje år den 22 maj firar och uppmärksammar Bitcoin-gemenskapen floridianska programmeraren Laszlo Hanyecz, som blev den första personen som rapporterats ha använt bitcoin för att köpa fysiska varor. Den 18 maj 2010 meddelade Hanyecz på ett Bitcointalk.org-forum att han var sugen på pizza och var villig att betala med bitcoin. Han erbjöd 10 000 bitcoin till den som ville genomföra transaktionen. Han väntade i flera dagar, tills den 19-årige studenten Johan Andersson nappade och skickade två stora pizzor. Laszlo skickade 10 000 bitcoin till Andersson som utlovat, vilket vid tiden för detta skrivs är värt över 7 miljarder kr.
 >

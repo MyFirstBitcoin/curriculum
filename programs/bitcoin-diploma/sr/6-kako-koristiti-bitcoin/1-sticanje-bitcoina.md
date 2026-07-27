@@ -24,7 +24,7 @@ Tu nastupaju peer-to-peer platforme, gde se kupci i prodavci Bitcoina susreću u
 Na takvim platformama ne morate nikome da poveravate svoje podatke ili novac; povezujete se sa drugim korisnicima i trgujete direktno sa njima.
 
 
-> **Note**
+> **Light**
 >
 > Na većini peer-to-peer platformi, korisnici moraju da stave deo sredstava u escrow kako bi se osiguralo da će obe strane ispuniti svoj deo dogovora. Escrow znači da se novac stavlja na sigurno mesto pod kontrolom platforme dok obe strane ne ispune ono što su obećale. To je kao da pouzdani prijatelj čuva vaše stvari dok svi ne budu zadovoljni dogovorom.
 

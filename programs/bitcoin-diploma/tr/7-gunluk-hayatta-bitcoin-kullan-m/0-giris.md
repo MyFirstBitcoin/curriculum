@@ -10,6 +10,6 @@ Bitcoin de bir istisna değildir. Andreas Antonopoulos'un ünlü sözüyle, “B
 Bu katmanlardan biri de **Lightning Network**. Bu, Bitcoin için süper hızlı bir otoyol gibidir; insanların bitcoin'i hızlı ve çok düşük ücretlerle göndermesine ve almasına yardımcı olur. Kullanıcıların, normal Bitcoin ağı üzerinde anında ve küçük işlemler yapmasına olanak tanır. Bu da bir kahve almak ya da bir arkadaşına ödeme yapmak gibi şeyleri basit ve hızlı hale getirir! Tabii ki, her şeyde olduğu gibi, bunun da bazı ödünleri vardır.
 
 
-> **Info**
+> **Dark**
 >
 > Bir satoshi, bitcoin'in en küçük birimidir. Nasıl ki bir Türk lirası kuruşlara bölünebiliyorsa, bir bitcoin de satoshi adı verilen daha küçük birimlere ayrılabilir. Bir bitcoin, 100 milyon satoshiye eşittir ve satoshiler Bitcoin sistemindeki en küçük değer parçalarıdır. Lightning Network üzerinden bitcoin gönderirken, buna kısaca “sats göndermek” diyeceğiz; bu da satoshinin kısaltmasıdır.

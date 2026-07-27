@@ -17,7 +17,7 @@ Kerüljük a túlzottan határozott döntéseket. Fel lehet készülni egymást 
 Ebben a részben néhány általános cselekvési csoportot emelünk ki, hogy segítsünk az elemzést tettekké alakítani. Ez a lista nem teljes körű, inkább arra szolgál, hogy elindulhassunk.
 
 
-> **Note – Eredménykimutatási stratégiák**
+> **Light – Eredménykimutatási stratégiák**
 >
 > * A meglévő bevételek és piaci részesedés védelme
 >   * A kedvezőtlenül érintett piacoknak való kitettség csökkentése
@@ -33,7 +33,7 @@ Ebben a részben néhány általános cselekvési csoportot emelünk ki, hogy se
 
 
 
-> **Note – Mérlegfőkönyvi stratégiák**
+> **Light – Mérlegfőkönyvi stratégiák**
 >
 > * Értékteremtés a mérlegből
 >   * Csökkentsük a tőke költségét alulteljesítő eszközöknek való kitettséget anélkül, hogy a tőkeállomány ellenálló képessége csökkenne

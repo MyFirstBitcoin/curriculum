@@ -5,7 +5,7 @@
 Bitcoin inategemea nishati kwa ajili ya utaratibu wake wa 'uthibitisho wa kazi' (proof of work), ambao husaidia kuhakikisha inabaki kuwa fedha isiyo na udhibiti wa kati wala ruhusa. Gridi ya nishati inakabiliwa na changamoto za kuunganisha aina mpya za nishati kutoka vyanzo vinavyoweza kurejeshwa, jambo linalosababisha msongo kwenye miundombinu iliyopo. Sura hii inatoa utangulizi mfupi wa changamoto hizi na muhtasari wa mambo muhimu kuhusu Bitcoin kabla ya kuonyesha jinsi inavyosaidia katika mageuzi haya ya gridi ya nishati inayotumia vyanzo vinavyoweza kurejeshwa.
 
 
-> **Info – Bitcoin kama sarafu ya nishati**
+> **Dark – Bitcoin kama sarafu ya nishati**
 >
 > Tarehe 4 Desemba 1921, gazeti la New York Tribune lilichapisha makala iliyoelezea maono ya Ford ya kubadilisha dhahabu na sarafu ya nishati ambayo aliamini ingeweza kuvunja nguvu ya mabenki makubwa juu ya utajiri wa dunia na kumaliza vita. Alikusudia kufanya hivi kwa kujenga "kiwanda kikubwa zaidi cha umeme duniani" na kuunda mfumo mpya wa sarafu unaotegemea "vitengo vya nguvu."
 

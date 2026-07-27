@@ -25,7 +25,7 @@ Considere usos práticos como adquirir necessidades básicas, como comida, e ite
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Amplie a discussão para o grupo compartilhando e comparando listas para encontrar as cinco razões mais importantes para precisar de dinheiro. Identifique ideias comuns entre a turma. Reflita sobre suas ideias únicas que não entraram na lista, mas que ainda são valiosas, e anote-as.
 

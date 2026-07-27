@@ -18,7 +18,11 @@ To pokazuje, jak siła nabywcza może być zależna od czynników poza naszą ko
 
 #### Ćwiczenie: Aukcja
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 To ćwiczenie klasowe, w którym uczestnicy uczą się na własnej skórze, jak wzrost podaży pieniądza wpływa na ceny. Celem jest zrozumienie inflacji monetarnej (a nie inflacji cenowej).
 

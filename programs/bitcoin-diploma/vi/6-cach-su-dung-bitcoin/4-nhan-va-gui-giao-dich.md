@@ -19,7 +19,7 @@ Giả sử Nam nợ Linh 0,5 BTC và sẵn sàng trả lại cho cô ấy. Cả 
 _Điều quan trọng cần lưu ý là khi giao dịch đã hoàn tất, nó không thể bị đảo ngược._
 
 
-> **Note – Cách một giao dịch Bitcoin hoạt động**
+> **Light – Cách một giao dịch Bitcoin hoạt động**
 >
 > 1. Ai đó yêu cầu thực hiện giao dịch
 > 1. Giao dịch được phát tới các máy tính ngang hàng (nút)
@@ -30,7 +30,7 @@ _Điều quan trọng cần lưu ý là khi giao dịch đã hoàn tất, nó kh
 
 
 
-> **Note – Nhận giao dịch Bitcoin**
+> **Light – Nhận giao dịch Bitcoin**
 >
 > Để nhận bitcoin, bạn cần cung cấp cho người gửi một địa chỉ công khai Bitcoin. Đây là một chuỗi ký tự và số duy nhất đại diện cho ví của bạn và được dùng để xác định nó trên mạng Bitcoin.
 >
@@ -48,7 +48,7 @@ Khi người gửi đã có địa chỉ của bạn, họ có thể gửi bitco
 Giao dịch được xác nhận bởi Mạng lưới Bitcoin và thường mất khoảng 10 phút. Để an toàn hơn, nên chờ hai lần xác nhận, mất khoảng 20 phút.
 
 
-> **Note – Gửi giao dịch Bitcoin**
+> **Light – Gửi giao dịch Bitcoin**
 >
 > Để gửi bitcoin, bạn cần một số thứ: một ví Bitcoin, địa chỉ công khai của người nhận và số lượng bitcoin bạn muốn gửi.
 >
@@ -68,7 +68,11 @@ Giao dịch được xác nhận bởi Mạng lưới Bitcoin và thường mấ
 
 #### Hoạt động: Giao dịch thực tế
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Đây là một bài tập hợp tác đơn giản hóa các vai trò cơ bản của những người tham gia vào một giao dịch Bitcoin.**
 

@@ -155,7 +155,7 @@ Cependant, il existe actuellement certaines limitations à cela qu’il convient
 ##### Risques
 
 
-> **Info**
+> **Dark**
 >
 > Des crypto-dégens ont piégé un bot IA expérimental pour promouvoir un memecoin. Il est maintenant en hausse de 16 000 %. Conçu comme une expérience en direct sur les interactions humaines avec les modèles d’IA, le bot viral – Terminal of Truth – a fini par promouvoir un memecoin appelé GOAT.
 >

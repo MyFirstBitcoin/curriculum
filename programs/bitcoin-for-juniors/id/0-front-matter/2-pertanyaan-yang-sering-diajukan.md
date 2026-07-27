@@ -6,7 +6,7 @@ Bitcoin for Juniors adalah program dasar untuk anak-anak usia 8 hingga 12 tahun.
 
 Program ini disampaikan dalam dua bagian:
 
-* Panduan Guru (Teacher Guide) PDF yang komprehensif dengan rencana pelajaran terstruktur, catatan pedagogi, dan panduan fasilitasi
+* Panduan Guru lengkap dalam format PDF dengan rencana pelajaran terstruktur, catatan pedagogi, dan panduan fasilitasi
 * Lembar kerja siswa dan materi aktivitas yang dapat dicetak untuk penggunaan interaktif di kelas
 
 Ini adalah kursus persiapan, bukan kursus pelatihan teknis.
@@ -24,11 +24,11 @@ Dibuat untuk anak-anak usia 8 hingga 12 tahun, program ini dapat disesuaikan di 
 
 #### 3. Mengapa anak-anak perlu belajar tentang Bitcoin?
 
-Anak-anak tidak perlu menggunakan dompet Bitcoin atau mengelola kunci privat. Yang mereka butuhkan adalah fondasi untuk memahami Bitcoin di kemudian hari.
+Anak-anak tidak perlu menggunakan dompet Bitcoin atau mengelola private key. Yang mereka butuhkan adalah dasar-dasar untuk memahami Bitcoin di kemudian hari.
 
-B4J sengaja dibuat rendah teknologi — pelajaran menggunakan materi fisik, bukan perangkat — sehingga dapat diakses di lingkungan kelas mana pun dan sesuai untuk pelajar yang lebih muda. Tujuannya adalah kesiapan konsep, bukan penguasaan teknis.
+B4J sengaja dibuat low-tech — pelajaran menggunakan materi fisik, bukan perangkat elektronik — sehingga dapat diakses di lingkungan kelas mana pun dan sesuai untuk pelajar yang lebih muda. Tujuannya adalah kesiapan konsep, bukan penguasaan teknis.
 
-#### 4. Apa yang diajarkan program ini?
+#### 4. Apa yang diajarkan dalam program ini?
 
 Bitcoin for Juniors mengajarkan konsep-konsep kunci yang diperlukan untuk memahami Bitcoin, termasuk:
 
@@ -41,27 +41,27 @@ Bitcoin for Juniors mengajarkan konsep-konsep kunci yang diperlukan untuk memaha
 * Evolusi sejarah uang
 * Asal-usul dan tujuan Bitcoin
 
-Ide-ide ini dieksplorasi melalui permainan, bercerita, gerakan, dan aktivitas kolaboratif. Anak-anak tidak diberi tahu apa yang harus mereka percayai tentang Bitcoin — mereka diberikan alat untuk berpikir tentang uang, nilai, dan keadilan, serta mencapai kesimpulan mereka sendiri.
+Ide-ide ini dieksplorasi melalui permainan, bercerita, gerakan, dan aktivitas kolaboratif. Anak-anak tidak diberitahu apa yang harus mereka percayai tentang Bitcoin — mereka diberikan alat untuk berpikir tentang uang, nilai, dan keadilan, serta mencapai kesimpulan mereka sendiri.
 
-#### 5. Apakah ini kursus tentang investasi, perdagangan, atau menggunakan uang sungguhan?
+#### 5. Apakah ini kursus tentang investasi, trading, atau menggunakan uang sungguhan?
 
-Tidak. Program ini tidak mengajarkan anak-anak untuk berinvestasi, berdagang, atau berspekulasi. Tidak melibatkan uang sungguhan. Tidak ada risiko finansial dan tidak ada promosi perilaku investasi.
+Tidak. Program ini tidak mengajarkan anak-anak untuk berinvestasi, trading, atau berspekulasi. Tidak melibatkan uang sungguhan. Tidak ada risiko finansial dan tidak ada promosi perilaku investasi.
 
 #### 6. Bagaimana Bitcoin dijelaskan dengan cara yang sesuai usia?
 
-Bitcoin diperkenalkan melalui analogi, permainan, dan diskusi terarah. Ide teknis yang kompleks seperti kriptografi atau jaringan terdesentralisasi disederhanakan menjadi konsep tentang kepercayaan, privasi, keadilan, dan tanggung jawab. Fokusnya adalah pada pemahaman prinsip, bukan menghafal detail teknis.
+Bitcoin diperkenalkan melalui analogi, permainan, dan diskusi terarah. Ide teknis yang rumit seperti kriptografi atau jaringan terdesentralisasi disederhanakan menjadi konsep tentang kepercayaan, privasi, keadilan, dan tanggung jawab. Fokusnya adalah pada pemahaman prinsip, bukan menghafal detail teknis.
 
-#### 7. Bagaimana saya dapat mengajarkan ini di kelas atau lingkungan belajar saya?
+#### 7. Bagaimana saya bisa mengajarkan ini di kelas atau lingkungan belajar saya?
 
-Program ini dirancang agar rendah teknologi dan sangat interaktif. Pelajaran dapat disampaikan menggunakan:
+Program ini dirancang agar low-tech dan sangat interaktif. Pelajaran dapat disampaikan menggunakan:
 
-* Lembar kerja yang dicetak
-* Simulasi peran (role-play)
+* Lembar kerja cetak
+* Simulasi peran
 * Token fisik, kartu, atau materi kelas sederhana
 * Diskusi kelompok terarah
 
 Panduan Guru menyediakan instruksi langkah demi langkah, tips manajemen kelas, pertanyaan refleksi, dan ide pengembangan. Tidak diperlukan pengetahuan teknis lanjutan tentang Bitcoin.
 
-#### 8. Apa yang terjadi setelah siswa menyelesaikan program?
+#### 8. Apa yang terjadi setelah siswa menyelesaikan program ini?
 
-Siswa akan memiliki kesadaran finansial yang lebih kuat, keterampilan berpikir kritis, dan pemahaman terstruktur tentang evolusi uang. Mereka bukan "pengguna Bitcoin." Mereka adalah pelajar yang siap. Ketika mereka menemui Bitcoin di kemudian hari, mereka akan memiliki fondasi intelektual untuk memahaminya secara bertanggung jawab dan mandiri.
+Siswa akan memiliki kesadaran finansial yang lebih kuat, keterampilan berpikir kritis, dan pemahaman terstruktur tentang evolusi uang. Mereka bukan "pengguna Bitcoin." Mereka adalah pelajar yang siap. Ketika mereka menemukan Bitcoin di kemudian hari, mereka akan memiliki fondasi intelektual untuk memahaminya secara bertanggung jawab dan mandiri.

@@ -17,7 +17,7 @@ Aşırı kararlı olmaktan kaçının. Birbirini dışlayan sonuçlara hazırlan
 Bu bölümde, analizleri eyleme dönüştürmenize yardımcı olacak bazı genel eylem gruplarını vurguluyoruz. Bu liste kapsamlı olmayı amaçlamaz, ancak başlamanıza yardımcı olmak için tasarlanmıştır.
 
 
-> **Note – Kâr & Zarar Stratejileri**
+> **Light – Kâr & Zarar Stratejileri**
 >
 > * Mevcut gelirleri ve pazar payını koru
 >   * Olumsuz etkilenen pazarlara olan maruziyeti azalt
@@ -33,7 +33,7 @@ Bu bölümde, analizleri eyleme dönüştürmenize yardımcı olacak bazı genel
 
 
 
-> **Note – Bilanço Stratejileri**
+> **Light – Bilanço Stratejileri**
 >
 > * Bilanço üzerinden değer yarat
 >   * Sermaye dayanıklılığını azaltmadan, sermaye maliyetinin altında performans gösteren varlıklara olan maruziyeti azalt

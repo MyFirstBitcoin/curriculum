@@ -25,7 +25,7 @@ Isaalang-alang ang mga praktikal na gamit tulad ng pagkuha ng mga pangunahing pa
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Palawakin ang talakayan sa grupo sa pamamagitan ng pagbabahagi at paghahambing ng mga listahan upang mahanap ang limang pinakamahalagang dahilan kung bakit kailangan ng pera. Tukuyin ang mga karaniwang ideya sa buong klase. Pag-isipan ang sarili mong natatanging ideya na hindi napasama sa listahan ngunit mahalaga pa rin, at isulat ang mga ito.
 

@@ -25,7 +25,7 @@ Gondolj gyakorlati felhasználásokra, például alapvető szükségletek – mi
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Bővítsétek a beszélgetést a csoportban azzal, hogy megosztjátok és összehasonlítjátok a listákat, hogy megtaláljátok az öt legfontosabb okot, amiért szükség van pénzre. Azonosítsátok a közös gondolatokat az osztályban. Gondold át a saját egyedi ötleteidet is, amelyek nem kerültek fel a listára, de mégis értékesek, és jegyezd fel őket.
 

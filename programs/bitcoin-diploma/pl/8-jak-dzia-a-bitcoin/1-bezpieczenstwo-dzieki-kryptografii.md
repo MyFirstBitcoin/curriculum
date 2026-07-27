@@ -36,7 +36,7 @@ Szyfrowanie jest używane, aby upewnić się, że tylko prawdziwy właściciel b
 Jako dodatkowy środek ochrony każda transakcja Bitcoin automatycznie otrzymuje UNIKALNY podpis cyfrowy. Ten unikalny podpis cyfrowy jest oparty na technologii odpornej na manipulacje, która pomaga sieci zweryfikować, że to prawdziwy właściciel bitcoinów, a nie ktoś inny, je wysłał.
 
 
-> **Info**
+> **Dark**
 >
 > Każdy użytkownik ma dwa klucze: **klucz prywatny**, który jest **utrzymywany w tajemnicy**, oraz **klucz publiczny** który może być **udostępniany innym**. **Klucz prywatny** służy jako forma identyfikacji i dowód własności, potwierdzając: „Ten adres należy do mnie i mam nad nim kontrolę.”
 
@@ -128,6 +128,10 @@ Proces kodowania **klucza publicznego** poprzez haszowanie służy zwiększeniu 
 
 #### Ćwiczenie: Wygeneruj skrót SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Ciekawi Cię, jak działa haszowanie? Zeskanuj kod QR, aby natychmiast wygenerować skrót SHA256 z dowolnego słowa, zdania lub wybranego przez Ciebie tekstu. Funkcje skrótu są jak cyfrowe odciski palców: są jednokierunkowe, co oznacza, że po zahaszowaniu czegoś nie da się tego odwrócić. Wypróbuj i przekonaj się sam!

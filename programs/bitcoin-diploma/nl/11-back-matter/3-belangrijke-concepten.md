@@ -1,4 +1,4 @@
-# Belangrijke concepten
+# Belangrijke begrippen
 
 #### Module 1
 

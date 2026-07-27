@@ -1,56 +1,25 @@
 # 1.3 Vale la pena
 
-**Tipo de actividad** Clasificación • Clasificación visual • Discusión guiada
-
-**Duración** 45 minutos
-
-**Agrupamiento** Toda la clase con turnos individuales
-
-##### **Descripción**
-
-Los estudiantes exploran el significado de precio recortando artículos cotidianos y colocándolos a lo largo de una línea de precios compartida, desde barato hasta caro. A través de la comparación, la discusión y la orientación del docente, los alumnos desarrollan una comprensión concreta de que el precio es la cantidad de dinero que cuesta algo y que los precios pueden variar mucho entre diferentes artículos.
-
-##### **Resultados de aprendizaje**
-
-Al final de esta actividad, los estudiantes podrán:
-
-* Comprender que el precio significa cuánto cuesta algo en dinero
-* Reconocer la diferencia entre artículos baratos y caros
-* Comparar precios entre diferentes tipos de bienes
-* Participar en discusiones grupales y justificar sus respuestas
-
-##### **Materiales**
-
-* Catálogos viejos, revistas o hojas de productos impresas
-* Pegamento en barra o cinta adhesiva
-* Marcadores
-* **Opcional:** Notas adhesivas o pegatinas para votar
-
-##### **Equipo**
-
-* Tijeras seguras para niños
-* **Opcional:** Proyector, ayudas visuales (_Ver Apéndice A_)
-
 #### **PROCEDIMIENTO**
 
-##### **INICIO**
+##### **APERTURA**
 
 _10 minutos_
 
-1. Opcional: Preseleccionar y recortar artículos para modelar la actividad
+1. Opcional: seleccionar previamente y recortar artículos para modelar la actividad
 1. Asegúrese de que todo el contenido del catálogo sea apropiado para la edad.
-1. Si es posible, intente ocultar el precio de venta de los artículos usando un rotulador.
+1. Si es posible, intente ocultar el precio de venta de los artículos usando un marcador.
 
 
 
-##### **PRE-ACTIVIDAD**
+##### **ACTIVIDAD PREVIA**
 
 _5 minutos_
 
 1. Pregunte a los estudiantes: “¿Quién sabe qué significa la palabra _precio_?”
 1. Escriba claramente en la pizarra:
   1. **Precio = cuánto dinero cuesta algo**
-1. Muestre dos ejemplos contrastantes (por ejemplo, una manzana vs una bicicleta) y pregunte cuál cuesta más.
+1. Muestre dos ejemplos contrastantes (p. ej., manzana vs. bicicleta) y pregunte cuál cuesta más.
 
 **Objetivo en palabras del estudiante**
 
@@ -62,34 +31,34 @@ _25 minutos_
 
 **Preparación**
 
-1. Cree una línea horizontal larga en la pared o pizarra usando cinta adhesiva o un rotulador de borrado en seco. (_Ver Apéndice B_)
+1. Cree una línea horizontal larga en la pared o en la pizarra usando cinta adhesiva o un marcador de borrado en seco. (_Ver Apéndice B_)
 1. Etiquete:
   1. Izquierda: “Precio bajo”
   1. Derecha: “Precio alto”
 
-**Modelo**
+**Modelado**
 
-1. Si aún no lo has hecho, selecciona y recorta un artículo de los materiales
-1. Coloca tú mismo un artículo en la línea horizontal y explica tu razonamiento en voz alta:
-  1. “Esto va aquí porque tiene un precio bajo; normalmente cuesta menos dinero.”
-1. Pregunta a los estudiantes si están de acuerdo o en desacuerdo.
+1. Si aún no se ha hecho, seleccione y recorte un artículo de los materiales
+1. Coloque usted mismo un artículo en la línea horizontal y explique su razonamiento en voz alta:
+  1. “Esto va aquí porque tiene un precio bajo: normalmente cuesta menos dinero.”
+1. Pregunte a los estudiantes si están de acuerdo o en desacuerdo.
 
-**Realizar**
+**Realización**
 
 1. Los estudiantes se turnan para pasar al frente y colocar sus artículos en la línea de precios.
-1. Sugerencias para el docente:
+1. Indicaciones del docente:
   1. “¿Este precio es más bajo o más alto que el anterior?” o “¿Cuesta más dinero comprarlo?”
-  1. “¿Debería ir más a la izquierda o a la derecha?”
-1. Anima a moverse y ajustar las posiciones a medida que cambian las opiniones.
+  1. “¿Debería ir más hacia la izquierda o hacia la derecha?”
+1. Fomente el movimiento y los ajustes a medida que cambien las opiniones.
 
 **Reflexión**
 
-* Recorran juntos la línea de precios como grupo.
-* Pregunta:
+* Recorran la línea de precios en grupo.
+* Pregunte:
   * “¿Crees que este artículo debería moverse?”
   * “¿Qué artículo te sorprendió?”
-* Revela o estima los precios reales de algunos artículos y compáralos con las suposiciones de los estudiantes.
-* Destaca:
+* Revele o estime los precios reales de algunos artículos y compárelos con las estimaciones de los estudiantes.
+* Destaque:
   * Los artículos pequeños pueden ser caros
   * Los artículos grandes a veces pueden ser baratos
 
@@ -99,36 +68,36 @@ _2 minutos_
 
 
 
-Resumir:
+Resuma:
 
-* El precio nos ayuda a comparar artículos
-* Los precios son diferentes para cosas diferentes
+* El precio nos ayuda a comparar objetos
+* Los precios son distintos para cosas diferentes
 * Podemos no estar de acuerdo, pero el dinero nos ayuda a decidir
 
 ##### **CIERRE**
 
-1. Felicita a los estudiantes por su participación.
-1. Tómate un momento para agradecer por los objetos en su vida.
-1. Pide a los estudiantes que devuelvan todos los materiales y equipos.
-1. El proyecto se puede exhibir o guardar y los estudiantes pueden agregarle más adelante.
+1. Felicite a los estudiantes por su participación.
+1. Dedique un momento a agradecer por los objetos en su vida.
+1. Pida a los estudiantes que devuelvan todos los materiales y el equipo.
+1. El proyecto puede exhibirse o guardarse, y los estudiantes pueden agregarle más cosas después.
 
 #### **NOTAS**
 
-##### **Gestión del aula**
+##### **Manejo del aula**
 
-* Llama a los estudiantes uno por uno
-* Fomenta el desacuerdo respetuoso
+* Llame a los estudiantes uno por uno
+* Fomente el desacuerdo respetuoso
 
-##### **Extensiones y actividades extra**
+##### **Actividades de extensión y de relleno**
 
-* Agrega categorías de precios (Menos de $10, $10–$50, Más de $100, Más de $1000)
-* Repite la línea usando alimentos, experiencias o servicios
-* Compara precios adivinados vs precios reales
-* Juego de Más alto o Más bajo
-* Introduce la escasez preguntando por qué algunos artículos cuestan tanto
+* Agregue categorías de precios (Menos de $10 MXN, $10–$50 MXN, Más de $100 MXN, Más de $1000 MXN)
+* Rehacer la línea usando comida, experiencias o servicios
+* Comparar los precios estimados con los precios reales
+* Juego de más alto o más bajo
+* Introduzca la escasez preguntando por qué algunos artículos cuestan tanto
 
 ##### **Diferenciación**
 
 * **Estudiantes más jóvenes:** artículos precortados
-* **ELL/Accesibilidad:** permite señalar en vez de hablar
+* **Estudiantes aprendiendo inglés/Accesibilidad:** permitir señalar en lugar de hablar
 * **Seguridad:** supervisar el uso de tijeras

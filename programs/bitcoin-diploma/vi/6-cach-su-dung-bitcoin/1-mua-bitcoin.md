@@ -24,7 +24,7 @@ Xuất hiện các nền tảng ngang hàng, nơi người mua và người bán
 Trên các nền tảng này, bạn không cần phải tin tưởng ai với thông tin hoặc tiền của mình; bạn kết nối với những người khác và giao dịch trực tiếp với họ.
 
 
-> **Note**
+> **Light**
 >
 > Trên hầu hết các nền tảng ngang hàng, các bên tham gia phải ký quỹ một phần tiền để đảm bảo mỗi bên sẽ thực hiện đúng cam kết. Ký quỹ nghĩa là đặt tiền vào một nơi an toàn do nền tảng kiểm soát cho đến khi cả hai bên hoàn thành nghĩa vụ. Nó giống như một người bạn đáng tin giữ đồ cho bạn cho đến khi mọi người đều hài lòng với thỏa thuận.
 

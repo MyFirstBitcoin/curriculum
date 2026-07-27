@@ -1,60 +1,21 @@
 # 4.4 Nostr
 
-**Tipo de actividad** Juego de simulación – Codificación basada en manualidades – Desafío competitivo
-
-**Duración** 50-60 minutos
-
-**Agrupamiento** Pequeños equipos de tres estudiantes
-
-##### **Descripción**
-
-Basándose en actividades anteriores sobre la confianza, el paso de mensajes y la interceptación, los estudiantes ahora comparan la transferencia de información abierta con la comunicación codificada. Primero experimentan cómo transmitir información requiere confiar en intermediarios y cómo los mensajes pueden ser escuchados o alterados. Luego introducen ruedas de cifrado para proteger los mensajes, descubriendo que la información puede permanecer privada incluso cuando se transmite a través de canales no confiables o públicos.
-
-**Requisitos previos**
-
-* 4.2 - Teléfono
-* 4.3 - Cypherpunks Escriben Código
-
-##### **Resultados de aprendizaje**
-
-Al final de esta actividad, los estudiantes podrán:
-
-* Revisar cómo la transmisión de información requiere confianza en los intermediarios
-* Reconocer cómo los mensajes pueden filtrarse o cambiar cuando se transmiten abiertamente;
-* Comprender que la codificación protege la información incluso cuando los intermediarios no son confiables
-* Codificar y decodificar con éxito vocabulario usando una rueda de cifrado.
-
-##### **Materiales**
-
-* Tarjetas preparadas con palabras o frases para transmitir
-* Plantillas de rueda de cifrado para cada estudiante (_Ver Apéndice A_)
-* Hojas de trabajo o papel en blanco para transcripción
-* Lápices o marcadores
-* **Opcional:** Ejemplo de mensajes simples y complejos (_Ver Apéndice B_)
-
-##### **Equipo**
-
-* Tijeras
-* Sujetadores de latón o encuadernadores para las ruedas de cifrado
-* Espacio abierto en el aula para moverse
-* **Opcional**: Cronómetro
-
 #### **PROCEDIMIENTO**
 
-##### **INICIO**
+##### **APERTURA**
 
-1. Organiza el aula con dos mesas por equipo, colocadas lejos una de la otra para crear distancia.
-1. Coloca tarjetas de mensajes abiertos en cada mesa de remitente.
-1. Prepara los materiales de la rueda de cifrado pero mantenlos ocultos hasta la Fase 2.
+1. Organiza el salón con dos mesas por equipo colocadas bien separadas para crear distancia.
+1. Coloca tarjetas de mensaje abiertas en cada mesa del emisor.
+1. Prepara los materiales de la rueda de cifrado, pero mantenlos ocultos hasta la Fase 2.
 
-##### **PRE-ACTIVIDAD**
+##### **ANTES DE LA ACTIVIDAD**
 
 _5 minutos_
 
-1. Pide a los estudiantes que recuerden la actividad anterior donde los mensajes se susurraban o transmitían.
-1. Pregunta qué problemas notaron con la confianza, errores o escuchas.
-1. Recuerda a los estudiantes que la vez pasada no pudieron mantener los mensajes en privado.
-1. Explica que hoy probarán si ese problema se puede resolver.
+1. Pide a los estudiantes que recuerden la actividad anterior, en la que los mensajes se susurraban o se transmitían de una persona a otra.
+1. Pregunta qué problemas notaron relacionados con la confianza, los errores o que otros pudieran escuchar.
+1. Recuerda a los estudiantes que la vez pasada no podían mantener privados los mensajes.
+1. Explica que hoy pondrán a prueba si ese problema se puede resolver.
 
 **Objetivo en palabras del estudiante**
 
@@ -67,82 +28,82 @@ _40–45 minutos_
 **Preparación**
 
 1. Divide a los estudiantes en equipos de tres.
-1. Asigna los roles: Jugador 1 es el Emisor, Jugador 2 es el Corredor, Jugador 3 es el Receptor.
-1. Explica que los roles se mantendrán iguales durante toda la actividad.
+1. Asigna roles: el Jugador 1 es el Emisor, el Jugador 2 es el Mensajero, el Jugador 3 es el Receptor.
+1. Explica que los roles se mantendrán igual durante toda la actividad.
 
-**Demostración**
+**Modelo**
 
-1. Demuestra una ronda corta de dictado en movimiento usando un mensaje abierto.
-1. Señala que el corredor debe recordar y repetir el mensaje exactamente.
-1. Recuerda a los estudiantes que cualquier persona cercana puede escuchar el mensaje.
+1. Demuestra una ronda breve de dictado con mensajero usando un mensaje abierto.
+1. Señala que el mensajero debe recordar y repetir el mensaje exactamente.
+1. Recuerda a los estudiantes que cualquiera que esté cerca puede escuchar el mensaje.
 
-**Fase 1 – Transmisión Abierta (Se Requiere Confianza)**
+**Fase 1 – Transmisión abierta (requiere confianza)**
 
-1. El Jugador 1 lee silenciosamente el mensaje en la mesa del emisor.
-1. El Jugador 1 lee en voz baja el mensaje al Jugador 2 en la mesa del emisor.
+1. El Jugador 1 lee en silencio el mensaje en la mesa del emisor.
+1. El Jugador 1 lee el mensaje en voz baja al Jugador 2 en la mesa del emisor.
 1. El Jugador 2 corre hacia el Jugador 3 y transmite el mensaje verbalmente.
 1. El Jugador 3 escribe lo que escucha.
-1. El Jugador 2 puede ir y venir tantas veces como sea necesario.
-1. El primer equipo en transmitir el mensaje correctamente gana.
+1. El Jugador 2 puede ir y venir corriendo según sea necesario.
+1. Gana el primer equipo que transmita el mensaje correctamente.
 
-**Discusión de Control**
+**Discusión de control**
 
 * Pregunta si el mensaje final coincidió con el original.
-* Pregunta si los corredores escucharon a otros equipos.
-* Pregunta si el corredor tenía el poder de cambiar el mensaje.
-* Refuerza que el sistema solo funcionó si se confiaba en el corredor.
+* Pregunta si los mensajeros escucharon a otros equipos.
+* Pregunta si el mensajero tenía el poder de cambiar el mensaje.
+* Refuerza que el sistema solo funcionaba si se confiaba en el mensajero.
 
-**Fase 2 – Transmisión Codificada (Confianza Reducida)**
+**Fase 2 – Transmisión codificada (confianza reducida)**
 
-1. Distribuye los materiales de la rueda de cifrado y permite que los estudiantes las armen.
+1. Distribuye los materiales de la rueda de cifrado y permite que los estudiantes los ensamblen.
 1. El Emisor y el Receptor acuerdan en privado un desplazamiento de letras usando la rueda.
 1. El Jugador 1 codifica un nuevo mensaje usando el cifrado acordado.
 1. El Jugador 2 transmite solo el mensaje codificado sin conocer su significado.
 1. El Jugador 3 transcribe y decodifica el mensaje usando la rueda de cifrado.
 
-**Reglas de la Competencia**
+**Reglas de la competencia**
 
 * Los equipos ganan puntos por decodificar correctamente.
-* La velocidad y la precisión son importantes.
-* No se permite que los corredores aprendan el cifrado.
+* Tanto la velocidad como la precisión importan.
+* Los mensajeros no pueden aprender el cifrado.
 
 **Reflexión**
 
 1. Pregunta qué cambió entre la transmisión abierta y la codificada.
-1. Pregunta si todavía era necesaria la confianza en el corredor.
+1. Pregunta si la confianza en el mensajero seguía siendo necesaria.
 1. Pregunta quién controlaba el acceso al mensaje en cada fase.
 
 ##### **SEGUIMIENTO**
 
 _5-10 minutos_
 
-1. Revisa que las actividades anteriores mostraron cómo los mensajes pueden ser interceptados o alterados.
-1. Revisa que la codificación permite que los mensajes viajen de forma segura por espacios públicos.
-1. Relaciona esto con la idea de elegir qué información es pública o privada.
+1. Repase que las actividades anteriores mostraron cómo los mensajes pueden ser interceptados o alterados.
+1. Repase que la codificación permite que los mensajes viajen por el espacio público de forma segura.
+1. Conecte esto con la idea de elegir qué información es pública o privada.
 
 ##### **CIERRE**
 
 5 minutos
 
-1. Recoge los materiales compartidos y reorganiza el aula.
-1. Permite que los estudiantes se queden con sus ruedas de cifrado.
+1. Recoja los materiales compartidos y reorganice el salón.
+1. Permita que los estudiantes conserven sus ruedas de cifrado.
 1. Mensaje final para los estudiantes: “No necesitas confiar en todos cuando tu mensaje está protegido.”
 
 #### **NOTAS**
 
-##### **Gestión del aula**
+##### **Manejo del aula**
 
-* Los estudiantes mayores pueden elegir su rol en la carrera de relevos
-* Controla las rutas de los corredores y exige caminar si es necesario.
-* Enfatiza que los errores son esperados y parte del aprendizaje.
+* Los estudiantes mayores pueden elegir su rol en el relevo
+* Controle las rutas para correr y exija caminar si es necesario.
+* Enfatice que los errores son esperados y forman parte del aprendizaje.
 
-##### **Extensiones y actividades extra**
+##### **Actividades de extensión y de relleno**
 
-* Rota los roles y repite con un nuevo cifrado.
-* Aumenta la longitud del mensaje o agrega mensajes señuelo.
+* Rote los roles y repita con un nuevo cifrado.
+* Aumente la longitud del mensaje o agregue mensajes señuelo.
 
 ##### **Diferenciación**
 
 * Estudiantes más jóvenes: palabras sueltas y desplazamiento fijo de letras.
-* ELL/Accesibilidad: tablas del alfabeto y ritmo más lento.
+* ELL/Accesibilidad: cuadros del alfabeto y ritmo más lento.
 * Seguridad: reglas claras de movimiento y uso supervisado de herramientas.

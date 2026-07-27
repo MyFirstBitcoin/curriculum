@@ -161,7 +161,11 @@ Verovatno će postojati raznovrsniji skup pružalaca platnih usluga, uključuju�
 
 Bitcoin i rešenja sa stabilnim koinima nude značajno smanjenje frikcija i troškova povezanih sa inostranim plaćanjima i međunarodnim doznakama. Ovo može predstavljati značajnu pretnju prihodima banaka i pružalaca platnih usluga.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Veličina deviznih tržišta porasla je sa praktično nule od izbijanja Drugog svetskog rata na 7,5 biliona dolara dnevno krajem 2022. godine, pri čemu se gotovo sav taj rast dogodio od kraja Bretton Woods sistema 1971. Banke i pružaoci platnih usluga ostvaruju značajne prihode pružajući usluge na ovim tržištima.
 

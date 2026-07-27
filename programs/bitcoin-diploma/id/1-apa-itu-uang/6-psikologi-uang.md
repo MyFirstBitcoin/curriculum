@@ -72,4 +72,4 @@ Keinginan kita untuk mengorbankan hadiah yang lebih besar di masa depan demi had
 ###### Sumber daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Tonton video singkat ini!](https://www.youtube.com/watch?v=InwVM6s7WoY)

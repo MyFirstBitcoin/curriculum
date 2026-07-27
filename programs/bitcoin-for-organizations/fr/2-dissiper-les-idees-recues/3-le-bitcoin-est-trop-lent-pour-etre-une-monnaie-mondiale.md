@@ -41,7 +41,7 @@ Lorsque cette critique est formulée, il vaut la peine de se demander si le crit
 Le trilemme de l’évolutivité, ou de la blockchain, a été soulevé pour la première fois par Vitalik Buterin en 2017. Il affirme qu’il y a toujours un compromis dans la conception d’une blockchain entre les propriétés de décentralisation, de sécurité et d’évolutivité. Toute personne qui critique Bitcoin en disant qu’il est trop lent et qu’elle a une solution plus rapide dans une blockchain de couche 1 sacrifie une partie de la sécurité ou de la décentralisation pour y parvenir. Bien qu’un tel compromis puisse avoir du sens pour une blockchain conçue pour d’autres usages, l’ordre de priorité pour une monnaie mondiale doit être :
 
 
-> **Note**
+> **Light**
 >
 > * **Décentralisation**
 >   * Permet de supprimer les parties de confiance

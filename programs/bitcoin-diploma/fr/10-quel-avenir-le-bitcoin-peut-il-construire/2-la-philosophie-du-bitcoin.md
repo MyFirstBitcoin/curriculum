@@ -1,26 +1,26 @@
 # 10.2 La philosophie du Bitcoin
 
-Dans les Modules 5 et 8, nous avons découvert que les personnes qui exploitent un nœud contribuent à préserver la sécurité des règles de Bitcoin. C'est très important car, pour la première fois, des gens comme nous peuvent faire partie d'un réseau qui veille à la protection des règles de notre système monétaire. Ces règles incluent la quantité limitée de monnaie, et aucune entité unique ne peut les modifier. C'est une opportunité unique pour les gens ordinaires de participer à la sécurité et à la fiabilité de notre argent.
+Dans les modules 5 et 8, nous avons découvert que les personnes qui exploitent un nœud contribuent à garantir le respect des règles du Bitcoin. C'est très important car, pour la toute première fois, des gens comme nous peuvent faire partie d'un réseau qui garantit la protection des règles de notre système monétaire. Ces règles incluent notamment l'offre limitée de monnaie, et aucune partie ne peut à elle seule les modifier. C'est une occasion unique pour les citoyens lambda de contribuer à la sécurité et à la fiabilité de notre monnaie.
 
-La philosophie de Bitcoin repose sur l’autonomisation, la liberté, l’indépendance financière, l’esprit critique et l’autodétermination — l’idée que nous devrions tous avoir notre mot à dire sur les règles du système que nous choisissons pour nous-mêmes. Contrairement au système fiat contrôlé par de puissantes entités centrales, Bitcoin repose sur un réseau où aucune partie unique ne détient tout le pouvoir. Cela signifie que personne ne peut vous retirer votre propriété ou vous empêcher de dépenser votre argent comme vous le souhaitez. C’est exactement l’inverse avec les MNBC.
+La philosophie du Bitcoin repose sur l'autonomisation, la liberté, l'indépendance financière, l'esprit critique et l'autodétermination — l'idée que nous devrions tous avoir notre mot à dire sur les règles du système que nous choisissons pour nous-mêmes. Contrairement au système fiduciaire contrôlé par de puissantes instances centrales, le Bitcoin repose sur un réseau où aucune entité ne détient à elle seule l'entière autorité. Cela signifie que personne ne peut vous priver de vos biens ni vous empêcher de dépenser votre argent comme bon vous semble. C'est exactement le contraire qui vaut pour les CBDC.
 
-Dans le monde fiat, avoir plus de richesse se traduit directement par plus d’influence et de contrôle. En revanche, Bitcoin distribue le pouvoir de manière égale au peuple. C’est un effort collectif où chacun, peu importe sa richesse, joue un rôle crucial dans le système. Imaginez-le comme une force collective, où votre pouvoir financier ne détermine pas automatiquement votre influence. Bitcoin repose sur des règles immuables et, dans cette harmonie, c’est comme si l’humanité elle-même contrôlait le système. Ce ne sont pas quelques puissants qui décident — c’est nous tous, travaillant ensemble comme une communauté résiliente, guidant le parcours de Bitcoin sans qu’aucune autorité unique ne puisse en changer la direction.
+Dans l'univers des monnaies fiduciaires, posséder davantage de richesse se traduit directement par davantage d'influence et de contrôle. À l'inverse, le Bitcoin répartit le pouvoir de manière équitable entre tous. Il s'agit d'un effort collectif où chacun, quel que soit son niveau de richesse, joue un rôle crucial au sein du système. Imaginez cela comme une force collective, où votre pouvoir financier ne détermine pas automatiquement votre influence. Le Bitcoin repose sur des règles immuables et, dans cette harmonie, c’est comme si l’humanité elle-même contrôlait le système. Ce ne sont pas quelques gros bonnets qui prennent les décisions — c’est plutôt nous tous, travaillant ensemble au sein d’une communauté résiliente, qui guidons la trajectoire du Bitcoin sans qu’aucune autorité unique ne puisse en modifier le cap.
 
-Alors que dans le système fiat, les puissants dictent les règles, dans l’écosystème Bitcoin, c’est la contribution additionnelle des individus qui soutient le réseau. Aucune entité, quelle que soit sa richesse ou son pouvoir, ne peut dicter la trajectoire de l’écosystème Bitcoin. C’est une inversion de la dynamique de pouvoir traditionnelle, où la résilience du système ne repose pas entre les mains de quelques-uns, mais dans la force collective de tous les participants.
+Alors que dans le système monétaire fiduciaire, ce sont les puissants qui dictent les règles, dans l’écosystème Bitcoin, c’est la contribution collective des individus qui soutient le réseau. Aucune entité, quelle que soit sa richesse ou son pouvoir, ne peut dicter la voie à suivre à l'écosystème Bitcoin. Il s'agit d'un renversement de la dynamique de pouvoir traditionnelle, où la résilience du système ne repose pas entre les mains d'une poignée d'individus, mais sur la force collective de tous les participants.
 
-L’idée principale est de créer un système sûr, clair et équitable où chacun peut accéder, posséder et dépenser de la monnaie mondiale, peu importe qui il est ou où il se trouve.
+L'idée principale est de créer un système sûr, transparent et équitable, dans lequel chacun puisse accéder à une monnaie mondiale, en détenir et l'utiliser, quels que soient son identité et son lieu de résidence.
 
-#### Réflexion : Avez-vous le droit de contrôler votre propre argent ?
+#### Réflexion : Avez-vous le droit de disposer librement de votre argent ?
 
-1. L’accès à l’argent est-il une nécessité humaine et un droit humain ? Pourquoi ?
-1. Si vous ne pouvez pas dépenser votre argent comme vous le souhaitez, l’envoyer à qui vous voulez, ou l’emporter avec vous dans un nouveau pays, est-il vraiment à vous ? Pourquoi ?
-1. Pourquoi le troc a-t-il cessé d’être utilisé ? Quel est le problème de la double coïncidence des besoins ?
-1. Pourquoi est-il important de comprendre le choc Nixon et sa pertinence jusqu’à aujourd’hui ?
-1. Quel autre événement historique que nous avons étudié a eu le plus d’impact pour vous ?
-1. En quoi la monnaie à offre fixe est-elle différente des monnaies fiat traditionnelles ?
-1. Quand Bitcoin a-t-il été créé, par qui, et dans quel but ? Comment le concept de système décentralisé contribue-t-il à cette mission ?
-1. Quels sont les différents compromis associés aux portefeuilles avec ou sans conservation ? Quel a été votre portefeuille préféré ?
-1. Que savez-vous du Lightning Network ? Pour quelles transactions l’utiliseriez-vous ?
-1. De quelle manière le fait d’exploiter votre propre nœud soutient-il le réseau ?
-1. Comment le contrôle de votre propre argent vous donne-t-il du pouvoir dans votre vie quotidienne et dans la planification de votre avenir ?
-1. De quelles manières la liberté financière peut-elle améliorer votre capacité à contribuer positivement à votre communauté ou à la société ?
+1. L'accès à l'argent est-il une nécessité humaine et un droit humain ? Pourquoi ?
+1. Si vous ne pouvez pas dépenser votre argent comme bon vous semble, l'envoyer à qui vous voulez ou l'emporter avec vous dans un autre pays, est-ce vraiment le vôtre ? Pourquoi ?
+1. Pourquoi le troc a-t-il cessé d'être pratiqué ? En quoi consiste le problème de la double coïncidence des besoins ?
+1. Pourquoi est-il important de comprendre le « choc Nixon » et son importance jusqu'à aujourd'hui ?
+1. Parmi les autres événements historiques que nous avons étudiés, lequel vous a le plus marqué ?
+1. En quoi une monnaie à offre fixe diffère-t-elle des monnaies fiduciaires traditionnelles ?
+1. Quand le Bitcoin a-t-il été créé, par qui et dans quel but ? En quoi le concept de système décentralisé contribue-t-il à cette mission ?
+1. Quels sont les différents compromis liés aux portefeuilles avec garde et sans garde ? Quel était votre portefeuille préféré ?
+1. Que savez-vous du Lightning Network ? Pour quelles transactions l'utiliseriez-vous ?
+1. En quoi le fait d'exploiter son propre nœud contribue-t-il au bon fonctionnement du réseau ?
+1. En quoi le fait de gérer soi-même son argent vous donne-t-il plus d'autonomie dans votre vie quotidienne et dans la planification de votre avenir ?
+1. De quelle manière la liberté financière peut-elle vous permettre de contribuer davantage à votre communauté ou à la société ?

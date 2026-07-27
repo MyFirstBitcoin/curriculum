@@ -58,13 +58,21 @@ Lightning Network позволяет людям отправлять битко�
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Это карта всей сети Lightning. Благодаря тысячам операторов Lightning-узлов вы можете отправлять сатоши любому пользователю с Bitcoin Lightning-кошельком, где бы он ни находился в мире. Платёж дойдёт за несколько секунд и будет стоить всего несколько копеек.**Попробуйте сами!**
 
 #### Задание: Эстафета Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Это практическое упражнение, в котором студенты отправляют и получают настоящие сатоши через Lightning Network.**
 

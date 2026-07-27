@@ -1,38 +1,5 @@
 # 2.1 Work, Rest & Play
 
-**Activity type** Interactive group activity - Personal reflection
-
-**Duration** 45 minutes
-
-**Grouping** Whole class for collaborative activities, then individual or pairs for reflection
-
-##### **Description**
-
-Students explore how everyday activities can be grouped into work, rest, and play. Through a shared classification activity and individual routine mapping, learners reflect on how they use their time across a day. The activity builds early awareness of balance, energy, and intentional time use.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Identify and classify activities as work, rest, or play
-* Reflect on how their time is distributed across daily life
-* Recognize the importance of balance between work, rest, and play
-* Begin connecting time use to energy and well-being
-
-##### **Materials**
-
-* Flashcards with common daily activities (e.g. brushing teeth, homework, soccer, video games, sleeping, cooking, reading)
-* Blank routine handouts:
-* Pencils, crayons, markers
-* **Nice-to-have:** Extra blank cards for student-created activities, Visual Aids (_See Appendix A_)
-
-##### **Equipment**
-
-* Large poster or board space divided into WORK – REST – PLAY (_See Appendix B_)
-* Whiteboard or wall space
-* Tape or magnets for attaching cards
-* **Nice-to-have**: Timer or visual clock
-
 #### **PROCEDURE**
 
 ##### **OPENING**
@@ -170,9 +137,3 @@ _5 minutes_
 * Older students: Students can write their own cards using sticky notes.
 * ELL/Accessibility: use icons and gestures
 * Safety: supervise movement around the board
-
-#### **APPENDIX**
-
-**Appendix A - Visual Aid**
-
-**Appendix B - Venn Diagram**

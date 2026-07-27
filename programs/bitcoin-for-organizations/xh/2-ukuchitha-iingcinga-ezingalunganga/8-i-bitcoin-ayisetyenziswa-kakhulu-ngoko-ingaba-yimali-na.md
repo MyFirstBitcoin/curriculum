@@ -69,7 +69,7 @@ Ukusukela oko yaqalayo ngo-2009, i-bitcoin ibikwiimeko zokuqhubeka ‘kufunyanwa
 Ngokuhlalutya i-ledger ye-bitcoin, kungabonakala ukuba ngaphezulu kwe-70% yonke i-bitcoin igcinwa ngabantu [abanini bexesha elide](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Ngoko ke, kubonakala ngathi uninzi lwabanini bonwabile ukuhlala kwaye bangathengisi okanye basebenzise i-bitcoin yabo. Ngenxa yokunyuka okukhulu kwamandla okuthenga kwe-bitcoin ukusukela oko yaqalayo, kulindeleke ukuba uninzi lwabanini balindele ukuba i-bitcoin ixabiseke ngakumbi kwaye oku kuchaphazela isigqibo sabo sokuqhubeka nokugcina kwaye bangayisebenzisi.
 
 
-> **Info – Usuku lwePizza yeBitcoin**
+> **Dark – Usuku lwePizza yeBitcoin**
 >
 > Minyaka le ngomhla we-22 kuMeyi, uluntu lweBitcoin lubhiyozela kwaye luvuma umphuhlisi waseFlorida uLaszlo Hanyecz, owayengumntu wokuqala okhe wasebenzisa i-bitcoin ukuthenga iimpahla ezibonakalayo. Ngomhla we-18 kuMeyi 2010, uHanyecz wabhengeza kwi-forum yeBitcointalk.org ukuba ufuna ipizza kwaye ulungele ukuhlawula nge-bitcoin. Wanika i-10,000 bitcoin kuye nabani na owayelungele ukwenza olo tshintshiselwano. Walinda iintsuku ezininzi, de umfundi oneminyaka eli-19 uSipho wavuma kwaye wathumela iipizza ezimbini ezinkulu. ULaszlo wathumela kuSipho i-10,000 bitcoin njengoko wayethembisile, nto leyo, ngexesha lokubhala oku, ixabisa ngaphezulu kwe-R13 billion.
 >

@@ -72,4 +72,4 @@ Nossa disposição em abrir mão de uma recompensa maior no futuro em troca de u
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Confira este vídeo curto!](https://www.youtube.com/watch?v=InwVM6s7WoY)

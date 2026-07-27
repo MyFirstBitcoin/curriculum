@@ -36,7 +36,7 @@ A criptografia é usada para garantir que apenas o verdadeiro detentor do bitcoi
 Como uma medida adicional de proteção, cada transação de Bitcoin recebe automaticamente uma assinatura digital ÚNICA. Essa assinatura digital única é alimentada por uma tecnologia à prova de adulteração que ajuda a rede a verificar que o verdadeiro dono do bitcoin, e não outra pessoa, foi quem enviou.
 
 
-> **Info**
+> **Dark**
 >
 > Cada usuário possui duas chaves: uma **chave privada**, que é **mantida em segredo**, e uma **chave pública** que pode ser **compartilhada com outros**. A **chave privada** serve como uma forma de identificação e prova de propriedade, confirmando: “Este endereço me pertence e eu tenho controle sobre ele.”
 
@@ -128,6 +128,10 @@ O processo de codificação da **chave pública** por meio do hashing é usado p
 
 #### Atividade: Gere um Hash SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Curioso para saber como o hashing funciona? Escaneie o código QR para gerar instantaneamente um hash SHA256 de qualquer palavra, frase ou entrada que você escolher. Funções de hash são como impressões digitais digitais: são unidirecionais, ou seja, uma vez que algo é hasheado, não pode ser revertido. Experimente e veja por si mesmo!

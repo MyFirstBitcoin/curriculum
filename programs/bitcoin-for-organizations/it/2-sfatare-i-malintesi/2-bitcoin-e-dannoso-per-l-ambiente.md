@@ -1,6 +1,6 @@
 # 2.2 Bitcoin è dannoso per l'ambiente
 
-> **Note**
+> **Light**
 >
 > * Bitcoin è stato spesso attaccato per l'utilizzo di troppa energia.
 > * Nel 2017, il World Economic Forum (WEF) ha pubblicato un articolo sul suo sito web affermando che 'entro il 2020, Bitcoin consumerà più energia di quanta il mondo sia in grado di produrre'.

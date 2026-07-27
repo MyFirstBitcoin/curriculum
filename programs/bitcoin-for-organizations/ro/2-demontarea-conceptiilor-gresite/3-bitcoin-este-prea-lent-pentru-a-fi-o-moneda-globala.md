@@ -41,7 +41,7 @@ Când apare această critică, merită să te întrebi dacă persoana care criti
 Trilema Scalabilității, sau a Blockchain-ului, a fost ridicată pentru prima dată de Vitalik Buterin în 2017. Ea spune că există întotdeauna un compromis în proiectarea blockchain-ului între proprietățile de Descentralizare, Securitate și Scalabilitate. Oricine ridică critica că Bitcoin este prea lent și că are o soluție mai rapidă într-un blockchain de nivel 1 va sacrifica o parte din securitate sau descentralizare pentru a o obține. Deși un astfel de compromis pentru un blockchain proiectat pentru alte utilizări poate avea sens, ordinea de prioritate pentru bani globali trebuie să fie:
 
 
-> **Note**
+> **Light**
 >
 > * **Descentralizare**
 >   * Face posibilă eliminarea părților de încredere

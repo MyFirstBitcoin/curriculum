@@ -58,13 +58,21 @@ On-chain-transaktioner sker direkt på Bitcoin-blockkedjan och kan ta mer tid oc
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Det här är en karta över hela Lightning-nätverket. Tack vare tusentals Lightning-nodoperatörer kan du skicka sats till vilken användare som helst med en Bitcoin Lightning-plånbok, var de än befinner sig i världen. Betalningen kommer fram på några sekunder och kostar bara några öre.**Prova själv!**
 
 #### Aktivitet: Lightning-stafett
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Detta är en praktisk övning där elever skickar och tar emot riktiga sats med hjälp av Lightning-nätverket.**
 

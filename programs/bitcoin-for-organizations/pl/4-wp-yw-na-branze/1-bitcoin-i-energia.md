@@ -128,7 +128,7 @@ Wydobycie Bitcoin oferuje silny bodziec ekonomiczny do rozwoju odnawialnych źr�
 
 
 
-> **Info – Eliminacja spalania gazu?**
+> **Dark – Eliminacja spalania gazu?**
 >
 > Wykorzystanie energii odpadowej, takiej jak spalany gaz ziemny, nie tylko pozwala zaoszczędzić pieniądze, ale także łagodzi krytykę środowiskową. Spalanie ma miejsce, gdy nadmiar gazu ziemnego (metanu) jest spalany na miejscu wydobycia ropy, ponieważ nie ma infrastruktury do jego wychwycenia i sprzedaży. Według niektórych badań5, metan zatrzymuje około 120 razy więcej ciepła niż CO2, stąd konieczność jego spalania, co skutecznie przekształca go w CO2. Jednak spalanie nie jest w 100% skuteczne i nadal pozwala na emisję metanu do atmosfery. Górnicy Bitcoin mogą wykorzystać tę energię do zasilania swoich operacji, co zmniejsza emisję gazów cieplarnianych ze spalania. Gaz ziemny jest spalany w generatorach w celu wytworzenia energii elektrycznej, która zasila przenośne koparki znajdujące się bezpośrednio przy odwiertach.
 >
@@ -178,7 +178,7 @@ W miarę dojrzewania branży, większa współpraca z dostawcami energii odnawia
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin nie marnuje energii. Wykorzystuje energię, która byłaby zmarnowana.**
 >

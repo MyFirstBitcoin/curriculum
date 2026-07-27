@@ -1,6 +1,6 @@
 # 2.2 Bitcoin je špatný pro životní prostředí.
 
-> **Note**
+> **Light**
 >
 > * Bitcoin byl často kritizován za to, že spotřebovává příliš mnoho energie.
 > * Již v roce 2017 zveřejnilo Světové ekonomické fórum (WEF) na svých webových stránkách článek, ve kterém tvrdilo, že 'do roku 2020 bude Bitcoin spotřebovávat více energie, než je svět schopen vyrobit'.

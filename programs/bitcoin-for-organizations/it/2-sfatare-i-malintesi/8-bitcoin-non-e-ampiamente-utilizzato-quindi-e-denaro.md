@@ -69,7 +69,7 @@ Dalla sua nascita nel 2009, bitcoin è stato in uno stato continuo di ‘scopert
 Analizzando il registro di bitcoin, si può dimostrare che oltre il 70% dell'intera offerta di bitcoin è detenuta da [detentori a lungo termine](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Pertanto, sembra che la maggior parte dei possessori sia soddisfatta di mantenere e non vendere o spendere i propri bitcoin. Dato il drammatico aumento del potere d'acquisto di bitcoin dal suo lancio, è ragionevole supporre che la maggior parte dei possessori si aspetti che bitcoin diventi più prezioso e che ciò influenzi la loro decisione di continuare a detenere e non spendere.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Ogni anno, il 22 maggio, la comunità Bitcoin celebra e riconosce il programmatore della Florida Laszlo Hanyecz, che è diventato la prima persona di cui si abbia notizia ad aver utilizzato bitcoin per acquistare beni fisici. Il 18 maggio 2010, Hanyecz annunciò su un forum di Bitcointalk.org che stava cercando una pizza ed era disposto a pagare in bitcoin. Offrì 10.000 bitcoin a chiunque fosse disposto a concludere la transazione. Aspettò diversi giorni, finché lo studente diciannovenne Giovanni Sturdivant accettò e inviò due grandi pizze. Laszlo inviò a Sturdivant 10.000 bitcoin come promesso che, al momento della stesura, valgono oltre 680 milioni di dollari.
 >

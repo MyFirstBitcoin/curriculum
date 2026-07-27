@@ -72,4 +72,4 @@ Kesanggupan kita untuk melepaskan ganjaran yang lebih besar pada masa depan demi
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Tonton video pendek ini!](https://www.youtube.com/watch?v=InwVM6s7WoY)

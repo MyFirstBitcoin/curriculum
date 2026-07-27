@@ -5,7 +5,7 @@
 Le Bitcoin repose sur l’énergie pour son mécanisme de consensus « preuve de travail », ce qui contribue à garantir qu’il reste une forme d’argent décentralisée et sans autorisation. Le réseau électrique fait face à des défis pour intégrer de nouvelles formes d’énergie renouvelable, ce qui met à rude épreuve l’infrastructure actuelle. Ce chapitre propose une brève introduction à ces défis et un aperçu des aspects pertinents du Bitcoin avant de montrer comment il contribue à cette évolution du réseau d’énergie renouvelable.
 
 
-> **Info – Le Bitcoin comme monnaie énergétique**
+> **Dark – Le Bitcoin comme monnaie énergétique**
 >
 > Le 4 décembre 1921, le New York Tribune a publié un article exposant la vision de Ford de remplacer l’or par une monnaie énergétique, qu’il pensait capable de briser l’emprise des élites bancaires sur la richesse mondiale et de mettre fin aux guerres. Il comptait y parvenir en construisant « la plus grande centrale électrique du monde » et en créant un nouveau système monétaire basé sur des « unités de puissance ».
 

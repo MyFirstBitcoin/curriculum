@@ -9,12 +9,12 @@ Měny, které používáme, jsou čím dál více digitální; dnes zůstává j
 ##### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Podívejte se na toto krátké video o „Původu směny“ ze série „Historie papírových peněz“.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Toto je druhá epizoda s názvem „Nejen nudle“ ze série „Historie papírových peněz“.](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Co se stane, když se opravdu pokusíte uvést doktrínu papírových peněz do praxe? Zjistěte to ve čtvrté epizodě „Historie papírových peněz“.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

@@ -128,7 +128,7 @@ Le minage de Bitcoin offre une forte incitation économique au développement de
 
 
 
-> **Info – L'élimination du torchage ?**
+> **Dark – L'élimination du torchage ?**
 >
 > Utiliser l'énergie gaspillée, comme le gaz naturel torché, permet non seulement d'économiser de l'argent mais aussi de répondre aux critiques environnementales. Le torchage se produit lorsque l'excès de gaz naturel (méthane) est brûlé sur les sites de forage pétrolier faute d'infrastructure pour le capter et le vendre. Selon certaines études, le méthane retient environ 120 fois plus de chaleur que le CO2, d'où la nécessité de le brûler, ce qui le convertit effectivement en CO2. Cependant, le torchage n'est pas efficace à 100 % et laisse encore échapper du méthane dans l'atmosphère. Les mineurs de Bitcoin peuvent utiliser cette énergie pour alimenter leurs opérations, ce qui réduit les émissions de gaz à effet de serre issues du torchage. Le gaz naturel est brûlé dans des générateurs pour produire de l'électricité, qui alimente des unités de minage portables situées directement sur le site du puits.
 >
@@ -178,7 +178,7 @@ L'examen environnemental du minage de Bitcoin est attendu et bienvenu. Cependant
 
 
 
-> **Info**
+> **Dark**
 >
 > **Le Bitcoin ne gaspille pas d'énergie. Il utilise l'énergie gaspillée.**
 >

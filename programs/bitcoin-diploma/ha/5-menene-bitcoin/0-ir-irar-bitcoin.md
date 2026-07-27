@@ -9,7 +9,11 @@ _Tarihin Bitcoin kafin kafuwa - Sakamakon bincike, ci gaba da bukata na tsawon s
 
 Kamar yadda muka gani a darasin da ya gabata, wasu daga cikin Cypherpunks sun yi kokarin kirkirar wata sabuwar hanyar kudi. Wannan darasin yana ci gaba da labarin daya daga cikinsu: wani mai hangen nesa da aka fi sani da “Satoshi Nakamoto”. Wannan mutum ko kungiya (wanda ba a san ko su waye ba), tun kafin Bitcoin, sun shiga tattaunawa a yanar gizo game da lissafin sirri da kimiyyar kwamfuta don nemo hanyoyin da za a iya amfani da su wajen maye gurbin tsarin fiat.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 A watan Oktoba na shekarar 2008, Nakamoto ya fitar da wata takarda mai matukar muhimmanci mai taken “Bitcoin: A Peer-to-Peer Electronic Cash System” a cikin wata jerin wasiku ta masu sha’awar lissafin sirri. Wannan takarda ta kafa tubalin tsarin sadarwa na peer-to-peer da aka tsara don saukaka mu’amaloli na yanar gizo cikin tsaro ba tare da bukatar masu shiga tsakani ba. Burin Nakamoto ya kasance a fili: kirkirar nau’in kudi na lantarki kai tsaye tsakanin mutane, ba tare da ikon gwamnatoci masu karfi ko cibiyoyin kudi ba.
 

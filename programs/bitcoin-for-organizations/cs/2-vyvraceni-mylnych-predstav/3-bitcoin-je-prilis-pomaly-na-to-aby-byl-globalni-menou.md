@@ -41,7 +41,7 @@ Když je tato kritika vznesena, stojí za to zvážit, zda kritik nemá jiné mo
 Škálovatelnost, nebo blockchainové trilema, bylo poprvé nastoleno Vitalikem Buterinem v roce 2017. Říká, že v návrhu blockchainu je vždy nutné volit mezi vlastnostmi decentralizace, bezpečnosti a škálovatelnosti. Každý, kdo vznáší kritiku, že Bitcoin je příliš pomalý a že má rychlejší řešení v blockchainu první vrstvy, bude muset obětovat část bezpečnosti nebo decentralizace, aby toho dosáhl. Zatímco takový kompromis může dávat smysl u blockchainu navrženého pro jiné účely, pořadí priorit pro globální měnu musí být:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralizace**
 >   * Umožňuje odstranit důvěryhodné strany

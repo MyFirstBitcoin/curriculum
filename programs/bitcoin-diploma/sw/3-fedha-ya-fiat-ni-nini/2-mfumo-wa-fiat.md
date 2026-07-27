@@ -65,7 +65,7 @@ Hapa ndipo benki kuu inaingia kama mkopeshaji wa mwisho, ikitoa sarafu mpya ili 
 1. **Benki hulipa riba kutokana na riba inayopokelewa kwa ukopeshaji** (9% - 5% = 4%) na hubakiza iliyobaki kama faida
 
 
-> **Note – Jinsi Benki Zinavyounda Pesa**
+> **Light – Jinsi Benki Zinavyounda Pesa**
 >
 > Benki za kibiashara huunda pesa mpya za fiat zinapotoa mikopo.
 >
@@ -124,7 +124,7 @@ Makundi haya hunufaika kwa njia mbalimbali, na kuunda mtandao tata wa udhibiti n
 Mwisho wa siku, waendeshaji wa mfumo wa fiat wanaongoza onyesho ambapo wachache hunufaika sana kwa gharama ya wengi, ambao hubaki wakijiuliza watawezaje kuwafikia.
 
 
-> **Note – Nafasi ya Benki Kuu**
+> **Light – Nafasi ya Benki Kuu**
 >
 > Benki kuu huathiri kimya kimya jinsi uchumi unavyofanya kazi. Kazi yao rasmi ni kuhakikisha utulivu na uadilifu, lakini mbinu zao zinaonyesha upande wa kishetani zaidi.
 >
@@ -156,7 +156,7 @@ Benki kuu na serikali zinaweza kutumia sera za fedha na sera za bajeti kushawish
 * Ongeza Kodi
 
 
-> **Note – Kubwa Sana Kushindwa**
+> **Light – Kubwa Sana Kushindwa**
 >
 > "Too big to fail" inahusu taasisi za kifedha ambazo ni kubwa sana na zimeunganishwa kiasi kwamba kushindwa kwao kungesababisha madhara makubwa kwa mfumo mzima wa kifedha. Wakati wa mgogoro wa kifedha wa mwaka 2008, benki kadhaa kubwa zilionekana kuwa "too big to fail," na kusababisha serikali ya Marekani kuingilia kati na kutoa msaada wa kifedha ili kuzuia kuanguka kwao.
 >
@@ -169,7 +169,11 @@ Kujua jinsi sera hizi zinavyofanya kazi ni muhimu ili kuelewa mipaka ya mifumo y
 
 #### Shughuli: Benki ya Akiba ya Sehemu Ndogo
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Hii ni zoezi la darasani linalochunguza vitendo binafsi vya watu na benki kwa kutumia utaratibu wa benki ya akiba ya sehemu ndogo. Lengo ni kupata uzoefu wa moja kwa moja jinsi zana hii inavyoongeza kiasi cha fedha.
 

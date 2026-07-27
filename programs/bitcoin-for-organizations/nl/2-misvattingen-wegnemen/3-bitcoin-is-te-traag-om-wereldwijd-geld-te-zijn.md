@@ -41,7 +41,7 @@ Wanneer deze kritiek wordt geuit, is het de moeite waard om te overwegen of de c
 Het schaalbaarheids- of blockchaintrilemma werd voor het eerst benoemd door Vitalik Buterin in 2017. Het stelt dat er altijd een afweging is in blockchainontwerp tussen de eigenschappen Decentralisatie, Veiligheid en Schaalbaarheid. Iedereen die de kritiek uit dat Bitcoin te traag is en dat zij een snellere oplossing hebben in een layer 1-blockchain, zal wat veiligheid of decentralisatie opofferen om dat te bereiken. Hoewel zo'n afweging voor een blockchain die voor andere doeleinden is ontworpen logisch kan zijn, moet de volgorde van prioriteit voor wereldwijd geld zijn:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralisatie**
 >   * Maakt het mogelijk om vertrouwde partijen te verwijderen

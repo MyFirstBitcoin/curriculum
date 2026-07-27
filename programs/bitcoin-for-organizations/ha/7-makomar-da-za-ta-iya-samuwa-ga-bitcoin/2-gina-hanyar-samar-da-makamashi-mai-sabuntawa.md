@@ -5,7 +5,7 @@
 Bitcoin yana dogara da makamashi don tsarin tabbatar da aiki ('proof of work'), wanda ke taimakawa wajen tabbatar da cewa ya kasance kudi mai zaman kansa, ba tare da izini ba. Hanyar samar da wutar lantarki tana fuskantar kalubale wajen haɗa sabbin nau'ikan makamashi daga sabunta makamashi, wanda ke kawo matsala ga tsarin da ake da shi yanzu. Wannan babi zai gabatar da taƙaitaccen bayani game da waɗannan kalubale da kuma dubi ga muhimman fannoni na Bitcoin kafin a nuna yadda yake taimakawa wajen ci gaban tsarin sabunta makamashi.
 
 
-> **Info – Bitcoin a matsayin kudin makamashi**
+> **Dark – Bitcoin a matsayin kudin makamashi**
 >
 > A ranar 4 ga Disamba, 1921, jaridar New York Tribune ta wallafa wani labari da ke bayyana hangen nesa na Ford na maye gurbin zinariya da kudin makamashi wanda ya yi imani zai iya karya karfin manyan bankuna a kan dukiyar duniya kuma ya kawo ƙarshen yaƙe-yaƙe. Ya yi niyyar yin hakan ne ta hanyar gina "mafi girman tashar samar da wuta a duniya" da kuma ƙirƙirar sabon tsarin kudi bisa "rukunin makamashi."
 

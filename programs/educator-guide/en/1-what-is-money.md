@@ -1,4 +1,4 @@
-# 1 - What Is Money?
+# What Is Money?
 
 Duration: 90 minutes
 

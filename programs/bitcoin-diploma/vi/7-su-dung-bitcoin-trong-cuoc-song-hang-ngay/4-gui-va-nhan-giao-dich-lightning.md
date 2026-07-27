@@ -58,13 +58,21 @@ Giao dịch on-chain diễn ra trực tiếp trên blockchain của Bitcoin và 
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Đây là bản đồ của toàn bộ Lightning Network. Nhờ hàng ngàn người vận hành node Lightning, bạn có thể gửi sats cho bất kỳ ai có ví Bitcoin Lightning, dù họ ở đâu trên thế giới. Thanh toán sẽ đến trong vài giây và chỉ tốn vài nghìn đồng.**Tự mình kiểm tra nhé!**
 
 #### Hoạt động: Cuộc đua tiếp sức Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Đây là một bài tập thực hành, nơi học viên gửi và nhận sats thật bằng Lightning Network.**
 

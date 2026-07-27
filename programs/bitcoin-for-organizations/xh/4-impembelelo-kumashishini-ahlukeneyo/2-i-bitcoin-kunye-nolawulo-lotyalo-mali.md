@@ -166,7 +166,7 @@ Ukuguquguquka okuphezulu kwexabiso, okulinganiswa ngokuphambuka okuqhelekileyo k
 Eyona nto ibalulekileyo kukuba i-bitcoin yimpahla enexabiso eliguquguqukayo kakhulu. Oku kulindelekile kuba iseyintsha kwaye iseluhambeni olude lokufumanisa ixabiso layo kunye nokwamkelwa ngabantu. Abatyali-mali abangengcali banamava okusingatha olu guquguquko, kwaye, ngenxa yamathuba okuba nenzuzo enkulu, bayakwazi ukulawula oku ngokufanelekileyo. Bangakwazi ukumisela isabelo esifanelekileyo, ngokuhambelana nesicwangciso sabo sokutyala imali kunye nomngcipheko abakulungeleyo ukuwuthwala. Kwaye, ukuze kuncitshiswe uguquguquko lwexesha elifutshane, ukugcina i-bitcoin ubuncinane kwisithuba esinye, somjikelo wokwahlula kabini weminyaka emi-4, kunokuba lixesha elincinci elifanelekileyo lokuyigcina.
 
 
-> **Note – Ngaba iBitcoin yindlela yokuzikhusela kwiNtlupheko yeXabiso leMali?**
+> **Light – Ngaba iBitcoin yindlela yokuzikhusela kwiNtlupheko yeXabiso leMali?**
 >
 > Ngenxa yokuba i-bitcoin inenani eliqingqiweyo, abaxhasi bayo sele bexoxa ixesha elide ukuba isebenza njengesixhobo sokuzikhusela ekwehleni kwamandla okuthenga kwiimali ze-fiat. Kuyacaca ukuba, kwixesha elide kakhulu, i-bitcoin isebenze kakuhle kakhulu ekukhuseleni ukwehla kwamandla okuthenga kwiimali ze-fiat. Nangona kunjalo, abagxeki bakhomba kunyuko olukhulu kwinqanaba le-CPI minyaka le ukusukela ekuqaleni kuka-2021 ukuya kwinqanaba eliphezulu kwiminyaka engama-40 phakathi kuka-2022 kwaye babuza ukuba kutheni ixabiso le-bitcoin lingakhange lenyuke kakhulu ngeli xesha. Ngaba ke i-bitcoin ayiphumelelanga njengendlela yokuzikhusela kwi-ntlupeko ye-xabiso le-mali?
 >
@@ -216,7 +216,7 @@ Kodwa ke, abaninzi abachazi bezemali abakulindelanga ukuba le meko yenzeke kunge
 Kuthekani ukuba, njengokunyuka kwe-intanethi, asikwazi ukukhetha ukuphuma nje?
 
 
-> **Info – Isilumkiso**
+> **Dark – Isilumkiso**
 >
 > Qaphela ukuba impumelelo edlulileyo ayisiqinisekiso sempumelelo kwixesha elizayo. I-Bitcoin yimpahla enomngcipheko ophezulu. Abatyali-mali kufuneka bakhumbule ukuba ixabiso layo linokunyuka kakhulu okanye lehle kakhulu kwixesha elizayo, njengoko kubonisiwe kwimbali yayo.
 >

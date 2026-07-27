@@ -27,4 +27,4 @@
 ###### Манбаъҳо
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Видеои “How Bitcoin Works under the Hood”-ро тамошо кунед](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

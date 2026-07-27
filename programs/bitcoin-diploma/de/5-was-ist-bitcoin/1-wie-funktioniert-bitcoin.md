@@ -19,7 +19,7 @@ Im Wesentlichen funktioniert Bitcoin genauso. Bitcoin ist ein Netzwerk von Mensc
 Zum Beispiel lautet eine der Regeln von Bitcoin: „Es wird niemals mehr als 21 Millionen Bitcoin geben.“ Wenn jemand für sich selbst eine Million zusätzliche Bitcoin erschaffen würde, hätte er nichts davon, denn er würde automatisch von allen anderen erkannt und abgelehnt werden. Das macht Bitcoin so robust.
 
 
-> **Info**
+> **Dark**
 >
 > Es spielt keine Rolle, wer du bist oder woher du kommst: Wenn du in die Welt von Bitcoin eintrittst, musst du dich an das gleiche Regelwerk halten wie alle anderen.
 
@@ -84,7 +84,11 @@ Jeder Teilnehmer in diesem dezentralen Orchester spielt eine entscheidende Rolle
 
 #### Aktivität: Konsens
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Dies ist eine Gruppenübung, bei der die Teilnehmer aus erster Hand erfahren, wie schwierig es ist, Handlungen in einer Gruppe ohne klaren Anführer zu synchronisieren. Ziel ist es, dass die Teilnehmer verstehen, wie in Bitcoin Einigkeit (Konsens) erzielt wird.
 

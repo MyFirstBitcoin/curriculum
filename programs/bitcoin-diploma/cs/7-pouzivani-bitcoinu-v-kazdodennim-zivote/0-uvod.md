@@ -10,6 +10,6 @@ Bitcoin není výjimkou. Jak slavně řekl Andreas Antonopoulos: „Bitcoin je i
 Jednou z těchto vrstev je **Lightning Network**. Je to jako superrychlá dálnice pro Bitcoin, která pomáhá lidem posílat a přijímat bitcoin rychle a s velmi nízkými poplatky. Umožňuje uživatelům provádět okamžité, malé transakce nad běžnou Bitcoin sítí. Díky tomu je nákup kávy nebo platba kamarádovi jednoduchá a rychlá! Samozřejmě, jako u všeho, i zde existují určité kompromisy.
 
 
-> **Info**
+> **Dark**
 >
 > Satoshi je nejmenší jednotka bitcoinu. Stejně jako lze korunu rozdělit na haléře, jeden bitcoin lze rozdělit na menší jednotky zvané satoshi. Jeden bitcoin se rovná 100 milionům satoshi, což dělá ze satoshi nejmenší kousky hodnoty v systému Bitcoin. Když mluvíme o posílání bitcoinu přes Lightning Network, budeme tomu říkat „posílání sats“, což je zkráceně satoshi.

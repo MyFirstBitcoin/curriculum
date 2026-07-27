@@ -27,4 +27,4 @@ Saldo dompetmu hanyalah jumlah total dari semua UTXO yang kamu kendalikan.
 ###### Sumber daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Tonton “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

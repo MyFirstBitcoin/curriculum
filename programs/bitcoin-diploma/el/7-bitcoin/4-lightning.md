@@ -58,13 +58,21 @@
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Αυτός είναι ένας χάρτης ολόκληρου του Lightning Network. Χάρη σε χιλιάδες διαχειριστές κόμβων Lightning, μπορείτε να στείλετε sats σε οποιονδήποτε χρήστη με πορτοφόλι Bitcoin Lightning, όπου κι αν βρίσκεται στον κόσμο. Η πληρωμή θα φτάσει μέσα σε λίγα δευτερόλεπτα και θα κοστίσει μόνο λίγα λεπτά του ευρώ.**Δοκιμάστε το μόνοι σας!**
 
 #### Δραστηριότητα: Lightning Relay Race
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Αυτή είναι μια πρακτική άσκηση όπου οι μαθητές στέλνουν και λαμβάνουν πραγματικά sats χρησιμοποιώντας το Lightning Network.**
 

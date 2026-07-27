@@ -27,4 +27,4 @@ Your wallet balance is simply the total value of all the UTXOs you control.
 ###### Resources
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Watch “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

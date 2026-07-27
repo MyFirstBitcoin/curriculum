@@ -36,7 +36,7 @@ Ginagamit ang pag-eenkripto upang matiyak na tanging ang tunay na may hawak ng b
 Bilang karagdagang proteksyon, bawat transaksyon sa Bitcoin ay awtomatikong nagkakaroon ng NATATANGING digital na lagda. Ang natatanging digital na lagdang ito ay pinapagana ng teknolohiyang hindi maaaring pakialaman na tumutulong sa network na mapatunayan na ang tunay na may-ari ng bitcoin, at hindi iba, ang siyang nagpadala nito.
 
 
-> **Info**
+> **Dark**
 >
 > Bawat gumagamit ay may dalawang susi: isang **pribadong susi**, na **itinago bilang lihim**, at isang **pampublikong susi** na maaaring **ibahagi sa iba**. Ang **pribadong susi** ay nagsisilbing anyo ng pagkakakilanlan at patunay ng pagmamay-ari, na nagpapatunay: “Sa akin ang address na ito at ako ang may kontrol dito.”
 
@@ -128,6 +128,10 @@ Ang proseso ng pag-encode ng **public key** sa pamamagitan ng hashing ay ginagam
 
 #### Gawain: Gumawa ng SHA 256 Hash
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Nais mo bang malaman kung paano gumagana ang hashing? I-scan ang QR code para agad makagawa ng SHA256 hash mula sa kahit anong salita, pangungusap, o input na gusto mo. Ang hash functions ay parang digital na fingerprint: one-way ito, ibig sabihin kapag na-hash na, hindi na ito mababalik. Subukan mo at tingnan mo mismo!

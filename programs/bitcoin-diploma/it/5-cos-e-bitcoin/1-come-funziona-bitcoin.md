@@ -19,7 +19,7 @@ Questo è essenzialmente il modo in cui funziona Bitcoin. Bitcoin è una rete di
 Ad esempio, una delle regole di Bitcoin è "Non ci saranno mai più di 21 milioni di bitcoin." Se qualcuno provasse a creare un milione di bitcoin extra per sé, non gli servirebbe a nulla, perché verrebbe automaticamente identificato e respinto da tutti gli altri. Questo è ciò che rende Bitcoin così robusto.
 
 
-> **Info**
+> **Dark**
 >
 > Non importa chi sei o da dove vieni: se entri nel mondo di Bitcoin, devi giocare secondo lo stesso insieme di regole di tutti gli altri.
 
@@ -84,7 +84,11 @@ Ogni partecipante in questa orchestra decentralizzata svolge un ruolo vitale nel
 
 #### Attività: Consenso
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Questa è un'attività di gruppo in cui i partecipanti imparano in prima persona quanto sia difficile sincronizzare le azioni in un gruppo senza un leader definito. L'obiettivo è che i partecipanti comprendano come si raggiunge l'accordo (consenso) in Bitcoin.
 

@@ -41,7 +41,7 @@ Apabila kritikan ini dibangkitkan, adalah wajar untuk mempertimbangkan sama ada 
 Skalabiliti, atau Trilemma Blockchain, pertama kali dibangkitkan oleh Vitalik Buterin pada tahun 2017. Ia mengatakan bahawa sentiasa ada pertukaran dalam reka bentuk blockchain antara sifat Desentralisasi, Keselamatan dan Skalabiliti. Sesiapa yang membangkitkan kritikan bahawa Bitcoin terlalu perlahan dan mereka mempunyai penyelesaian yang lebih pantas dalam blockchain lapisan 1 akan mengorbankan sebahagian keselamatan atau desentralisasi untuk mencapainya. Walaupun pertukaran seperti itu untuk blockchain yang direka untuk kegunaan lain mungkin masuk akal, keutamaan utama untuk wang global mestilah:
 
 
-> **Note**
+> **Light**
 >
 > * **Desentralisasi**
 >   * Membolehkan penghapusan pihak yang dipercayai

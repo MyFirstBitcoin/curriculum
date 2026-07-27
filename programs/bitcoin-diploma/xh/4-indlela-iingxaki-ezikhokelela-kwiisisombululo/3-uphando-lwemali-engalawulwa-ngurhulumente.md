@@ -49,7 +49,7 @@ Kwinkqubo eziko, yonke into ijikeleza igunya elinye eliphambili, njengesi sakhiw
 * **Ukungabikho kokucaca kunye nokuthembeka**: Indlela iinkqubo eziziko ezisebenza ngayo inzima ukuyiqonda, nto leyo eyenza kube nzima ukuba abantu bazithembe.
 
 
-> **Note**
+> **Light**
 >
 > Ngo-2022, ngexesha leemibhikisho ezixolileyo eKhanada, iibhanki zavala ii-akhawunti zababhikishi, zibonisa indlela igunya eliphambili elinokulawula ngayo ukufikelela kwemali.
 
@@ -73,7 +73,7 @@ Nangona iinkqubo ezisasazekileyo zineenzuzo ezininzi, ukwenza izigqibo kunye kun
 Kwihlabathi leenkqubo ezigxile embindini kunye nezo zisasazekileyo, konke kuxhomekeke ekubeni ngubani ophethe amandla. Iinkqubo ezigxile embindini zinika amandla kwiqela elincinci, ngelixa ezisasazekileyo zisasaza amandla, zivumela wonke umntu ukuba abe nelizwi. Olu tshintsho lwamandla luthetha ikamva elilingana ngakumbi, apho abantu abaninzi benefuthe kwinkqubo echaza ubomi babo.
 
 
-> **Note**
+> **Light**
 >
 > INethiwekhi yeTor yenza inkqubo esasazekileyo apho abantu banokuhlala bengaziwa kwi-intanethi kwaye kunzima ukuyimisa okanye ukuyicinezela.
 
@@ -91,4 +91,4 @@ Ezi mizamo zanceda ukubonisa into eyayilahlekile. Kamva, umntu othile wasebenzis
 ###### Izixhobo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Jonga le vidiyo kwaye ufumane ibali lamaCypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

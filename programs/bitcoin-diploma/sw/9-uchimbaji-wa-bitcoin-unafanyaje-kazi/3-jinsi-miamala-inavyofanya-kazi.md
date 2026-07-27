@@ -15,7 +15,7 @@ Sasa kwa kuwa umeelewa funguo za umma na za siri, pamoja na majukumu ya nodi na 
 Mara tu muamala umejumuishwa kwenye bloku, umethibitishwa. Adam hawezi kutumia tena bitcoin hiyo, na Juma anaweza kutumia alichopokea kwenye muamala mpya.
 
 
-> **Note**
+> **Light**
 >
 > Muamala na ada huchaguliwa → Inasainiwa na pochi na kutumwa → Inasambazwa na nodi → Mchimbaji anaongeza muamala kwenye kiolezo cha bloku → Mchimbaji anashinda shindano la Proof-of-Work → Bloku mpya inathibitishwa → Bloku mpya inasambazwa na nodi
 
@@ -23,4 +23,4 @@ Mara tu muamala umejumuishwa kwenye bloku, umethibitishwa. Adam hawezi kutumia t
 ###### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Tazama video hii kuhusu Nodi za Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

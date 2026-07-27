@@ -41,4 +41,4 @@ Jika kamu siap untuk melangkah ke tahap berikutnya, lihat sumber daya tambahan d
 ###### Sumber Daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Kemungkinan untuk perubahan positif sangat besar, itulah sebabnya kami mengundangmu untuk menonton video ini agar belajar lebih banyak.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

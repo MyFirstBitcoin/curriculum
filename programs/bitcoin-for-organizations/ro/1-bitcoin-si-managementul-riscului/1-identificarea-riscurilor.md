@@ -39,7 +39,7 @@ Apoi încearcă să lucrezi invers, de la punctul final, pentru a analiza cum s-
 
 
 
-> **Info – Exemple**
+> **Dark – Exemple**
 >
 > * Risc ca bitcoin să devină principalul activ de rezervă global pentru trezorerii
 > * Risc ca rețeaua Bitcoin să devină stratul de decontare pentru comerțul bazat pe internet

@@ -15,7 +15,7 @@ Nyní, když rozumíte veřejným a soukromým klíčům, stejně jako rolím uz
 Jakmile je transakce zahrnuta do bloku, je potvrzena. Adam už nemůže tento bitcoin znovu utratit a Jakub může to, co obdržel, použít v nové transakci.
 
 
-> **Note**
+> **Light**
 >
 > Transakce a poplatek vybrány → Podepsáno peněženkou a odesláno → Distribuováno uzly → Těžař přidá transakci do šablony bloku → Těžař vyhraje soutěž Proof-of-Work → Nový blok je ověřen → Nový blok je distribuován uzly
 
@@ -23,4 +23,4 @@ Jakmile je transakce zahrnuta do bloku, je potvrzena. Adam už nemůže tento bi
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Podívejte se na toto video o bitcoinových uzlech](https://www.youtube.com/watch?v=xc_TxlByxeY)

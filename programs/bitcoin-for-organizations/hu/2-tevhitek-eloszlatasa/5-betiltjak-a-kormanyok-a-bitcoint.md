@@ -78,7 +78,7 @@ A támadó további problémája az, hogy hogyan tudná fenntartani az irányít
 Valószínű, hogy amint nyilvánvalóvá válik, hogy a hálózat támadás alatt áll, a Bitcoin fejlesztők „hard-forkolnák” a Bitcoin szoftvert, így a főkönyv „elágazna” attól a ponttól, ahol a támadó hamis bejegyzéseket generált. A node-ok többsége ezután az új szoftververziót használná, és a támadó erőfeszítéseit figyelmen kívül hagynák.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Andreas Antonopoulos egy könnyedebb leírása az államilag támogatott 51%-os támadás lehetőségéről.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Betiltható-e a Bitcoin önálló letétkezelése és a peer-to-peer tranzakciók?
@@ -106,7 +106,7 @@ Arra is számíthatunk, hogy néhány ország rossz és működésképtelen Bitc
 Az Egyesült Királyság 19. század végi Red Flag törvénye jó példa egy túlzottan szigorú törvényre, amelyet később visszavontak.
 
 
-> **Note**
+> **Light**
 >
 > A 19. század közepére a postakocsi- és különösen a mozdonyipar szembesült az autóipar fenyegető, felforgató potenciáljával. Féltek attól, hogy az autó kiszorítja őket.**Ezért keményen dolgoztak azon, hogy meggyőzzék a kormányt szigorú törvények bevezetéséről, lényegében megpróbálva visszafogni ennek az új technológiának a fejlődését.**
 >
@@ -144,7 +144,7 @@ Természetesen abszurd lenne a Bitcoint okolni egy fiat valuta-válságért. His
 Fontos azt is megjegyezni, hogy a Bitcoin erősebbé válik, ha támadják. Ennek oka, hogy ezek a támadások eloszlatják azokat a tévhiteket, amelyeket a kétkedők terjesztenek a Bitcoin törékenységéről és sebezhetőségéről. Tehát nemcsak arra kell számítanunk, hogy a kormányok túlszabályozzák a Bitcoint, hanem üdvözölnünk is kell ezt.
 
 
-> **Note**
+> **Light**
 >
 > **A kormányok valószínűleg úgy tanulnak majd a Bitcoin antifragilitásáról, hogy megpróbálják megbénítani, és megtapasztalják, mi történik, amikor megtámadják a hálózatot.** Valószínűleg azt fogják látni, hogy a Bitcoin esetében – jobban, mint a történelem bármely más eszközosztályánál – a tőke oda áramlik, ahol a legjobban bánnak vele. Ezért ahogy a Bitcoin hálózat növekszik, egyre nyilvánvalóbbá válik majd, hogy azok az országok, amelyek elfogadják, nem pedig harcolnak ellene, nagyobb eséllyel kerülnek ki győztesen.
 

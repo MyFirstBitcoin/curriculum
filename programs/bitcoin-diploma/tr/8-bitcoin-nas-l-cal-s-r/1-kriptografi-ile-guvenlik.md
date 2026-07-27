@@ -36,7 +36,7 @@ Bitcoin işlemleri, bitcoin sahipliğinin bir adresten başka bir adrese aktarı
 Ek bir koruma önlemi olarak, her Bitcoin işlemi otomatik olarak BENZERSİZ bir dijital imza alır. Bu benzersiz dijital imza, ağın bitcoin’in gerçek sahibi tarafından gönderildiğini doğrulamasına yardımcı olan, kurcalamaya karşı dayanıklı bir teknolojiyle desteklenir.
 
 
-> **Info**
+> **Dark**
 >
 > Her kullanıcının iki anahtarı vardır: bir **özel anahtar**, bu **gizli tutulur**, ve bir **açık anahtar** ki bu **başkalarıyla paylaşılabilir**. **Özel anahtar** bir kimlik ve sahiplik kanıtı olarak hizmet eder, şu mesajı doğrular: “Bu adres bana ait ve üzerinde kontrolüm var.”
 
@@ -128,6 +128,10 @@ Bir müzik performansındaki küçük bir sapma bile melodinin farklı duyulmas�
 
 #### Etkinlik: SHA 256 Hash Oluştur
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Hashlemenin nasıl çalıştığını merak ediyor musunuz? Herhangi bir kelime, cümle veya seçtiğiniz bir girdiden anında SHA256 hash oluşturmak için QR kodunu tarayın. Hash fonksiyonları dijital parmak izleri gibidir: tek yönlüdürler, yani bir şey hash'lenince geri çevrilemez. Deneyin ve kendiniz görün!

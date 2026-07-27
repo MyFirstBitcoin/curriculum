@@ -1,40 +1,5 @@
 # 6.2 Satoshi, Where Are You?
 
-**Activity type** Creative Writing – Collaborative Learning – Dramatic Arts
-
-**Duration** 60 minutes
-
-**Grouping** Individual / Small Groups
-
-##### **Description**
-
-In this lesson, students construct a story using four independent ideas written on sticky notes. They begin by recalling the earlier story in which Satoshi disappeared and speculate about where he might have gone. Students then generate four ideas from guided prompts and organize them into a beginning, middle, and end structure. Through structured sharing and a sticky note swap, they revise their narratives to include new constraints. The lesson concludes with either a written or illustrated final draft, or a short dramatic role play using a class-generated story arc.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Sequence ideas into beginning, middle, and end
-* Construct a logical narrative from independent elements
-* Adapt a story when new constraints are introduced
-* Participate in structured peer storytelling
-* Collaborate in a short dramatic performance
-
-##### **Materials**
-
-* Sticky notes (4 per student)
-* Markers or pencils
-* Handout with three columns: Beginning / Middle / End (_See Appendix A_)
-* Whiteboard
-* Timer
-* **Nice-to-have:** Colored sticky notes, TImer
-
-##### **Equipment**
-
-* Whiteboard
-* Markers
-* **Nice-to-have**: Bell or signal for transitions
-
 #### **PROCEDURE**
 
 ##### **OPENING**

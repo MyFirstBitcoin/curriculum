@@ -1,4 +1,4 @@
-# 9 - How Does Bitcoin Mining Works
+# How Does Bitcoin Mining Works
 
 Duration: 90 minutes
 

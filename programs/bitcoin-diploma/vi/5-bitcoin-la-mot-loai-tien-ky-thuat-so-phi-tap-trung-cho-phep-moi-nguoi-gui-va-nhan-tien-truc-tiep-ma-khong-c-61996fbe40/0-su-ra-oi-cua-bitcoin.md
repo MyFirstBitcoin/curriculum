@@ -8,7 +8,11 @@ _Tiền sử của Bitcoin - Kết quả của 40 năm nghiên cứu, phát tri�
 
 Như chúng ta đã thấy ở mô-đun trước, một số Cypherpunk đã cố gắng tạo ra một hình thức tiền tệ thay thế. Mô-đun này tiếp tục câu chuyện về một trong số họ: một người có tầm nhìn xa được biết đến với cái tên “Satoshi Nakamoto”. Nhân vật ẩn danh này (có thể là cá nhân hoặc nhóm), từ lâu trước khi có Bitcoin, đã tham gia vào các cuộc thảo luận trực tuyến về mật mã học và khoa học máy tính để tìm ra những cách thực tế nhằm thay thế hệ thống tiền pháp định.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Vào tháng 10 năm 2008, Nakamoto đã công bố một bản báo cáo đột phá có tựa đề “Bitcoin: A Peer-to-Peer Electronic Cash System” trên một danh sách thư điện tử về mật mã học. Tài liệu này đặt nền móng cho một giao thức ngang hàng phi tập trung, được thiết kế để tạo điều kiện cho các giao dịch trực tuyến an toàn mà không cần trung gian. Tầm nhìn của Nakamoto rất rõ ràng: tạo ra một phiên bản tiền điện tử ngang hàng thực sự, không bị kiểm soát bởi các chính phủ quyền lực và các tổ chức tài chính.
 

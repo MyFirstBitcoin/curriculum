@@ -58,13 +58,21 @@ Le transazioni on-chain avvengono direttamente sulla blockchain di Bitcoin e pos
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Questa è una mappa dell’intera Lightning Network. Grazie a migliaia di gestori di nodi Lightning, puoi inviare sats a qualsiasi utente con un wallet Bitcoin Lightning, ovunque si trovi nel mondo. Il pagamento arriverà in pochi secondi e costerà solo pochi centesimi.**Provalo tu stesso!**
 
 #### Attività: Staffetta Lightning
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Questo è un esercizio pratico in cui gli studenti inviano e ricevono veri sats utilizzando la Lightning Network.**
 

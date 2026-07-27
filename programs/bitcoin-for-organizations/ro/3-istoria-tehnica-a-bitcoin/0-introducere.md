@@ -1,6 +1,6 @@
 # 3.0 Introducere
 
-> **Info – Rezumatul White Paper-ului Bitcoin**
+> **Dark – Rezumatul White Paper-ului Bitcoin**
 >
 > **O versiune pur peer-to-peer a banilor electronici** ar permite trimiterea plăților online direct de la o parte la alta fără a trece printr-o instituție financiară. **Semnăturile digitale oferă o parte din soluție**, dar principalele beneficii se pierd dacă **o terță parte de încredere** este încă necesară pentru a preveni dubla cheltuire. Propunem o soluție la problema dublei cheltuiri folosind o **rețea peer-to-peer**. **Rețeaua marchează temporal tranzacțiile** prin hash-uirea lor într-un lanț continuu de **dovadă de lucru bazată pe hash,** formând o înregistrare care nu poate fi schimbată fără a reface **dovada de lucru**. Cel mai lung lanț servește nu doar ca dovadă a secvenței evenimentelor observate, ci și ca dovadă că provine din cel mai mare grup de putere de procesare CPU. Atâta timp cât majoritatea puterii de procesare CPU este controlată de noduri care nu cooperează pentru a ataca rețeaua, acestea vor genera cel mai lung lanț și îi vor depăși pe atacatori. **Rețeaua în sine necesită o structură minimă. Mesajele sunt transmise pe principiul celui mai bun efort, iar nodurile pot părăsi și reintra în rețea oricând doresc**, acceptând cel mai lung lanț de dovadă de lucru ca dovadă a ceea ce s-a întâmplat în timp ce au lipsit.
 

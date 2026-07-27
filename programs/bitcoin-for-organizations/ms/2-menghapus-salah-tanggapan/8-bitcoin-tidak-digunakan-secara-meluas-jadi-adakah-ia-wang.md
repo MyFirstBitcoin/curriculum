@@ -69,7 +69,7 @@ Sejak penubuhannya pada 2009, bitcoin berada dalam keadaan ‘penemuan harga’ 
 Dengan menganalisis lejar bitcoin, dapat ditunjukkan bahawa lebih 70% daripada keseluruhan bekalan bitcoin dipegang oleh [pemegang jangka panjang](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Oleh itu, nampaknya majoriti pemegang berpuas hati untuk duduk diam dan tidak menjual atau membelanjakan bitcoin mereka. Memandangkan peningkatan mendadak dalam kuasa beli bitcoin sejak pelancarannya, adalah munasabah untuk mengandaikan bahawa majoriti pemegang menjangka bitcoin akan menjadi lebih bernilai dan ini mempengaruhi keputusan mereka untuk terus memegang dan tidak membelanjakan.
 
 
-> **Info – Hari Pizza Bitcoin**
+> **Dark – Hari Pizza Bitcoin**
 >
 > Setiap tahun pada 22 Mei, komuniti Bitcoin meraikan dan mengiktiraf pengaturcara dari Florida, Laszlo Hanyecz, yang menjadi orang pertama yang dilaporkan menggunakan bitcoin untuk membeli barangan fizikal. Pada 18 Mei 2010, Hanyecz mengumumkan di forum Bitcointalk.org bahawa dia sedang mencari pizza dan sanggup membayar dengan bitcoin. Dia menawarkan 10,000 bitcoin kepada sesiapa yang sanggup melakukan transaksi itu. Dia menunggu selama beberapa hari, sehingga pelajar berumur 19 tahun, Ahmad, bersetuju dan menghantar dua pizza besar. Laszlo menghantar 10,000 bitcoin kepada Ahmad seperti yang dijanjikan yang, pada masa penulisan, bernilai lebih daripada RM3 bilion.
 >

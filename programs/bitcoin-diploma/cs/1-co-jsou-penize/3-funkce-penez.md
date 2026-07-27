@@ -30,7 +30,7 @@ Pokud byste si chtěli koupit nové auto, mohli byste porovnat ceny u různých 
 Tyto tři funkce umožňují ekonomikám stát se složitými a dynamickými. Bez peněz by bylo mnohem těžší nakupovat a prodávat zboží a služby a naše ekonomika by byla mnohem méně rozvinutá.
 
 
-> **Info**
+> **Dark**
 >
 > Lidé chápou hodnotu něčeho, když má cenu vyjádřenou v penězích.
 

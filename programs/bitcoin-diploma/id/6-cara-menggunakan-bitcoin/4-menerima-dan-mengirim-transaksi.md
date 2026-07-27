@@ -19,7 +19,7 @@ Misalkan Joko berutang 0,5 BTC kepada Eliana dan siap membayarnya kembali. Kedua
 _Penting untuk dicatat bahwa setelah transaksi selesai, transaksi tersebut tidak dapat dibatalkan._
 
 
-> **Note – Bagaimana Cara Kerja Transaksi Bitcoin**
+> **Light – Bagaimana Cara Kerja Transaksi Bitcoin**
 >
 > 1. Seseorang meminta transaksi
 > 1. Transaksi disiarkan ke komputer P2P (node-node)
@@ -30,7 +30,7 @@ _Penting untuk dicatat bahwa setelah transaksi selesai, transaksi tersebut tidak
 
 
 
-> **Note – Menerima Transaksi Bitcoin**
+> **Light – Menerima Transaksi Bitcoin**
 >
 > Untuk menerima bitcoin, Anda perlu memberikan alamat publik Bitcoin kepada pengirim. Ini adalah rangkaian unik huruf dan angka yang mewakili dompet Anda dan digunakan untuk mengidentifikasinya di jaringan Bitcoin.
 >
@@ -48,7 +48,7 @@ Setelah pengirim memiliki alamat Anda, mereka dapat mengirimkan bitcoin kepada A
 Transaksi dikonfirmasi oleh Jaringan Bitcoin dan biasanya memakan waktu sekitar 10 menit. Untuk keamanan lebih, disarankan menunggu dua konfirmasi, yang memakan waktu sekitar 20 menit.
 
 
-> **Note – Mengirim Transaksi Bitcoin**
+> **Light – Mengirim Transaksi Bitcoin**
 >
 > Untuk mengirim bitcoin, Anda memerlukan beberapa hal: dompet Bitcoin, alamat publik penerima, dan jumlah bitcoin yang ingin Anda kirim.
 >
@@ -68,7 +68,11 @@ Transaksi dikonfirmasi oleh Jaringan Bitcoin dan biasanya memakan waktu sekitar 
 
 #### Aktivitas: Transaksi dalam Aksi
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Ini adalah latihan kerja sama yang menyederhanakan peran dasar orang-orang yang terlibat dalam transaksi Bitcoin.**
 

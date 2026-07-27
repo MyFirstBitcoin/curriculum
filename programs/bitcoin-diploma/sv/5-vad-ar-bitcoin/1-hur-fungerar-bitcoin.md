@@ -19,7 +19,7 @@ Det är i princip så Bitcoin fungerar. Bitcoin är ett nätverk av människor s
 Till exempel är en av Bitcoins regler "Det kommer aldrig att finnas mer än 21 miljoner bitcoin." Om någon försökte skapa en miljon extra bitcoin till sig själv, skulle det inte vara till någon nytta, eftersom de automatiskt skulle bli identifierade och avvisade av alla andra. Det är detta som gör Bitcoin så robust.
 
 
-> **Info**
+> **Dark**
 >
 > Det spelar ingen roll vem du är eller var du kommer ifrån: om du går in i Bitcoin-världen måste du spela efter samma regler som alla andra.
 
@@ -84,7 +84,11 @@ Varje deltagare i denna decentraliserade orkester spelar en avgörande roll i at
 
 #### Aktivitet: Konsensus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Detta är en gruppövning där deltagarna får uppleva hur svårt det är att synkronisera handlingar i en grupp utan en tydlig ledare. Syftet är att deltagarna ska förstå hur överenskommelse (konsensus) uppnås i Bitcoin.
 

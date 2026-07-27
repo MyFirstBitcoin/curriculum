@@ -1,34 +1,5 @@
 # 4.3 Cypherpunks Write Code
 
-**Activity type** Craft - Individual decoding activity - Guided practice
-
-**Duration** 45-60 minutes
-
-**Grouping** Individual work with whole class demonstration
-
-##### **Description**
-
-Students are introduced to the idea of codes as a way to hide and protect information. Through a hands-on craft, learners build a simple cipher wheel and use it to encode and decode Bitcoin-related vocabulary. The activity combines fine motor skills, logical thinking, and early cryptographic concepts while reinforcing new terminology in a playful and concrete way.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Understand the meaning of encode and decode; recognize that changing a code changes the output; use a cipher wheel to encode and decode simple words; correctly decode and encode selected Bitcoin vocabulary.
-
-##### **Materials**
-
-* Printed cipher wheel templates with inner and outer alphabet rings (_See Appendix A_)
-* Printed worksheet with encoded Bitcoin vocabulary (_See Appendix B_)
-* Pencils, crayons, or markers
-* **Nice-to-have:** Pre-made cipher wheel for demo, Brads or split pins for fastening wheels, Extra practice worksheets
-
-##### **Equipment**
-
-* Scissors
-* Whiteboard or poster board
-* **Nice-to-have**: Projector demonstration, Left-handed scissors
-
 #### **PROCEDURE**
 
 ##### **OPENING**

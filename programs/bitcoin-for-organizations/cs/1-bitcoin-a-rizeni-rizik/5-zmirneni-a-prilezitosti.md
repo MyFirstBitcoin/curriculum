@@ -17,7 +17,7 @@ Vyhněte se přílišné rozhodnosti. Můžete se připravit na vzájemně se vy
 V této části zdůrazňujeme některé obecné skupiny opatření, které vám pomohou převést analýzu do praxe. Tento seznam není vyčerpávající, ale má vám pomoci začít.
 
 
-> **Note – Strategie P&L**
+> **Light – Strategie P&L**
 >
 > * Chraňte stávající příjmy a podíl na trhu
 >   * Snižte expozici vůči trhům, které jsou negativně ovlivněny
@@ -33,7 +33,7 @@ V této části zdůrazňujeme některé obecné skupiny opatření, které vám
 
 
 
-> **Note – Strategie rozvahy**
+> **Light – Strategie rozvahy**
 >
 > * Zvyšujte hodnotu své rozvahy
 >   * Snižte expozici vůči aktivům, která nedosahují nákladů kapitálu, aniž byste snížili kapitálovou odolnost

@@ -72,4 +72,4 @@ Unsere Bereitschaft, auf eine größere Belohnung in der Zukunft zugunsten einer
 ###### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Schauen Sie sich dieses kurze Video an!](https://www.youtube.com/watch?v=InwVM6s7WoY)

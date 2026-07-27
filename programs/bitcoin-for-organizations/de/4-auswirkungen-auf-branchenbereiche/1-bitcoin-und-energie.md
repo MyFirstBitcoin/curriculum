@@ -128,7 +128,7 @@ Bitcoin-Mining bietet einen starken wirtschaftlichen Anreiz für die Entwicklung
 
 
 
-> **Info – Die Beseitigung des Abfackelns?**
+> **Dark – Die Beseitigung des Abfackelns?**
 >
 > Die Nutzung von Abfallenergie, wie abgefackeltem Erdgas, spart nicht nur Kosten, sondern mildert auch Umweltkritik. Abfackeln tritt auf, wenn überschüssiges Erdgas (Methan) an Ölbohrstellen verbrannt wird, weil keine Infrastruktur vorhanden ist, um es aufzufangen und zu verkaufen. Laut einigen Studien5 speichert Methan etwa 120-mal so viel Wärme wie CO2, weshalb es verbrannt werden muss, um es effektiv in CO2 umzuwandeln. Allerdings ist das Abfackeln nicht zu 100 % effektiv und lässt dennoch Methan in die Atmosphäre entweichen. Bitcoin-Miner können diese Energie nutzen, um ihre Anlagen zu betreiben, wodurch die Treibhausgasemissionen durch das Abfackeln reduziert werden. Das Erdgas wird in Generatoren verbrannt, um Strom zu erzeugen, der mobile Mining-Rigs direkt am Bohrloch betreibt.
 >
@@ -178,7 +178,7 @@ Mit der Reifung der Branche fördert eine stärkere Zusammenarbeit mit Anbietern
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin verschwendet keine Energie. Es nutzt verschwendete Energie.**
 >

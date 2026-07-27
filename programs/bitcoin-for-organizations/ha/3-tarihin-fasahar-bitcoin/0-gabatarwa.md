@@ -1,6 +1,6 @@
 # 3.0 Gabatarwa
 
-> **Info – Takaitaccen Bayanin Farar Takardar Bitcoin**
+> **Dark – Takaitaccen Bayanin Farar Takardar Bitcoin**
 >
 > **Wani tsantsa tsarin kudi na lantarki tsakanin mutane kai tsaye** zai ba da damar aika biyan kudi ta yanar gizo kai tsaye daga mutum guda zuwa wani ba tare da wucewa ta cibiyar hada-hadar kudi ba. **Sa hannun dijital yana samar da wani bangare na mafita**, amma manyan fa'idodi suna bata idan **wani amintaccen bangare na uku** har yanzu ana bukatarsa don hana kashe kudi sau biyu. Mun gabatar da mafita ga matsalar kashe kudi sau biyu ta amfani da **cibiyar sadarwa tsakanin mutane kai tsaye**. **Cibiyar sadarwa tana sanya lokaci a kan mu'amaloli** ta hanyar hada su cikin wani sarkar ci gaba na **shaida ta aiki mai amfani da hash,** wanda ke samar da tarihin da ba za a iya canzawa ba sai an sake yin **shaida ta aiki**. Mafi tsawon sarkar ba wai kawai tana zama shaida na jerin abubuwan da aka gani ba, har ma da shaida cewa ta fito daga mafi girman tarin karfin kwamfuta. Mudai mafi yawan karfin kwamfuta yana hannun nodes da ba sa hada kai don kai hari ga cibiyar sadarwa, za su samar da mafi tsawon sarkar kuma su fi masu hari sauri.**Cibiyar sadarwa kanta tana bukatar karamin tsari. Saƙonni ana watsa su bisa kokari mafi kyau, kuma nodes na iya barin cibiyar sadarwa ko dawowa yadda suke so**, suna karɓar mafi tsawon sarkar shaida ta aiki a matsayin shaida na abin da ya faru yayin da ba su nan.
 

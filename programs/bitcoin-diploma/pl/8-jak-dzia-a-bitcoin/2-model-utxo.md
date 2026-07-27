@@ -27,4 +27,4 @@ Saldo Twojego portfela to po prostu łączna wartość wszystkich UTXO, które k
 ###### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Obejrzyj „How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

@@ -15,7 +15,7 @@ Agora que você entende as chaves públicas e privadas, assim como os papéis do
 Uma vez incluída em um bloco, a transação está confirmada. André não pode gastar aquele bitcoin novamente, e Gustavo pode gastar o que recebeu em uma nova transação.
 
 
-> **Note**
+> **Light**
 >
 > Transação e taxa selecionadas → Assinada pela carteira e enviada → Distribuída pelos nós → Minerador adiciona a transação ao bloco modelo → Minerador vence a prova de trabalho → Novo bloco é validado → Novo bloco é distribuído pelos nós
 
@@ -23,4 +23,4 @@ Uma vez incluída em um bloco, a transação está confirmada. André não pode 
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Assista a este vídeo sobre Nós do Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

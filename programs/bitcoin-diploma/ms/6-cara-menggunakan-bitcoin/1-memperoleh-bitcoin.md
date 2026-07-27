@@ -24,7 +24,7 @@ Masuk ke platform rakan-ke-rakan, di mana pembeli dan penjual Bitcoin bertemu di
 Di platform sebegini, anda tidak perlu mempercayai sesiapa dengan maklumat atau wang anda; anda berhubung dengan rakan lain dan berdagang secara langsung dengan mereka.
 
 
-> **Note**
+> **Light**
 >
 > Di kebanyakan platform rakan-ke-rakan, rakan dagang perlu meletakkan sebahagian dana dalam escrow untuk memastikan setiap pihak mematuhi bahagian perjanjian mereka. Escrow bermaksud meletakkan wang di tempat yang selamat di bawah kawalan platform sehingga kedua-dua pihak menunaikan janji mereka. Ia seperti seorang kawan dipercayai memegang barang anda sehingga semua orang berpuas hati dengan perjanjian itu.
 

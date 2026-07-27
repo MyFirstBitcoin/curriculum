@@ -161,7 +161,11 @@ There is likely to be a more diverse set of payments providers, including some c
 
 Bitcoin and stable coin solutions offer a significant reduction in the frictions and costs linked with foreign payments and international remittances. This may represent a significant threat to earnings for banks and payment service providers.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 The size of foreign exchange markets has risen from essentially zero since the outbreak of World War II to $7.5trn per day at the end of 2022, with almost all that growth occurring since the end of the Bretton Woods exchange system in 1971. Banks and payment service providers derive significant earnings from providing services in these markets.
 

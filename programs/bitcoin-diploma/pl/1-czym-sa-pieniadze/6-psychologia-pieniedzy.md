@@ -72,4 +72,4 @@ Nasza gotowość do rezygnacji z większej nagrody w przyszłości na rzecz mnie
 ###### Zasoby
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Obejrzyj ten krótki film!](https://www.youtube.com/watch?v=InwVM6s7WoY)

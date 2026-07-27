@@ -15,7 +15,7 @@ Bây giờ bạn đã hiểu về khóa công khai và khóa riêng, cũng như 
 Khi đã được đưa vào một khối, giao dịch được xác nhận. An không thể tiêu số bitcoin đó nữa, và Hùng có thể sử dụng số bitcoin nhận được trong một giao dịch mới.
 
 
-> **Note**
+> **Light**
 >
 > Chọn giao dịch & phí → Ví ký và gửi → Các node phân phối → Thợ đào thêm giao dịch vào mẫu khối → Thợ đào thắng cuộc thi Bằng chứng Công việc → Khối mới được xác thực → Khối mới được các node phân phối
 
@@ -23,4 +23,4 @@ Khi đã được đưa vào một khối, giao dịch được xác nhận. An 
 ###### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Xem video này về các Node Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

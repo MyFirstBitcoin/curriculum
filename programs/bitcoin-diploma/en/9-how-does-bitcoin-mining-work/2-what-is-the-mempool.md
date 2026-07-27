@@ -12,7 +12,11 @@ Once a transaction is included in a block, it becomes confirmed and is permanent
 
 #### Activity: Exploring the Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **This activity exposes students to a free and open-source tool that does not require technical skills to use. It is useful for Bitcoiners at all levels, from beginner to experienced.**
 

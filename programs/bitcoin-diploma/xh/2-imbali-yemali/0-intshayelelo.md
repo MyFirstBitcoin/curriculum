@@ -11,7 +11,11 @@ Kule modyuli, siza kuqalisa uhambo lwexesha, sifunde ngokutshintsha kwemali ngok
 
 #### Umsebenzi: Umdlalo Wokutshintshiselana Ngezinto
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Lo ngumsebenzi weklasi oza kukunceda uqonde ngcono ingcamango zokutshintshiselana ngezinto. Ukuthatha inxaxheba kuya kukunceda ubone indlela imali evela ngayo ngokwendalo kwiimarike ezikhululekileyo.
 

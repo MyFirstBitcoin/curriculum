@@ -1,67 +1,67 @@
 # FAQ
 
-#### 1. Qu'est-ce que Bitcoin pour les Juniors ?
+#### 1. Qu'est-ce que « Bitcoin pour les jeunes » ?
 
-Bitcoin pour les Juniors est un programme fondamental destiné aux enfants de 8 à 12 ans. Il introduit les idées essentielles nécessaires pour comprendre Bitcoin, sans exiger que les enfants l'utilisent directement.
+« Bitcoin pour les jeunes » est un programme d'initiation destiné aux enfants âgés de 8 à 12 ans. Il présente les concepts fondamentaux nécessaires à la compréhension du Bitcoin, sans pour autant demander aux enfants de l'utiliser directement.
 
-Le programme est dispensé en deux parties :
+Le programme se déroule en deux parties :
 
-* Un guide pédagogique complet au format PDF avec des plans de leçons structurés, des notes pédagogiques et des conseils d'animation
-* Des fiches élèves imprimables et des supports d'activités pour une utilisation interactive en classe
+* Un guide complet destiné aux enseignants, au format PDF, comprenant des plans de cours structurés, des notes pédagogiques et des conseils d'animation
+* Documents à distribuer aux élèves et supports d'activités imprimables destinés à une utilisation interactive en classe
 
-C'est un cours de préparation, pas une formation technique.
+Il s'agit d'un cours de préparation, et non d'une formation technique.
 
-#### 2. À qui s'adresse Bitcoin pour les Juniors ?
+#### 2. À qui s'adresse « Bitcoin pour les jeunes » ?
 
-Bitcoin pour les Juniors est conçu pour :
+« Bitcoin pour les jeunes » s'adresse à :
 
-* Les enseignants en classe
-* Les éducateurs à domicile
-* Les responsables communautaires et les mentors jeunesse
-* Les parents qui souhaitent sensibiliser tôt à la finance
+* Enseignants en classe
+* Parents enseignant à domicile
+* Responsables associatifs et accompagnateurs de jeunes
+* Les parents qui souhaitent sensibiliser leurs enfants dès leur plus jeune âge à la gestion financière
 
-Conçu pour les enfants de 8 à 12 ans, il est adaptable à différents environnements éducatifs et contextes culturels.
+Conçu pour les enfants âgés de 8 à 12 ans, il s'adapte à différents environnements éducatifs et contextes culturels.
 
-#### 3. Pourquoi les enfants doivent-ils apprendre ce qu'est Bitcoin ?
+#### 3. Pourquoi les enfants doivent-ils s'informer sur le Bitcoin ?
 
-Les enfants n'ont pas besoin d'utiliser des portefeuilles Bitcoin ou de gérer des clés privées. Ce dont ils ont besoin, ce sont des bases pour comprendre Bitcoin plus tard.
+Les enfants n'ont pas besoin d'utiliser des portefeuilles Bitcoin ni de gérer des clés privées. Ce dont ils ont besoin, ce sont les bases qui leur permettront de comprendre le Bitcoin plus tard.
 
-B4J est volontairement peu technologique — les leçons utilisent des supports physiques, pas des appareils — ce qui le rend accessible dans tout environnement scolaire et adapté aux plus jeunes. L'objectif est la préparation conceptuelle, pas la maîtrise technique.
+B4J est volontairement « low-tech » : les cours s'appuient sur du matériel concret, et non sur des appareils, ce qui le rend accessible dans n'importe quelle salle de classe et adapté aux plus jeunes élèves. L'objectif est de développer les bases conceptuelles, et non la maîtrise technique.
 
-#### 4. Que propose le programme ?
+#### 4. Quels sont les contenus enseignés dans ce programme ?
 
-Bitcoin pour les Juniors enseigne les concepts clés nécessaires pour comprendre Bitcoin, notamment :
+« Bitcoin pour les jeunes » présente les concepts clés nécessaires à la compréhension du Bitcoin, notamment :
 
-* Ce qu'est l'argent et pourquoi les sociétés l'utilisent
-* La différence entre valeur et prix
-* Le temps, l'énergie, l'effort et la récompense
-* La rareté et l'abondance
-* L'information publique versus privée
-* Les idées de base sur le chiffrement et les codes
+* Qu'est-ce que l'argent et pourquoi les sociétés l'utilisent-elles ?
+* La différence entre la valeur et le prix
+* Temps, énergie, efforts et récompense
+* Pénurie et abondance
+* Informations publiques et informations privées
+* Principes fondamentaux du chiffrement et des codes
 * L'évolution historique de la monnaie
-* L'origine et la raison d'être de Bitcoin
+* L'origine et l'objectif du Bitcoin
 
-Ces idées sont explorées à travers des jeux, des histoires, des activités physiques et des travaux collaboratifs. On ne dit pas aux enfants ce qu'ils doivent penser de Bitcoin — on leur donne des outils pour réfléchir à l'argent, à la valeur et à l'équité, et pour tirer leurs propres conclusions.
+Ces concepts sont abordés à travers des jeux, des récits, des activités physiques et des activités collaboratives. On ne dicte pas aux enfants ce qu’ils doivent penser du Bitcoin : on leur donne les outils nécessaires pour réfléchir à l’argent, à la valeur et à l’équité, et pour tirer leurs propres conclusions.
 
-#### 5. S'agit-il d'un cours sur l'investissement, le trading ou l'utilisation d'argent réel ?
+#### 5. S'agit-il d'une formation sur l'investissement, le trading ou l'utilisation d'argent réel ?
 
-Non. Ce programme n'apprend pas aux enfants à investir, à trader ou à spéculer. Il n'implique pas d'argent réel. Il n'y a aucun risque financier et aucune incitation à l'investissement.
+Non. Ce programme n'apprend pas aux enfants à investir, à négocier ou à spéculer. Il n'implique pas d'argent réel. Il n'y a aucun risque financier et il n'encourage en rien les comportements d'investissement.
 
-#### 6. Comment Bitcoin est-il expliqué de façon adaptée à l'âge ?
+#### 6. Comment expliquer le Bitcoin d'une manière adaptée à l'âge de l'enfant ?
 
-Bitcoin est introduit par l'analogie, le jeu et la discussion guidée. Les idées techniques complexes comme la cryptographie ou les réseaux décentralisés sont simplifiées en concepts de confiance, de vie privée, d'équité et de responsabilité. L'accent est mis sur la compréhension des principes, pas sur la mémorisation de détails techniques.
+Le bitcoin est présenté à travers des analogies, des jeux et des discussions guidées. Des notions techniques complexes, telles que la cryptographie ou les réseaux décentralisés, sont simplifiées pour être ramenées à des concepts liés à la confiance, à la vie privée, à l'équité et à la responsabilité. L'accent est mis sur la compréhension des principes, et non sur la mémorisation de détails techniques.
 
-#### 7. Comment puis-je enseigner cela dans ma classe ou mon environnement d'apprentissage ?
+#### 7. Comment puis-je aborder ce sujet dans ma classe ou dans mon environnement d'apprentissage ?
 
-Le programme est conçu pour être peu technologique et très interactif. Les leçons peuvent être dispensées à l'aide de :
+Ce programme est conçu pour être peu technique et très interactif. Les cours peuvent être dispensés à l'aide des supports suivants :
 
 * Fiches d'exercices imprimées
-* Jeux de rôle et simulations
-* Jetons physiques, cartes ou matériel simple de classe
-* Discussions de groupe guidées
+* Simulations de jeux de rôle
+* Objets concrets, cartes ou simples supports pédagogiques
+* Discussion de groupe animée
 
-Le guide pédagogique fournit des instructions étape par étape, des conseils de gestion de classe, des questions de réflexion et des idées d'approfondissement. Aucune connaissance technique avancée de Bitcoin n'est requise.
+Le guide de l'enseignant propose des instructions détaillées, des conseils pour la gestion de la classe, des pistes de réflexion et des idées d'approfondissement. Aucune connaissance technique approfondie du Bitcoin n'est requise.
 
-#### 8. Que se passe-t-il après que les élèves ont terminé le programme ?
+#### 8. Que se passe-t-il une fois que les étudiants ont terminé le programme ?
 
-Les élèves repartent avec une meilleure conscience financière, des compétences de pensée critique et une compréhension structurée de l'évolution de la monnaie. Ils ne sont pas des « utilisateurs de Bitcoin ». Ce sont des apprenants préparés. Lorsqu'ils rencontreront Bitcoin plus tard dans leur vie, ils auront les bases intellectuelles pour le comprendre de manière responsable et autonome.
+À l'issue de ce parcours, les élèves acquièrent une meilleure sensibilisation aux questions financières, des capacités de réflexion critique et une compréhension structurée de l'évolution de la monnaie. Ce ne sont pas de simples « utilisateurs de Bitcoin », mais des apprenants bien préparés. Lorsqu'ils seront confrontés au Bitcoin plus tard dans leur vie, ils disposeront des bases intellectuelles nécessaires pour le comprendre de manière responsable et autonome.

@@ -1,6 +1,6 @@
 # 3.0 Giới thiệu
 
-> **Info – Tóm tắt Sách Trắng Bitcoin**
+> **Dark – Tóm tắt Sách Trắng Bitcoin**
 >
 > **Một phiên bản tiền điện tử hoàn toàn ngang hàng** sẽ cho phép các khoản thanh toán trực tuyến được gửi trực tiếp từ người này sang người khác mà không cần thông qua một tổ chức tài chính.**Chữ ký số cung cấp một phần giải pháp**, nhưng lợi ích chính sẽ bị mất nếu vẫn cần một **bên thứ ba đáng tin cậy** để ngăn chặn việc chi tiêu hai lần. Chúng tôi đề xuất một giải pháp cho vấn đề chi tiêu hai lần bằng cách sử dụng một **mạng ngang hàng**. **Mạng sẽ đánh dấu thời gian cho các giao dịch** bằng cách băm chúng vào một chuỗi liên tục của **bằng chứng công việc dựa trên hàm băm,** tạo thành một bản ghi không thể thay đổi nếu không thực hiện lại **bằng chứng công việc**. Chuỗi dài nhất không chỉ là bằng chứng về trình tự các sự kiện đã được xác nhận, mà còn là bằng chứng rằng nó xuất phát từ nhóm sức mạnh xử lý lớn nhất. Miễn là phần lớn sức mạnh xử lý được kiểm soát bởi các nút không hợp tác để tấn công mạng, họ sẽ tạo ra chuỗi dài nhất và vượt qua những kẻ tấn công.**Bản thân mạng lưới yêu cầu cấu trúc tối thiểu. Các thông điệp được phát sóng dựa trên nỗ lực tốt nhất, và các nút có thể rời khỏi hoặc tham gia lại mạng bất cứ lúc nào**, chấp nhận chuỗi bằng chứng công việc dài nhất như là bằng chứng về những gì đã xảy ra trong thời gian họ vắng mặt.
 

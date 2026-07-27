@@ -17,7 +17,7 @@ Izbegavajte preteranu odlučnost. Možete se pripremiti za međusobno isključiv
 U ovom odeljku ističemo neke opšte grupe akcija koje vam mogu pomoći da analizu pretvorite u konkretne korake. Ova lista nije iscrpna, već je namenjena da vam pomogne da započnete.
 
 
-> **Note – P&L strategije**
+> **Light – P&L strategije**
 >
 > * Zaštitite postojeće prihode i tržišni udeo
 >   * Smanjite izloženost tržištima koja su negativno pogođena
@@ -33,7 +33,7 @@ U ovom odeljku ističemo neke opšte grupe akcija koje vam mogu pomoći da anali
 
 
 
-> **Note – Strategije bilansa stanja**
+> **Light – Strategije bilansa stanja**
 >
 > * Povećajte vrednost iz vašeg bilansa stanja
 >   * Smanjite izloženost imovini koja ne donosi prinos iznad troškova kapitala, bez smanjenja otpornosti kapitala

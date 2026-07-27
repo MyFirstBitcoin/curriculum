@@ -4,7 +4,7 @@ Acest ghid explică modul de citire și utilizare a planurilor de lecție din Bi
 
 #### Utilizarea planurilor de lecție
 
-Fiecare plan de lecție din Bitcoin for Juniors este un ghid structurat. Nu este un scenariu care trebuie urmat cuvânt cu cuvânt. Profesorii sunt încurajați să adapteze, să simplifice, să extindă sau să modifice activitățile în funcție de elevi, mediul de lucru și constrângerile de timp. Planurile sunt concepute pentru a susține claritatea și încrederea, mai ales pentru educatorii care sunt la început în predarea conceptelor despre bani sau Bitcoin.
+Fiecare plan de lecție din Bitcoin for Juniors este un ghid structurat. Nu este un scenariu care trebuie urmat cuvânt cu cuvânt. Profesorii sunt încurajați să adapteze, să simplifice, să extindă sau să modifice activitățile în funcție de elevi, context și constrângerile de timp. Planurile sunt concepute pentru a susține claritatea și încrederea, mai ales pentru educatorii care sunt noi în predarea conceptelor despre bani sau Bitcoin.
 
 Ajustările sunt de așteptat. Facilitați, nu țineți prelegeri. Cadrul oferă structură. Profesorul oferă judecată și context.
 
@@ -65,14 +65,14 @@ Profesorul explică pe scurt scopul activității folosind un limbaj pe care ele
 ##### ACTIVITATE
 
 1. **Pregătire** — Instrucțiuni pentru organizarea elevilor și distribuirea materialelor.
-1. **Model** — Când este potrivit, demonstrați sarcina. Modelarea reduce confuzia și crește încrederea.
+1. **Modelare** — Când este potrivit, demonstrați sarcina. Modelarea reduce confuzia și crește încrederea.
 1. **Desfășurare** — Elevii realizează activitatea. Profesorul observă, ghidează și sprijină, nu domină.
-1. **Punct de control** — Faceți o pauză scurtă pentru a confirma înțelegerea. Ajustați dacă este necesar. Acest lucru previne escaladarea neînțelegerilor.
+1. **Punct de control** — Opriți-vă scurt pentru a confirma înțelegerea. Ajustați dacă este necesar. Acest lucru previne escaladarea neînțelegerilor.
 1. **Reflecție** — Elevii discută ce s-a întâmplat și ce înseamnă. Reflecția este esențială. Ea transformă experiența în învățare. Încurajați întrebările deschise și conexiunile cu concepte din lumea reală.
 
 ##### URMARE
 
-Un moment scurt de încheiere. Consolidați ideea principală. Încheiați pozitiv. Acesta poate include o întrebare de recapitulare, un schimb rapid de idei în perechi sau o scurtă afirmație care leagă activitatea de tema mai largă a capitolului.
+Un moment scurt de încheiere. Consolidați ideea principală. Încheiați pozitiv. Acesta poate include o întrebare de recapitulare, un schimb rapid între parteneri sau o scurtă afirmație care leagă activitatea de tema mai largă a capitolului.
 
 ##### ÎNCHEIERE
 
@@ -80,7 +80,7 @@ Note pentru profesor. Această secțiune include reamintiri pentru colectarea ma
 
 #### Managementul clasei
 
-Fiecare clasă diferă ca vârstă, nivel de energie și dinamică de grup. Sugestiile oferite în această secțiune pot include:
+Fiecare clasă diferă ca vârstă, nivel de energie și dinamică de grup. Sugestiile din această secțiune pot include:
 
 * Instrucțiuni clare înainte de mișcare
 * Limite de timp definite
@@ -89,9 +89,9 @@ Fiecare clasă diferă ca vârstă, nivel de energie și dinamică de grup. Suge
 
 Profesorii ar trebui să adapteze strategiile de gestionare la contextul lor.
 
-#### Extensii & Activități de rezervă
+#### Extensii și activități suplimentare
 
-Dacă mai rămâne timp, ideile de extensie — uneori numite activități de rezervă — permit continuarea activității cu o pregătire minimă. Acestea pot aprofunda discuția, adăuga complexitate sau introduce un element creativ. Sunt opționale și flexibile.
+Dacă mai rămâne timp, ideile de extensie — uneori numite activități suplimentare — permit continuarea activității cu o pregătire minimă. Acestea pot aprofunda discuția, adăuga complexitate sau introduce un element creativ. Sunt opționale și flexibile.
 
 #### Diferențiere
 

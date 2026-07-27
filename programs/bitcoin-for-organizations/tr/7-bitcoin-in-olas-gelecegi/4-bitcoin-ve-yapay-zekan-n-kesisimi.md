@@ -155,7 +155,7 @@ Ancak, şu anda dikkate alınması gereken bazı sınırlamalar var:
 ##### Riskler
 
 
-> **Info**
+> **Dark**
 >
 > Kripto Degens, deneysel bir AI botunu bir meme coin’i tanıtmaya kandırdı. Şimdi %16.000 arttı. İnsanların AI modelleriyle etkileşimini canlı bir deney olarak tasarlanan viral bot - Terminal of Truth - sonunda GOAT adlı bir meme coin’i tanıttı.
 >

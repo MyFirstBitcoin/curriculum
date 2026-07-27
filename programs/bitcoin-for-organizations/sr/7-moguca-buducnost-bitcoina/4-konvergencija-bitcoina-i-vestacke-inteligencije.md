@@ -155,7 +155,7 @@ Međutim, trenutno postoje neka ograničenja koja treba uzeti u obzir:
 ##### Rizici
 
 
-> **Info**
+> **Dark**
 >
 > Kripto entuzijasti su navukli eksperimentalnog AI bota da promoviše memecoin. Sada je u plusu 16.000%. Osmišljen kao eksperiment uživo u interakciji ljudi sa AI modelima, viralni bot - Terminal of Truth - na kraju je promovisao memecoin pod nazivom GOAT.
 >

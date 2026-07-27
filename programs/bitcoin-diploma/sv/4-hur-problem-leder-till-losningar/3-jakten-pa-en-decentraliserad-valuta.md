@@ -49,7 +49,7 @@ I ett centraliserat system kretsar allt kring en huvudauktoritet, som en hög by
 * **Brist på transparens och förtroende**: Hur centraliserade system fungerar kan vara svårt att förstå, vilket gör det svårt för människor att lita på dem.
 
 
-> **Note**
+> **Light**
 >
 > År 2022, under fredliga protester i Kanada, frös banker demonstranternas konton, vilket visade hur en central auktoritet kan kontrollera tillgången till pengar.
 
@@ -73,7 +73,7 @@ Tänk på ett decentraliserat system som en skog. Varje träd är en separat del
 I en värld av centraliserade och decentraliserade system handlar allt om vem som har makten. Centraliserade system ger makten till en liten grupp, medan decentraliserade system sprider ut den och låter alla få en röst. Denna maktförskjutning skulle innebära en rättvisare framtid, där många människor påverkar det system som formar deras liv.
 
 
-> **Note**
+> **Light**
 >
 > Tor-nätverket skapar ett decentraliserat system där människor kan vara anonyma online och nätverket är svårt att stoppa eller censurera.
 
@@ -91,4 +91,4 @@ Dessa försök hjälpte till att avslöja vad som saknades. Senare byggde någon
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Titta på den här videon och upptäck historien om Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

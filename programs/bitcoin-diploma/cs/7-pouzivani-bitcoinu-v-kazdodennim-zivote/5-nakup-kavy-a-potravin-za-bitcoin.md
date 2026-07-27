@@ -5,7 +5,7 @@ Už jste někdy přemýšleli, jestli můžete použít bitcoin na koupi své ka
 I když se může zdát, že platba kreditní kartou nebo aplikací je pro platícího jednoduchá, samotné zpracování platby je ve skutečnosti velmi složité a zahrnuje mnoho různých stran.
 
 
-> **Note – Jak funguje zpracování plateb**
+> **Light – Jak funguje zpracování plateb**
 >
 > Zákazník → Obchodník → Platební brána → Zpracovatel → Kartová síť → Vydávající banka → Kartová síť → Banka obchodníka → Obchodník
 
@@ -55,7 +55,7 @@ Některé firmy se zaměřují na nákup a prodej dárkových karet výměnou za
 Aplikováno na Bitcoin, cirkulární ekonomika vzniká podporou místních obchodníků a řemeslníků, kteří přijímají bitcoin, aby všichni účastníci mohli společně prosperovat díky nadřazeným vlastnostem Bitcoinu.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network umožňuje vznik a rozvoj bitcoinových cirkulárních ekonomik po celém světě díky téměř okamžitým a nízkonákladovým bitcoinovým transakcím.
 
@@ -71,4 +71,4 @@ Dne [BTCMap.org](https://btcmap.org/communities), můžete také hledat bitcoino
 ###### Zdroje
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Podívejte se na toto video o Lightning Network](https://youtu.be/yKdK-7AtAMQ)

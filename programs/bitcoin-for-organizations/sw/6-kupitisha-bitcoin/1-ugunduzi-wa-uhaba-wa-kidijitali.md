@@ -88,7 +88,7 @@ Rogue kisha inaacha. Kwa nini?
 Rogue inatambua haina nguvu ya kutosha ya hash kufanikisha double spend, licha ya kudhibiti 36% ya hash rate ya Bitcoin. Ili kufanikiwa, lazima ichimbe vizuizi vinne zaidi ili kuongoza mnyororo waaminifu. Licha ya nguvu kubwa ya kompyuta na kudhibiti 36% ya mtandao, nafasi ya Rogue kufanikiwa ni 0.100113 pekee.
 
 
-> **Info – Nadharia ya Michezo (Game Theory) Inaingia**
+> **Dark – Nadharia ya Michezo (Game Theory) Inaingia**
 >
 > Nafasi za Rogue kufanikiwa ni mbaya, na zinazidi kuwa mbaya zaidi. Kwa kila dakika inayoendelea kujaribu, Rogue inatumia umeme mwingi sana. Hii yote itakuwa bure. Zaidi ya hayo, kwa kila kizuizi inachoshindwa kuchimba kwa uaminifu, Rogue inapoteza zawadi ya kizuizi, ambayo kwa sasa ni sarafu 3.125 kwa kila kizuizi, zenye thamani ya zaidi ya KSh 40 milioni kwa sasa.
 >

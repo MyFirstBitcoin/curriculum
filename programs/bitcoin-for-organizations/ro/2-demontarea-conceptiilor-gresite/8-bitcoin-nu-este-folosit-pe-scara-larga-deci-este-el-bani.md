@@ -69,7 +69,7 @@ De la apariția sa în 2009, bitcoin se află într-o stare continuă de „desc
 Analizând registrul bitcoin, se poate arăta că peste 70% din întreaga ofertă de bitcoin este deținută de [deținători pe termen lung](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Prin urmare, se pare că majoritatea deținătorilor sunt mulțumiți să stea și să nu-și vândă sau să-și cheltuiască bitcoinul. Având în vedere creșterea dramatică a puterii de cumpărare a bitcoinului de la lansare, este rezonabil să presupunem că majoritatea deținătorilor se așteaptă ca bitcoinul să devină mai valoros și acest lucru le influențează decizia de a continua să dețină și să nu cheltuiască.
 
 
-> **Info – Ziua Pizzei cu Bitcoin**
+> **Dark – Ziua Pizzei cu Bitcoin**
 >
 > În fiecare an, pe 22 mai, comunitatea Bitcoin sărbătorește și îl recunoaște pe programatorul din Florida, Laszlo Hanyecz, care a devenit prima persoană raportată că a folosit bitcoin pentru a cumpăra bunuri fizice. Pe 18 mai 2010, Hanyecz a anunțat pe un forum Bitcointalk.org că își dorește pizza și este dispus să plătească în bitcoin. A oferit 10.000 de bitcoin oricui era dispus să intre în tranzacție. A așteptat câteva zile, până când studentul de 19 ani, Andrei Sturdivan, a acceptat și a trimis două pizza mari. Laszlo i-a trimis lui Sturdivan 10.000 de bitcoin, așa cum a promis, sumă care, la momentul redactării, valorează peste 680 de milioane de dolari.
 >

@@ -24,7 +24,7 @@ Här kommer peer-to-peer-plattformar in i bilden, där Bitcoin-köpare och sälj
 På sådana plattformar behöver du inte lita på någon med din information eller dina pengar; du kopplar upp dig mot andra användare och handlar direkt med dem.
 
 
-> **Note**
+> **Light**
 >
 > På de flesta peer-to-peer-plattformar måste användarna lägga vissa medel i escrow för att säkerställa att båda parter uppfyller sin del av avtalet. Escrow innebär att pengarna placeras på ett säkert ställe under plattformens kontroll tills båda parter har gjort det de lovat. Det är som att en betrodd vän håller i dina saker tills alla är nöjda med affären.
 

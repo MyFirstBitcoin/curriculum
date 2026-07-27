@@ -166,7 +166,7 @@ Ang mataas na price volatility, na sinusukat sa standard deviation ng returns, a
 Ang pinakamahalagang punto ay ang bitcoin ay isang pabagu-bagong asset. Dapat asahan ito dahil bago pa lamang ito at nasa mahabang paglalakbay ng pagtuklas ng presyo at pag-aampon ng mga gumagamit. Ang mga propesyonal na mamumuhunan ay may kakayahang yakapin ang ganitong volatility at, dahil sa potensyal para sa napakataas na kita, pamahalaan ito nang naaayon. Maaari nilang tukuyin ang tamang alokasyon, ayon sa kanilang sariling balangkas ng pamumuhunan at kagustuhan sa panganib. At, upang mapanatag ang panandaliang pagbabago-bago ng presyo, ang paghawak ng bitcoin nang hindi bababa sa isang 4-taong halving cycle ay maaaring maging angkop na minimum na panahon ng paghawak.
 
 
-> **Note – Ang Bitcoin ba ay Panangga Laban sa Implasyon?**
+> **Light – Ang Bitcoin ba ay Panangga Laban sa Implasyon?**
 >
 > Dahil ang bitcoin ay may takdang suplay, matagal nang ipinaglalaban ng mga tagasuporta na ito ay nagsisilbing panangga laban sa implasyon ng mga fiat na pera. Malinaw na sa napakahabang panahon, ang bitcoin ay naging napaka-epektibong panangga laban sa pagbagsak ng kapangyarihan sa pagbili ng fiat na pera. Gayunpaman, tinutukoy ng mga kritiko ang matinding pagtaas ng year-on-year CPI metric11 mula unang bahagi ng 2021 hanggang sa 40-taong pinakamataas noong kalagitnaan ng 2022 at tinatanong kung bakit hindi tumaas nang malaki ang presyo ng bitcoin sa panahong ito. Kaya, nabigo ba ang bitcoin bilang panangga laban sa implasyon?
 >
@@ -216,7 +216,7 @@ Siyempre, hindi inaasahan ng karamihan na mangyari agad ang senaryong ito - ang 
 Paano kung, tulad ng pag-usbong ng internet, hindi natin basta-basta mapili na hindi sumali?
 
 
-> **Info – Babala**
+> **Dark – Babala**
 >
 > Tandaan na ang nakaraang performance ay hindi garantiya ng mga resulta sa hinaharap. Ang Bitcoin ay isang asset na may mataas na panganib. Dapat tandaan ng mga mamumuhunan na may potensyal itong tumaas o bumaba nang malaki sa hinaharap, gaya ng ipinakita ng nakaraang performance.
 >

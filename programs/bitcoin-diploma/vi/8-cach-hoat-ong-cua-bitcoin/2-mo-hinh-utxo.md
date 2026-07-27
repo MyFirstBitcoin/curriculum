@@ -27,4 +27,4 @@ Số dư ví của bạn đơn giản là tổng giá trị của tất cả cá
 ###### Tài nguyên tham khảo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Xem video “How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

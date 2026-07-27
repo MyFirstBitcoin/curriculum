@@ -12,7 +12,11 @@ Kada je transakcija uključena u blok, postaje potvrđena i trajno se beleži na
 
 #### Aktivnost: Istraživanje Mempool-a
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Ova aktivnost upoznaje učenike sa besplatnim i otvorenim alatom koji ne zahteva tehničke veštine za korišćenje. Koristan je za Bitcoinere svih nivoa, od početnika do iskusnih.**
 

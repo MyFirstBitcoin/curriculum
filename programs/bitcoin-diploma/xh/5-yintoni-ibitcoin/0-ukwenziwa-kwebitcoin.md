@@ -8,7 +8,11 @@ _Imbali yangaphambi kweBitcoin - Sisiphumo seminyaka engama-40 yophando, uphuhli
 
 Njengoko sabona kwisifundo esidlulileyo, amaCypherpunks amaninzi azama ukudala enye indlela yemali. Esi sifundo siqhubekeka nembali yomnye wabo: umbono obalaseleyo owaziwa njenge “Satoshi Nakamoto”. Lo mntu ongaziwayo (okanye iqela), kudala phambi kweBitcoin, wayethatha inxaxheba kwiingxoxo ezikwi-intanethi malunga ne-cryptography kunye nekhompyutha ukuze kufunyanwe iindlela ezisebenzayo zokutshintsha inkqubo yemali ye-fiat.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 Ngo-Okthobha ka-2008, uNakamoto wabhengeza uxwebhu olutsha olubalulekileyo olubizwa ngokuba yi “Bitcoin: A Peer-to-Peer Electronic Cash System” kuluhlu lwe-imeyile lwe-cryptography. Olu xwebhu lwabeka isiseko senkqubo ye-peer-to-peer engaxhomekekanga, eyenzelwe ukuququzelela ukuthengiselana okukhuselekileyo kwi-intanethi ngaphandle kwesidingo sabalamli. Umbono kaNakamoto wawucacile: ukudala uhlobo lwemali yedijithali olusekelwe kubantu bodwa, lukhululekile kulawulo lwemimandla enamandla kunye neenkampani zezezimali.
 

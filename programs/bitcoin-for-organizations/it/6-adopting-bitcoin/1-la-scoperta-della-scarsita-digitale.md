@@ -88,7 +88,7 @@ A questo punto Rogue si arrende. Perché?
 Rogue si rende conto di non avere abbastanza hash rate per riuscire nella doppia spesa, nonostante controlli il 36% dell'hash rate di Bitcoin. Per avere successo dovrebbe minare altri quattro blocchi per superare la catena onesta. Nonostante la sua enorme potenza di calcolo e il controllo del 36% della rete, le probabilità di successo di Rogue sono solo 0,100113.
 
 
-> **Info – Entra in gioco la teoria dei giochi**
+> **Dark – Entra in gioco la teoria dei giochi**
 >
 > Le probabilità di successo di Rogue sono pessime, ma peggiorano ulteriormente. Per ogni minuto in cui continua a tentare, Rogue consuma una quantità enorme di elettricità. Tutto ciò sarà stato vano. Inoltre, per ogni blocco che non mina onestamente, Rogue rinuncia alla ricompensa del blocco, attualmente di 3,125 coin per blocco, con un valore attuale superiore a 300.000 €.
 >

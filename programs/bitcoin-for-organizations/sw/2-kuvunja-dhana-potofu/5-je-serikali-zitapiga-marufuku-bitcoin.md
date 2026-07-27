@@ -78,7 +78,7 @@ Tatizo lingine ambalo mshambuliaji atakuwa nalo ni jinsi ya kudumisha udhibiti m
 Inawezekana kwamba mara tu itakapokuwa wazi kuwa mtandao unashambuliwa, watengenezaji wa Bitcoin wangefanya 'hard-fork' ya programu ya Bitcoin, ili leja 'igawanywe' kutoka pale ambapo rekodi za udanganyifu zilitengenezwa na mshambuliaji. Nodi nyingi zingetumia toleo jipya la programu na jitihada za mshambuliaji zingepuuzwa.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Maelezo ya kuchekesha zaidi kutoka kwa Andreas Antonopoulos kuhusu uwezekano wa shambulio la 51% linalofadhiliwa na serikali.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Je, kujihifadhi Bitcoin na miamala ya mtu kwa mtu vinaweza kupigwa marufuku?
@@ -106,7 +106,7 @@ Tunapaswa pia kutarajia sheria mbaya na zisizotekelezeka kuhusu Bitcoin kupitish
 Sheria ya Red Flag ya Uingereza mwishoni mwa karne ya 19 ni mfano wa kihistoria wa sheria kali kupita kiasi ambayo baadaye ilifutwa.
 
 
-> **Note**
+> **Light**
 >
 > Kufikia katikati ya karne ya 19, sekta ya magari ya farasi na hasa ya treni zilikuwa zinakabiliwa na tishio la ujio wa magari ya barabarani. Walikuwa na hofu kwamba gari lingewachukua nafasi.**Kwa hiyo, walijitahidi kuwashawishi serikali kutunga sheria kali, wakijaribu kwa makusudi kuzuia ukuaji wa teknolojia hii mpya.**
 >
@@ -144,7 +144,7 @@ Bila shaka, kulaumu Bitcoin kwa kusababisha mgogoro wa sarafu ya fiat ni upuuzi.
 Ni muhimu pia kutambua kwamba Bitcoin inakuwa imara zaidi inaposhambuliwa. Hii ni kwa sababu mashambulizi haya husaidia kuondoa dhana potofu zinazotolewa na wapinzani kwamba Bitcoin ni dhaifu na rahisi kushambuliwa. Kwa hiyo, si tu kwamba tunapaswa kutarajia serikali kudhibiti Bitcoin kupita kiasi, bali tunapaswa kulikaribisha hilo.
 
 
-> **Note**
+> **Light**
 >
 > **Serikali huenda zikajifunza kuhusu uimara wa Bitcoin kwa kujaribu kuidhoofisha na kuona kinachotokea zinaposhambulia mtandao wake.** Huenda wakaona kwamba, katika Bitcoin, kuliko darasa lolote la mali katika historia, mtaji utahamia kwenye nchi ambazo zinaitendea vyema zaidi. Hivyo, kadri mtandao wa Bitcoin unavyokua, itazidi kuwa wazi kwamba nchi zinazochagua kuikumbatia, badala ya kupambana nayo, ndizo zitakazokuwa washindi.
 

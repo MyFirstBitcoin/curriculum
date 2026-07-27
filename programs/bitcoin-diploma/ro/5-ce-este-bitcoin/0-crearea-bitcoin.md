@@ -9,7 +9,11 @@ _Preistoria Bitcoin - Este rezultatul a 40 de ani de cercetare, dezvoltare și c
 
 Așa cum am văzut în modulul anterior, mai mulți Cypherpunks au încercat să creeze o formă alternativă de bani. Acest modul continuă povestea unuia dintre ei: un vizionar cunoscut sub numele de „Satoshi Nakamoto”. Această figură anonimă (o persoană sau un grup), cu mult înainte de Bitcoin, a participat la discuții online despre criptografie și informatică pentru a găsi modalități practice de a înlocui sistemul fiat.
 
+
 https://bitcoin.org/bitcoin.pdf
+
+_Scan the QR to read the original Bitcoin White Paper by Satoshi Nakamoto._
+
 
 În octombrie 2008, Nakamoto a prezentat un whitepaper revoluționar intitulat „Bitcoin: A Peer-to-Peer Electronic Cash System” pe o listă de discuții despre criptografie. Acest document a pus bazele unui protocol descentralizat peer-to-peer conceput pentru a facilita tranzacții online sigure fără a fi nevoie de intermediari. Viziunea lui Nakamoto era clară: să creeze o versiune pur peer-to-peer a banilor electronici, liberă de controlul guvernelor puternice și al instituțiilor financiare.
 

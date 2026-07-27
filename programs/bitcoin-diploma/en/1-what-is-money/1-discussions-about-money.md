@@ -1,8 +1,6 @@
 # 1.1 Discussions about Money
 
-Let's start by answering the five following questions.
-
-Consider practical uses like acquiring necessities such as food and desired items. Try to be specific in your examples, balancing creativity with realism.
+Let's start by answering the five following questions. Consider practical uses like acquiring necessities such as food and desired items. Try to be specific in your examples, balancing creativity with realism.
 
 ###### Why do we need money?
 
@@ -16,6 +14,10 @@ Consider practical uses like acquiring necessities such as food and desired item
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
+
+---
+
+
 ###### What gives money its “value”?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
@@ -25,7 +27,7 @@ Consider practical uses like acquiring necessities such as food and desired item
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Expand the discussion to the group by sharing and comparing lists to find the five most important reasons for needing money. Identify common ideas across the class. Reflect on your own unique ideas that didn’t make the list but are still valuable, and jot them down.
 

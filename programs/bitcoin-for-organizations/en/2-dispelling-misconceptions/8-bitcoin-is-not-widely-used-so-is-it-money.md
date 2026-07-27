@@ -69,7 +69,7 @@ Since its inception in 2009, bitcoin has been in a continuous state of ‘price 
 By analysing the bitcoin ledger, it can be shown that over 70% of the entire bitcoin supply is held by [long-term holders](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Therefore, it appears the majority of holders appear content to sit and not sell or spend their bitcoin. Given the dramatic increase in purchasing power of bitcoin since its launch, it is reasonable to assume that the majority of holders expect bitcoin to become more valuable and this is influencing their decision to continue to hold and not spend.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Every year on the 22nd of May, the Bitcoin community celebrates and acknowledges Floridian programmer Laszlo Hanyecz, who became the first person reported to have used bitcoin to purchase physical goods. On the 18th May 2010, Hanyecz announced on a Bitcointalk.org forum that he was looking for pizza and was willing to pay in bitcoin. He offered 10,000 bitcoin to anyone willing to enter into the transaction. He waited for several days, until 19-year-old student Jeremy Sturdivant obliged and sent two large pizzas. Laszlo sent Sturdivant 10,000 bitcoin as promised which, at the time of writing, is valued in excess of $680 million.
 >

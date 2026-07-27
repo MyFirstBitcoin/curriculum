@@ -9,12 +9,12 @@ Kullandığımız paralar giderek daha dijital hale geliyor; bugün, para arzın
 ##### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ “Kağıt Paranın Tarihi” adlı serideki "Takasın Kökenleri" başlıklı bu kısa videoyu izleyerek bilgi edinin.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Bu, "Kağıt Paranın Tarihi" serisinin "Sadece Erişte Değil" adlı ikinci bölümüdür.](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Kağıt para doktrinini gerçekten uygulamaya çalışırsanız ne olur? "Kağıt Paranın Tarihi"nin dördüncü bölümünde öğrenin.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

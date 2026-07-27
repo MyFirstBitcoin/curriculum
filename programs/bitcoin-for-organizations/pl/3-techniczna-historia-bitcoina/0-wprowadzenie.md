@@ -1,6 +1,6 @@
 # 3.0 Wprowadzenie
 
-> **Info – Streszczenie White Paper Bitcoin**
+> **Dark – Streszczenie White Paper Bitcoin**
 >
 > **Czysto peer-to-peerowa wersja elektronicznej gotówki** pozwoliłaby na przesyłanie płatności online bezpośrednio od jednej osoby do drugiej bez pośrednictwa instytucji finansowej. **Podpisy cyfrowe stanowią część rozwiązania**, ale główne korzyści zostają utracone, jeśli **zaufana trzecia strona** jest nadal wymagana, aby zapobiec podwójnemu wydawaniu. Proponujemy rozwiązanie problemu podwójnego wydawania z wykorzystaniem **sieci peer-to-peer**. **Sieć znaczy czasem transakcje** poprzez haszowanie ich do ciągłego łańcucha **dowodu pracy opartego na haszach,** tworząc zapis, którego nie można zmienić bez ponownego wykonania **dowodu pracy**. Najdłuższy łańcuch służy nie tylko jako dowód kolejności zaobserwowanych zdarzeń, ale także jako dowód, że pochodzi on z największej puli mocy obliczeniowej CPU. Dopóki większość mocy CPU jest kontrolowana przez węzły, które nie współpracują w celu ataku na sieć, będą one generować najdłuższy łańcuch i wyprzedzać atakujących. **Sama sieć wymaga minimalnej struktury. Wiadomości są rozgłaszane w miarę możliwości, a węzły mogą opuszczać i dołączać do sieci według własnej woli**, akceptując najdłuższy łańcuch dowodu pracy jako dowód tego, co się wydarzyło podczas ich nieobecności.
 

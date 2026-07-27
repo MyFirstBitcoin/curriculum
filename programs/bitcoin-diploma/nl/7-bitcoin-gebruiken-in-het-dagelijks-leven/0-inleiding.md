@@ -1,15 +1,15 @@
 # 7.0 Inleiding
 
-> We bouwen het Visa-netwerk voor Bitcoin. Maar wat ik krachtig vind, is dat, in tegenstelling tot Visa, iedereen erop kan voortbouwen.  
+> We bouwen het Visa-netwerk voor Bitcoin. Maar wat ik zo krachtig vind, is dat – in tegenstelling tot bij Visa – iedereen erop kan voortbouwen.  
 _Elizabeth Stark_
 
-Technologieën groeien en ontwikkelen zich meestal in lagen, als een stapel. Denk aan je favoriete website, e-mail of sociale media: die zijn gebouwd bovenop het internetprotocol, dat weer is gebouwd op computers, die weer zijn gebouwd op elektriciteit, enzovoort. Deze technologieën begonnen met een heel eenvoudig ontwerp en zijn in de loop van de tijd steeds verder verbeterd.
+Technologieën groeien en breiden zich doorgaans in lagen uit, net als een stapel. Denk maar eens aan je favoriete website, e-mail of sociale media: die zijn gebouwd op basis van het internetprotocol, dat weer is gebouwd op basis van computers, die op hun beurt zijn gebouwd op basis van elektriciteit, enzovoort. Deze technologieën begonnen met een heel eenvoudig ontwerp en zijn in de loop van de tijd steeds verder verbeterd.
 
-Bitcoin is daarop geen uitzondering. Zoals Andreas Antonopoulos beroemd zei: “Bitcoin is het internet van geld.” Het is de basislaag van solide digitaal geld, die een stevig fundament biedt waarop nieuwe technologie gebouwd kan worden.
+Bitcoin vormt hierop geen uitzondering. Zoals Andreas Antonopoulos het zo treffend verwoordde: „Bitcoin is het internet van het geld.” Het vormt de basislaag van degelijk digitaal geld en biedt een solide fundament waarop nieuwe technologie zal worden gebouwd.
 
-Een van deze lagen heet het **Lightning Network**. Het is als een supersnelle snelweg voor Bitcoin, waarmee mensen snel en met zeer lage kosten bitcoin kunnen versturen en ontvangen. Het stelt gebruikers in staat om directe, kleine transacties te doen bovenop het gewone Bitcoin-netwerk. Hierdoor wordt een kopje koffie kopen of een vriend betalen eenvoudig en snel! Natuurlijk brengt dit, zoals alles, ook afwegingen met zich mee.
+Een van deze lagen heet de **Lightning Network**. Het is als een supersnelle snelweg voor Bitcoin, waardoor mensen snel en tegen zeer lage kosten bitcoins kunnen versturen en ontvangen. Het stelt gebruikers in staat om direct kleine transacties uit te voeren bovenop het reguliere Bitcoin-netwerk. Dit maakt het kopen van een kopje koffie of het betalen van een vriend eenvoudig en snel! Natuurlijk zijn er, zoals bij alles, ook nadelen aan verbonden.
 
 
-> **Info**
+> **Dark**
 >
-> Een satoshi is de kleinste eenheid van bitcoin. Net zoals een euro kan worden opgedeeld in centen, kan één bitcoin worden gesplitst in kleinere eenheden die satoshi's worden genoemd. Eén bitcoin is gelijk aan 100 miljoen satoshi's, waardoor satoshi's de allerkleinste waarde-eenheden in het Bitcoin-systeem zijn. Wanneer we het hebben over het versturen van bitcoin via het Lightning Network, noemen we dat “sats versturen”, wat kort is voor satoshi's.
+> Een satoshi is de kleinste eenheid van bitcoin. Net zoals een dollar kan worden onderverdeeld in centen, kan één bitcoin worden opgesplitst in kleinere eenheden die satoshi’s worden genoemd. Eén bitcoin is gelijk aan 100 miljoen satoshi’s, waardoor satoshi’s de allerkleinste waarde-eenheden in het Bitcoin-systeem zijn. Als we het hebben over het versturen van bitcoin via het Lightning Network, noemen we dat ‘sats versturen’, een afkorting van satoshi’s.

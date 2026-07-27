@@ -1,40 +1,5 @@
 # 2.3 That's Not Fair!
 
-**Activity type** Game-based exploration – Structured discussion – Experiential learning
-
-**Duration** 60 minutes
-
-**Grouping** Teacher-led demonstration, individual participation, whole class reflection, optional pairs or small groups
-
-##### **Description**
-
-Students explore the idea of fairness by participating in a sequence of short games that distribute rewards in different ways. Through direct experience, learners compare unfair systems, random systems, effort-based systems, and Proof of Work. Emotional responses are welcomed and used to support structured reflection. The activity builds a foundational understanding of fairness, reward, and equal opportunity.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Experience and identify unfair, random, effort-based, and fair systems
-* Understand that not all rewards are earned equally
-* Recognize that fairness requires equal rules and equal opportunity
-* Build vocabulary and emotional awareness around effort, reward, and fairness
-* Prepare conceptually for Proof of Work
-
-##### **Materials**
-
-* Beads or small tokens to represent rewards (“My Stack”)
-* Flashcards or images showing qualities or attributes (hair colour, clothing, birthdays, etc.)
-* Drawing paper and pencils
-* Dice
-* Deck of playing cards
-* **Nice-to-have:** Visual support (_See Appendix A_)**,** Labels for each round (Unfair, Random, Work, Proof of Work)
-
-##### **Equipment**
-
-* Timer or stopwatch
-* Central table or container to act as the “bank”
-* Open space for movement-based games
-
 #### **PROCEDURE**
 
 ##### **OPENING**

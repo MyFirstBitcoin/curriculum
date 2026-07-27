@@ -1,6 +1,6 @@
 # 3.0 Pengenalan
 
-> **Info – Abstrak Kertas Putih Bitcoin**
+> **Dark – Abstrak Kertas Putih Bitcoin**
 >
 > **Versi tunai elektronik peer-to-peer sepenuhnya** akan membolehkan pembayaran dalam talian dihantar terus dari satu pihak kepada pihak lain tanpa melalui institusi kewangan. **Tandatangan digital menyediakan sebahagian daripada penyelesaian**, tetapi manfaat utama akan hilang jika **pihak ketiga yang dipercayai** masih diperlukan untuk mengelakkan perbelanjaan berganda. Kami mencadangkan satu penyelesaian kepada masalah perbelanjaan berganda menggunakan **rangkaian peer-to-peer**. **Rangkaian menandakan masa transaksi** dengan menghaskan mereka ke dalam rantaian berterusan **bukti kerja berasaskan hash,** membentuk satu rekod yang tidak boleh diubah tanpa melakukan semula **bukti kerja**. Rantaian terpanjang bukan sahaja berfungsi sebagai bukti urutan peristiwa yang disaksikan, tetapi juga bukti bahawa ia datang dari kumpulan kuasa CPU terbesar. Selagi majoriti kuasa CPU dikawal oleh nod yang tidak bekerjasama untuk menyerang rangkaian, mereka akan menghasilkan rantaian terpanjang dan mengatasi penyerang. **Rangkaian itu sendiri memerlukan struktur yang minimum. Mesej disiarkan mengikut kemampuan terbaik, dan nod boleh keluar dan menyertai semula rangkaian pada bila-bila masa**, menerima rantaian bukti kerja terpanjang sebagai bukti apa yang berlaku semasa mereka tiada.
 

@@ -76,7 +76,11 @@ Wani muhimmin abu da ya kamata ka kula da shi yayin zaɓar Bitcoin wallet shi ne
 
 #### Ayyuka: Tattaunawa da kimanta wallets na Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Je zuwa wannan shafin yanar gizo:[https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

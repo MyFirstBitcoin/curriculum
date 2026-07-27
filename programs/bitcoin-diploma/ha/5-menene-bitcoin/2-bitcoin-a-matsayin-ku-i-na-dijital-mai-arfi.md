@@ -5,7 +5,7 @@ A cikin mafi sauki, Bitcoin kudi ne. Bitcoin ba jari ba ne amma hanya ce mai ami
 Rike bitcoin ba zai sa ka zama mai arziki ba saboda ba zai ba ka karin bitcoin ba. Kadararsa, idan aka auna da kowanne kudin fiat, tana iya karuwa; amma hakan yana faruwa ne saboda karuwar amfani da shi da kuma raguwar darajar kudaden fiat.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin **kudi ne**, ana amfani da shi don adanawa da aika kudi.  
 > Yana aiki a kan wani babban **kebabbun tsarin sadarwa** na kwamfutoci.  
@@ -29,7 +29,7 @@ Wannan manhaja da tarihin dukkan ma'amaloli yana da karancin yiwuwar bacewa sabo
 A karshe, Bitcoin yana da iyaka, wato adadin bitcoin da zai taba wanzuwa an kayyade shi. Babu wanda zai iya kirkirar bitcoin na bogi a kan sarkar — ko da kuwa gwamnati ko cibiyoyin kudi masu karfi ne.
 
 
-> **Note – Ka'idojin Bitcoin**
+> **Light – Ka'idojin Bitcoin**
 >
 > Bitcoin an gina shi ne a kan ra'ayoyi guda uku masu sauki:
 >
@@ -140,4 +140,4 @@ Mabuɗin yana cikin aiki, fahimtar yadda Bitcoin ke aiki da kuma aiwatar da shi 
 ###### Kayan Koyo
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Kalli bidiyon "What is Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

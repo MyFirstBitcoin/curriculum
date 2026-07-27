@@ -19,7 +19,7 @@ Recimo da Marko duguje Jeleni 0,5 BTC i spreman je da joj vrati dug. Oboje imaju
 _Važno je napomenuti da, kada je transakcija završena, ne može se poništiti._
 
 
-> **Note – Kako funkcioniše Bitcoin transakcija**
+> **Light – Kako funkcioniše Bitcoin transakcija**
 >
 > 1. Neko zahteva transakciju
 > 1. Transakcija se emituje P2P računarima (čvorovima)
@@ -30,7 +30,7 @@ _Važno je napomenuti da, kada je transakcija završena, ne može se poništiti.
 
 
 
-> **Note – Primanje Bitcoin transakcija**
+> **Light – Primanje Bitcoin transakcija**
 >
 > Da biste primili bitcoin, potrebno je da pošiljaocu date Bitcoin javnu adresu. To je jedinstveni niz slova i brojeva koji predstavlja vaš novčanik i koristi se za njegovo prepoznavanje na Bitcoin mreži.
 >
@@ -48,7 +48,7 @@ Kada pošiljalac ima vašu adresu, može vam poslati bitcoin tako što unese va�
 Transakciju potvrđuje Bitcoin mreža i obično traje oko 10 minuta. Radi veće sigurnosti, preporučuje se da sačekate dve potvrde, što traje oko 20 minuta.
 
 
-> **Note – Slanje Bitcoin transakcija**
+> **Light – Slanje Bitcoin transakcija**
 >
 > Da biste poslali bitcoin, potrebno vam je nekoliko stvari: Bitcoin novčanik, javna adresa primaoca i iznos bitcoina koji želite da pošaljete.
 >
@@ -68,7 +68,11 @@ Transakciju potvrđuje Bitcoin mreža i obično traje oko 10 minuta. Radi veće 
 
 #### Aktivnost: Transakcije u praksi
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Ovo je zajednička vežba koja pojednostavljuje osnovne uloge ljudi uključenih u Bitcoin transakciju.**
 

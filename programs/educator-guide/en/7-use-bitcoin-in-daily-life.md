@@ -1,4 +1,4 @@
-# 7 - Use Bitcoin in Daily Life
+# Use Bitcoin in Daily Life
 
 Duration: 90 minutes
 

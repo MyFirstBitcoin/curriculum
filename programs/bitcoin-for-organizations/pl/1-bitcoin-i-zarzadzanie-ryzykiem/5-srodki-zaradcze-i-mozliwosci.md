@@ -17,7 +17,7 @@ Unikaj zbyt pochopnych decyzji. Możesz przygotować się na wzajemnie wykluczaj
 W tej sekcji przedstawiamy kilka ogólnych grup działań, które pomogą Ci przełożyć analizę na konkretne działania. Lista nie jest wyczerpująca, ale ma na celu ułatwienie rozpoczęcia pracy.
 
 
-> **Note – Strategie P&L**
+> **Light – Strategie P&L**
 >
 > * Chroń istniejące przychody i udział w rynku
 >   * Ogranicz ekspozycję na rynki dotknięte negatywnymi skutkami
@@ -33,7 +33,7 @@ W tej sekcji przedstawiamy kilka ogólnych grup działań, które pomogą Ci prz
 
 
 
-> **Note – Strategie bilansowe**
+> **Light – Strategie bilansowe**
 >
 > * Zwiększaj wartość swojego bilansu
 >   * Ogranicz ekspozycję na aktywa, które nie przynoszą zwrotu powyżej kosztu kapitału, bez osłabiania odporności kapitałowej

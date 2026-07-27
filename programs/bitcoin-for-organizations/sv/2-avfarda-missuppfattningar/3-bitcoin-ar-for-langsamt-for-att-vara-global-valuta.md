@@ -41,7 +41,7 @@ När denna kritik framförs är det värt att fundera på om kritikern har andra
 Skalbarhets- eller blockkedjetrilemmat togs först upp av Vitalik Buterin 2017. Det säger att det alltid finns en avvägning i blockkedjedesign mellan egenskaperna decentralisering, säkerhet och skalbarhet. Den som framför kritiken att Bitcoin är för långsamt och att de har en snabbare lösning i en lager 1-blockkedja kommer att offra viss säkerhet eller decentralisering för att uppnå det. Även om en sådan avvägning för en blockkedja designad för andra användningsområden kan vara rimlig, måste prioritetsordningen för globala pengar vara:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralisering**
 >   * Gör det möjligt att ta bort betrodda parter

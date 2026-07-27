@@ -19,7 +19,7 @@ Přesně takto Bitcoin funguje. Bitcoin je síť lidí, kteří se shodují na s
 Například jedno z pravidel Bitcoinu je: „Nikdy nebude více než 21 milionů bitcoinů.“ Pokud by si někdo vytvořil milion bitcoinů navíc pro sebe, bylo by mu to k ničemu, protože by byl automaticky odhalen a odmítnut ostatními. To je to, co dělá Bitcoin tak odolným.
 
 
-> **Info**
+> **Dark**
 >
 > Nezáleží na tom, kdo jste nebo odkud pocházíte: pokud vstoupíte do světa Bitcoinu, musíte hrát podle stejných pravidel jako všichni ostatní.
 
@@ -84,7 +84,11 @@ Každý účastník tohoto decentralizovaného orchestru hraje zásadní roli p�
 
 #### Aktivita: Konsenzus
 
+
 https://qr.myfirstbitcoin.org/consensus.pdf
+
+_Activity: Consensus_
+
 
 Toto je skupinové cvičení, při kterém účastníci na vlastní kůži poznají, jak obtížné je synchronizovat činnost ve skupině bez určeného vůdce. Cílem je, aby účastníci pochopili, jak se v Bitcoinu dosahuje shody (konsenzu).
 

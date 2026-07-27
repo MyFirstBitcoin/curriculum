@@ -12,7 +12,11 @@ Jakmile je transakce zahrnuta do bloku, je potvrzena a trvale zaznamenána na bi
 
 #### Aktivita: Prozkoumání mempoolu
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Tato aktivita seznamuje studenty s bezplatným a open-source nástrojem, který nevyžaduje technické dovednosti. Je užitečný pro všechny úrovně bitcoinových uživatelů, od začátečníků po pokročilé.**
 

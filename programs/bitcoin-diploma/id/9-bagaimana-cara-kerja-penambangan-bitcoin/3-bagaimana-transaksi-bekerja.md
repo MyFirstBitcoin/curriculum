@@ -15,7 +15,7 @@ Sekarang setelah Anda memahami kunci publik dan privat, serta peran node dan pen
 Setelah dimasukkan ke dalam blok, transaksi tersebut dikonfirmasi. Adam tidak dapat membelanjakan bitcoin itu lagi, dan Geri dapat membelanjakan yang ia terima dalam transaksi baru.
 
 
-> **Note**
+> **Light**
 >
 > Transaksi & biaya dipilih → Ditandatangani oleh dompet dan dikirim → Didistribusikan oleh node → Penambang menambahkan transaksi ke template blok → Penambang memenangkan kontes Proof-of-Work → Blok baru divalidasi → Blok baru didistribusikan oleh node
 
@@ -23,4 +23,4 @@ Setelah dimasukkan ke dalam blok, transaksi tersebut dikonfirmasi. Adam tidak da
 ###### Sumber daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Tonton video ini tentang Node Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

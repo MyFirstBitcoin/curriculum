@@ -25,7 +25,7 @@ Hãy cân nhắc các ví dụ thực tế như mua những thứ thiết yếu 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Mở rộng thảo luận cho cả nhóm bằng cách chia sẻ và so sánh các danh sách để tìm ra năm lý do quan trọng nhất cho việc cần tiền. Xác định những ý tưởng chung trong cả lớp. Hãy suy ngẫm về những ý tưởng độc đáo của riêng bạn mà không nằm trong danh sách nhưng vẫn có giá trị, và ghi chú lại.
 

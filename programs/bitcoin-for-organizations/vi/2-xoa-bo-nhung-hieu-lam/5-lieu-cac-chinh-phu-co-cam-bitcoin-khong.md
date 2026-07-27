@@ -78,7 +78,7 @@ Vấn đề tiếp theo mà kẻ tấn công gặp phải là làm thế nào đ
 Có khả năng khi rõ ràng mạng lưới đang bị tấn công, các nhà phát triển Bitcoin sẽ 'hard-fork' phần mềm Bitcoin, để sổ cái được 'fork' tách khỏi điểm mà các mục gian lận được tạo ra bởi kẻ tấn công. Phần lớn các node sẽ triển khai phiên bản phần mềm đã sửa đổi và nỗ lực của kẻ tấn công sẽ bị bỏ qua.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Một mô tả vui nhộn hơn từ Andreas Antonopoulos về khả năng tấn công 51% do nhà nước tài trợ.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### Liệu việc tự lưu trữ Bitcoin và giao dịch ngang hàng có thể bị cấm không?
@@ -106,7 +106,7 @@ Chúng ta cũng nên kỳ vọng rằng một số quốc gia sẽ ban hành cá
 Luật Cờ Đỏ của Vương quốc Anh vào cuối thế kỷ 19 là một ví dụ lịch sử về một đạo luật quá nghiêm ngặt đã bị bãi bỏ sau đó.
 
 
-> **Note**
+> **Light**
 >
 > Đến giữa thế kỷ 19, ngành xe ngựa và đặc biệt là ngành đầu máy xe lửa phải đối mặt với mối đe dọa tiềm tàng từ sự phát triển đột phá của ô tô. Họ lo sợ ô tô sẽ thay thế mình.**Vì vậy, họ đã nỗ lực thuyết phục chính phủ ban hành các luật nghiêm ngặt, thực chất là nhằm kìm hãm sự phát triển của công nghệ mới này.**
 >
@@ -144,7 +144,7 @@ Tất nhiên, việc đổ lỗi cho Bitcoin gây ra khủng hoảng tiền phá
 Cũng cần lưu ý rằng Bitcoin càng mạnh mẽ hơn khi bị tấn công. Bởi vì những cuộc tấn công này giúp xua tan những huyền thoại do những người phản đối lan truyền rằng Bitcoin mong manh và dễ bị tổn thương. Vì vậy, không chỉ nên kỳ vọng các chính phủ sẽ quản lý quá mức Bitcoin, mà chúng ta còn nên hoan nghênh điều đó.
 
 
-> **Note**
+> **Light**
 >
 > **Các chính phủ có thể sẽ học được về khả năng chống chịu của Bitcoin bằng cách cố gắng kìm hãm nó và chứng kiến điều gì xảy ra khi họ tấn công mạng lưới.** Họ có thể sẽ nhận ra rằng, với Bitcoin, hơn bất kỳ loại tài sản nào trong lịch sử, dòng vốn sẽ chảy về những quốc gia đối xử tốt nhất với nó. Do đó, khi mạng lưới Bitcoin phát triển, sẽ ngày càng rõ ràng rằng những quốc gia lựa chọn đón nhận nó, thay vì chống lại, sẽ có nhiều khả năng trở thành người chiến thắng.
 

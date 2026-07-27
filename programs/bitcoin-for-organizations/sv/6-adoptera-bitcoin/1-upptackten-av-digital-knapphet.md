@@ -88,7 +88,7 @@ Rogue ger då upp. Varför?
 Rogue inser att de inte har tillräckligt med hashkraft för att genomföra dubbelspenderingen, trots att de kontrollerar 36% av hashkraften i Bitcoin. För att lyckas måste de bryta ytterligare fyra block för att komma före den ärliga kedjan. Trots sin enorma datorkraft och kontroll över 36% av nätverket är Rogues chans till framgång bara 0,100113.
 
 
-> **Info – Spelteorin träder in**
+> **Dark – Spelteorin träder in**
 >
 > Rogues odds för framgång är usla, men det blir värre. För varje minut de fortsätter försöket förbrukar Rogue enorma mängder el. Allt detta kommer att vara förgäves. Dessutom, för varje block de misslyckas med att bryta ärligt, går Rogue miste om blockbelöningen, som för närvarande är 3,125 mynt per block, värderat till över 3 000 000 kr just nu.
 >

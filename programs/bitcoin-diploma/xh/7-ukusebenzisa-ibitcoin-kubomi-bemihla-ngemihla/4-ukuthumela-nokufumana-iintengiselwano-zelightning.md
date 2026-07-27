@@ -58,13 +58,21 @@ Iintengiselwano ezikwikhonkco (on-chain) zenzeka ngqo kwi-blockchain yeBitcoin k
 
 ![Lightning Network Map](https://cdn.sanity.io/images/vje9ehw2/staging/5a760247cf4c32074c62f40aea8dc21095882740-504x245.svg)
 
+
 https://mempool.space/graphs/lightning/nodes-channels-map
+
+_Mempool.space Nodes Channels Map_
+
 
 Le yimaphu yeLightning Network yonke. Ngenxa yamawaka abantu abaqhuba ii-node zeLightning, unokuthumela ii-sats kuye nawuphi na umsebenzisi one-wallet yeBitcoin Lightning, naphi na emhlabeni. Intlawulo iya kufika ngemizuzwana embalwa kwaye iya kubiza iisenti ezimbalwa kuphela.**Zama ngokwakho!**
 
 #### Umsebenzi: Lightning Relay Race
 
+
 https://qr.myfirstbitcoin.org/lightning.pdf
+
+_Activity: Lightning_
+
 
 **Lo ngumsebenzi owenziwa ngesandla apho abafundi bathumela kwaye bamkela ii-sats zokwenene besebenzisa i-Lightning Network.**
 

@@ -10,6 +10,6 @@ Bitcoin nu face excepție. După cum a spus celebrul Andreas Antonopoulos, „Bi
 Unul dintre aceste straturi se numește **Lightning Network**. Este ca o autostradă super-rapidă pentru Bitcoin, ajutând oamenii să trimită și să primească bitcoin rapid și cu taxe foarte mici. Le permite utilizatorilor să facă tranzacții instantanee și mici peste rețeaua obișnuită Bitcoin. Astfel, să cumperi o cafea sau să plătești un prieten devine simplu și rapid! Desigur, ca la orice, există și compromisuri.
 
 
-> **Info**
+> **Dark**
 >
 > Un satoshi este cea mai mică subdiviziune a unui bitcoin. Așa cum un euro poate fi împărțit în cenți, un bitcoin poate fi împărțit în unități mai mici numite satoshi. Un bitcoin este egal cu 100 de milioane de satoshi, ceea ce face ca satoshi să fie cele mai mici părți de valoare din sistemul Bitcoin. Când vorbim despre trimiterea de bitcoin prin Lightning Network, vom spune că „trimitem sats”, prescurtare de la satoshi.

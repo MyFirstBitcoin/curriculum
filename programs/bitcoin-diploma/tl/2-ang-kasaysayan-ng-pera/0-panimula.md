@@ -11,7 +11,11 @@ Sa modyul na ito, maglalakbay tayo sa kasaysayan upang maranasan mismo ang pag-u
 
 #### Gawain: Iteratibong Laro ng Barter
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Ito ay isang ehersisyo sa klase na layuning palalimin ang iyong pag-unawa sa mga konsepto ng barter. Ang pakikilahok ay makakatulong sa iyo na makita kung paano natural na umuunlad ang pera sa malayang pamilihan.
 

@@ -65,7 +65,7 @@ Hier kommt die Zentralbank als Kreditgeber letzter Instanz ins Spiel, indem sie 
 1. **Banken zahlen Zinsen aus den Zinsen, die sie durch Kreditvergabe erhalten** (9 % - 5 % = 4 %) und behalten den Rest als Gewinn
 
 
-> **Note – Wie Banken Geld schaffen**
+> **Light – Wie Banken Geld schaffen**
 >
 > Geschäftsbanken schaffen neues Fiatgeld, wenn sie Kredite vergeben.
 >
@@ -124,7 +124,7 @@ Diese Gruppen profitieren auf unterschiedliche Weise und schaffen ein komplexes 
 Am Ende inszenieren die Strippenzieher des Fiat-Systems eine Show, bei der wenige stark profitieren und viele zurückbleiben und sich fragen, wie sie jemals aufholen sollen.
 
 
-> **Note – Die Rolle der Zentralbanken**
+> **Light – Die Rolle der Zentralbanken**
 >
 > Zentralbanken gestalten still und leise, wie eine Wirtschaft funktioniert. Ihre offizielle Aufgabe ist es, Stabilität und Integrität zu gewährleisten, aber ihre Methoden zeigen eine dunklere Seite.
 >
@@ -156,7 +156,7 @@ Zentralbanken und Regierungen können geld- und fiskalpolitische Instrumente ein
 * Steuern erhöhen
 
 
-> **Note – Zu groß, um zu scheitern**
+> **Light – Zu groß, um zu scheitern**
 >
 > „Too big to fail“ bezeichnet Finanzinstitute, die so groß und miteinander vernetzt sind, dass ihr Scheitern katastrophale Folgen für das gesamte Finanzsystem hätte. Während der Finanzkrise 2008 galten mehrere große Banken als „too big to fail“, was dazu führte, dass die US-Regierung eingriff und Rettungspakete bereitstellte, um deren Zusammenbruch zu verhindern.
 >
@@ -169,7 +169,11 @@ Zu wissen, wie diese Maßnahmen funktionieren, ist entscheidend, um die Grenzen 
 
 #### Aktivität: Teilreserve-Bankwesen
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Dies ist eine Übung im Unterricht, bei der individuelle Handlungen von Menschen und Banken anhand des Teilreserve-Bankwesens untersucht werden. Ziel ist es, aus erster Hand zu erleben, wie dieses Instrument die Geldmenge erhöht.
 

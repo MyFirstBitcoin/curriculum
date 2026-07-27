@@ -65,7 +65,7 @@ Qui entra in gioco la banca centrale come prestatore di ultima istanza, fornendo
 1. **Le banche pagano gli interessi con quelli ricevuti dai prestiti** (9% - 5% = 4%) e tengono il resto come profitto
 
 
-> **Note – Come le banche creano denaro**
+> **Light – Come le banche creano denaro**
 >
 > Le banche commerciali creano nuovo denaro fiat quando concedono prestiti.
 >
@@ -124,7 +124,7 @@ Questi gruppi ne traggono beneficio in vari modi, creando una rete complessa di 
 Alla fine, i burattinai del sistema fiat orchestrano uno spettacolo in cui pochi traggono grandi benefici a spese dei molti, che restano a chiedersi come potranno mai recuperare.
 
 
-> **Note – Il Ruolo delle Banche Centrali**
+> **Light – Il Ruolo delle Banche Centrali**
 >
 > Le banche centrali plasmano silenziosamente il funzionamento di un'economia. Il loro compito ufficiale è garantire stabilità e integrità, ma i loro metodi rivelano un lato più oscuro.
 >
@@ -156,7 +156,7 @@ Le banche centrali e i governi possono utilizzare strumenti di politica monetari
 * Aumentare le tasse
 
 
-> **Note – Troppo grande per fallire**
+> **Light – Troppo grande per fallire**
 >
 > “Too big to fail” si riferisce a istituzioni finanziarie così grandi e interconnesse che il loro fallimento avrebbe ripercussioni catastrofiche su tutto il sistema finanziario. Durante la crisi finanziaria del 2008, diverse grandi banche furono considerate “too big to fail”, portando il governo degli Stati Uniti a intervenire e fornire salvataggi per evitarne il collasso.
 >
@@ -169,7 +169,11 @@ Sapere come funzionano queste politiche è fondamentale per comprendere i limiti
 
 #### Attività: Riserva Frazionaria Bancaria
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Questo è un esercizio di classe che esplora le azioni individuali di persone e banche utilizzando la pratica della riserva frazionaria bancaria. L'obiettivo è sperimentare in prima persona come questo strumento aumenti l'offerta di moneta.
 

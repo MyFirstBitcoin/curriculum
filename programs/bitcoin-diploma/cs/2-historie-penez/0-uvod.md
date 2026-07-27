@@ -11,7 +11,11 @@ V tomto modulu se vydáme na cestu časem a zažijeme vývoj peněz na vlastní 
 
 #### Aktivita: Iterativní směnná hra
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Toto je třídní cvičení, které má zvýšit vaše pochopení konceptů směny. Účast vám pomůže pochopit, jak peníze přirozeně vznikají na svobodných trzích.
 

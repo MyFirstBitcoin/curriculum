@@ -1,6 +1,6 @@
 # 2.2 Bitcoin tidak baik untuk alam sekitar
 
-> **Note**
+> **Light**
 >
 > * Bitcoin sering dikritik kerana menggunakan terlalu banyak tenaga.
 > * Pada tahun 2017, Forum Ekonomi Dunia (WEF) menerbitkan sebuah artikel di laman webnya yang mendakwa bahawa 'menjelang 2020, Bitcoin akan menggunakan lebih banyak tenaga daripada yang mampu dihasilkan oleh dunia'.

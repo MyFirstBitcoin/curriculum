@@ -39,7 +39,7 @@ Wandeln Sie schließlich die Beobachtungen aus der obigen Übung in für Ihre Or
 
 
 
-> **Info – Beispiele**
+> **Dark – Beispiele**
 >
 > * Risiko, dass Bitcoin zum primären, globalen Reservevermögenswert der Staatskassen wird
 > * Risiko, dass das Bitcoin-Netzwerk zur Abwicklungsschicht für internetbasierten Handel wird

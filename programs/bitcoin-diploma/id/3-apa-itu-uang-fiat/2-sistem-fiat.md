@@ -65,7 +65,7 @@ Di sinilah bank sentral berperan sebagai pemberi pinjaman terakhir, menyediakan 
 1. **Bank membayar bunga dari bunga yang diterima melalui pinjaman** (9% - 5% = 4%) dan menyimpan sisanya sebagai keuntungan
 
 
-> **Note – Bagaimana Bank Menciptakan Uang**
+> **Light – Bagaimana Bank Menciptakan Uang**
 >
 > Bank komersial menciptakan uang fiat baru ketika mereka memberikan pinjaman.
 >
@@ -124,7 +124,7 @@ Kelompok-kelompok ini diuntungkan dengan berbagai cara, menciptakan jaringan kon
 Pada akhirnya, para dalang sistem fiat mengatur pertunjukan di mana segelintir orang sangat diuntungkan dengan mengorbankan banyak orang, yang akhirnya bertanya-tanya bagaimana mereka bisa mengejar ketertinggalan.
 
 
-> **Note – Peran Bank Sentral**
+> **Light – Peran Bank Sentral**
 >
 > Bank sentral diam-diam membentuk cara kerja sebuah ekonomi. Tugas resmi mereka adalah memastikan stabilitas dan integritas, tetapi metode mereka mengungkap sisi yang lebih gelap.
 >
@@ -156,7 +156,7 @@ Bank sentral dan pemerintah dapat menggunakan alat kebijakan moneter dan fiskal 
 * Menaikkan Pajak
 
 
-> **Note – Terlalu Besar untuk Gagal**
+> **Light – Terlalu Besar untuk Gagal**
 >
 > "Terlalu besar untuk gagal" mengacu pada lembaga keuangan yang begitu besar dan saling terhubung sehingga kegagalannya akan menimbulkan dampak buruk bagi seluruh sistem keuangan. Selama krisis keuangan 2008, beberapa bank besar dianggap "terlalu besar untuk gagal," sehingga pemerintah AS turun tangan dan memberikan bailout untuk mencegah keruntuhan mereka.
 >
@@ -169,7 +169,11 @@ Mengetahui bagaimana kebijakan-kebijakan ini bekerja sangat penting untuk memaha
 
 #### Aktivitas: Fractional Reserve Banking
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Ini adalah latihan kelas yang mengeksplorasi tindakan individu oleh orang-orang dan bank dengan menggunakan praktik fractional reserve banking. Tujuannya adalah untuk mengalami secara langsung bagaimana alat ini meningkatkan jumlah uang beredar.
 

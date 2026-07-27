@@ -128,7 +128,7 @@ Tính linh hoạt về địa lý của việc đào Bitcoin cũng rất quan tr
 
 
 
-> **Info – Xóa bỏ việc đốt bỏ khí? **
+> **Dark – Xóa bỏ việc đốt bỏ khí?**
 >
 > Việc sử dụng năng lượng thải, như khí tự nhiên bị đốt bỏ, không chỉ tiết kiệm chi phí mà còn giảm bớt các chỉ trích về môi trường. Đốt bỏ khí xảy ra khi khí tự nhiên dư thừa (methane) bị đốt tại các điểm khoan dầu do không có hạ tầng để thu gom và bán. Theo một số nghiên cứu5, methane giữ nhiệt gấp khoảng 120 lần CO2, do đó cần phải đốt bỏ để chuyển hóa thành CO2. Tuy nhiên, việc đốt bỏ không hiệu quả 100% và vẫn cho phép methane thoát ra khí quyển. Các thợ đào Bitcoin có thể sử dụng nguồn năng lượng này để vận hành thiết bị, giúp giảm phát thải khí nhà kính từ việc đốt bỏ. Khí tự nhiên được đốt trong máy phát điện để tạo ra điện, cung cấp cho các dàn đào di động đặt trực tiếp tại điểm khoan.
 >
@@ -178,7 +178,7 @@ Khi ngành công nghiệp trưởng thành, sự hợp tác lớn hơn với cá
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin không lãng phí năng lượng. Nó sử dụng năng lượng bị lãng phí.**
 >

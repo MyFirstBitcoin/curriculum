@@ -11,7 +11,11 @@ A wannan babi, za mu fara tafiya cikin tarihi, muna ganin yadda kudi suka samo a
 
 #### Aiki: Wasan Musayar Kaya Mai Maimaici
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Wannan aikin aji ne da aka tsara don ƙara fahimtarka game da tsarin musayar kaya. Shiga cikin wannan aiki zai taimaka maka ganin yadda kudi ke fitowa da kansu a kasuwanni masu 'yanci.
 

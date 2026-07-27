@@ -10,6 +10,6 @@ Bitcoin är inget undantag. Som Andreas Antonopoulos berömt uttryckte det: ”B
 Ett av dessa lager kallas **Lightning-nätverket**. Det är som en supersnabb motorväg för Bitcoin, som hjälper människor att skicka och ta emot bitcoin snabbt och med mycket låga avgifter. Det gör det möjligt för användare att göra omedelbara, små transaktioner ovanpå det vanliga Bitcoin-nätverket. Detta gör det enkelt och snabbt att köpa en kaffe eller betala en vän! Självklart, som med allt, innebär detta vissa kompromisser.
 
 
-> **Info**
+> **Dark**
 >
 > En satoshi är den minsta enheten av bitcoin. Precis som en krona kan delas upp i ören, kan en bitcoin delas upp i mindre enheter som kallas satoshis. En bitcoin är lika med 100 miljoner satoshis, vilket gör satoshis till de allra minsta värdebitarna i Bitcoin-systemet. När vi pratar om att skicka bitcoin via Lightning-nätverket, säger vi att vi ”skickar sats”, vilket är en förkortning av satoshis.

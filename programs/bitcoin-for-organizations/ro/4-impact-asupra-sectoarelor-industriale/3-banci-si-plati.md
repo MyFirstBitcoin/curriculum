@@ -161,7 +161,11 @@ Este probabil să existe un set mai divers de furnizori de plăți, inclusiv uni
 
 Soluțiile Bitcoin și stablecoin oferă o reducere semnificativă a fricțiunilor și costurilor asociate plăților externe și remitențelor internaționale. Aceasta poate reprezenta o amenințare semnificativă pentru veniturile băncilor și furnizorilor de servicii de plată.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 Dimensiunea piețelor valutare a crescut de la practic zero de la izbucnirea celui de-al Doilea Război Mondial la 7,5 trilioane USD pe zi la sfârșitul anului 2022, cu aproape toată această creștere având loc după sfârșitul sistemului de schimb Bretton Woods în 1971. Băncile și furnizorii de servicii de plată obțin venituri semnificative din furnizarea de servicii pe aceste piețe.
 

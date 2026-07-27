@@ -30,7 +30,7 @@ Jika kamu ingin membeli mobil baru, kamu bisa membandingkan harga dari berbagai 
 Ketiga fungsi inilah yang memungkinkan ekonomi menjadi kompleks dan dinamis. Tanpa uang, akan jauh lebih sulit untuk membeli dan menjual barang serta jasa, dan ekonomi kita akan jauh kurang berkembang.
 
 
-> **Info**
+> **Dark**
 >
 > Orang memahami nilai sesuatu ketika ada harga yang dinyatakan dalam uang.
 

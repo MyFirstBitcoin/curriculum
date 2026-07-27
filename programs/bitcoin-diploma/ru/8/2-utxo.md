@@ -27,4 +27,4 @@
 ###### Ресурсы
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Посмотрите «How Bitcoin Works under the Hood»](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

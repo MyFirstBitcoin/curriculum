@@ -64,26 +64,24 @@ This is where the central bank comes in as a lender of last resort, providing ne
 1. **Banks lend this money to borrowers at a higher interest rate** (let’s say 9%)
 1. **Banks pay interest from interest received by lending** (9% - 5% = 4%) and keep the rest as profit
 
+###### How Banks Create Money
 
-> **Note – How Banks Create Money**
->
-> Commercial banks create new fiat money when they issue loans.
->
-> 1. **Boom**
->   * Money supply expands as banks create new loans
->   * People and businesses borrow and spend more
->   * Demand increases and prices rise
->   * Investments increase, often beyond what the real economy can support
-> 1. **Bust**
->   * Demand slows and investments begin to fail
->   * Asset prices fall
->   * Borrowers struggle to repay their loans
->   * Banks face losses as collateral loses value
-> 1. **Central bank intervention**
->   * Central banks create new money to support banks and the financial system
-> 1. **Cycle repeats**
->   * Credit expands again, starting a new boom phase
+Commercial banks create new fiat money when they issue loans.
 
+1. **Boom**
+  * Money supply expands as banks create new loans
+  * People and businesses borrow and spend more
+  * Demand increases and prices rise
+  * Investments increase, often beyond what the real economy can support
+1. **Bust**
+  * Demand slows and investments begin to fail
+  * Asset prices fall
+  * Borrowers struggle to repay their loans
+  * Banks face losses as collateral loses value
+1. **Central bank intervention**
+  * Central banks create new money to support banks and the financial system
+1. **Cycle repeats**
+  * Credit expands again, starting a new boom phase
 
 ###### The Imaginary Bikes
 
@@ -95,7 +93,7 @@ But one day, everyone decides they want to ride at the same time. They all show 
 
 Modern banking works in a similar way. Banks keep only a small portion of the money people deposit and lend the rest to others. This means banks create many more claims to money than the actual money they hold.
 
-Most of the time this system works because people do not withdraw their money at the same time. But if many people try to withdraw their money at once, the bank cannot fulfil all those promises. This is called a bank run.
+Most of the time this system works because people do not withdraw their money at the same time. But if many people try to withdraw their money at once, the bank cannot fulfill all those promises. This is called a bank run.
 
 When this happens, the financial system can become unstable, and the people who often suffer the most are those with the least financial protection.
 
@@ -117,21 +115,19 @@ Banks and other financial institutions do not directly control the fiat system b
 
 They also benefit a lot from the fiat system. Because their savings are mostly held in assets, their purchasing power actually increases as the currency (the unit of account) loses value. In addition, they use their appreciating assets as collateral to accumulate cheap debt which they further invest in assets. Since they are “closer to the money printer,” they barely feel the consequences of currency depreciation.
 
-###### How they benefit
+##### How they benefit
 
 These groups benefit in various ways, creating a complex web of control and influence. The government gets access to funding and delays the need to be fiscally responsible, wealthy individuals and banks make their profit effortlessly, and the central bank keeps the show running while feigning independence. Meanwhile, the rest of the population bears the brunt of the whole scheme, as their cash savings slowly melt year after year.
 
 In the end, the fiat system's puppeteers orchestrate a show where a few benefit greatly at the expense of the many, who are left to wonder how they will ever catch up.
 
+##### The Role of Central Banks
 
-> **Note – The Role of Central Banks**
->
-> Central banks quietly shape how an economy works. Their oﬃcial job is to ensure stability and integrity, but their methods reveal a more sinister side.
->
-> Central banks work closely with governments and pull the strings of monetary policy, controlling the money supply with tools like interest rates. In times of crisis, they print money out of thin air and inject it into the economy through commercial banks, making it seem like everything is okay.
->
-> They’re not just neutral overseers; central banks regulate commercial banks, set the rules of thegame, and step in to rescue them when they are in trouble acting as lenders of last resort. This web of control, while appearing protective, makes the economy and banks even more dependent on them.
+Central banks quietly shape how an economy works. Their oﬃcial job is to ensure stability and integrity, but their methods reveal a more sinister side.
 
+Central banks work closely with governments and pull the strings of monetary policy, controlling the money supply with tools like interest rates. In times of crisis, they print money out of thin air and inject it into the economy through commercial banks, making it seem like everything is okay.
+
+They’re not just neutral overseers; central banks regulate commercial banks, set the rules of the game, and step in to rescue them when they are in trouble acting as lenders of last resort. This web of control, while appearing protective, makes the economy and banks even more dependent on them.
 
 Understanding where trillions of dollars in stimulus funds come from and who gets to decide how they are allocated is critical for comprehending the broader financial system. Governments use several tools to manage the money supply at specific moments in time.
 
@@ -156,11 +152,9 @@ Central banks and governments can use monetary and fiscal policy tools to influe
 * Increase Taxes
 
 
-> **Note – Too Big To Fail**
+> **Light**
 >
-> ”Too big to fail” refers to financial institutions so large and interconnected that their failure would have catastrophic repercussions for the entire financial system. During the 2008 financial crisis, several large banks were deemed “too big to fail,” leading the U.S. government to intervene and provide bailouts to prevent their collapse.
->
-> During the 2008 financial crisis, the failure of investment bank Lehman brothers set oﬀ a domino eﬀect which led to the near-collapse of insurance giant AIG and to a massive drop in the stock market. The US government had to intervene and provide bailouts to other major financial institutions to avert further chaos and safeguard the broader economy. This entrenched “too big to fail” as a concept, which was ultimately codified in international banking policy in Basel III (2011) with the creation of the G-SIBs: Global Systematically Important Banks.
+> **Too big to fail** refers to financial institutions so large and interconnected that their failure would have catastrophic repercussions for the entire financial system. During the 2008 financial crisis, several large banks were deemed “too big to fail,” leading the U.S. government to intervene and provide bailouts to prevent their collapse. During the 2008 financial crisis, the failure of investment bank Lehman brothers set oﬀ a domino eﬀect which led to the near-collapse of insurance giant AIG and to a massive drop in the stock market. The US government had to intervene and provide bailouts to other major financial institutions to avert further chaos and safeguard the broader economy. This entrenched “too big to fail” as a concept, which was ultimately codified in international banking policy in Basel III (2011) with the creation of the G-SIBs: Global Systematically Important Banks.
 
 
 Exchange rate policies, supply shocks, and price controls serve as additional tools to regulate the money supply and impact trade and the economy. While these policies aim in theory to stabilize prices and control inflation, the intervention often leads to boom-and-bust cycles, which wipe out many businesses and the savings of many families.
@@ -169,7 +163,11 @@ Knowing how these policies function is vital for understanding the limitations o
 
 #### Activity: Fractional Reserve Banking
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 This is a class exercise exploring individual actions by people and banks using the practice of fractional reserve banking. The intent is to experience firsthand how this tool increases the money supply.
 

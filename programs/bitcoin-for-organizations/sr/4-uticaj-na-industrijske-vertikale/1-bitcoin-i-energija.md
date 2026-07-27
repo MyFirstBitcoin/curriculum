@@ -128,7 +128,7 @@ Rudarenje Bitcoina nudi snažan ekonomski podsticaj za razvoj obnovljive energij
 
 
 
-> **Info – Eliminacija spaljivanja gasa?**
+> **Dark – Eliminacija spaljivanja gasa?**
 >
 > Korišćenje otpadne energije, kao što je spaljivanje prirodnog gasa, ne samo da štedi novac već i ublažava ekološke kritike. Spaljivanje se dešava kada se višak prirodnog gasa (metana) sagoreva na naftnim bušotinama jer ne postoji infrastruktura za njegovo hvatanje i prodaju. Prema nekim studijama5, metan zadržava oko 120 puta više toplote od CO2, zbog čega se zahteva njegovo sagorevanje, čime se efektivno pretvara u CO2. Međutim, spaljivanje nije 100% efikasno i i dalje dozvoljava ispuštanje metana u atmosferu. Rudari Bitcoina mogu koristiti ovu energiju za napajanje svojih operacija, čime se smanjuje emisija gasova sa efektom staklene bašte iz spaljivanja. Prirodni gas se sagoreva u generatorima za proizvodnju električne energije, koja napaja prenosive rudarske uređaje postavljene direktno na mestu bušotine.
 >
@@ -178,7 +178,7 @@ Kako industrija sazreva, veća saradnja sa dobavljačima obnovljive energije i o
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin ne rasipa energiju. On koristi rasipanu energiju.**
 >

@@ -12,7 +12,11 @@ Xa intengiselwano ifakwe kwibhloko, iqinisekisiwe kwaye igcinwa ngonaphakade kwi
 
 #### Umsebenzi: Ukuhlola iMempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Lo msebenzi wazisa abafundi kwisixhobo sasimahla nesivulekileyo esingafuni zakhono zobugcisa ukuze sisetyenziswe. Sisebenziseka kubo bonke abasebenzisi beBitcoin, ukusuka kwabasaqalayo ukuya kwabanezakhono.**
 

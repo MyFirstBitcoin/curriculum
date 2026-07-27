@@ -4,7 +4,7 @@ Ovaj vodič objašnjava kako da čitate i koristite planove lekcija u Bitcoin fo
 
 #### Korišćenje planova lekcija
 
-Svaki plan lekcije u Bitcoin for Juniors je strukturisano uputstvo. To nije skripta koju morate pratiti reč po reč. Nastavnici su ohrabreni da prilagode, pojednostave, prošire ili izmene aktivnosti u zavisnosti od svojih učenika, okruženja i vremenskih ograničenja. Planovi su osmišljeni da podrže jasnoću i samopouzdanje, posebno za nastavnike koji su novi u podučavanju o novcu ili konceptima Bitcoina.
+Svaki plan lekcije u Bitcoin for Juniors je strukturisano uputstvo. Nije skripta koju treba pratiti doslovno. Nastavnici su ohrabreni da prilagode, pojednostave, prošire ili izmene aktivnosti u zavisnosti od svojih učenika, okruženja i vremenskih ograničenja. Planovi su osmišljeni da podrže jasnoću i samopouzdanje, posebno za nastavnike koji su novi u podučavanju pojmova o novcu ili Bitcoinu.
 
 Prilagođavanja su očekivana. Olakšajte učenje umesto da držite predavanje. Okvir daje strukturu. Nastavnik daje procenu i kontekst.
 
@@ -18,7 +18,7 @@ Aktivnosti su kategorizovane radi lakšeg planiranja. Na primer: simulaciona igr
 
 ##### Trajanje
 
-Navedeno vreme je približno. Neke grupe će raditi brže. Drugima će biti potrebno više diskusije. Nastavnici treba da tretiraju trajanje kao fleksibilan vodič, a ne kao strogo ograničenje.
+Naznačeno vreme je približno. Neke grupe će raditi brzo. Drugima će biti potrebno više diskusije. Nastavnici treba da tretiraju trajanje kao fleksibilan vodič, a ne kao strogo ograničenje.
 
 ##### Grupisanje
 
@@ -32,23 +32,23 @@ Grupisanje pomaže u uspostavljanju željene dinamike učenja. Rad u grupama obi
 
 #### Ishodi učenja
 
-Ishodi učenja definišu šta učenici treba da znaju, razumeju ili mogu da urade na kraju aktivnosti. Ovi ishodi su ključni. Oni pomažu nastavniku da ostane fokusiran na cilj, a ne samo na završavanje zadatka. Ako je vreme ograničeno, dajte prednost ishodu učenja u odnosu na završavanje svakog koraka.
+Ishodi učenja definišu šta učenici treba da znaju, razumeju ili mogu da urade na kraju aktivnosti. Ovi ishodi su ključni. Pomažu nastavniku da ostane fokusiran na cilj, a ne samo na završavanje zadatka. Ako je vreme ograničeno, dajte prednost ishodu učenja u odnosu na završavanje svakog koraka.
 
 #### Materijali i oprema
 
 ##### Materijali
 
-Materijali su potrošni ili praktični predmeti koje učenici direktno koriste. Primeri: radni listovi, odštampane kartice, olovke, perle, lepljive beleške, posteri. To su predmeti koje učenici manipulišu tokom aktivnosti.
+Materijali su potrošni ili praktični predmeti koje učenici direktno koriste. Primeri: radni listovi, odštampane kartice, olovke, perle, samolepljive beleške, posteri. To su predmeti koje učenici manipulišu tokom aktivnosti.
 
 ##### Oprema
 
-Oprema se odnosi na nepotrošne alate ili potrebe prostora. Primeri: tabla, tajmer, projektor, otvoren prostor u učionici. Oprema podržava aktivnost, ali je učenici ne koriste direktno na isti način kao materijale.
+Oprema se odnosi na ne-potrošne alate ili potrebe prostora. Primeri: tabla, tajmer, projektor, slobodan prostor u učionici. Oprema podržava aktivnost, ali je učenici ne koriste direktno kao materijale.
 
 Ova razlika pomaže nastavnicima da se efikasno pripreme.
 
-#### POSTUPAK
+#### PROCEDURA
 
-Svaka lekcija uključuje proceduralni niz koji vodi tok i tempo časa.
+Svaka lekcija uključuje proceduralni niz za vođenje toka i tempa.
 
 ##### UVOD
 
@@ -68,7 +68,7 @@ Nastavnik ukratko objašnjava svrhu aktivnosti koristeći jezik koji učenici ra
 1. **Model** — Kada je prikladno, demonstrirajte zadatak. Modelovanje smanjuje zabunu i gradi samopouzdanje.
 1. **Izvođenje** — Učenici sprovode aktivnost. Nastavnik posmatra, vodi i podržava, a ne dominira.
 1. **Provera** — Kratko zastanite da proverite razumevanje. Prilagodite ako je potrebno. Ovo sprečava da nesporazumi prerastu u veće probleme.
-1. **Refleksija** — Učenici razgovaraju o tome šta se dogodilo i šta to znači. Refleksija je ključna. Ona pretvara iskustvo u učenje. Podstičite pitanja otvorenog tipa i povezivanje sa stvarnim konceptima.
+1. **Refleksija** — Učenici diskutuju o tome šta se desilo i šta to znači. Refleksija je ključna. Ona pretvara iskustvo u učenje. Podstičite pitanja otvorenog tipa i povezivanje sa stvarnim životom.
 
 ##### NASTAVAK
 
@@ -76,7 +76,7 @@ Kratak završni trenutak. Ojačajte ključnu ideju. Završite pozitivno. Ovo mo�
 
 ##### ZAVRŠETAK
 
-Beleške za nastavnika. Ovaj deo uključuje podsetnike da se prikupe materijali, skladište resursi, vrati učionica u prvobitno stanje i pripremi za sledeći čas.
+Beleške za nastavnika. Ovaj deo uključuje podsetnike da se prikupe materijali, skladište resursi, vrati učionica u prvobitno stanje i pripremi za sledeću sesiju.
 
 #### Upravljanje učionicom
 
@@ -103,7 +103,7 @@ Diferencijacija obezbeđuje pristupačnost za raznovrsne učenike. Prilagođavan
 * Prilagođena dinamika rada
 * Alternativni načini odgovaranja
 
-Pristupačnost može uključivati i razmatranje fizičke bezbednosti i inkluzivne strukture učešća.
+Pristupačnost može uključivati i razmatranje fizičke bezbednosti i inkluzivne strukture za učešće.
 
 #### DODATAK
 

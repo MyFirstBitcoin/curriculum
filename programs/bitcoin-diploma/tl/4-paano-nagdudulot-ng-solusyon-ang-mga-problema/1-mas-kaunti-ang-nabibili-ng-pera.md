@@ -18,7 +18,11 @@ Ipinapakita nito kung paano naaapektuhan ang kakayahang bumili ng mga puwersang 
 
 #### Gawain: Subasta
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Ito ay isang aktibidad sa klase kung saan natututuhan ng mga kalahok mismo kung paano naaapektuhan ng pagdami ng pera ang pagpepresyo. Layunin nitong maunawaan ng mga kalahok ang monetary inflation (hindi price inflation).
 

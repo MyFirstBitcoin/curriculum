@@ -72,4 +72,4 @@ Gelecekteki daha büyük bir ödülden vazgeçip şimdi daha küçük bir ödül
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)
+[▶ Bu kısa videoya göz atın!](https://www.youtube.com/watch?v=InwVM6s7WoY)

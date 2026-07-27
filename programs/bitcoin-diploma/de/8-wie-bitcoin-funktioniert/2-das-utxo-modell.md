@@ -27,4 +27,4 @@ Dein Wallet-Guthaben ist einfach der Gesamtwert aller UTXOs, die du kontrolliers
 ###### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ Sieh dir „How Bitcoin Works under the Hood“ an](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

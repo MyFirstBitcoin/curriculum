@@ -27,4 +27,4 @@
 ###### مصادر
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ شاهد "كيف يعمل البيتكوين خلف الكواليس"](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

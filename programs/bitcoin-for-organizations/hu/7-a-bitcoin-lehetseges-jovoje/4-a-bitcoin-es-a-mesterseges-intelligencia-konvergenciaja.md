@@ -155,7 +155,7 @@ Jelenleg azonban vannak bizonyos korlátok, amelyeket figyelembe kell venni:
 ##### Kockázatok
 
 
-> **Info**
+> **Dark**
 >
 > Kripto spekulánsok egy kísérleti AI botot vettek rá, hogy reklámozzon egy mémcoint. Most 16 000%-ot emelkedett. Az élő kísérletként indult bot – Terminal of Truth – végül egy GOAT nevű mémcoint kezdett el népszerűsíteni.
 >

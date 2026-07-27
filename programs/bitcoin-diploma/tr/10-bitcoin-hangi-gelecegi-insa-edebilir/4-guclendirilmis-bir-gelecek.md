@@ -41,4 +41,4 @@ Bir sonraki adıma hazırsanız, aşağıdaki bölümdeki ek kaynaklara göz at�
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Pozitif değişim için olanaklar çok büyük, bu yüzden daha fazlasını öğrenmek için sizi bu videoyu izlemeye davet ediyoruz.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

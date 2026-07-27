@@ -78,7 +78,7 @@ El problema adicional que tiene el atacante es cómo mantener el control una vez
 Es probable que, una vez que sea obvio que la red está bajo ataque, los desarrolladores de Bitcoin hagan un 'hard-fork' del software, de modo que el libro mayor se 'bifurque' desde el punto en que el atacante generó las entradas fraudulentas. La mayoría de los nodos implementaría la versión revisada del software y los esfuerzos del atacante serían ignorados.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ A more light-hearted description from Andreas Antonopoulos on the possibility of state-sponsored 51% attack.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### ¿Podría prohibirse la autocustodia de Bitcoin y las transacciones entre pares?
@@ -106,7 +106,7 @@ También debemos esperar que algunas naciones promulguen leyes sobre Bitcoin pob
 La Ley de la Bandera Roja del Reino Unido de finales del siglo XIX es un ejemplo histórico de una ley excesivamente severa que posteriormente fue derogada.
 
 
-> **Note**
+> **Light**
 >
 > A mediados del siglo XIX, las industrias de diligencias y especialmente de locomotoras enfrentaban la inminente amenaza del potencial disruptivo del automóvil. Temían que el coche las reemplazara.**Así que trabajaron arduamente para convencer al gobierno de que hiciera leyes estrictas, intentando efectivamente frenar el crecimiento de esta nueva tecnología.**
 >
@@ -144,7 +144,7 @@ Por supuesto, culpar a Bitcoin de causar una crisis de moneda fiduciaria sería 
 También es importante señalar que Bitcoin se fortalece cuando es atacado. Esto se debe a que estos ataques sirven para disipar los mitos perpetuados por los detractores de que Bitcoin es frágil y vulnerable. Así que no solo debemos esperar que los gobiernos sobre-regulen Bitcoin, sino que deberíamos dar la bienvenida a ello.
 
 
-> **Note**
+> **Light**
 >
 > **Es probable que los gobiernos aprendan sobre la antifragilidad de Bitcoin intentando obstaculizarlo y descubriendo lo que sucede cuando atacan la red.**Probablemente verán que, en Bitcoin, más que en cualquier otra clase de activos en la historia, el capital fluirá hacia aquellos países donde se le trate mejor. Por lo tanto, a medida que la red de Bitcoin crezca, debería volverse más obvio que los países que decidan adoptarla, en lugar de combatirla, serán los que tengan más probabilidades de salir ganadores.
 

@@ -30,7 +30,7 @@ Ukuba ubufuna ukuthenga imoto entsha, unokuthelekisa amaxabiso kwiindawo ezahluk
 Ezi misebenzi mithathu zezinto ezenza uqoqosho lube nzima kwaye luguquguquke. Ngaphandle kwemali, kuya kuba nzima kakhulu ukuthenga nokuthengisa iimpahla neenkonzo, kwaye uqoqosho lwethu beluya kuba lungaphuhliswanga kakhulu.
 
 
-> **Info**
+> **Dark**
 >
 > Abantu bayaluqonda ixabiso lento xa inamaxabiso aboniswe ngemali.
 

@@ -65,7 +65,7 @@ Itt lép be a központi bank, mint végső hitelező, új pénzt biztosítva a b
 1. **A bankok a hitelezésből származó kamatból fizetnek kamatot a betétekre** (9% - 5% = 4%) és a maradékot megtartják nyereségként
 
 
-> **Note – Hogyan teremtenek pénzt a bankok**
+> **Light – Hogyan teremtenek pénzt a bankok**
 >
 > A kereskedelmi bankok új fiat pénzt teremtenek, amikor hiteleket bocsátanak ki.
 >
@@ -124,7 +124,7 @@ Ezek a csoportok különböző módokon profitálnak, így egy összetett befoly
 Végül a fiat rendszer bábmesterei olyan előadást rendeznek, ahol kevesen nyernek sokat a többség kárára, akik csak azon tűnődnek, hogyan tudnának valaha is felzárkózni.
 
 
-> **Note – A jegybankok szerepe**
+> **Light – A jegybankok szerepe**
 >
 > A jegybankok csendben formálják a gazdaság működését. Hivatalos feladatuk a stabilitás és a tisztesség biztosítása, de módszereik egy sötétebb oldalt is megmutatnak.
 >
@@ -156,7 +156,7 @@ A jegybankok és a kormányok monetáris és fiskális politikai eszközökkel b
 * Adók emelése
 
 
-> **Note – Túl nagy, hogy elbukjon**
+> **Light – Túl nagy, hogy elbukjon**
 >
 > A „túl nagy, hogy elbukjon” kifejezés olyan pénzügyi intézményekre utal, amelyek annyira nagyok és összefonódottak, hogy a bukásuk katasztrofális következményekkel járna az egész pénzügyi rendszerre nézve. A 2008-as pénzügyi válság idején több nagy bankot is „túl nagynak” minősítettek ahhoz, hogy elbukjon, ezért az amerikai kormány beavatkozott, és mentőcsomagokat nyújtott, hogy megakadályozza az összeomlásukat.
 >
@@ -169,7 +169,11 @@ Ezen intézkedések működésének ismerete elengedhetetlen a központosított,
 
 #### Tevékenység: Részleges tartalékráta-alapú bankrendszer
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Ez egy osztálytermi gyakorlat, amelyben az emberek és a bankok egyéni lépéseit vizsgáljuk a részleges tartalékráta-alapú bankolás során. A cél, hogy első kézből tapasztaljuk meg, hogyan növeli ez az eszköz a pénzkínálatot.
 

@@ -9,12 +9,12 @@ Die Währungen, die wir verwenden, werden immer digitaler; heute existiert nur n
 ##### Ressourcen
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Sieh dir dieses kurze Video an, um mehr über die „Ursprünge des Austauschs“ in der Serie „Die Geschichte des Papiergeldes“ zu erfahren.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Dies ist die zweite Folge mit dem Titel „Nicht nur Nudeln“ aus „Die Geschichte des Papiergeldes“.](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Was passiert, wenn man die Papiergeld-Doktrin wirklich in die Praxis umsetzt? Finde es in der vierten Folge von „Die Geschichte des Papiergeldes“ heraus.](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

@@ -15,7 +15,7 @@ Nu när du förstår publika och privata nycklar, samt rollerna för noder och m
 När transaktionen har inkluderats i ett block är den bekräftad. Adam kan inte spendera den bitcoinen igen, och Gustav kan använda det han fått i en ny transaktion.
 
 
-> **Note**
+> **Light**
 >
 > Transaktion & avgift väljs → Signeras av plånboken och skickas → Distribueras av noder → Miner lägger till transaktionen i blockmallen → Miner vinner Proof-of-Work-tävlingen → Nytt block valideras → Nytt block distribueras av noder
 
@@ -23,4 +23,4 @@ När transaktionen har inkluderats i ett block är den bekräftad. Adam kan inte
 ###### Resurser
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Titta på den här videon om Bitcoin-noder](https://www.youtube.com/watch?v=xc_TxlByxeY)

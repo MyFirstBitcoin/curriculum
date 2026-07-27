@@ -76,7 +76,11 @@ Satu lagi faktor penting yang perlu diingat semasa memilih dompet Bitcoin ialah 
 
 #### Aktiviti: Perbincangan dan penilaian dompet Bitcoin
 
+
 https://bitcoin.org/en/choose-your-wallet
+
+_QR Code: Choose your wallet_
+
 
 Pergi ke laman web berikut: [https://bitcoin.org/en/choose-your-wallet](https://bitcoin.org/en/choose-your-wallet)
 

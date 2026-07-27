@@ -1,35 +1,5 @@
 # 2.4 That's Not Fair (Story Time)
 
-**Activity type** Story time – Guided discussion – Moral reasoning
-
-**Duration** 30–40 minutes
-
-**Grouping** Whole Class
-
-**Description**
-
-Students listen to a teacher-read story in which characters receive rewards that may or may not match their effort. At key moments, the teacher pauses the story to invite discussion and judgment. Learners reflect on fairness, effort, luck, and unequal outcomes, building moral reasoning and vocabulary that supports later lessons on work, reward, and Proof of Work.
-
-##### **Learning Outcomes**
-
-By the end of this activity, learners will:
-
-* Identify situations that feel fair or unfair
-* Connect effort to reward through story events
-* Practice expressing opinions and emotions respectfully
-* Develop early moral reasoning using real examples
-
-##### **Materials**
-
-* One storybook selected by the teacher that includes effort and reward
-* Drawing paper and pencils or crayons
-* **Nice-to-have:** printed images of story characters, sticky notes to mark pause points in the story
-
-##### **Equipment**
-
-* Comfortable reading area (rug, chairs, circle seating)
-* **Nice-to-have**: Visual timer to pace discussion pauses
-
 #### **PROCEDURE**
 
 ##### **OPENING**

@@ -161,7 +161,11 @@ Várhatóan sokkal változatosabb lesz a fizetési szolgáltatók köre, beleér
 
 A Bitcoin és a stabilcoin megoldások jelentősen csökkentik a külföldi fizetésekhez és a nemzetközi átutalásokhoz kapcsolódó súrlódásokat és költségeket. Ez jelentős fenyegetést jelenthet a bankok és fizetési szolgáltatók bevételeire.
 
+
 https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf
+
+_https://www.cls-group.com/media/psfny5au/cls_fx_policy_02_fall_of_bretton_woods_fx_50years_afloat_shapingfx_series_oct2023.pdf_
+
 
 A devizapiacok mérete a második világháború kitörése óta gyakorlatilag a nulláról 2022 végére napi 7,5 billió dollárra nőtt, és szinte az összes növekedés az 1971-es Bretton Woods-i rendszer megszűnése óta történt. A bankok és fizetési szolgáltatók jelentős bevételeket szereznek ezekben a piacokon nyújtott szolgáltatásokból.
 

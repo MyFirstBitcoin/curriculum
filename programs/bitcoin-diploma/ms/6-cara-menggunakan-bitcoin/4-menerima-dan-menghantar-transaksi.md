@@ -19,7 +19,7 @@ Katakanlah Ahmad berhutang 0.5 BTC kepada Eliana dan sudah bersedia untuk membay
 _Penting untuk diingat bahawa setelah transaksi selesai, ia tidak boleh dipulangkan semula._
 
 
-> **Note – Bagaimana Transaksi Bitcoin Berfungsi**
+> **Light – Bagaimana Transaksi Bitcoin Berfungsi**
 >
 > 1. Seseorang meminta satu transaksi
 > 1. Transaksi disiarkan ke komputer P2P (nod)
@@ -30,7 +30,7 @@ _Penting untuk diingat bahawa setelah transaksi selesai, ia tidak boleh dipulang
 
 
 
-> **Note – Menerima Transaksi Bitcoin**
+> **Light – Menerima Transaksi Bitcoin**
 >
 > Untuk menerima bitcoin, anda perlu memberikan alamat awam Bitcoin anda kepada penghantar. Ini adalah rentetan unik huruf dan nombor yang mewakili dompet anda dan digunakan untuk mengenal pasti dompet anda di rangkaian Bitcoin.
 >
@@ -48,7 +48,7 @@ Setelah penghantar mempunyai alamat anda, mereka boleh menghantar bitcoin kepada
 Transaksi disahkan oleh Rangkaian Bitcoin dan biasanya mengambil masa kira-kira 10 minit. Untuk keselamatan yang lebih tinggi, disyorkan untuk menunggu dua pengesahan, yang mengambil masa kira-kira 20 minit.
 
 
-> **Note – Menghantar Transaksi Bitcoin**
+> **Light – Menghantar Transaksi Bitcoin**
 >
 > Untuk menghantar bitcoin, anda memerlukan beberapa perkara: dompet Bitcoin, alamat awam penerima, dan jumlah bitcoin yang ingin dihantar.
 >
@@ -68,7 +68,11 @@ Transaksi disahkan oleh Rangkaian Bitcoin dan biasanya mengambil masa kira-kira 
 
 #### Aktiviti: Transaksi Dalam Tindakan
 
+
 https://qr.myfirstbitcoin.org/transactions.pdf
+
+_Activity: Transactions_
+
 
 **Ini adalah latihan berkumpulan yang memudahkan peranan asas orang yang terlibat dalam satu transaksi Bitcoin.**
 

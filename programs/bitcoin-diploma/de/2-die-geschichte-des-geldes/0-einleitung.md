@@ -11,7 +11,11 @@ In diesem Modul begeben wir uns auf eine Zeitreise und erleben die Entwicklung d
 
 #### Aktivität: Iteratives Tauschspiel
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Dies ist eine Übung für den Unterricht, die dein Verständnis für Tauschkonzepte vertiefen soll. Die Teilnahme hilft dir zu erkennen, wie Geld sich auf freien Märkten ganz natürlich entwickelt.
 

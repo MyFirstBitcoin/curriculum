@@ -88,7 +88,7 @@ Rogue sonra vazgeçer. Neden?
 Rogue, Bitcoin'in hash oranının %36'sını kontrol etmesine rağmen çifte harcama yapmak için yeterli hash oranına sahip olmadığını fark eder. Başarılı olabilmesi için dürüst zincirin önüne geçmek adına dört blok daha kazması gerekir. Ağın %36'sını kontrol etmesine ve büyük bir hesaplama gücüne sahip olmasına rağmen, Rogue'un başarılı olma şansı sadece 0,100113'tür.
 
 
-> **Info – Oyun Teorisi Devreye Giriyor**
+> **Dark – Oyun Teorisi Devreye Giriyor**
 >
 > Rogue'un başarılı olma ihtimali çok düşük, ama daha da kötüleşiyor. Denemeye devam ettiği her dakika, Rogue muazzam miktarda elektrik tüketiyor. Tüm bu çaba boşa gitmiş olacak. Ayrıca, her dürüstçe kazmadığı blok için Rogue, şu anda blok başına 3,125 coin olan ve günümüzde 300.000 €'dan fazla değere sahip olan blok ödülünden de feragat etmiş olur.
 >

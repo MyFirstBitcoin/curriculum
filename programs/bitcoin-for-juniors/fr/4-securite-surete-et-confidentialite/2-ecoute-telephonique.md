@@ -1,153 +1,122 @@
 # 4.2 Écoute téléphonique
 
-**Type d'activité** Jeu de simulation - Discussion guidée - Apprentissage expérientiel
-
-**Durée** 40-50 minutes
-
-**Regroupement** Petites équipes, discussion en classe entière
-
-##### **Description**
-
-Les élèves explorent comment l'information change selon qui la transmet et qui est autorisé à l'entendre. À travers une série de jeux de transmission de messages courts avec des règles changeantes, les apprenants font l'expérience directe de la confiance, des erreurs et des interférences intentionnelles. La réflexion porte sur la façon dont les messages peuvent changer, fuiter ou être protégés, et sur qui devrait décider qui a accès à l'information.
-
-##### **Résultats d'apprentissage**
-
-À la fin de cette activité, les apprenants seront capables de :
-
-* Expérimenter comment l'information peut changer lorsqu'elle est transmise entre personnes
-* Reconnaître la différence entre les erreurs et les modifications intentionnelles
-* Comprendre que tout le monde ne devrait pas entendre chaque message
-* Commencer à réfléchir de manière critique à la confiance, la vie privée et le contrôle de l'information
-
-##### **Matériel**
-
-* Cartes de messages courts et longs préparées (pour référence de l'enseignant) (_Voir Annexe A_)
-* Papier et crayon pour la variante dictée en course
-* **Optionnel :** Feuille de code simple par symboles ou substitution pour message verrouillé optionnel (_Voir Annexe B_)
-
-##### **Équipement**
-
-* Espace de classe dégagé pour permettre les déplacements
-* Tableau blanc ou affiche pour les notes de réflexion
-* **Optionnel**: Minuteur
-
 #### **PROCÉDURE**
 
 ##### **OUVERTURE**
 
 1. Préparez à l'avance des messages simples et complexes.
-1. Décidez de la composition des équipes de 6 à 8 élèves.
-1. Dégagez l'espace pour que les élèves puissent s'aligner ou se déplacer en toute sécurité.
+1. Définissez des groupes de 6 à 8 élèves.
+1. Libérez l'espace afin que les élèves puissent se mettre en rang ou se déplacer en toute sécurité.
 
 ##### **AVANT L'ACTIVITÉ**
 
 _5 minutes_
 
-1. Demandez aux élèves s'ils ont déjà joué au jeu du téléphone arabe.
-1. Demandez si le message reste toujours le même.
-1. Expliquez qu'aujourd'hui ils vont tester à qui on peut faire confiance pour transmettre un message.
-1. Évitez d'introduire des termes techniques ou abstraits.
+1. Demandez aux élèves s'ils ont déjà joué au « téléphone arabe ».
+1. Demandez-vous si le message reste toujours le même.
+1. Expliquez-leur qu'aujourd'hui, ils vont tester à qui on peut confier un message.
+1. Évitez d'utiliser des termes techniques ou abstraits.
 
-**Objectif dans les mots de l'élève**
+**L'objectif selon les mots de l'étudiant**
 
-*  « Voir ce qui arrive à un message quand différentes personnes le transmettent. »
+*  « Voyez ce qu’il advient d’un message lorsqu’il est transmis par différentes personnes. »
 
 ##### **ACTIVITÉ**
 
-_30-35 minutes_
+_30 à 35 minutes_
 
-**Mise en place**
+**Configuration**
 
-1. Divisez la classe en petites équipes.
-1. Expliquez que chaque équipe fera plusieurs courtes manches avec la même structure mais des règles différentes.
-1. Soulignez que personne n'est puni pour des erreurs.
+1. Répartissez la classe en petits groupes.
+1. Expliquez que chaque équipe disputera plusieurs manches courtes, toutes de la même structure mais avec des règles différentes.
+1. Insistez sur le fait que personne ne sera sanctionné pour ses erreurs.
 
-**Modéliser**
+**Modèle**
 
-1. Démontrez les règles du chuchotement avec un exemple très court.
-1. Rappelez clairement les règles : chuchoter seulement, ne pas répéter, ne pas corriger les erreurs.
+1. Illustrez les règles du « chuchotement » à l'aide d'un exemple très court.
+1. Insistez clairement sur les règles : parler à voix basse uniquement, ne pas répéter, ne pas corriger les erreurs.
 
 **Effectuer**
 
-**Manche 1 – Message facile (Chaîne de confiance)**
+**1er tour – Message simple (chaîne de confiance)**
 
-1. Chuchotez une phrase très simple au premier élève.
-1. Les élèves transmettent le message en chuchotant à la suite.
-1. Le dernier élève dit le message à voix haute.
-1. Point de contrôle : Le message était-il correct, quelqu’un l’a-t-il changé exprès, était-il facile de faire confiance au groupe ?
+1. Chuchotez une phrase très simple à l'oreille du premier élève.
+1. Les élèves se transmettent le message en chuchotant les uns aux autres.
+1. Le dernier élève lit le message à haute voix.
+1. Point de vérification : le message était-il correct ? Quelqu'un l'a-t-il modifié intentionnellement ? Avez-vous eu facilement confiance au groupe ?
 
-**Manche 2 – Message difficile (Information complexe)**
+**2e manche – Message difficile (informations complexes)**
 
-1. Gardez la même organisation avec une phrase plus longue et plus précise.
-1. Refaites la chaîne de chuchotements.
-1. Le dernier élève dit le message à voix haute.
-1. Point de contrôle : Qu’est-ce qui a changé, où cela a-t-il échoué, quelqu’un a-t-il mal agi ou était-ce simplement difficile ?
+1. Utilisez la même structure avec une phrase plus longue et plus précise.
+1. Relancez la chaîne de chuchotements.
+1. Le dernier élève lit le message à haute voix.
+1. Bilan : Qu'est-ce qui a changé ? Où ça a déraillé ? Est-ce que quelqu'un a fait des bêtises ou était-ce simplement difficile ?
 
-**Manche 3 – Règle cachée (Changement intentionnel)**
+**3e manche – Règle cachée (modification intentionnelle)**
 
 1. Utilisez le même message complexe.
-1. Dites secrètement à un élève au milieu qu’il peut changer un mot.
-1. N’annoncez pas que cette règle existe.
-1. Faites la chaîne de chuchotements.
-1. Point de contrôle : Cela semblait-il différent des erreurs, comment pouvions-nous savoir qu’il y avait un problème, qu’est-ce qui semblait injuste ?
+1. Dites discrètement à un élève du milieu qu’il peut changer un mot.
+1. Ne révélez pas l'existence de cette règle.
+1. Lancez la chaîne de chuchotements.
+1. Point de réflexion : Est-ce que cela vous a semblé différent des erreurs ? Comment pouvions-nous savoir que quelque chose n'allait pas ? Qu'est-ce qui vous a paru injuste ?
 
-**Variante optionnelle – Dictée en relais (Contrôle vs Confiance)**
+**Variante facultative – Dictée en continu (Contrôle vs Confiance)**
 
-**Manche 4 – Coureur de confiance**
+**4e manche – Coureur de confiance**
 
-1. Placez le message écrit sur papier de l’autre côté de la pièce.
-1. Un élève court le lire et revient le dicter à l’écrivain.
-1. L’écrivain note le message.
-1. Point de contrôle : Était-ce plus clair que le chuchotement et pourquoi ?
+1. Placez le message écrit sur un bout de papier à l'autre bout de la pièce.
+1. Un élève court le lire, puis revient pour en informer l'auteur.
+1. L'auteur note le message.
+1. Question : Était-ce plus clair que de chuchoter, et pourquoi ?
 
-**Manche 5 – Espace non fiable**
+**5e manche – Espace non sécurisé**
 
-1. Ajoutez un auditeur près du chemin du coureur.
-1. L’auditeur peut entendre mais ne doit pas voir le message.
-1. Point de contrôle : Qui a appris quelque chose qu’il n’aurait pas dû et le message était-il toujours en sécurité ?
+1. Placez un observateur près du parcours du coureur.
+1. L'auditeur peut entendre le message, mais ne doit pas le voir.
+1. Point de contrôle : Qui a appris quelque chose qu’il n’aurait pas dû savoir ? Le message est-il resté confidentiel ?
 
-**Variante finale optionnelle – Message codé**
+**Rebondissement final facultatif – Message verrouillé**
 
-1. Répétez la dictée en relais avec le message écrit dans un code symbolique simple (_Voir Annexe B_).
-1. Demandez aux élèves d’observer qui peut le comprendre.
-1. Point de contrôle : Qui peut le lire et qui l’entend sans rien comprendre ?
+1. Répétez la dictée à voix haute avec le message écrit à l'aide d'un code symbolique simple (_Voir l'annexe B_).
+1. Demandez aux élèves de voir qui arrive à comprendre.
+1. Point de réflexion : Qui peut le lire, et qui l'entend sans rien en retenir ?
 
 **Réflexion**
 
-1. Demandez qui devrait tout entendre.
-1. Demandez qui ne devrait rien entendre.
-1. Demandez qui devrait décider.
-1. Laissez les élèves nommer le problème avec leurs propres mots.
+1. Demandez qui doit tout entendre.
+1. Demande à celui qui ne doit rien entendre.
+1. Demandez qui devrait en décider.
+1. Permettez aux élèves de formuler le problème avec leurs propres mots.
 
 ##### **SUIVI**
 
-_5-10 minutes_
+_5 à 10 minutes_
 
-1. Rappelez que les messages peuvent changer, fuiter ou être modifiés.
-1. Rappelez que la confiance dépend des règles et des limites.
-1. Faites le lien avec les leçons précédentes sur l’information publique et privée.
+1. Gardez à l'esprit que les messages peuvent changer, faire l'objet de fuites ou être modifiés.
+1. Insistez sur le fait que la confiance repose sur des règles et des limites.
+1. Faites le lien avec les leçons précédentes sur la distinction entre informations publiques et informations privées.
 
-##### **CLÔTURE**
+##### **FERMER**
 
 _5 minutes_
 
-1. Remerciez les élèves pour leur participation honnête.
-1. Réorganisez la classe.
-1. Message final aux élèves : Être prudent avec l’information aide à protéger les personnes.
+1. Remerciez les élèves d'avoir répondu en toute sincérité.
+1. Réaménager la salle de classe.
+1. Dernier message à l'attention des élèves : faire preuve de prudence avec les informations permet de protéger les autres.
 
 #### **NOTES**
 
-##### **Gestion de classe**
+##### **Gestion de la classe**
 
-* Normalisez les erreurs et les réactions émotionnelles tout en gardant un contrôle calme.
-* N'accusez pas et ne révélez pas l'élève qui a enfreint la règle cachée, sauf si les élèves le demandent explicitement.
+* Accepter les erreurs et les réactions émotionnelles tout en gardant son sang-froid.
+* Ne dénoncez pas et ne révélez pas l'identité de celui qui a enfreint les règles en cachette, à moins que les élèves ne vous le demandent explicitement.
 
-##### **Prolongements et activités tampons**
+##### **Activités complémentaires et activités avec des éponges**
 
 * Rédigez une règle de classe pour protéger les messages ou repensez le jeu afin de le rendre plus équitable.
 
 ##### **Différenciation**
 
-* Élèves plus jeunes : messages plus courts et moins de tours.
-* ELL/Accessibilité : indices visuels, rythme plus lent, soutien par un camarade.
-* Sécurité : déplacements contrôlés et règles claires pour chuchoter.
+* Pour les plus jeunes : des messages plus courts et moins de tours.
+* ELL/Accessibilité : repères visuels, rythme plus lent, soutien par un camarade.
+* Sécurité : mouvements contrôlés et règles claires concernant les chuchotements.

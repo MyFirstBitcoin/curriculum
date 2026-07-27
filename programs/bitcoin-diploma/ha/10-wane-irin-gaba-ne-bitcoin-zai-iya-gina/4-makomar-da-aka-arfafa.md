@@ -41,4 +41,4 @@ Idan kana shirye ka ɗauki mataki na gaba, duba ƙarin albarkatu a sashen da ke 
 ###### Albarkatu
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Dama don canji mai kyau suna da yawa, shi ya sa muke gayyatar ka ka kalli wannan bidiyon don ƙarin koyo.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

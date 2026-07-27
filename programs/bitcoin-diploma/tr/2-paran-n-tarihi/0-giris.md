@@ -11,7 +11,11 @@ Bu modülde, paranın evrimini bizzat deneyimleyerek zamanda bir yolculuğa çı
 
 #### Etkinlik: Tekrarlamalı Takas Oyunu
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Bu, takas kavramlarını daha iyi anlamanızı sağlamak için tasarlanmış bir sınıf etkinliğidir. Katılımınız, paranın serbest piyasalarda nasıl doğal olarak geliştiğini görmenize yardımcı olacaktır.
 

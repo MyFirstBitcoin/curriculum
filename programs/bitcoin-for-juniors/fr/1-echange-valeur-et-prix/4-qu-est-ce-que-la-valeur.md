@@ -1,145 +1,114 @@
 # 1.4 Qu'est-ce que la valeur ?
 
-**Type d'activité** Discussion • Projet artistique collaboratif
-
-**Durée** 45 minutes
-
-**Regroupement** Classe entière avec contributions individuelles
-
-##### **Description**
-
-Les élèves explorent le concept de valeur en identifiant des objets du quotidien issus de leur propre vie et en les positionnant sur un graphique visuel partagé. À travers une discussion guidée et une activité collaborative sur un mur, les apprenants comparent la valeur personnelle au prix et réfléchissent à la façon dont la valeur peut changer selon le point de vue. L'activité permet de construire une compréhension fondamentale de la valeur, du prix et de la rareté à travers la discussion, le mouvement et la pensée visuelle.
-
-##### **Résultats d'apprentissage**
-
-À la fin de cette activité, les apprenants seront capables de :
-
-* Comprendre que _la valeur_ est basée sur les besoins personnels et sociaux.
-* Reconnaître la relation entre _le prix_ et _la valeur_.
-* Voir que la valeur n'est pas fixe mais change selon le point de vue.
-* S'exercer à la collaboration à travers la discussion partagée et l'art de groupe.
-
-**Matériel**
-
-* Notes autocollantes ou fiches cartonnées
-* Marqueurs, stylos ou crayons
-* Ruban adhésif ou pâte adhésive
-* Ruban adhésif repositionnable (ruban de masquage, washi tape, ruban de peintre, etc.)
-* **Optionnel :** Une sélection d'objets de la maison
-
-**Équipement**
-
-* **Optionnel**: Tableau blanc & marqueurs
-
 #### **PROCÉDURE**
 
 ##### **OUVERTURE**
 
 _10 minutes_
 
-1. Trouvez un endroit dans la classe adapté à une grande exposition artistique. Idéalement une surface plane et lisse.
-1. Dégagez le mur de tout objet et nettoyez-le pour que les notes autocollantes puissent bien adhérer.
-1. Placez les objets apportés de chez vous sur la table à l'avant de la classe avant l'entrée des élèves.
+1. Trouvez un emplacement dans la salle de classe qui se prête à l'installation d'une grande exposition artistique. Idéalement, une surface plane et lisse.
+1. Retirez tout objet présent sur le mur et nettoyez-le afin que les post-it puissent bien adhérer.
+1. Avant l'arrivée des élèves, disposez sur la table située à l'avant de la classe des objets provenant de chez vous.
 
-**Remarque :** Utiliser un tableau blanc à l'avant de la classe peut convenir à l'activité. Cependant, pour un impact maximal, il est préférable de réaliser cette activité dans un autre endroit de la classe afin que le projet artistique puisse être exposé plus longtemps.
+**Remarque :** L'utilisation d'un tableau blanc à l'avant de la classe peut convenir pour cette activité. Toutefois, pour un effet optimal, il est préférable de réaliser cette activité dans un coin à part de la salle de classe, afin que le projet artistique puisse être exposé plus longtemps.
 
-##### **PRÉ-ACTIVITÉ**
+##### **AVANT L'ACTIVITÉ**
 
 _5 minutes_
 
-1. Laissez les élèves identifier les objets que vous avez placés devant eux.
+1. Demandez aux élèves d'identifier les objets que vous avez placés devant eux.
 1. Discutez de leur prix et de leur valeur.
-1. Présentez les deux notions :
-  1. **Prix** : combien coûte quelque chose
-  1. **Valeur** : à quel point quelque chose est utile ou important
-1. Demandez aux élèves de donner leur avis sur l'objet et s'ils sont d'accord ou non.
+1. Présentez ces deux idées :
+  1. **Prix**: combien coûte quelque chose
+  1. **Valeur**: l'utilité ou l'importance de quelque chose
+1. Demandez aux élèves de donner leur avis sur l'objet et de dire s'ils sont d'accord ou pas.
 
-**Objectif dans les mots de l'élève**
+**L'objectif selon les mots de l'étudiant**
 
-* « Découvrez ce qui détermine le prix des choses. »
-* « Apprenez ce qui a de la valeur pour nous et pourquoi tout le monde n’est pas d’accord. »
-* « Discutez pourquoi les choses chères ne sont pas toujours précieuses, et pourquoi les choses bon marché peuvent quand même compter. »
+* « Découvre ce qui détermine le prix des choses. »
+* « Découvrez ce qui a de la valeur à nos yeux et pourquoi tout le monde n'est pas d'accord là-dessus. »
+* « Expliquez pourquoi les choses chères n'ont pas toujours de la valeur, et pourquoi les choses bon marché peuvent tout de même avoir de l'importance. »
 
 ##### **ACTIVITÉ**
 
-_30-40 minutes_
+_30 à 40 minutes_
 
-**Mise en place**
+**Configuration**
 
-1. Demandez aux élèves de lister autant d’objets qu’ils peuvent imaginer dans leur chambre ou leur maison (jouets, vêtements, gadgets, livres, etc.).
-1.  Chaque élève écrit un objet par post-it.
-  1. Questions pour guider :
-      1. « Quels objets sont importants pour toi ? »
-    1. « Quels objets n’ont pas vraiment d’importance ? »
-1. Si possible, chaque élève peut avoir sa propre couleur de post-it pour distinguer facilement les objets plus tard dans l’activité.
-1. Collez une longue ligne horizontale sur le tableau (_Voir Annexe B_). Nommez cet axe :
-  1. Gauche = « Prix bas »
-  1. Droite = « Prix élevé »
-1. Ajoutez ensuite une ligne verticale qui coupe le centre. Nommez cet axe :
-  1. Bas : « Faible valeur »
-  1. Haut : « Grande valeur »
+1. Demandez aux élèves de dresser la liste de tous les objets qui leur viennent à l'esprit dans leur chambre ou chez eux (jouets, vêtements, gadgets, livres, etc.).
+1.  Chaque élève écrit une idée par post-it.
+  1. Exemples de questions :
+      1. « Quelles sont les choses qui comptent pour toi ? »
+    1. « Quelles sont les choses qui n’ont pas vraiment d’importance ? »
+1. Si possible, chaque élève peut disposer de post-it de sa propre couleur afin de pouvoir distinguer facilement les éléments par la suite au cours de l'activité.
+1. Tracez une longue ligne horizontale sur le tableau à l'aide de ruban adhésif (_Voir l'annexe B_).Intitulez cet axe :
+  1. À gauche = « Prix bas »
+  1. À droite = « Prix élevé »
+1. Ajoutez ensuite une ligne verticale passant par le centre. Intitulez cet axe :
+  1. En bas : « Faible valeur »
+  1. En haut : « Grande valeur »
 
-**Modélisation**
+**Modèle**
 
-1. Prenez un des objets de la maison et écrivez son nom sur un post-it.
-1. Montrez où le placer dans les quatre quadrants.
+1. Choisissez un objet chez vous et écrivez son nom sur un post-it.
+1. Indiquez où le situer dans les quatre quadrants.
 
-**Réalisation**
+**Mettre en œuvre**
 
-1. Les élèves placent leurs post-its le long de l’axe à l’endroit où ils pensent que leur objet appartient.
-1. Aidez les élèves en les encourageant à ajouter autant d’objets que possible. Si les élèves ont utilisé tous leurs post-its, proposez-leur de nouveaux objets.
+1. Les élèves placent leurs post-it le long de l'axe où, selon eux, leur élément a sa place.
+1. Aidez les élèves en les encourageant à ajouter autant d'éléments que possible. Si les élèves ont ajouté tous leurs post-it, invitez-les à proposer de nouveaux éléments.
 
 **Réflexion**
 
-* Questions pour guider :
-  * « Est-ce bon marché ou cher ? »
-  * « La plupart des gens seraient-ils d’accord sur le prix ? »
-  * « À quel point cela est-il utile ? »
-  * « Tout le monde accorderait-il la même valeur à cet objet ? »
-* Discussion :
-  * « Quels objets t’ont surpris ? »
+* Questions guides :
+  * « Est-ce que c'est bon marché ou cher ? »
+  * « Est-ce que la plupart des gens seraient d'accord sur ce prix ? »
+  * « À quel point est-ce utile ? »
+  * « Est-ce que tout le monde y accorderait la même importance ? »
+* Sujet de discussion :
+  * « Quels articles t'ont surpris ? »
   * « Pourquoi certains objets bon marché ont-ils une grande valeur ? »
-  * « Pourquoi certains objets chers semblent-ils inutiles ? »
-  * Changement de perspective (optionnel) :
-* Changement de perspective (optionnel) :
-  * Demandez aux élèves d’examiner les objets d’un autre élève et de discuter des différences.
-* À retenir :
-  * Le prix est un chiffre
-  * La valeur est un jugement
+  * « Pourquoi certaines choses chères nous semblent-elles inutiles ? »
+  * Changement de perspective facultatif :
+* Changement de perspective facultatif :
+  * Demandez aux élèves d'examiner les travaux d'un autre élève et de discuter des différences.
+* Point à retenir :
+  * Le prix, c'est un chiffre
+  * La valeur est une appréciation
 
 ##### **SUIVI**
 
-* Rappel :
+* Critique :
   * Le prix et la valeur ne sont pas la même chose
-  * Les gens ne sont pas d’accord sur la valeur
-  * Les prix aident les gens à échanger même s’ils ne sont pas d’accord
-* Lien avec l’argent :
-  * L’argent et les prix nous aident à échanger quand la valeur est subjective
+  * Les avis divergent sur la notion de valeur
+  * Les prix permettent aux gens de conclure des transactions même lorsqu'ils ne sont pas d'accord
+* Une passerelle vers l'argent :
+  * L'argent et les prix nous aident à échanger lorsque la valeur est subjective
 
 **FERMER**
 
-1. Identifier les tendances ou les motifs.
-1. Féliciter les élèves pour leur participation.
-1. Prendre un moment pour exprimer de la gratitude envers les personnes, les moments et les objets de leur vie.
-1. Demander aux élèves de rendre tout le matériel et l’équipement.
-1. Le projet peut être exposé ou rangé et les élèves peuvent y ajouter des éléments plus tard.
+1. Identifiez les tendances ou les schémas qui se dégagent.
+1. Félicitez les élèves pour leur participation.
+1. Prenez un instant pour exprimer votre gratitude envers les personnes, les moments et les objets qui font partie de leur vie.
+1. Demandez aux élèves de rendre tout le matériel et l'équipement.
+1. Le projet peut être affiché ou enregistré, et les élèves peuvent y ajouter des éléments ultérieurement.
 
 #### **NOTES**
 
-##### **Gestion de classe**
+##### **Gestion de la classe**
 
-* Encourager le désaccord respectueux
-* Rappeler qu’il n’y a pas de mauvaises réponses
-* Il peut être plus engageant de tracer et d’étiqueter les axes pendant l’activité. Cela peut aussi détourner l’attention et faire perdre la concentration si le processus est compliqué.
+* Encourager les divergences d'opinion respectueuses
+* Insistez sur le fait qu'il n'y a pas de mauvaises réponses
+* Il peut être plus motivant de tracer et d'étiqueter les axes au cours de l'activité. Cela peut toutefois détourner l'attention et nuire à la concentration si le processus s'avère compliqué.
 
-##### **Prolongements et activités supplémentaires**
+##### **Activités complémentaires et activités avec des éponges**
 
-* Présenter et expliquer
-* Ajouter une troisième couche : « Qui décide du prix ? »
-* Réintroduire les enchères ou les jeux d’échange
+* Présentation et discussion
+* Ajoutons une troisième dimension : « Qui fixe le prix ? »
+* Réintroduire les enchères ou les jeux d'échange
 
 ##### **Différenciation**
 
-* **Élèves plus jeunes**: cartes d’objets pré-imprimées
-* **EL/EAI/Accessibilité**: dessiner au lieu d’écrire
+* **Les plus jeunes élèves**: fiches d'articles pré-imprimées
+* **ELL/Accessibilité**: dessiner plutôt qu'écrire
 * **Sécurité**: surveiller les déplacements près des murs

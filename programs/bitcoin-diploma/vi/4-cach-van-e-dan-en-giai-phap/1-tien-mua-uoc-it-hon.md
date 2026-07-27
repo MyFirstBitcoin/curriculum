@@ -18,7 +18,11 @@ Trong ví dụ này, sức mua của họ giảm vì lượng tiền trong lưu 
 
 #### Hoạt động: Đấu giá
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Đây là một bài tập trên lớp, nơi người tham gia sẽ trực tiếp trải nghiệm cách việc tăng lượng tiền trong lưu thông ảnh hưởng đến giá cả. Mục đích là để người tham gia hiểu về lạm phát tiền tệ (không phải lạm phát giá cả).
 

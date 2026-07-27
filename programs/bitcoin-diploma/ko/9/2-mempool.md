@@ -12,7 +12,11 @@
 
 #### 활동: 멤풀 탐험하기
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **이 활동은 학생들이 기술적인 지식 없이도 사용할 수 있는 무료 오픈소스 도구를 경험하게 합니다. 초보자부터 숙련된 비트코인 사용자까지 모두에게 유용합니다.**
 

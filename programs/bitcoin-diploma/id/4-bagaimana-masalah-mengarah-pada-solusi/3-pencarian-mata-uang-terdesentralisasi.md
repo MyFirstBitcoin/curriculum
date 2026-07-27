@@ -49,7 +49,7 @@ Dalam sistem terpusat, segalanya berputar di sekitar satu otoritas utama, sepert
 * **Kurangnya transparansi dan kepercayaan**: Cara kerja sistem terpusat seringkali sulit dipahami, sehingga orang sulit mempercayainya.
 
 
-> **Note**
+> **Light**
 >
 > Pada tahun 2022, selama aksi protes damai di Kanada, bank membekukan rekening para demonstran, menunjukkan bagaimana otoritas pusat dapat mengendalikan akses keuangan.
 
@@ -73,7 +73,7 @@ Meskipun sistem terdesentralisasi memiliki banyak keunggulan, membuat keputusan 
 Di dunia yang terdiri dari sistem terpusat dan terdesentralisasi, semuanya bergantung pada siapa yang memegang kekuasaan. Sistem terpusat memberikan kekuasaan kepada sekelompok kecil orang, sedangkan sistem terdesentralisasi membaginya, sehingga semua orang bisa berpendapat. Pergeseran kekuasaan ini berarti masa depan yang lebih adil, di mana banyak orang memengaruhi sistem yang membentuk kehidupan mereka.
 
 
-> **Note**
+> **Light**
 >
 > Jaringan Tor menciptakan sistem terdesentralisasi di mana orang dapat tetap anonim secara online dan jaringan tersebut sulit untuk dihentikan atau disensor.
 
@@ -91,4 +91,4 @@ Upaya-upaya ini membantu mengungkap apa yang masih kurang. Kemudian, seseorang m
 ###### Sumber Daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Tonton video ini dan temukan kisah para Cypherpunk!](https://www.youtube.com/watch?v=9vM0oIEhMag)

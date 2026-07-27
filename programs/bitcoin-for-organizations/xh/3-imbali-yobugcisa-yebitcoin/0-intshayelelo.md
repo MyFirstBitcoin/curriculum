@@ -1,6 +1,6 @@
 # 3.0 Intshayelelo
 
-> **Info – Isishwankathelo sePhepha eliMhlophe leBitcoin**
+> **Dark – Isishwankathelo sePhepha eliMhlophe leBitcoin**
 >
 > **Uhlobo lwe-elektroniki lwemali olusekwe ngokupheleleyo kubantu abafanayo** luya kuvumela intlawulo kwi-intanethi ukuba ithunyelwe ngqo ukusuka kumntu omnye ukuya komnye ngaphandle kokudlula kwinkampani yezemali. **Utyikityo lwedijithali lubonelela inxalenye yesisombululo**, kodwa izibonelelo eziphambili ziyalahleka ukuba **iqela lesithathu elithembekileyo** lisafuneka ukuthintela ukuphindaphindwa kokuchitha imali. Siphakamisa isisombululo kwingxaki yokuphindaphindwa kokuchitha imali sisebenzisa **umnatha wabantu abafanayo**. **umnatha ubeka iimpawu zexesha kwiintengiselwano** ngokuzifaka kwi-chain eqhubekayo ye **ubungqina bomsebenzi obusekwe kwi-hash,** ukwenza irekhodi elingenakutshintshwa ngaphandle kokuphinda kwenziwe **ubungqina bomsebenzi**. I-chain ende kakhulu ayisebenzi kuphela njengobungqina bolandelelwano lweziganeko ezibonwe, kodwa nobungqina bokuba ivela kwelona qela linamandla eCPU. Logama uninzi lwamandla eCPU lulawulwa zi-node ezingasebenzisani ukuhlasela umnatha, ziya kuvelisa i-chain ende kwaye zigqithe abahlaseli. **Umnatha ngokwawo ufuna ulwakhiwo oluncinci. Imiyalezo ithunyelwa ngokusemandleni, kwaye ii-node zingaphuma kwaye zibuyele kumnatha nanini na**, zamkela i-chain ende yobungqina bomsebenzi njengobungqina bokwenzekileyo ngexesha bengasekho.
 

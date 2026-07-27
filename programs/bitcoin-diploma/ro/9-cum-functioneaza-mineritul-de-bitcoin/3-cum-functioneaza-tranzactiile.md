@@ -15,7 +15,7 @@ Acum că înțelegi cheile publice și private, precum și rolurile nodurilor ș
 Odată inclusă într-un bloc, tranzacția este confirmată. Andrei nu mai poate cheltui acel bitcoin, iar Radu poate folosi ceea ce a primit într-o nouă tranzacție.
 
 
-> **Note**
+> **Light**
 >
 > Tranzacția și taxa selectate → Semnată de portofel și trimisă → Distribuită de noduri → Minerul adaugă tranzacția în șablonul de bloc → Minerul câștigă concursul Proof-of-Work → Noul bloc este validat → Noul bloc este distribuit de noduri
 
@@ -23,4 +23,4 @@ Odată inclusă într-un bloc, tranzacția este confirmată. Andrei nu mai poate
 ###### Resurse
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=xc_TxlByxeY)
+[▶ Urmărește acest videoclip despre nodurile Bitcoin](https://www.youtube.com/watch?v=xc_TxlByxeY)

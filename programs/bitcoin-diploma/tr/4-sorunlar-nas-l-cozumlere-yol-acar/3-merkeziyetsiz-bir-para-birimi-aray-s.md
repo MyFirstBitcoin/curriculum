@@ -49,7 +49,7 @@ Merkezi bir sistemde her şey, bir şehirdeki yüksek bir bina gibi tek bir ana 
 * **Şeffaflık ve güven eksikliği**: Merkezi sistemlerin iç işleyişi anlaşılması zor olabilir; bu da insanların onlara güvenmesini güçleştirir.
 
 
-> **Note**
+> **Light**
 >
 > 2022 yılında Kanada'daki barışçıl protestolar sırasında, bankalar protestocuların hesaplarını dondurdu ve merkezi bir otoritenin finansal erişimi nasıl kontrol edebileceğini gösterdi.
 
@@ -73,7 +73,7 @@ Merkeziyetsiz sistemlerin birçok avantajı olsa da, birlikte karar almak biraz 
 Merkezi ve merkeziyetsiz sistemlerin olduğu bir dünyada, her şey gücün kimde olduğuyla ilgilidir. Merkezi sistemler gücü küçük bir gruba verirken, merkeziyetsiz sistemler gücü dağıtarak herkesin söz sahibi olmasını sağlar. Bu güç değişimi, hayatlarını şekillendiren sistem üzerinde birçok insanın etkili olduğu daha adil bir gelecek anlamına gelir.
 
 
-> **Note**
+> **Light**
 >
 > Tor Ağı, insanların çevrimiçi olarak anonim kalabildiği ve ağın durdurulmasının veya sansürlenmesinin zor olduğu merkeziyetsiz bir sistem oluşturur.
 
@@ -91,4 +91,4 @@ Bu girişimler eksik olanı ortaya çıkardı. Daha sonra birisi bu fikirlerin �
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Bu videoyu izle ve Cypherpunkların hikayesini keşfet!](https://www.youtube.com/watch?v=9vM0oIEhMag)

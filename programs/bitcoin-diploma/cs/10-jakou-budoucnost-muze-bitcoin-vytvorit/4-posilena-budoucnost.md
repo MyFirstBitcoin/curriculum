@@ -41,4 +41,4 @@ Pokud jste připraveni udělat další krok, podívejte se na další zdroje v n
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Možnosti pozitivní změny jsou obrovské, proto vás zveme ke zhlédnutí tohoto videa, kde se dozvíte více.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

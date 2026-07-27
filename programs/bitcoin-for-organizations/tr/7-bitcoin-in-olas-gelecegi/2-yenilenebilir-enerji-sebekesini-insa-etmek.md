@@ -5,7 +5,7 @@
 Bitcoin, merkeziyetsiz ve izinsiz bir para biçimi olmasını sağlayan 'iş ispatı' konsensüs mekanizması için enerjiye dayanır. Enerji şebekesi, yenilenebilir kaynaklardan gelen yeni enerji türlerini entegre etmekte zorluklar yaşıyor ve bu da mevcut altyapı üzerinde baskı oluşturuyor. Bu bölüm, bu zorluklara kısa bir giriş ve Bitcoin'in ilgili yönlerine genel bir bakış sunar; ardından Bitcoin'in yenilenebilir enerji şebekesinin evriminde nasıl yardımcı olduğunu gösterir.
 
 
-> **Info – Bitcoin bir enerji parası olarak**
+> **Dark – Bitcoin bir enerji parası olarak**
 >
 > 4 Aralık 1921'de New York Tribune, Ford'un altının yerine enerjiye dayalı bir para birimi getirme vizyonunu anlatan bir makale yayımladı. Ford, bunun bankacılık elitlerinin küresel servet üzerindeki hakimiyetini kırabileceğine ve savaşları sona erdirebileceğine inanıyordu. Bunu, "dünyanın en büyük enerji santralini" inşa ederek ve "güç birimleri"ne dayalı yeni bir para sistemi oluşturarak yapmayı planlıyordu.
 

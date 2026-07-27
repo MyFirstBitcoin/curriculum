@@ -24,7 +24,7 @@ Masuklah ke platform peer-to-peer, tempat pembeli dan penjual Bitcoin bertemu di
 Di platform seperti ini, Anda tidak perlu mempercayakan informasi atau uang Anda kepada siapa pun; Anda terhubung dengan sesama pengguna dan bertransaksi langsung dengan mereka.
 
 
-> **Note**
+> **Light**
 >
 > Di sebagian besar platform peer-to-peer, para pengguna harus menahan sebagian dana dalam escrow untuk memastikan kedua belah pihak memenuhi kesepakatan. Escrow berarti menempatkan uang di tempat yang aman di bawah kendali platform sampai kedua pihak melakukan apa yang dijanjikan. Ini seperti teman terpercaya yang memegang barang Anda sampai semua pihak puas dengan kesepakatan.
 

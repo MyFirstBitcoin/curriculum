@@ -155,7 +155,7 @@ Hata hivyo, kwa sasa kuna baadhi ya vikwazo vinavyopaswa kuzingatiwa:
 ##### Hatari
 
 
-> **Info**
+> **Dark**
 >
 > Crypto Degens Waliiteka Bot ya AI ya Majaribio Ili Kutangaza Memecoin. Sasa Imeongezeka kwa 16,000%. Iliundwa kama jaribio la moja kwa moja la mwingiliano wa binadamu na mifano ya AI, bot maarufu - Terminal of Truth - ilijikuta ikitangaza memecoin inayoitwa GOAT.
 >

@@ -17,7 +17,7 @@ Evită să fii prea decisiv. Te poți pregăti pentru rezultate care se exclud r
 În această secțiune evidențiem câteva grupuri generice de acțiuni pentru a te ajuta să transformi analiza în acțiuni. Această listă nu este menită să fie exhaustivă, ci mai degrabă să te ajute să începi.
 
 
-> **Note – Strategii P&L**
+> **Light – Strategii P&L**
 >
 > * Protejează veniturile existente și cota de piață
 >   * Redu expunerea la piețele afectate negativ
@@ -33,7 +33,7 @@ Evită să fii prea decisiv. Te poți pregăti pentru rezultate care se exclud r
 
 
 
-> **Note – Strategii de bilanț**
+> **Light – Strategii de bilanț**
 >
 > * Generează valoare din bilanțul tău
 >   * Redu expunerea la active care au performanțe sub costul capitalului, fără a reduce reziliența capitalului

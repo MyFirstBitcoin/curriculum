@@ -9,12 +9,12 @@ Fedha tunazotumia zinazidi kuwa za kidijitali; leo hii, ni sehemu ndogo tu ya ki
 ##### Rasilimali
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Tazama video hii fupi ili kujifunza kuhusu "Asili ya Kubadilishana", katika mfululizo wa “Historia ya Fedha ya Karatasi”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Hii ni sehemu ya pili inayoitwa "Sio Tambi Tu" kutoka kwenye "Historia ya Fedha ya Karatasi"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Nini hutokea unapojaribu kweli kuweka mafundisho ya fedha ya karatasi katika vitendo? Tafuta jibu kwenye sehemu ya nne ya "Historia ya Fedha ya Karatasi"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

@@ -18,7 +18,11 @@ Ini menunjukkan bagaimana kuasa beli boleh terjejas oleh faktor di luar kawalan 
 
 #### Aktiviti: Lelongan
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Ini adalah latihan kelas di mana peserta belajar secara langsung bagaimana peningkatan bekalan wang memberi kesan kepada harga. Tujuannya adalah untuk peserta memahami inflasi monetari (bukan inflasi harga).
 

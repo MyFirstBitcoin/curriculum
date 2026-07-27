@@ -88,7 +88,7 @@ URogue emva koko uyayeka. Kutheni?
 URogue uqonda ukuba akanawo amandla okwaneleyo okumba ukuze aphumelele kwi-double spend, nangona elawula i-36% yamandla okumba eBitcoin. Ukuze aphumelele kufuneka apopaye ezinye iibhloko ezine ukuze adlule ikhonkco elithembekileyo. Nangona enawo amandla amakhulu ekhompyutha kwaye elawula i-36% yenethiwekhi, amathuba kaRogue okuphumelela angama-0.100113 kuphela.
 
 
-> **Info – Ithiyori yomdlalo iyangena**
+> **Dark – Ithiyori yomdlalo iyangena**
 >
 > Amathuba kaRogue okuphumelela makhulu kakhulu, kodwa kusiba mandundu. Rhoqo ngomzuzu aqhubeka ezama, uRogue usebenzisa umbane omkhulu kakhulu. Konke oku kuya kuba lilize. Ukongeza, kuyo yonke ibhloko angaphumeleli ukuyipopa ngokunyanisekileyo, uRogue ulahlekelwa ngumvuzo webhloko, okwangoku yi-3.125 yeebhithikoyini kwibhloko nganye, exabisa ngaphezulu kwe-€300k okwangoku.
 >

@@ -5,7 +5,7 @@
 Bitcoin bergantung pada energi untuk mekanisme konsensus ‘proof of work’-nya, yang membantu memastikan Bitcoin tetap menjadi bentuk uang yang terdesentralisasi dan tanpa izin. Jaringan listrik menghadapi tantangan dalam mengintegrasikan bentuk energi baru dari sumber terbarukan, yang memberikan tekanan pada infrastruktur saat ini. Bab ini memberikan pengenalan singkat tentang tantangan-tantangan tersebut dan gambaran aspek-aspek penting dari Bitcoin sebelum menunjukkan bagaimana Bitcoin membantu dalam evolusi jaringan energi terbarukan.
 
 
-> **Info – Bitcoin sebagai mata uang energi**
+> **Dark – Bitcoin sebagai mata uang energi**
 >
 > Pada 4 Desember 1921, New York Tribune menerbitkan sebuah artikel yang menguraikan visi Ford untuk menggantikan emas dengan mata uang energi yang ia yakini dapat mematahkan cengkeraman elit perbankan atas kekayaan global dan mengakhiri perang. Ia bermaksud melakukan ini dengan membangun "pembangkit listrik terbesar di dunia" dan menciptakan sistem mata uang baru berdasarkan "unit daya."
 

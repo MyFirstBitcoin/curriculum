@@ -4,9 +4,9 @@ Hướng dẫn này giải thích cách đọc và sử dụng các kế hoạch
 
 #### Sử dụng Kế hoạch Bài học
 
-Mỗi kế hoạch bài học trong Bitcoin for Juniors là một hướng dẫn có cấu trúc. Đây không phải là một kịch bản phải làm theo từng từ. Giáo viên được khuyến khích điều chỉnh, đơn giản hóa, mở rộng hoặc thay đổi các hoạt động dựa trên học sinh, môi trường và giới hạn thời gian. Các kế hoạch này được thiết kế để hỗ trợ sự rõ ràng và tự tin, đặc biệt cho những giáo viên mới dạy về tiền hoặc các khái niệm Bitcoin.
+Mỗi kế hoạch bài học trong Bitcoin for Juniors là một hướng dẫn có cấu trúc. Đây không phải là một kịch bản phải làm theo từng từ. Giáo viên được khuyến khích điều chỉnh, đơn giản hóa, mở rộng hoặc thay đổi các hoạt động dựa trên học sinh, môi trường và giới hạn thời gian. Các kế hoạch này được thiết kế để hỗ trợ sự rõ ràng và tự tin, đặc biệt cho những giáo viên mới bắt đầu dạy về tiền hoặc các khái niệm Bitcoin.
 
-Việc điều chỉnh là điều được mong đợi. Hãy hướng dẫn thay vì giảng bài. Khung kế hoạch cung cấp cấu trúc. Giáo viên cung cấp sự phán đoán và bối cảnh.
+Việc điều chỉnh là điều được mong đợi. Hãy hướng dẫn thay vì giảng bài. Khung chương trình cung cấp cấu trúc. Giáo viên cung cấp sự phán đoán và bối cảnh.
 
 #### Hiểu về Cấu trúc
 
@@ -25,10 +25,10 @@ Thời gian được liệt kê chỉ là ước lượng. Một số nhóm sẽ
 Chỉ ra hoạt động này được thiết kế cho:
 
 * Cả lớp
-* Làm việc theo cặp
+* Cặp đôi
 * Làm việc cá nhân
 
-Việc chia nhóm giúp xác định động lực học tập mong muốn. Làm việc nhóm thường tăng sự tham gia và giúp học sinh củng cố ý tưởng thông qua thảo luận.
+Việc chia nhóm giúp xác định động lực học tập mong muốn. Làm việc theo nhóm thường tăng sự tham gia và giúp học sinh củng cố ý tưởng qua thảo luận.
 
 #### Kết quả Học tập
 
@@ -38,29 +38,29 @@ Kết quả học tập xác định những gì học sinh nên biết, hiểu 
 
 ##### Vật liệu
 
-Vật liệu là những đồ dùng tiêu hao hoặc vật dụng thực hành được học sinh sử dụng trực tiếp. Ví dụ: phiếu bài tập, thẻ in, bút chì, hạt, giấy ghi chú, áp phích. Đây là những vật dụng học sinh thao tác trong quá trình hoạt động.
+Vật liệu là những đồ dùng tiêu hao hoặc vật dụng thực hành mà học sinh sử dụng trực tiếp. Ví dụ: phiếu bài tập, thẻ in, bút chì, hạt, giấy ghi chú, áp phích. Đây là những vật dụng học sinh thao tác trong hoạt động.
 
 ##### Thiết bị
 
-Thiết bị là các công cụ không tiêu hao hoặc nhu cầu về môi trường. Ví dụ: bảng trắng, đồng hồ bấm giờ, máy chiếu, không gian lớp học rộng. Thiết bị hỗ trợ hoạt động nhưng không được học sinh sử dụng trực tiếp như vật liệu.
+Thiết bị là những công cụ không tiêu hao hoặc nhu cầu về không gian. Ví dụ: bảng trắng, đồng hồ bấm giờ, máy chiếu, không gian lớp học rộng. Thiết bị hỗ trợ hoạt động nhưng không được học sinh sử dụng trực tiếp như vật liệu.
 
-Việc phân biệt này giúp giáo viên chuẩn bị hiệu quả hơn.
+Sự phân biệt này giúp giáo viên chuẩn bị hiệu quả.
 
 #### QUY TRÌNH
 
 Mỗi bài học đều có một trình tự quy trình để hướng dẫn nhịp độ và luồng hoạt động.
 
-##### KHỞI ĐỘNG
+##### MỞ ĐẦU
 
-Hoàn thành trước khi học sinh vào lớp. Bao gồm chuẩn bị vật liệu, sắp xếp chỗ ngồi, viết câu hỏi lên bảng và tổ chức tài nguyên. Việc chuẩn bị nên được thực hiện khi không có học sinh để đảm bảo chuyển tiếp suôn sẻ.
+Hoàn thành trước khi học sinh vào lớp. Bao gồm chuẩn bị vật liệu, sắp xếp chỗ ngồi, viết câu hỏi lên bảng và tổ chức tài nguyên. Việc chuẩn bị nên thực hiện khi không có học sinh để đảm bảo chuyển tiếp suôn sẻ.
 
 ##### TRƯỚC HOẠT ĐỘNG
 
-Giai đoạn khởi động. Giai đoạn này đặt ra kỳ vọng và khơi gợi sự tò mò. Có thể bao gồm một câu hỏi, câu chuyện ngắn, tình huống hoặc thử thách. Mục tiêu là kích hoạt kiến thức nền và chuẩn bị học sinh cho nhiệm vụ.
+Giai đoạn khởi động. Giai đoạn này đặt ra kỳ vọng và khơi gợi sự tò mò. Có thể bao gồm một câu hỏi, câu chuyện ngắn, tình huống hoặc thử thách. Mục tiêu là kích hoạt kiến thức nền và chuẩn bị cho học sinh thực hiện nhiệm vụ.
 
 ##### Mục tiêu bằng lời của học sinh
 
-Giáo viên giải thích ngắn gọn mục đích của hoạt động bằng ngôn ngữ mà học sinh hiểu. Khi học sinh biết lý do mình làm điều gì đó, sự tham gia và ghi nhớ sẽ tăng lên.
+Giáo viên giải thích ngắn gọn mục đích của hoạt động bằng ngôn ngữ học sinh dễ hiểu. Khi học sinh biết lý do mình làm điều gì đó, sự tham gia và ghi nhớ sẽ tăng lên.
 
 ##### HOẠT ĐỘNG
 
@@ -68,11 +68,11 @@ Giáo viên giải thích ngắn gọn mục đích của hoạt động bằng 
 1. **Làm mẫu** — Khi phù hợp, hãy làm mẫu nhiệm vụ. Làm mẫu giúp giảm nhầm lẫn và tăng sự tự tin.
 1. **Thực hiện** — Học sinh hoàn thành hoạt động. Giáo viên quan sát, hướng dẫn và hỗ trợ thay vì kiểm soát.
 1. **Kiểm tra nhanh** — Tạm dừng ngắn để xác nhận sự hiểu bài. Điều chỉnh nếu cần. Điều này giúp ngăn ngừa hiểu lầm phát sinh.
-1. **Phản hồi** — Học sinh thảo luận về những gì đã xảy ra và ý nghĩa của nó. Phản hồi là rất quan trọng. Nó biến trải nghiệm thành bài học. Khuyến khích các câu hỏi mở và liên hệ với các khái niệm thực tế.
+1. **Phản hồi** — Học sinh thảo luận về những gì đã xảy ra và ý nghĩa của nó. Phản hồi là rất quan trọng. Nó biến trải nghiệm thành kiến thức. Khuyến khích các câu hỏi mở và liên hệ với thực tế.
 
 ##### THEO DÕI
 
-Khoảnh khắc tổng kết ngắn. Nhấn mạnh ý chính. Kết thúc tích cực. Có thể bao gồm câu hỏi ôn tập, chia sẻ nhanh với bạn hoặc phát biểu ngắn liên kết hoạt động với chủ đề chương.
+Khoảnh khắc tổng kết ngắn. Nhấn mạnh ý chính. Kết thúc tích cực. Có thể bao gồm câu hỏi ôn tập, chia sẻ nhanh với bạn cùng bàn hoặc phát biểu ngắn liên kết hoạt động với chủ đề chương.
 
 ##### KẾT THÚC
 
@@ -89,7 +89,7 @@ Mỗi lớp học đều khác nhau về độ tuổi, mức năng lượng và 
 
 Giáo viên nên điều chỉnh các chiến lược quản lý phù hợp với bối cảnh của mình.
 
-#### Hoạt động mở rộng & Hoạt động đệm
+#### Hoạt động mở rộng & hoạt động đệm
 
 Nếu còn thời gian, các ý tưởng mở rộng — đôi khi gọi là hoạt động đệm — cho phép hoạt động tiếp tục mà không cần chuẩn bị nhiều. Những hoạt động này có thể làm sâu sắc thêm thảo luận, tăng độ phức tạp, hoặc thêm yếu tố sáng tạo. Chúng là tùy chọn và linh hoạt.
 
@@ -103,7 +103,7 @@ Phân hóa đảm bảo mọi học sinh đều có thể tiếp cận bài họ
 * Điều chỉnh tốc độ phù hợp
 * Nhiều cách trả lời khác nhau
 
-Tính tiếp cận cũng có thể liên quan đến an toàn thể chất và các hình thức tham gia hòa nhập.
+Tính tiếp cận cũng có thể liên quan đến an toàn thể chất và cấu trúc tham gia hòa nhập.
 
 #### PHỤ LỤC
 
@@ -111,6 +111,6 @@ Phụ lục bao gồm tài liệu hỗ trợ, mẫu, tài nguyên in được v�
 
 #### Hướng dẫn cuối cùng
 
-Các kế hoạch bài học này được xây dựng rõ ràng, nhưng luôn cần sự linh hoạt. Tập trung vào kết quả học tập. Tạo không gian cho học sinh thể hiện ý kiến. Ưu tiên sự tương tác hơn là sự hoàn hảo.
+Các kế hoạch bài học này được xây dựng rõ ràng, nhưng cần sự linh hoạt. Tập trung vào kết quả học tập. Tạo không gian cho học sinh thể hiện ý kiến. Ưu tiên sự tương tác hơn là sự hoàn hảo.
 
-Bitcoin for Juniors được thiết kế để hỗ trợ việc dạy học tự tin và học tập ý nghĩa.
+Bitcoin for Juniors được thiết kế để hỗ trợ việc giảng dạy tự tin và học tập ý nghĩa.

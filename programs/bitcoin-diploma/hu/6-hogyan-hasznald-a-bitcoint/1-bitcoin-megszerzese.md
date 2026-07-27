@@ -24,7 +24,7 @@ Itt jönnek képbe a peer-to-peer platformok, ahol a Bitcoin vevők és eladók 
 Az ilyen platformokon nem kell senkiben megbíznod az adataiddal vagy a pénzeddel; közvetlenül kapcsolódsz más felhasználókhoz, és velük kereskedsz.
 
 
-> **Note**
+> **Light**
 >
 > A legtöbb peer-to-peer platformon a feleknek letétbe kell helyezniük bizonyos összeget, hogy biztosítsák, mindkét fél teljesíti a megállapodás rá eső részét. A letét azt jelenti, hogy a pénzt egy biztonságos helyen, a platform felügyelete alatt tartják, amíg mindkét fél nem teljesíti az ígéretét. Ez olyan, mintha egy megbízható barátod őrizné a dolgaidat, amíg mindenki elégedett az üzlettel.
 

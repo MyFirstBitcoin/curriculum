@@ -1,6 +1,6 @@
 # 3.0 Introdução
 
-> **Info – Resumo do White Paper do Bitcoin**
+> **Dark – Resumo do White Paper do Bitcoin**
 >
 > **Uma versão puramente peer-to-peer de dinheiro eletrônico** permitiria que pagamentos online fossem enviados diretamente de uma parte para outra sem passar por uma instituição financeira. **Assinaturas digitais fornecem parte da solução**, mas os principais benefícios são perdidos se uma **terceira parte confiável** ainda for necessária para evitar o duplo gasto. Propomos uma solução para o problema do duplo gasto usando uma **rede peer-to-peer**. A **rede carimba as transações com data e hora** ao hashá-las em uma cadeia contínua de **prova de trabalho baseada em hash,** formando um registro que não pode ser alterado sem refazer a **prova de trabalho**. A cadeia mais longa não serve apenas como prova da sequência de eventos testemunhados, mas também como prova de que ela veio do maior pool de poder computacional. Enquanto a maioria do poder computacional estiver controlada por nós que não cooperam para atacar a rede, eles gerarão a cadeia mais longa e superarão os atacantes. **A própria rede requer uma estrutura mínima. As mensagens são transmitidas com o melhor esforço possível, e os nós podem sair e retornar à rede quando quiserem**, aceitando a cadeia de prova de trabalho mais longa como prova do que aconteceu enquanto estavam ausentes.
 

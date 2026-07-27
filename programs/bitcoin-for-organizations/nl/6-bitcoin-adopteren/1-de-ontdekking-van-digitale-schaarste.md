@@ -88,7 +88,7 @@ Rogue geeft het dan op. Waarom?
 Rogue realiseert zich dat het niet genoeg rekenkracht heeft om de double spend te behalen, ondanks dat het 36% van de hash rate van Bitcoin beheert. Om succesvol te zijn moet het nog vier extra blokken minen om de eerlijke keten in te halen. Ondanks zijn enorme rekenkracht en het beheersen van 36% van het netwerk, is Rogue’s kans op succes slechts 0,100113.
 
 
-> **Info – Speltheorie Komt in Werking**
+> **Dark – Speltheorie Komt in Werking**
 >
 > Rogue’s kansen op succes zijn slecht, maar het wordt nog erger. Voor elke minuut dat het blijft proberen, verbruikt Rogue een enorme hoeveelheid elektriciteit. Dit zal allemaal voor niets zijn geweest. Bovendien, voor elk blok dat het niet eerlijk weet te minen, verliest Rogue de blokbeloning, momenteel 3,125 munten per blok, momenteel meer dan $300.000 waard.
 >

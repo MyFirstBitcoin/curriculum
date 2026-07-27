@@ -5,7 +5,7 @@ En basit ifadeyle, Bitcoin paradır. Bitcoin bir yatırım değildir; aksine, ka
 Bitcoin tutmak sizi zengin etmez çünkü size daha fazla bitcoin kazandırmaz. Değeri, herhangi bir itibari para birimiyle ölçüldüğünde artar; ancak bu yalnızca benimsenmesinin artması ve itibari para birimlerinin değer kaybetmesi nedeniyledir.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin **paradır**, değer depolamak ve göndermek için kullanılır.  
 > Küresel bir **ağda** çalışır.  
@@ -29,7 +29,7 @@ Bu yazılım ve tüm işlemlerin kaydı, sayısız kopyası olduğu için yok ol
 Son olarak, Bitcoin kıttır; yani var olacak bitcoin sayısı kesinlikle sınırlıdır. Zincir üzerindeki bitcoin'i kimse taklit edemez — en güçlü hükümetler ve finansal kurumlar bile.
 
 
-> **Note – Bitcoin'in İlkeleri**
+> **Light – Bitcoin'in İlkeleri**
 >
 > Bitcoin üç basit fikir üzerine inşa edilmiştir:
 >
@@ -140,4 +140,4 @@ Anahtar, harekete geçmekte, Bitcoin'in nasıl çalıştığını anlamakta ve o
 ###### Kaynaklar
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ "Bitcoin Nedir?" videosunu izleyin](https://www.youtube.com/watch?v=Gc2en3nHxA4)

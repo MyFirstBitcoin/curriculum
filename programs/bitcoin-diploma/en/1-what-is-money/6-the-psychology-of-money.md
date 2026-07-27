@@ -14,7 +14,7 @@ Scarcity applies to all resources, not just water. Whether it’s money, time or
 
 ##### There are two types of scarcity
 
-* **Artificial scarcity**, also known as centralized scarcity, includes things like limited-edition designer bags, rare sports cards, and numbered art pieces. These can be easily
+* **Artificial scarcity**, also known as centralized scarcity, includes things like limited-edition designer bags, rare sports cards, and numbered art pieces. These can be easily replicated or counterfeited.
 * **Natural scarcity**, also known as decentralized scarcity, includes things like oceanfront property and precious metals like gold. These are harder to replicate or counterfeit.
 
 The main difference between the two is control.
@@ -68,8 +68,3 @@ Our willingness to give up a larger reward in the future in exchange for a small
 * How do you feel about your decision now that the activity is over?
 * Can you think of real-life examples where high time preference might be harmful and where low time preference might be beneficial?
 * What are some potential consequences of choosing high time preference over low time preference?
-
-###### Resources
-
-
-[▶ YouTube](https://www.youtube.com/watch?v=InwVM6s7WoY)

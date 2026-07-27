@@ -11,7 +11,11 @@ Dalam modul ini, kita akan memulai perjalanan menelusuri waktu, merasakan evolus
 
 #### Aktivitas: Permainan Barter Iteratif
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Ini adalah latihan kelas yang bertujuan untuk meningkatkan pemahaman Anda tentang konsep barter. Partisipasi Anda akan membantu melihat bagaimana uang secara alami berkembang di pasar bebas.
 

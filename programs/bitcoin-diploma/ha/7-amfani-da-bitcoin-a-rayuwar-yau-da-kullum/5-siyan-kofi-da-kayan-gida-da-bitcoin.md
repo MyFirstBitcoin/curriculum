@@ -5,7 +5,7 @@ Ka taɓa yin mamaki ko za ka iya amfani da bitcoin don siyan kofin kofi na yau d
 Ko da yake biyan kuɗi da kati ko manhaja na iya zama mai sauƙin fahimta ga mai biyan kuɗi, aiwatar da biyan kuɗin yana da matuƙar rikitarwa kuma yana haɗa da ɓangarori da dama.
 
 
-> **Note – Yadda Ake Gudanar da Biyan Kuɗi**
+> **Light – Yadda Ake Gudanar da Biyan Kuɗi**
 >
 > Abokin ciniki → Mai sayarwa → Ƙofar Biyan Kuɗi → Mai sarrafa biyan kuɗi → Hanyar Katin → Bankin da ya fitar da kati → Hanyar Katin → Bankin Mai sayarwa → Mai sayarwa
 
@@ -55,7 +55,7 @@ Tattalin arzikin **zagaye** ya ƙunshi mahalarta da suka yanke shawarar tallafa 
 Idan aka shafi Bitcoin, tattalin arzikin zagaye yana ginuwa ne ta hanyar tallafawa ‘yan kasuwa da masu sana’a na yankin da ke karɓar bitcoin, don haka duk mahalarta za su bunƙasa tare saboda ingantattun halayen Bitcoin.
 
 
-> **Note**
+> **Light**
 >
 > Lightning Network yana ba da damar bayyanar da bunƙasar tattalin arzikin zagaye na Bitcoin a ko’ina cikin duniya saboda mu’amaloli na Bitcoin masu kusan nan take da ƙarancin kuɗi.
 
@@ -71,4 +71,4 @@ A kan [BTCMap.org](https://btcmap.org/communities), za ka iya kuma neman al'ummo
 ###### Kayan taimako
 
 
-[▶ YouTube](https://youtu.be/yKdK-7AtAMQ)
+[▶ Kalli wannan bidiyon game da Lightning Network](https://youtu.be/yKdK-7AtAMQ)

@@ -36,7 +36,7 @@ Enkripsi digunakan untuk memastikan bahwa hanya pemilik asli bitcoin yang memili
 Sebagai langkah perlindungan tambahan, setiap transaksi Bitcoin secara otomatis mendapatkan tanda tangan digital yang UNIK. Tanda tangan digital unik ini didukung oleh teknologi anti-manipulasi yang membantu jaringan memverifikasi bahwa pemilik asli bitcoin, dan bukan orang lain, yang telah mengirimkannya.
 
 
-> **Info**
+> **Dark**
 >
 > Setiap pengguna memiliki dua kunci: **kunci privat**, yang **disimpan secara rahasia**, dan **kunci publik** yang dapat **dibagikan kepada orang lain**. **Kunci privat** berfungsi sebagai bentuk identifikasi dan bukti kepemilikan, yang menegaskan: “Alamat ini milik saya dan saya memiliki kendali atasnya.”
 
@@ -128,6 +128,10 @@ Proses pengkodean **public key** melalui hashing digunakan untuk meningkatkan ke
 
 #### Aktivitas: Hasilkan Hash SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Penasaran bagaimana hashing bekerja? Pindai kode QR untuk langsung menghasilkan hash SHA256 dari kata, kalimat, atau input apa pun yang Anda pilih. Fungsi hash seperti sidik jari digital: mereka satu arah, artinya setelah sesuatu di-hash, tidak bisa dibalik. Coba sendiri dan lihat hasilnya!

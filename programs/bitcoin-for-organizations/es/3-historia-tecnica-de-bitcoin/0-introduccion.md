@@ -1,6 +1,6 @@
 # 3.0 Introducción
 
-> **Info – Resumen del White Paper de Bitcoin**
+> **Dark – Resumen del White Paper de Bitcoin**
 >
 > **Una versión puramente entre pares de dinero electrónico** permitiría que los pagos en línea se envíen directamente de una parte a otra sin pasar por una institución financiera. **Las firmas digitales proporcionan parte de la solución**, pero los principales beneficios se pierden si todavía se requiere una **tercera parte confiable** para evitar el doble gasto. Proponemos una solución al problema del doble gasto utilizando una **red entre pares**. La **red sella las transacciones con marcas de tiempo** al incluirlas en una cadena continua de **prueba de trabajo basada en hash,** formando un registro que no puede ser modificado sin rehacer la **prueba de trabajo**. La cadena más larga no solo sirve como prueba de la secuencia de eventos presenciados, sino también como prueba de que proviene del mayor grupo de poder de CPU. Mientras la mayoría del poder de CPU esté controlado por nodos que no cooperan para atacar la red, ellos generarán la cadena más larga y superarán a los atacantes. **La propia red requiere una estructura mínima. Los mensajes se transmiten con el mejor esfuerzo posible, y los nodos pueden salir y volver a unirse a la red cuando lo deseen**, aceptando la cadena de prueba de trabajo más larga como prueba de lo que ocurrió mientras estaban ausentes.
 

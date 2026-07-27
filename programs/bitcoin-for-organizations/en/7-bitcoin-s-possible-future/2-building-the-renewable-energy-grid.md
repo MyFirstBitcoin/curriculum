@@ -5,7 +5,7 @@
 Bitcoin relies on energy for its ‘proof of work’ consensus mechanism, which helps to ensure it remains a decentralised, permissionless form of money. The energy grid is facing challenges to integrate new forms of energy from renewables, which is putting strains on the current infrastructure. This chapter provides a brief introduction to these challenges and an overview of the relevant aspects of Bitcoin before showing how it is helping in this evolution of the renewable energy grid.
 
 
-> **Info – Bitcoin as an energy currency**
+> **Dark – Bitcoin as an energy currency**
 >
 > On Dec. 4, 1921, the New York Tribune published an article outlining Ford’s vision of replacing gold with an energy currency that he believed could break the banking elites’ grip on global wealth and put an end to wars. He intended to do this by building “the world’s greatest power plant” and creating a new currency system based on “units of power.”
 

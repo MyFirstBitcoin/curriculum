@@ -5,7 +5,7 @@
 Bitcoin se bazează pe energie pentru mecanismul său de consens „proof of work”, care ajută la asigurarea faptului că rămâne o formă de bani descentralizată și fără permisiuni. Rețeaua energetică se confruntă cu provocări în integrarea noilor forme de energie din surse regenerabile, ceea ce pune presiune pe infrastructura actuală. Acest capitol oferă o scurtă introducere în aceste provocări și o prezentare generală a aspectelor relevante ale Bitcoin, înainte de a arăta cum ajută la această evoluție a rețelei de energie regenerabilă.
 
 
-> **Info – Bitcoin ca monedă energetică**
+> **Dark – Bitcoin ca monedă energetică**
 >
 > Pe 4 decembrie 1921, New York Tribune a publicat un articol care prezenta viziunea lui Ford de a înlocui aurul cu o monedă energetică, despre care credea că ar putea rupe controlul elitelor bancare asupra bogăției globale și ar pune capăt războaielor. El intenționa să facă acest lucru construind „cea mai mare centrală electrică din lume” și creând un nou sistem monetar bazat pe „unități de putere”.
 

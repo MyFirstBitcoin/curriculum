@@ -36,7 +36,7 @@ Penyulitan digunakan untuk memastikan hanya pemilik sebenar bitcoin mempunyai ku
 Sebagai langkah perlindungan tambahan, setiap transaksi Bitcoin secara automatik mendapat tandatangan digital yang UNIK. Tandatangan digital unik ini dikuasakan oleh teknologi kalis gangguan yang membantu rangkaian mengesahkan bahawa pemilik sebenar bitcoin, dan bukannya orang lain, telah menghantarnya.
 
 
-> **Info**
+> **Dark**
 >
 > Setiap pengguna mempunyai dua kunci: satu **kunci peribadi**, yang **dirahsiakan**, dan satu **kunci awam** yang boleh **dikongsi dengan orang lain**. Kunci **peribadi** berfungsi sebagai bentuk pengenalan dan bukti pemilikan, mengesahkan: “Alamat ini milik saya dan saya mengawalnya.”
 
@@ -128,6 +128,10 @@ Proses pengekodan **kunci awam** melalui hashing digunakan untuk meningkatkan ke
 
 #### Aktiviti: Jana Hash SHA 256
 
+
 https://tools.keycdn.com/sha256-online-generator
+
+_SHA256 Online Generator_
+
 
 Ingin tahu bagaimana hashing berfungsi? Imbas kod QR untuk serta-merta menjana hash SHA256 daripada mana-mana perkataan, ayat, atau input pilihan anda. Fungsi hash seperti cap jari digital: ia sehala, bermakna setelah sesuatu di-hash, ia tidak boleh diundur semula. Cubalah sendiri dan lihat hasilnya!

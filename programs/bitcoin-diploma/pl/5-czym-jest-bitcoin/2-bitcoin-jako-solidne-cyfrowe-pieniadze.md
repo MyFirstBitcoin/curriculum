@@ -5,7 +5,7 @@ W najprostszych słowach, Bitcoin to pieniądz. Bitcoin nie jest inwestycją, le
 Trzymanie bitcoinów nie uczyni cię bogatym, ponieważ nie przyniesie ci więcej bitcoinów. Jego wartość, mierzona względem dowolnej waluty fiducjarnej, rzeczywiście rośnie; ale dzieje się tak tylko z powodu rosnącej adopcji i dewaluacji walut fiducjarnych.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin to **pieniądz**, używany do przechowywania i przesyłania wartości.  
 > Działa na globalnej **sieci** komputerów.  
@@ -29,7 +29,7 @@ To oprogramowanie i zapis wszystkich transakcji mają bardzo małe szanse na zni
 Wreszcie, Bitcoin jest rzadki, co oznacza, że liczba bitcoinów, które kiedykolwiek powstaną, jest absolutnie ograniczona. Nikt nie może podrobić bitcoinów w sieci — nawet najpotężniejsze rządy i instytucje finansowe.
 
 
-> **Note – Zasady Bitcoina**
+> **Light – Zasady Bitcoina**
 >
 > Bitcoin opiera się na trzech prostych ideach:
 >
@@ -140,4 +140,4 @@ Klucz tkwi w działaniu, w zrozumieniu, jak działa Bitcoin, i wdrożeniu go zgo
 ###### Materiały
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Obejrzyj film „Czym jest Bitcoin?”](https://www.youtube.com/watch?v=Gc2en3nHxA4)

@@ -25,7 +25,7 @@ Pertimbangkan penggunaan praktis seperti memperoleh kebutuhan pokok seperti maka
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
 
-> **Note**
+> **Light**
 >
 > Perluas diskusi ke kelompok dengan membagikan dan membandingkan daftar untuk menemukan lima alasan terpenting mengapa kita membutuhkan uang. Identifikasi ide-ide yang sama di seluruh kelas. Renungkan ide unikmu sendiri yang tidak masuk daftar tetapi tetap berharga, dan catatlah.
 

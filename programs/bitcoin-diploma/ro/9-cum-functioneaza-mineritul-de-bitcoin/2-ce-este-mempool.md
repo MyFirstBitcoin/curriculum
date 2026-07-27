@@ -12,7 +12,11 @@ Odată ce o tranzacție este inclusă într-un bloc, ea devine confirmată și e
 
 #### Activitate: Explorarea Mempool
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Această activitate îi familiarizează pe elevi cu un instrument gratuit și open-source care nu necesită abilități tehnice pentru a fi folosit. Este util pentru Bitcoineri de toate nivelurile, de la începători la avansați.**
 

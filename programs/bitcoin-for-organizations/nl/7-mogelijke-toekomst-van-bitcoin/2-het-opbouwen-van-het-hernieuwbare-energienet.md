@@ -5,7 +5,7 @@
 Bitcoin is afhankelijk van energie voor zijn ‘proof of work’-consensusmechanisme, wat helpt om te waarborgen dat het een gedecentraliseerde, permissieloze vorm van geld blijft. Het energienet staat voor uitdagingen bij het integreren van nieuwe vormen van energie uit hernieuwbare bronnen, wat druk zet op de huidige infrastructuur. Dit hoofdstuk geeft een korte introductie van deze uitdagingen en een overzicht van de relevante aspecten van Bitcoin, voordat wordt getoond hoe het bijdraagt aan deze evolutie van het hernieuwbare energienet.
 
 
-> **Info – Bitcoin als energievaluta**
+> **Dark – Bitcoin als energievaluta**
 >
 > Op 4 december 1921 publiceerde de New York Tribune een artikel waarin Ford’s visie werd uiteengezet om goud te vervangen door een energievaluta, waarvan hij geloofde dat deze de greep van de bankelite op de wereldrijkdom kon breken en een einde kon maken aan oorlogen. Hij wilde dit bereiken door 's werelds grootste energiecentrale te bouwen en een nieuw valutasysteem te creëren gebaseerd op 'eenheden van energie'.
 

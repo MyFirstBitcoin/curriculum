@@ -1,5 +1,6 @@
 # 9.1 Bitcoin Nodes and Miners
 
+What Is a Bitcoin Node?  
 Bitcoin nodes may sound technical, but they are simply software that keeps a copy of the Bitcoin blockchain on a computer. The blockchain is a shared record of all Bitcoin transactions.
 
 When you run your own node, you verify Bitcoin transactions yourself instead of trusting someone else. This gives you more independence and helps keep the Bitcoin network decentralized.
@@ -16,7 +17,7 @@ Anyone can run a node by installing software such as Bitcoin Core and downloadin
 
 Running a node helps make the Bitcoin network more secure and decentralized, because more people are independently verifying the system.
 
-#### What Is a Bitcoin Node?
+#### What Is a Bitcoin Miner?
 
 > The purpose of mining is not the creation of new bitcoin; that’s the incentive system. Mining is the mechanism by which Bitcoin’s security is decentralized.  
 _Andreas M. Antonopoulos_
@@ -54,7 +55,7 @@ Bitcoin has a fixed maximum supply of 21,000,000 bitcoin, but all of them were n
 
 When miners successfully add a new block of transactions to the Bitcoin network, they receive a **block reward** in bitcoin. In the early days of Bitcoin, this reward was 50 bitcoin per block. This reward encouraged people to use computing power and electricity to help secure the network.
 
-About every 210,000 blocks (roughly every 4 years), the block reward is cut in half. This event is called the **halving**. The halving slows down the creation of new bitcoin and helps ensure that the total supply will never exceed 21 million. Over time, this makes bitcoin increasingly scarce.
+Every 210,000 blocks (roughly every 4 years), the block reward is cut in half. This event is called the **halving**. The halving slows down the creation of new bitcoin and helps ensure that the total supply will never exceed 21 million. Over time, this makes bitcoin increasingly scarce.
 
 
 > **Definition – Circulating supply**
@@ -62,7 +63,9 @@ About every 210,000 blocks (roughly every 4 years), the block reward is cut in h
 > **Circulating supply** refers to the total available amount of a currency. With Bitcoin, the total circulating supply is the number of coins that have been mined and are incirculation at any given time.
 
 
-![ Bitcoin Supply Schedule](https://cdn.sanity.io/images/vje9ehw2/staging/8184cb1c032cab6fd5219e903f8dddc20bdde779-292x200.svg)
+
+<!-- micrographic: bitcoin-supply-schedule -->
+
 
 
 > **Definition – Bitcoin supply schedule**
@@ -90,7 +93,7 @@ As more bitcoin are mined, the circulating supply keeps increasing until the max
 
 #### What is a valid block hash in Bitcoin?
 
-In Bitcoin, miners compete to find a special code called a **block hash**. This code identifies a block of transactions and allows it to be added to the blockchain.
+Miners compete to find a special code called a **block hash**. This code identifies a block of transactions and allows it to be added to the blockchain.
 
 Each block contains information about recent transactions and also includes the hash of the previous block. This links every block together, forming a chain from the very first block (the Genesis Block) to the most recent one.
 

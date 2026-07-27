@@ -128,7 +128,7 @@ Il mining di Bitcoin offre un forte incentivo economico per lo sviluppo delle en
 
 
 
-> **Info – L'eliminazione del flaring?**
+> **Dark – L'eliminazione del flaring?**
 >
 > Utilizzare energia di scarto, come il gas naturale flaring, non solo fa risparmiare denaro ma riduce anche le critiche ambientali. Il flaring si verifica quando il gas naturale in eccesso (metano) viene bruciato nei siti di trivellazione petrolifera perché non esiste un'infrastruttura per catturarlo e venderlo. Secondo alcuni studi5, il metano intrappola circa 120 volte più calore della CO2, da qui la necessità di bruciarlo, convertendolo efficacemente in CO2. Tuttavia, il flaring non è efficace al 100% e permette comunque al metano di entrare nell'atmosfera. I miner di Bitcoin possono utilizzare questa energia per alimentare le loro operazioni, riducendo così le emissioni di gas serra derivanti dal flaring. Il gas naturale viene combusto in generatori per produrre elettricità, che alimenta impianti di mining portatili situati direttamente presso il pozzo.
 >
@@ -178,7 +178,7 @@ Con la maturazione del settore, una maggiore collaborazione con i fornitori di e
 
 
 
-> **Info**
+> **Dark**
 >
 > **Bitcoin non spreca energia. Utilizza energia sprecata.**
 >

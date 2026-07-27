@@ -41,4 +41,4 @@ Jika anda bersedia untuk mengambil langkah seterusnya, lihat sumber tambahan dal
 ###### Sumber
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Kemungkinan untuk perubahan positif sangat besar, sebab itulah kami menjemput anda untuk menonton video ini untuk mengetahui lebih lanjut.](https://www.youtube.com/watch?v=3Rnqst5qCgA)

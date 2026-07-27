@@ -12,7 +12,11 @@ Bir işlem bir bloğa dahil edildiğinde, onaylanmış olur ve kalıcı olarak B
 
 #### Etkinlik: Mempool'u Keşfetmek
 
+
 https://qr.myfirstbitcoin.org/mempool.pdf
+
+_Activity: Mempool_
+
 
 **Bu etkinlik, öğrencileri teknik bilgi gerektirmeyen, ücretsiz ve açık kaynaklı bir araçla tanıştırır. Başlangıç seviyesinden deneyimli Bitcoin kullanıcılarına kadar herkes için faydalıdır.**
 

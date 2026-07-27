@@ -17,7 +17,7 @@ Iwasan ang pagiging sobrang mapagpasya. Maaari kang maghanda para sa mga resulta
 Sa seksyong ito, binibigyang-diin namin ang ilang pangkalahatang grupo ng mga aksyon upang matulungan kang gawing aksyon ang pagsusuri. Hindi ito kumpletong listahan, kundi gabay lamang upang makapagsimula ka.
 
 
-> **Note – Mga Estratehiya sa Kita at Lugi (P&L)**
+> **Light – Mga Estratehiya sa Kita at Lugi (P&L)**
 >
 > * Protektahan ang kasalukuyang kita at bahagi ng merkado
 >   * Bawasan ang pagkakalantad sa mga merkadong apektado nang negatibo
@@ -33,7 +33,7 @@ Sa seksyong ito, binibigyang-diin namin ang ilang pangkalahatang grupo ng mga ak
 
 
 
-> **Note – Mga Estratehiya sa Balance Sheet**
+> **Light – Mga Estratehiya sa Balance Sheet**
 >
 > * Palaguin ang halaga mula sa iyong balance sheet
 >   * Bawasan ang pagkakalantad sa mga asset na hindi umaabot sa gastos ng kapital, nang hindi binabawasan ang katatagan ng kapital

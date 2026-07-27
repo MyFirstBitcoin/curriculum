@@ -18,7 +18,11 @@ Tento příklad ukazuje, jak může být kupní síla ovlivněna silami mimo na�
 
 #### Aktivita: Aukce
 
+
 https://qr.myfirstbitcoin.org/auction.pdf
+
+_Activity: Auction_
+
 
 Toto je skupinové cvičení, při kterém účastníci na vlastní kůži poznají, jak zvýšení peněžní zásoby ovlivňuje ceny. Cílem je, aby účastníci pochopili monetární inflaci (ne cenovou inflaci).
 

@@ -78,7 +78,7 @@ Il problema ulteriore per l’attaccante è come mantenere il controllo una volt
 È probabile che, una volta che fosse evidente che la rete è sotto attacco, gli sviluppatori di Bitcoin effettuerebbero un ‘hard fork’ del software, in modo che il registro venga ‘forkato’ dal punto in cui sono state generate le voci fraudolente dall’attaccante. La maggior parte dei nodi implementerebbe quindi la versione aggiornata del software e gli sforzi dell’attaccante verrebbero ignorati.
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=ncPyMUfNyVM)
+[▶ Una descrizione più leggera da parte di Andreas Antonopoulos sulla possibilità di un attacco del 51% sponsorizzato da uno stato.](https://www.youtube.com/watch?v=ncPyMUfNyVM)
 
 
 ##### L’autocustodia di Bitcoin e le transazioni peer-to-peer potrebbero essere vietate?
@@ -106,7 +106,7 @@ Dobbiamo anche aspettarci che alcune nazioni emanino leggi su Bitcoin poco effic
 La legge della bandiera rossa del Regno Unito della fine del XIX secolo è un esempio storico di una legge eccessivamente severa che fu poi abrogata.
 
 
-> **Note**
+> **Light**
 >
 > A metà del XIX secolo, le industrie delle diligenze e soprattutto delle locomotive si trovarono di fronte allo spettro incombente del potenziale dirompente dell’automobile. Temevano che l’auto le avrebbe sostituite.**Così, lavorarono duramente per convincere il governo a emanare leggi severe, cercando di fatto di ostacolare la crescita di questa nuova tecnologia.**
 >
@@ -144,7 +144,7 @@ Ovviamente, incolpare Bitcoin per una crisi della valuta fiat sarebbe assurdo. D
 È anche importante notare che Bitcoin diventa più forte quando viene attaccato. Questo perché tali attacchi servono a sfatare i miti diffusi dai detrattori secondo cui Bitcoin sarebbe fragile e vulnerabile. Quindi non solo dobbiamo aspettarci che i governi iper-regolamentino Bitcoin, ma dovremmo anche accoglierlo.
 
 
-> **Note**
+> **Light**
 >
 > **I governi probabilmente impareranno l’anti-fragilità di Bitcoin cercando di ostacolarlo e scoprendo cosa succede quando attaccano la rete.** Probabilmente vedranno che, con Bitcoin, più che con qualsiasi altra classe di asset nella storia, il capitale fluirà verso quei paesi dove viene trattato meglio. Pertanto, man mano che la rete Bitcoin cresce, dovrebbe diventare sempre più evidente che i paesi che scelgono di adottarla, invece di combatterla, avranno maggiori probabilità di emergere come vincitori.
 

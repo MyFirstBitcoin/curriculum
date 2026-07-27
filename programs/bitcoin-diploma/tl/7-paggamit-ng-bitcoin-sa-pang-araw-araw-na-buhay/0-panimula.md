@@ -10,6 +10,6 @@ Hindi naiiba ang Bitcoin. Gaya ng sinabi ni Andreas Antonopoulos, “Bitcoin ay 
 Isa sa mga layer na ito ay tinatawag na **Lightning Network**. Para itong napakabilis na highway para sa Bitcoin, tumutulong sa mga tao na magpadala at tumanggap ng bitcoin nang mabilis at may napakababang bayad. Pinapayagan nito ang mga user na gumawa ng instant at maliliit na transaksyon sa ibabaw ng regular na Bitcoin network. Dahil dito, ang pagbili ng kape o pagbabayad sa kaibigan ay nagiging simple at mabilis! Siyempre, tulad ng lahat ng bagay, may mga kapalit din ito.
 
 
-> **Info**
+> **Dark**
 >
 > Ang satoshi ang pinakamaliit na yunit ng bitcoin. Katulad ng piso na pwedeng hatiin sa sentimo, ang isang bitcoin ay pwedeng hatiin sa mas maliliit na yunit na tinatawag na satoshi. Ang isang bitcoin ay katumbas ng 100 milyon satoshi, kaya ang satoshi ang pinakamaliit na halaga sa sistema ng Bitcoin. Kapag pinag-uusapan natin ang pagpapadala ng bitcoin gamit ang Lightning Network, tatawagin natin itong “pagpapadala ng sats,” na pinaikli ng satoshi.

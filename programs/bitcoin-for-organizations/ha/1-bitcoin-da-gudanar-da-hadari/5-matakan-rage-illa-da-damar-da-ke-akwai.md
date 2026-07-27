@@ -17,7 +17,7 @@ Guji yanke hukunci da wuri. Za ka iya shirya wa sakamako masu sabani, kuma wanna
 A wannan sashe, mun haskaka wasu rukuni na matakai na gaba ɗaya don taimaka maka canza bincike zuwa matakai. Wannan jerin ba cikakke ba ne, amma an tsara shi ne don taimaka maka farawa.
 
 
-> **Note – Dabarun Riba da Asara (P&L)**
+> **Light – Dabarun Riba da Asara (P&L)**
 >
 > * Kare kudaden shiga da kasuwar da kake da ita
 >   * Rage fuskantar kasuwanni da ke cikin matsala
@@ -33,7 +33,7 @@ A wannan sashe, mun haskaka wasu rukuni na matakai na gaba ɗaya don taimaka mak
 
 
 
-> **Note – Dabarun Balance Sheet**
+> **Light – Dabarun Balance Sheet**
 >
 > * Samun ƙima daga balance sheet ɗinka
 >   * Rage fuskantar kadarorin da ba sa samar da riba fiye da kuɗin jari, ba tare da rage ƙarfin jari ba

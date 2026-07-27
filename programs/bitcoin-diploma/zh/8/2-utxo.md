@@ -27,4 +27,4 @@
 ###### 资源
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+[▶ 观看《How Bitcoin Works under the Hood》](https://www.youtube.com/watch?v=Lx9zgZCMqXE)

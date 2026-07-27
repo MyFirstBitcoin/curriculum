@@ -49,7 +49,7 @@ Em um sistema centralizado, tudo gira em torno de uma autoridade principal, como
 * **Falta de transparência e confiança**: O funcionamento interno dos sistemas centralizados pode ser difícil de entender, tornando difícil para as pessoas confiarem neles.
 
 
-> **Note**
+> **Light**
 >
 > Em 2022, durante protestos pacíficos no Canadá, bancos congelaram as contas dos manifestantes, mostrando como uma autoridade central pode controlar o acesso financeiro.
 
@@ -73,7 +73,7 @@ Embora os sistemas descentralizados tenham muitas vantagens, tomar decisões em 
 Em um mundo de sistemas centralizados e descentralizados, tudo gira em torno de quem detém o poder. Sistemas centralizados concentram o poder em um pequeno grupo, enquanto sistemas descentralizados o distribuem, permitindo que todos tenham voz. Essa mudança de poder significaria um futuro mais justo, onde muitas pessoas influenciam o sistema que molda suas vidas.
 
 
-> **Note**
+> **Light**
 >
 > A Rede Tor cria um sistema descentralizado onde as pessoas podem permanecer anônimas online e a rede é difícil de ser parada ou censurada.
 
@@ -91,4 +91,4 @@ Essas tentativas ajudaram a revelar o que estava faltando. Mais tarde, alguém s
 ###### Recursos
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=9vM0oIEhMag)
+[▶ Assista a este vídeo e descubra a história dos Cypherpunks!](https://www.youtube.com/watch?v=9vM0oIEhMag)

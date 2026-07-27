@@ -9,12 +9,12 @@ Các loại tiền tệ mà chúng ta sử dụng ngày càng trở nên số h�
 ##### Tài nguyên
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
+[▶ Xem video ngắn này để tìm hiểu về "Nguồn gốc của Trao đổi", nằm trong loạt phim “Lịch sử của Tiền giấy”.](https://www.youtube.com/watch?app=desktop&v=-nZkP2b-4vo)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=rPHTmGjoe2k)
+[▶ Đây là tập thứ hai mang tên "Không chỉ là Mì" trong loạt phim "Lịch sử của Tiền giấy"](https://www.youtube.com/watch?v=rPHTmGjoe2k)
 
 
 
-[▶ YouTube](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)
+[▶ Điều gì sẽ xảy ra khi bạn thực sự cố gắng áp dụng học thuyết tiền giấy vào thực tế? Hãy khám phá trong tập thứ tư của "Lịch sử của Tiền giấy"](https://www.youtube.com/watch?app=desktop&v=lzH1p3t2oRE)

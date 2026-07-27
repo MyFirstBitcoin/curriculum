@@ -39,7 +39,7 @@ Nakonec převeďte pozorování z výše uvedeného cvičení na rizika relevant
 
 
 
-> **Info – Příklady**
+> **Dark – Příklady**
 >
 > * Riziko, že se bitcoin stane hlavním globálním rezervním aktivem státní pokladny
 > * Riziko, že se síť Bitcoin stane zúčtovací vrstvou pro internetový obchod

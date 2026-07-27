@@ -1,6 +1,6 @@
 # 2.2 Bitcoin ist schlecht für die Umwelt
 
-> **Note**
+> **Light**
 >
 > * Bitcoin steht häufig in der Kritik, zu viel Energie zu verbrauchen.
 > * Bereits 2017 veröffentlichte das Weltwirtschaftsforum (WEF) einen Artikel auf seiner Website, in dem behauptet wurde, dass ‚bis 2020 Bitcoin mehr Energie verbrauchen wird, als die Welt produzieren kann‘.

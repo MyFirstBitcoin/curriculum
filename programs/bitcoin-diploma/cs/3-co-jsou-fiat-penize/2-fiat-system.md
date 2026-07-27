@@ -65,7 +65,7 @@ Zde vstupuje do hry centrální banka jako věřitel poslední instance, která 
 1. **Banky platí úroky z úroků získaných z půjček** (9 % - 5 % = 4 %) a zbytek si ponechávají jako zisk
 
 
-> **Note – Jak banky vytvářejí peníze**
+> **Light – Jak banky vytvářejí peníze**
 >
 > Komerční banky vytvářejí nové fiat peníze, když poskytují půjčky.
 >
@@ -124,7 +124,7 @@ Tyto skupiny z toho těží různými způsoby a vytvářejí složitou síť ko
 Nakonec loutkaři fiat systému režírují představení, kde několik málo lidí výrazně těží na úkor mnoha ostatních, kteří si pak kladou otázku, jak je vůbec někdy doženou.
 
 
-> **Note – Role centrálních bank**
+> **Light – Role centrálních bank**
 >
 > Centrální banky tiše formují, jak ekonomika funguje. Jejich oficiální úkolem je zajistit stabilitu a integritu, ale jejich metody odhalují temnější stránku.
 >
@@ -156,7 +156,7 @@ Centrální banky a vlády mohou používat nástroje měnové a fiskální poli
 * Zvýšení daní
 
 
-> **Note – Příliš velké na to, aby padly**
+> **Light – Příliš velké na to, aby padly**
 >
 > „Příliš velké na to, aby zkrachovaly“ označuje finanční instituce, které jsou natolik velké a propojené, že jejich krach by měl katastrofální dopad na celý finanční systém. Během finanční krize v roce 2008 bylo několik velkých bank označeno za „příliš velké na to, aby zkrachovaly“, což vedlo k zásahu vlády USA a poskytnutí záchranných balíčků, aby se zabránilo jejich kolapsu.
 >
@@ -169,7 +169,11 @@ Pochopení toho, jak tyto politiky fungují, je zásadní pro pochopení omezen�
 
 #### Aktivita: Frakční rezervní bankovnictví
 
+
 https://qr.myfirstbitcoin.org/fractional-reserve.pdf
+
+_Activity: Fractional Reserve_
+
 
 Toto je třídní cvičení, které zkoumá individuální kroky lidí a bank při používání praxe frakčního rezervního bankovnictví. Cílem je na vlastní kůži zažít, jak tento nástroj zvyšuje peněžní zásobu.
 

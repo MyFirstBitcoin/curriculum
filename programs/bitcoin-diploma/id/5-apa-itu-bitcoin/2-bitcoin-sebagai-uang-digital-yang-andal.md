@@ -5,7 +5,7 @@ Dalam istilah yang paling sederhana, Bitcoin adalah uang. Bitcoin bukanlah inves
 Menyimpan bitcoin tidak akan membuat Anda kaya karena tidak akan memberikan Anda imbal hasil berupa bitcoin tambahan. Nilainya, jika diukur terhadap mata uang fiat apa pun, memang naik; namun ini hanya karena adopsinya yang terus berkembang dan penurunan nilai mata uang fiat.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin adalah **uang**, digunakan untuk menyimpan dan mengirim nilai.  
 > Ia berjalan di atas **jaringan** komputer global.  
@@ -29,7 +29,7 @@ Perangkat lunak ini dan catatan semua transaksi memiliki kemungkinan sangat keci
 Akhirnya, Bitcoin itu langka, artinya jumlah bitcoin yang akan pernah ada benar-benar terbatas. Tidak ada yang bisa memalsukan bitcoin on-chain — bahkan pemerintah dan institusi keuangan paling kuat sekalipun.
 
 
-> **Note – Prinsip-Prinsip Bitcoin**
+> **Light – Prinsip-Prinsip Bitcoin**
 >
 > Bitcoin dibangun di atas tiga gagasan sederhana:
 >
@@ -140,4 +140,4 @@ Kuncinya terletak pada tindakan, pada pemahaman cara kerja Bitcoin dan menerapka
 ###### Sumber Daya
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Tonton video "Apa itu Bitcoin?"](https://www.youtube.com/watch?v=Gc2en3nHxA4)

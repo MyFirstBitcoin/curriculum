@@ -69,7 +69,7 @@ Tangu kuanzishwa kwake mwaka 2009, bitcoin imekuwa katika hali ya kudumu ya 'ugu
 Kwa kuchambua leja ya bitcoin, inaonekana kwamba zaidi ya 70% ya jumla ya bitcoin inashikiliwa na [wamiliki wa muda mrefu](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Kwa hiyo, inaonekana kwamba wamiliki wengi wameridhika kukaa na kutouza au kutumia bitcoin zao. Kutokana na ongezeko kubwa la uwezo wa kununua wa bitcoin tangu ilipozinduliwa, ni busara kudhani kwamba wamiliki wengi wanatarajia bitcoin kuwa na thamani zaidi na hili linaathiri uamuzi wao wa kuendelea kushikilia na kutotumia.
 
 
-> **Info – Siku ya Pizza ya Bitcoin**
+> **Dark – Siku ya Pizza ya Bitcoin**
 >
 > Kila mwaka tarehe 22 Mei, jamii ya Bitcoin husherehekea na kumtambua mpangaji programu kutoka Florida, Laszlo Hanyecz, ambaye alikuwa mtu wa kwanza kuripotiwa kutumia bitcoin kununua bidhaa halisi. Tarehe 18 Mei 2010, Hanyecz alitangaza kwenye jukwaa la Bitcointalk.org kwamba alikuwa anatafuta pizza na alikuwa tayari kulipa kwa bitcoin. Alitoa bitcoin 10,000 kwa yeyote aliyekuwa tayari kufanya muamala huo. Alisubiri kwa siku kadhaa, hadi mwanafunzi wa miaka 19 aitwaye Juma alikubali na kutuma pizza mbili kubwa. Laszlo alimtumia Juma bitcoin 10,000 kama alivyoahidi, ambazo, kwa wakati wa kuandika, zina thamani ya zaidi ya TSh bilioni 1,600.
 >

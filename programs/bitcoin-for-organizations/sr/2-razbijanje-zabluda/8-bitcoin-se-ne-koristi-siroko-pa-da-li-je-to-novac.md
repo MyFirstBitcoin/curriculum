@@ -69,7 +69,7 @@ Od svog nastanka 2009. godine, bitcoin je u stalnom stanju „otkrivanja cene“
 Analizom bitcoin knjige može se pokazati da je preko 70% ukupne ponude bitcoina u rukama [dugoročnih vlasnika](https://buybitcoinworldwide.com/how-many-bitcoin-users/). Dakle, izgleda da je većina vlasnika zadovoljna da sedi i ne prodaje ili troši svoj bitcoin. S obzirom na dramatičan porast kupovne moći bitcoina od njegovog lansiranja, razumno je pretpostaviti da većina vlasnika očekuje da će bitcoin postati još vredniji i to utiče na njihovu odluku da nastave da ga drže i ne troše.
 
 
-> **Info – Bitcoin Pizza Day**
+> **Dark – Bitcoin Pizza Day**
 >
 > Svake godine, 22. maja, Bitcoin zajednica slavi i odaje priznanje programeru iz Floride, Lazaru, koji je postao prva osoba za koju se zna da je koristila bitcoin za kupovinu fizičke robe. Dana 18. maja 2010. godine, Lazar je na Bitcointalk.org forumu objavio da traži picu i da je spreman da plati bitcoinom. Ponudio je 10.000 bitcoina svakome ko bude želeo da uđe u tu transakciju. Čekao je nekoliko dana, dok se 19-godišnji student Marko nije odazvao i poslao dve velike pice. Lazar je Marku poslao 10.000 bitcoina kao što je obećao, što u trenutku pisanja vredi više od 680 miliona €.
 >

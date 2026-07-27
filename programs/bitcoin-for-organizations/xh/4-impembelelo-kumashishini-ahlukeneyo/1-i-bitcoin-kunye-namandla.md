@@ -128,7 +128,7 @@ Ukumba iBitcoin kunika umvuzo oqinileyo kwezoqoqosho ekuphuhliseni amandla ahlaz
 
 
 
-> **Info – Ukupheliswa kweFlaring?**
+> **Dark – Ukupheliswa kweFlaring?**
 >
 > Ukusebenzisa amandla alahliweyo, anjengamagesi endalo atshiswa ngaphandle kokusetyenziswa (flared), akugcini nje ngokugcina imali kodwa kunciphisa nokugxekwa kokungcolisa okusingqongileyo. I-flaring yenzeka xa igesi yendalo egqithisileyo (methane) itshiswa kwiindawo zokumba ioyile kuba akukho zixhobo zokuyibamba nokuyithengisa. Ngokwezinye izifundo5, i-methane ibamba ubushushu obuphantse bube phinda-phindwe ka-120 kune-CO2, yiyo loo nto kufuneka itshiswe, iguqulwe ibe yi-CO2. Nangona kunjalo, i-flaring ayisebenzi ngokupheleleyo kwaye isavumela i-methane ukuba ingene emoyeni. Abavukuzi beBitcoin banokusebenzisa la mandla ukuqhuba imishini yabo, nto leyo enciphisa ukukhutshwa kwegesi ezitshisa umhlaba ezivela kwi-flaring. Igesi yendalo itshiswa kwiijenereyitha ukuvelisa umbane, owenza ukuba izixhobo zokumba eziphathwayo ezikufutshane nendawo yokumba zisebenze.
 >
@@ -178,7 +178,7 @@ Njengoko ishishini likhula, intsebenziswano enkulu nababoneleli bamandla ahlaziy
 
 
 
-> **Info**
+> **Dark**
 >
 > **I-Bitcoin ayichithi amandla. Isebenzisa amandla achithwayo.**
 >

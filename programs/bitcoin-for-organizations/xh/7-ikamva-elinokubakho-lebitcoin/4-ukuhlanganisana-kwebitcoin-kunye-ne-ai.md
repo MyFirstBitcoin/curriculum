@@ -155,7 +155,7 @@ Nangona kunjalo, okwangoku kukho imida ethile ekufuneka ithathelwe ingqalelo:
 ##### Imingcipheko
 
 
-> **Info**
+> **Dark**
 >
 > Abathandi be-Crypto badlale nge-AI Bot yovavanyo ukuze ikhuthaze i-memecoin. Ngoku inyuke nge-16,000%. Iqalwe njengovavanyo oluphilayo lwentsebenziswano phakathi kwabantu kunye neemodeli ze-AI, i-bot edume kakhulu - Terminal of Truth - iphele ikhuthaza i-memecoin ebizwa ngokuba yi-GOAT.
 >

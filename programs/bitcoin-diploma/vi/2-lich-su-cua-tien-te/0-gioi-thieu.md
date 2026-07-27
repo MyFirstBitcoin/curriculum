@@ -11,7 +11,11 @@ Trong phần này, chúng ta sẽ cùng nhau du hành xuyên thời gian, trải
 
 #### Hoạt động: Trò chơi Đổi chác Lặp lại
 
+
 https://qr.myfirstbitcoin.org/barter.pdf
+
+_QR Code: Activity Barter Game_
+
 
 Đây là một bài tập nhóm nhằm giúp bạn hiểu rõ hơn về khái niệm đổi chác. Việc tham gia sẽ giúp bạn thấy được cách tiền tệ tự nhiên hình thành trong các thị trường tự do.
 

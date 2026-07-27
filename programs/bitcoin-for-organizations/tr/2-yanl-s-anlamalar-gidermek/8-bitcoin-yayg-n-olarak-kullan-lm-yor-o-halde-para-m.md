@@ -69,7 +69,7 @@ Ocak 2024'te spot Bitcoin Borsa Yatırım Fonları (ETF'ler) piyasaya sürüldü
 Bitcoin defteri analiz edildiğinde, tüm bitcoin arzının %70'inden fazlasının[uzun vadeli sahipler](https://buybitcoinworldwide.com/how-many-bitcoin-users/)tarafından tutulduğu gösterilebilir. Bu nedenle, çoğu sahibin bitcoin'ini satmak veya harcamak yerine elde tutmakla yetindiği görülmektedir. Bitcoin'in piyasaya sürülmesinden bu yana satın alma gücünde yaşanan dramatik artış göz önüne alındığında, çoğu sahibin bitcoin'in daha değerli olmasını beklediği ve bu nedenle elde tutmaya devam etmeye karar verdiği varsayılabilir.
 
 
-> **Info – Bitcoin Pizza Günü**
+> **Dark – Bitcoin Pizza Günü**
 >
 > Her yıl 22 Mayıs'ta, Bitcoin topluluğu, bitcoin'i fiziksel bir ürün satın almak için kullanan ilk kişi olarak kayıtlara geçen Florida'lı programcı Laszlo Hanyecz'i kutlar ve anar. 18 Mayıs 2010'da Hanyecz, Bitcointalk.org forumunda pizza aradığını ve bitcoin ile ödeme yapmaya istekli olduğunu duyurdu. İşleme girmeye istekli olan herkese 10.000 bitcoin teklif etti. Birkaç gün bekledi, ta ki 19 yaşındaki öğrenci Cem ona iki büyük pizza gönderene kadar. Laszlo, Cem'e söz verdiği gibi 10.000 bitcoin gönderdi; bu miktar, bu yazının yazıldığı sırada 680 milyon €'nun üzerindedir.
 >

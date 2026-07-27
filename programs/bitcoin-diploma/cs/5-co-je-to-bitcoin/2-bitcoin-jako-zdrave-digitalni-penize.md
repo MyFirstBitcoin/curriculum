@@ -5,7 +5,7 @@ Nejjednodušeji řečeno, Bitcoin jsou peníze. Bitcoin není investice, ale bez
 Držení bitcoinu vás nezbohatne, protože vám nepřinese více bitcoinů. Jeho hodnota měřená vůči jakékoli fiat měně sice roste, ale je to pouze díky rostoucímu přijetí a znehodnocování fiat měn.
 
 
-> **Info**
+> **Dark**
 >
 > Bitcoin jsou **peníze**, které slouží k uchovávání a posílání hodnoty.  
 > Funguje na globální **síti** počítačů.  
@@ -29,7 +29,7 @@ Tento software a záznam všech transakcí má velmi malou šanci, že by zmizel
 Bitcoin je navíc vzácný, což znamená, že počet bitcoinů, které kdy budou existovat, je naprosto omezený. Nikdo nemůže zfalšovat on-chain bitcoiny — ani ty nejmocnější vlády a finanční instituce.
 
 
-> **Note – Principy Bitcoinu**
+> **Light – Principy Bitcoinu**
 >
 > Bitcoin je postaven na třech jednoduchých myšlenkách:
 >
@@ -140,4 +140,4 @@ Klíčem je jednat, pochopit, jak Bitcoin funguje, a zavést jej podle svých je
 ###### Zdroje
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+[▶ Podívejte se na video „Co je to Bitcoin?“](https://www.youtube.com/watch?v=Gc2en3nHxA4)

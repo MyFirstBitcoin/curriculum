@@ -41,7 +41,7 @@ Idan aka kawo wannan suka, yana da kyau a duba ko mai sukar yana da wasu dalilai
 Scalability, ko Blockchain, Trilemma, Vitalik Buterin ne ya fara kawo shi a 2017. Yana cewa koyaushe akwai zabin da ake yi a ƙirar blockchain tsakanin abubuwan Decentralisation, Security da Scalability. Duk wanda ke sukar cewa Bitcoin yana da jinkiri sosai kuma suna da mafita mai sauri a cikin layer 1 blockchain, za su sadaukar da wani bangare na tsaro ko decentralisation don cimma hakan. Ko da irin wannan sadaukarwa ga blockchain da aka ƙera don wasu amfani na iya zama da ma'ana, tsarin fifiko ga kuɗin duniya dole ne ya kasance:
 
 
-> **Note**
+> **Light**
 >
 > * **Decentralisation**
 >   * Yana ba da damar cire masu dogaro da amana

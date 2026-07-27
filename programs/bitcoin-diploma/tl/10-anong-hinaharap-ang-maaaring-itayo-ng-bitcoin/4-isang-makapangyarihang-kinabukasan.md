@@ -41,4 +41,4 @@ Kung handa ka nang gawin ang susunod na hakbang, tingnan ang mga karagdagang map
 ###### Mga Mapagkukunan
 
 
-[▶ YouTube](https://www.youtube.com/watch?v=3Rnqst5qCgA)
+[▶ Napakalaki ng mga posibilidad para sa positibong pagbabago, kaya't iniimbitahan ka naming panoorin ang video na ito upang matuto pa.](https://www.youtube.com/watch?v=3Rnqst5qCgA)
