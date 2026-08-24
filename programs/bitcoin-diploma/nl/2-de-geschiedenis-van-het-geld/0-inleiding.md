@@ -1,11 +1,14 @@
 # 2.0 Inleiding
 
+<!-- micrographic: history-of-money-horizontal-timeline -->
+
+
 > Geld is niet door opzet ontstaan, maar is voortgekomen uit het marktproces. Het is niet door overheden in het leven geroepen. Het is in de loop van de tijd ontstaan als een spontane orde.  
 _Murray Rothbard_
 
-![The History of Money](https://cdn.sanity.io/images/vje9ehw2/staging/9d8cd2e4170e81451a3039d8c14acfca738e28ca-504x76.svg)
+Stel je eens voor: lang geleden, toen mensen nog geen munten of bankbiljetten hadden zoals we die tegenwoordig gebruiken. In die tijd hadden ze een bijzondere manier om spullen te ruilen – ze gebruikten voorwerpen zoals schelpen of edelmetalen zoals goud als een soort speciale valuta. Dat klinkt misschien vreemd, maar het was hun versie van geld, iets waarvan iedereen het erover eens was dat het waarde had.
 
-Stel je eens voor: lang geleden, toen mensen nog geen munten of bankbiljetten hadden zoals we die tegenwoordig gebruiken. In die tijd hadden ze een bijzondere manier om spullen te ruilen: ze gebruikten voorwerpen zoals schelpen of edelmetalen zoals goud als een soort speciale valuta. Dat klinkt misschien vreemd, maar het was hun versie van geld, iets waarvan iedereen het erover eens was dat het waarde had.
+
 
 In deze module gaan we op een reis door de tijd, waarbij we de ontwikkeling van geld uit de eerste hand zullen beleven. We zullen de oorsprong ervan in kaart brengen en bekijken hoe het door de geschiedenis heen is veranderd en zich heeft aangepast.
 

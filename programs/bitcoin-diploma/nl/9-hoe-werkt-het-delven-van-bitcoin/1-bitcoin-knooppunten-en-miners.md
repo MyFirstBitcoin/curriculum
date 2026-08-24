@@ -1,6 +1,7 @@
 # 9.1 Bitcoin-knooppunten en miners
 
-Bitcoin-knooppunten klinken misschien technisch, maar het is gewoon software die een kopie van de Bitcoin-blockchain op een computer bewaart. De blockchain is een gezamenlijk register van alle Bitcoin-transacties.
+Wat is een Bitcoin-node?  
+Bitcoin-nodes klinken misschien technisch, maar het is simpelweg software die een kopie van de Bitcoin-blockchain op een computer bewaart. De blockchain is een gedeeld register van alle Bitcoin-transacties.
 
 Wanneer je je eigen node draait, verifieer je Bitcoin-transacties zelf in plaats van op iemand anders te vertrouwen. Dit geeft je meer onafhankelijkheid en draagt ertoe bij dat het Bitcoin-netwerk gedecentraliseerd blijft.
 
@@ -16,7 +17,7 @@ Iedereen kan een node draaien door software zoals Bitcoin Core te installeren en
 
 Door een node te draaien draag je bij aan een veiliger en meer gedecentraliseerd Bitcoin-netwerk, omdat meer mensen het systeem onafhankelijk van elkaar verifiëren.
 
-#### Wat is een Bitcoin-node?
+#### Wat is een Bitcoin-miner?
 
 > Het doel van mining is niet het creëren van nieuwe bitcoins; dat is het stimuleringssysteem. Mining is het mechanisme waarmee de beveiliging van Bitcoin gedecentraliseerd wordt.  
 _Andreas M. Antonopoulos_
@@ -27,7 +28,7 @@ _Andreas M. Antonopoulos_
 > Mijnwerkers verzamelen onbevestigde transacties, vormen daaruit een blok en gebruiken energie om een sleutel te vinden waarmee het blok wordt toegevoegd en beveiligd.
 
 
-Miners strijden om het volgende blok met transacties aan de blockchain toe te voegen. Hiervoor moeten ze een speciaal getal vinden waarmee een geldige blokhash wordt gevormd. Je kunt het vergelijken met het zoeken naar de juiste sleutel uit miljarden mogelijkheden. De eerste miner die de juiste hash vindt, wint de race en verdient het recht om zijn blok aan de blockchain toe te voegen.
+Miners strijden om het volgende blok met transacties aan de blockchain toe te voegen. Hiervoor moeten ze een speciaal getal vinden waarmee een geldige blokhash kan worden gegenereerd. Je kunt het vergelijken met het zoeken naar de juiste sleutel uit miljarden mogelijkheden. De eerste miner die de juiste hash vindt, wint de race en verdient het recht om zijn blok aan de blockchain toe te voegen.
 
 Wanneer een miner een geldige hash vindt, deelt hij zijn blok met het netwerk. Andere miners controleren snel of de oplossing correct is. Als dat het geval is, wordt het blok aan de blockchain toegevoegd, wat bijdraagt aan de beveiliging van het openbare grootboek van Bitcoin.
 
@@ -54,7 +55,7 @@ Bitcoin heeft een vast maximumaanbod van 21.000.000 bitcoin, maar deze zijn niet
 
 Wanneer miners erin slagen een nieuw blok met transacties aan het Bitcoin-netwerk toe te voegen, ontvangen ze een **blokbeloning** in bitcoin. In de beginperiode van Bitcoin bedroeg deze beloning 50 bitcoin per blok. Deze beloning stimuleerde mensen om rekenkracht en elektriciteit in te zetten om het netwerk te beveiligen.
 
-Ongeveer elke 210.000 blokken (ongeveer elke 4 jaar) wordt de blokbeloning gehalveerd. Dit wordt de **halvering**. Door de halvering wordt de uitgifte van nieuwe bitcoins vertraagd en wordt ervoor gezorgd dat het totale aanbod nooit hoger zal zijn dan 21 miljoen. Hierdoor wordt bitcoin in de loop van de tijd steeds schaarser.
+Om de 210.000 blokken (ongeveer om de 4 jaar) wordt de blokbeloning gehalveerd. Dit wordt de **halvering**. Door de halvering wordt de uitgifte van nieuwe bitcoins vertraagd en wordt ervoor gezorgd dat het totale aanbod nooit hoger zal zijn dan 21 miljoen. Hierdoor wordt bitcoin in de loop van de tijd steeds schaarser.
 
 
 > **Definition – Circulerend aanbod**
@@ -62,7 +63,9 @@ Ongeveer elke 210.000 blokken (ongeveer elke 4 jaar) wordt de blokbeloning gehal
 > **Circulerend aanbod** verwijst naar de totale beschikbare hoeveelheid van een valuta. Bij Bitcoin is de totale hoeveelheid in omloop het aantal munten dat is gemined en op een bepaald moment in omloop is.
 
 
-![ Bitcoin Supply Schedule](https://cdn.sanity.io/images/vje9ehw2/staging/f4a2049d95ae45131b56b6ca6e9a6afae367fdfd-292x200.svg)
+
+<!-- micrographic: bitcoin-supply-schedule -->
+
 
 
 > **Definition – Schema voor de uitgifte van bitcoins**
@@ -90,7 +93,7 @@ Naarmate er meer bitcoins worden gemined, blijft het aanbod in omloop toenemen t
 
 #### Wat is een geldige blokhash in Bitcoin?
 
-Bij Bitcoin strijden miners om een speciale code te vinden die een **blokhash**. Deze code identificeert een reeks transacties en zorgt ervoor dat deze aan de blockchain kan worden toegevoegd.
+Mijnwerkers strijden om een speciale code te vinden die een **blokhash**. Deze code identificeert een reeks transacties en zorgt ervoor dat deze aan de blockchain kan worden toegevoegd.
 
 Elk blok bevat informatie over recente transacties en bevat tevens de hash van het voorgaande blok. Hierdoor zijn alle blokken met elkaar verbonden, waardoor een keten ontstaat die loopt van het allereerste blok (het Genesis-blok) tot het meest recente blok.
 
@@ -120,7 +123,7 @@ Deze aanpassing zorgt ervoor dat er gemiddeld ongeveer elke 10 minuten een nieuw
 
 Door een geldige blokhash te vinden, bewijst een miner dat hij het werk heeft verricht dat nodig is om een nieuw blok aan de blockchain toe te voegen. Dit proces wordt **Proof of Work** (PoW). Dit is het beveiligingsmechanisme waarmee Bitcoin transacties kan bevestigen en nieuwe blokken aan de blockchain kan toevoegen. De miner die als eerste de geldige hash vindt, ontvangt een beloning in bitcoin, bestaande uit de blokbeloning en de transactiekosten van de transacties die in dat blok zijn opgenomen.
 
-Proof of Work (PoW) draagt bij aan de veiligheid van Bitcoin door het voor iedereen extreem duur te maken om te proberen te frauderen of de controle over het netwerk over te nemen. Het is daarentegen veel winstgevender om zich aan de regels te houden.
+Proof of Work (PoW) draagt bij aan de veiligheid van Bitcoin door het voor iedereen extreem duur te maken om te proberen vals te spelen of de controle over het netwerk over te nemen. Het is daarentegen veel winstgevender om zich aan de regels te houden.
 
 Mijnwerkers vervullen vier belangrijke rollen:
 

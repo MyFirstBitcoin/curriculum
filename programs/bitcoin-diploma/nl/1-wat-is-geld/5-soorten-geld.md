@@ -26,3 +26,6 @@ Bekende voorbeelden van deze systemen zijn onder meer kaartnetwerken, die debet-
 * **Cryptovaluta’s**: Digitale valuta’s. Sommige zijn gedecentraliseerd, wat betekent dat geen enkele groep er controle over heeft, terwijl andere meer gecentraliseerd zijn.
 
 Een belangrijk uitgangspunt achter sommige digitale valuta’s is het uitsluiten van tussenpersonen. Dit kan transacties efficiënter maken en de machtsconcentratie verminderen. Het doel is om een systeem te creëren dat meer op het internet lijkt, waarbij de controle wordt gedeeld in plaats van in handen is van één enkele autoriteit.
+
+
+<!-- micrographic: types-of-money -->

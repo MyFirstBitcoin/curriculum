@@ -35,7 +35,7 @@ Ce sont ces trois fonctions qui permettent aux économies de devenir complexes e
 > On mesure la valeur d'une chose lorsqu'elle a un prix exprimé en argent.
 
 
-#### Exercice : De quelle fonction de la monnaie s'agit-il dans cet exemple ?
+#### De quelle fonction de la monnaie s'agit-il dans cet exemple ?
 
 * Evan a décidé de mettre de côté une partie de son salaire hebdomadaire pour acheter un chiot.
 * Adam achète deux parts de pizza pour 8,30 $

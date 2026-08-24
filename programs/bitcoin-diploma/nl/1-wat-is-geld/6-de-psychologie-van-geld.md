@@ -2,7 +2,7 @@
 
 Stel je voor dat je in een woestijn bent gestrand en je hebt nog maar één fles water over. Je hebt dorst en snakt naar een slok, maar je weet ook dat je het water nodig hebt om te overleven totdat je meer kunt vinden. Dit is een klassiek voorbeeld van schaarste: je hebt een beperkte hoeveelheid van een hulpbron (water) en je moet keuzes maken over hoe je die het beste kunt gebruiken.
 
-In deze situatie zou je kunnen besluiten om het te rantsoeneren en gedurende een langere periode kleine slokjes te nemen, zodat het zo lang mogelijk meegaat. Je zou er ook voor kunnen kiezen om in één keer zoveel mogelijk te drinken, waardoor je je dorst tijdelijk lest, maar deze plotselinge vochtinname is misschien niet voldoende om je de energie te geven om later meer water te vinden. Welke keuze je ook maakt, je staat voor een moeilijke beslissing.
+In deze situatie zou je kunnen besluiten om het te rantsoeneren en gedurende een langere periode kleine slokjes te nemen, zodat het zo lang mogelijk meegaat. Je zou er ook voor kunnen kiezen om in één keer zoveel mogelijk te drinken, waardoor je je dorst tijdelijk lest, maar deze plotselinge vochtinname is wellicht niet voldoende om je de energie te geven om later meer water te vinden. Welke keuze je ook maakt, je staat voor een moeilijke beslissing.
 
 Schaarste geldt voor alle hulpbronnen, niet alleen voor water. Of het nu gaat om geld, tijd of zelfs liefde en aandacht: we staan voortdurend voor keuzes over hoe we onze beperkte hulpbronnen moeten verdelen.
 
@@ -14,8 +14,8 @@ Schaarste geldt voor alle hulpbronnen, niet alleen voor water. Of het nu gaat om
 
 ##### Er zijn twee soorten schaarste
 
-* **Kunstmatige schaarste**, ook wel bekend als ‘gecentraliseerde schaarste’, omvat zaken als designertassen in beperkte oplage, zeldzame sportkaarten en genummerde kunstwerken. Deze kunnen gemakkelijk
-* **Natuurlijke schaarste**, ook wel bekend als gedecentraliseerde schaarste, omvat zaken als onroerend goed aan zee en edelmetalen zoals goud. Deze zijn moeilijker te kopiëren of te vervalsen.
+* **Kunstmatige schaarste**, ook wel bekend als ‘gecentraliseerde schaarste’, omvat zaken als designertassen in beperkte oplage, zeldzame sportkaarten en genummerde kunstwerken. Deze kunnen gemakkelijk worden nagemaakt of vervalst.
+* **Natuurlijke schaarste**, ook wel bekend als gedecentraliseerde schaarste, omvat zaken als onroerend goed aan zee en edelmetalen zoals goud. Deze zijn moeilijker te namaken of te vervalsen.
 
 Het belangrijkste verschil tussen beide is de mate van controle.
 
@@ -27,7 +27,7 @@ Schaarste beïnvloedt onze keuzes. Als we dit begrijpen, kunnen we betere beslis
 
 ##### Voorbeeld van tijdvoorkeur
 
-Je hebt de keuze tussen vandaag 100 dollar ontvangen of over een jaar 110 dollar. Als je een hoge tijdvoorkeur hebt, zou je ervoor kunnen kiezen om vandaag de 100 dollar te ontvangen, omdat je meer waarde hecht aan het nu beschikken over die 100 dollar dan aan de voordelen van een jaar wachten op de extra 10 dollar. Aan de andere kant, als je een lage tijdvoorkeur hebt, zul je liever wachten op de grotere beloning, omdat je meer gericht bent op planning op de lange termijn en minder belang hecht aan onmiddellijke bevrediging.
+Je hebt de keuze tussen vandaag 100 dollar ontvangen of 110 dollar over een jaar. Als je een hoge tijdvoorkeur hebt, zou je ervoor kunnen kiezen om de 100 dollar vandaag te ontvangen, omdat je meer waarde hecht aan het nu beschikken over die 100 dollar dan aan de voordelen van een jaar wachten op de extra 10 dollar. Aan de andere kant, als je een lage tijdvoorkeur hebt, zul je liever wachten op de grotere beloning, omdat je meer gericht bent op planning op de lange termijn en minder belang hecht aan onmiddellijke bevrediging.
 
 
 > **Definition – Definitie van tijdvoorkeur**
@@ -47,11 +47,11 @@ Proberen water te rantsoeneren door telkens kleine slokjes te nemen, duidt daare
 
 In het voorbeeld van de woestijn zijn de alternatieve kosten van het meteen opdrinken van al het water de overlevingsvoordelen die je zou hebben behaald door het water te rantsoeneren en het over een langere periode te gebruiken.
 
-Stel dat je besluit het water te rantsoeneren en gedurende een langere periode kleine slokjes te nemen. Daardoor beschik je over de energie en vochtinname die je nodig hebt om op zoek te gaan naar meer water. Tijdens je zoektocht kom je een cactus tegen die een kleine hoeveelheid water bevat. Het is niet veel, maar het is genoeg om je dorst voorlopig te lessen. Als je had besloten al je water in één keer op te drinken, had je misschien niet de energie gehad om op zoek te gaan naar meer water en de cactus te vinden.
+Stel dat je besluit het water te rantsoeneren en gedurende een langere periode kleine slokjes te nemen. Daardoor beschik je over de energie en de vochtbalans die je nodig hebt om op zoek te gaan naar meer water. Tijdens je zoektocht kom je een cactus tegen die een kleine hoeveelheid water bevat. Het is niet veel, maar het is genoeg om je dorst voorlopig te lessen. Als je had besloten al je water in één keer op te drinken, had je misschien niet de energie gehad om op zoek te gaan naar meer water en de cactus te vinden.
 
 In dit geval zouden de alternatieve kosten van het in één keer opdrinken van al je water bestaan uit de kans om de cactus te vinden en zo meer vocht binnen te krijgen.
 
-Dit voorbeeld laat zien dat alternatieve kosten niet alleen betrekking hebben op de directe afweging tussen twee opties, maar ook op de potentiële toekomstige kansen die we als gevolg van onze keuzes kunnen winnen of verliezen.
+Dit voorbeeld laat zien dat alternatieve kosten niet alleen betrekking hebben op de directe afweging tussen twee opties, maar ook op de mogelijke toekomstige kansen die we als gevolg van onze keuzes kunnen winnen of verliezen.
 
 Onze bereidheid om af te zien van een grotere beloning in de toekomst in ruil voor een kleinere beloning nu wordt beïnvloed door onze tijdvoorkeur, oftewel de mate waarin we onmiddellijke bevrediging belangrijker vinden dan planning op de lange termijn.
 
@@ -66,10 +66,5 @@ Onze bereidheid om af te zien van een grotere beloning in de toekomst in ruil vo
 
 * Welke factoren hebben je beslissing beïnvloed om het snoepje nu te nemen of te wachten op een grotere beloning later?
 * Wat vind je nu van je beslissing, nu de activiteit voorbij is?
-* Kun je voorbeelden uit de praktijk bedenken waarbij een hoge tijdvoorkeur schadelijk zou kunnen zijn en waarbij een lage tijdvoorkeur juist gunstig zou kunnen zijn?
+* Kun je voorbeelden uit de praktijk bedenken waarbij een hoge tijdvoorkeur nadelig zou kunnen zijn en een lage tijdvoorkeur juist voordelig?
 * Wat zijn enkele mogelijke gevolgen van de keuze voor een hoge tijdvoorkeur boven een lage tijdvoorkeur?
-
-###### Bronnen
-
-
-[▶ Bekijk deze korte video eens!](https://www.youtube.com/watch?v=InwVM6s7WoY)

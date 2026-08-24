@@ -1,11 +1,11 @@
 # 1.4 Eigenschappen van geld
 
-Geld functioneert alleen goed als het over bepaalde essentiële eigenschappen beschikt. Het moet bruikbaar zijn om mee te kopen en te verkopen (ruilmiddel), om mee te sparen voor later (waardeopslag) en om prijzen mee te meten (rekeneenheid). Deze eigenschappen maken geld betrouwbaar en belangrijk.
+Geld functioneert alleen goed als het bepaalde essentiële eigenschappen bezit. Het moet bruikbaar zijn om te kopen en te verkopen (ruilmiddel), om voor later te sparen (waardeopslag) en om prijzen te meten (rekeneenheid). Deze eigenschappen maken geld betrouwbaar en belangrijk.
 
-* **Duurzaamheid** verwijst naar het vermogen van geld om fysieke achteruitgang te weerstaan en in de loop van de tijd zijn waarde te behouden. Dit zorgt ervoor dat geld in een aanvaardbare en herkenbare staat in de economie kan circuleren. Goud is een duurzaam materiaal dat slijtage kan weerstaan, waardoor het een goede weergave is van de duurzaamheid van geld.
+* **Duurzaamheid** verwijst naar het vermogen van geld om fysieke achteruitgang te weerstaan en in de loop van de tijd zijn waarde te behouden. Dit zorgt ervoor dat geld in een aanvaardbare en herkenbare staat in de economie kan circuleren. Goud is een duurzaam materiaal dat slijtage kan weerstaan, waardoor het een goede weergave is van de duurzaamheidskenmerken van geld.
 * **Deelbaarheid** verwijst naar het vermogen van geld om in kleinere eenheden te worden verdeeld, zodat mensen er aankopen van verschillende bedragen mee kunnen doen. Papieren bankbiljetten kunnen gemakkelijk in kleinere coupures worden verdeeld, waardoor ze een goed voorbeeld zijn van de deelbaarheid van geld.
 * **Draagbaarheid** verwijst naar het gemak waarmee geld kan worden vervoerd en meegenomen. Hierdoor kunnen mensen zonder problemen geld gebruiken om goederen en diensten te kopen en te verkopen. Creditcards zijn draagbaar, aangezien ze gemakkelijk in een portemonnee of tas kunnen worden meegenomen, waardoor ze een goed voorbeeld zijn van de draagbaarheid van geld.
-* **Aanvaardbaarheid** verwijst naar de wijdverbreide acceptatie van geld als betaalmiddel, waardoor mensen het met vertrouwen kunnen gebruiken om goederen en diensten te kopen en te verkopen. De Amerikaanse dollar wordt op grote schaal geaccepteerd als betaalmiddel, waardoor deze munt een goed voorbeeld is van de eigenschap ‘acceptabiliteit’ van geld.
+* **Aanvaardbaarheid** verwijst naar de wijdverbreide acceptatie van geld als betaalmiddel, waardoor mensen het met vertrouwen kunnen gebruiken om goederen en diensten te kopen en te verkopen. De Amerikaanse dollar wordt op grote schaal geaccepteerd als betaalmiddel, waardoor deze een goed voorbeeld is van de eigenschap ‘acceptabiliteit’ van geld.
 * **Schaarste** Dit verwijst naar het feit dat het moeilijk is om meer eenheden van het geld te maken, wat helpt om de waarde ervan te behouden en voorkomt dat we meer geld moeten uitgeven om dezelfde hoeveelheid goederen te kopen. Verzamelpostzegels, met name zeldzame en waardevolle exemplaren, kunnen een goede vorm van geld zijn omdat ze schaars zijn en in de loop van de tijd in waarde kunnen stijgen. Postzegelverzamelaars gebruiken hun postzegels vaak als een manier om hun vermogen te beleggen en hun portefeuille te diversifiëren.
 * **Verwisselbaarheid** verwijst naar de uitwisselbaarheid van geld, waardoor één geldeenheid gelijkwaardig is aan een andere eenheid met dezelfde waarde. Geld moet uniform zijn. Koperen munten zijn uniform qua grootte en gewicht, waardoor ze een goed voorbeeld zijn van de uniformiteit van geld. Eén cent is altijd één cent.
 
@@ -22,10 +22,10 @@ Door de scores van elk item bij elkaar op te tellen, wordt duidelijk welk item h
 **Gebruik de volgende vragen** om te bepalen in hoeverre de verschillende posten in de tabel voldoen aan de kenmerken van geld.
 
 * **Duurzaamheid:** Is het geld bestand tegen slijtage na verloop van tijd?
-* **Draagbaarheid:** Kan het geld gemakkelijk worden vervoerd en op verschillende locaties worden gebruikt?
+* **Draagbaarheid:** Kan het geld gemakkelijk worden vervoerd?
 * **Verwisselbaarheid:** Is dit geld inwisselbaar tegen andere vormen van geld?
 * **Aanvaardbaarheid:** Wordt het geld algemeen geaccepteerd als betaalmiddel?
-* **Schaarste:** Is het geld schaars en moeilijk om er meer van te krijgen?
+* **Schaarste:** Is het geld schaars en moeilijk om er meer van te verdienen?
 * **Deelbaarheid:** Kan het geld in kleinere eenheden worden verdeeld?
 
 

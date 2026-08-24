@@ -1,8 +1,6 @@
 # 1.1 Gesprekken over geld
 
-Laten we beginnen met de volgende vijf vragen te beantwoorden.
-
-Denk aan praktische toepassingen, zoals het aanschaffen van basisbenodigdheden zoals voedsel en gewenste artikelen. Probeer in je voorbeelden zo concreet mogelijk te zijn en zoek een evenwicht tussen creativiteit en realisme.
+Laten we beginnen met het beantwoorden van de volgende vijf vragen. Denk daarbij aan praktische toepassingen, zoals het aanschaffen van eerste levensbehoeften zoals voedsel en gewenste artikelen. Probeer in je voorbeelden zo concreet mogelijk te zijn en zoek een evenwicht tussen creativiteit en realisme.
 
 ###### Waarom hebben we geld nodig?
 
@@ -16,6 +14,10 @@ Denk aan praktische toepassingen, zoals het aanschaffen van basisbenodigdheden z
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
 
+
+---
+
+
 ###### Wat geeft geld zijn „waarde“?
 
 ![ ](https://cdn.sanity.io/images/vje9ehw2/staging/511af987bf73e3d17bc1b004fdd82935341f932d-503x222.svg)
@@ -27,7 +29,7 @@ Denk aan praktische toepassingen, zoals het aanschaffen van basisbenodigdheden z
 
 > **Light**
 >
-> Breid de discussie uit naar de hele groep door lijsten uit te wisselen en te vergelijken, om zo de vijf belangrijkste redenen te vinden waarom je geld nodig hebt. Zoek naar ideeën die in de hele klas terugkomen. Denk na over je eigen, unieke ideeën die niet op de lijst staan maar toch waardevol zijn, en schrijf ze op.
+> Breid de discussie uit naar de hele groep door lijsten uit te wisselen en te vergelijken, om zo de vijf belangrijkste redenen te vinden waarom je geld nodig hebt. Zoek naar ideeën die in de hele klas terugkomen. Denk na over je eigen unieke ideeën die niet op de lijst staan, maar toch waardevol zijn, en schrijf ze op.
 
 
 

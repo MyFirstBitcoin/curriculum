@@ -9,21 +9,21 @@ La rareté concerne toutes les ressources, et pas seulement l'eau. Qu'il s'agiss
 
 > **Callout**
 >
-> **Rareté** nous oblige à peser le pour et le contre de l'utilisation de nos ressources et à faire des compromis.
+> **Rareté** nous oblige à peser le pour et le contre de l'utilisation que nous faisons de nos ressources et à faire des compromis.
 
 
 ##### Il existe deux types de rareté
 
-* **Pénurie artificielle**, également appelée « rareté centralisée », englobe notamment les sacs de créateurs en édition limitée, les cartes de sport rares et les œuvres d'art numérotées. Ces objets peuvent facilement
+* **Pénurie artificielle**, également appelée « rareté centralisée », englobe notamment les sacs de créateurs en édition limitée, les cartes de sport rares et les œuvres d'art numérotées. Ces objets peuvent être facilement reproduits ou contrefaits.
 * **Rareté naturelle**, également appelée « rareté décentralisée », englobe notamment les biens immobiliers en bord de mer et les métaux précieux comme l'or. Ceux-ci sont plus difficiles à reproduire ou à contrefaire.
 
 La principale différence entre les deux réside dans le contrôle.
 
-La rareté centralisée est déterminée par une seule entité, telle qu’une entreprise ou un gouvernement, tandis que la rareté décentralisée n’est contrôlée par personne. Les articles de mode de luxe en édition limitée, tels que les sacs ou les baskets, constituent un exemple de rareté centralisée : il ne coûterait pratiquement rien à l’entreprise de produire 1 000 unités supplémentaires, mais le prix élevé est déterminé par cette rareté artificielle. C’est le contrôle exercé par l’entreprise sur le nombre d’unités qui détermine leur valeur. En revanche, la seule façon de trouver et d’exploiter du sel, des coquillages ou de l’or consiste à consacrer une quantité considérable d’efforts et d’énergie (ou de « travail »). Dans le cas de ces ressources naturellement rares, cette dépense n’a de sens sur le plan économique que si le bien qui en résulte est très prisé.
+La rareté centralisée est déterminée par une seule entité, telle qu’une entreprise ou un gouvernement, tandis que la rareté décentralisée n’est contrôlée par personne. Les articles de mode de luxe en édition limitée, tels que les sacs ou les baskets, constituent un exemple de rareté centralisée : il ne coûterait pratiquement rien à l’entreprise de produire 1 000 unités supplémentaires, mais le prix élevé est déterminé par cette rareté artificielle. C’est le contrôle exercé par l’entreprise sur le nombre d’unités qui détermine leur valeur. En revanche, la seule façon de trouver et d’exploiter le sel, les coquillages ou l’or consiste à consacrer une quantité considérable d’efforts et d’énergie (ou de « travail »). Dans le cas de ces ressources naturellement rares, cette dépense n’a de sens sur le plan économique que si le bien qui en résulte est très prisé.
 
 Aucune personne ni aucun groupe ne contrôle le prix d'une ressource naturelle dans le but d'influencer ce prix ; c'est plutôt l'inverse : c'est la demande pour ce bien sur le marché qui détermine s'il convient de consacrer de l'énergie à en extraire davantage.
 
-La rareté influence nos choix. La comprendre peut nous aider à mieux prendre des décisions : nous sommes souvent confrontés à un choix entre des gains immédiats et des avantages à long terme, et ces compromis déterminent la voie que nous suivons pour atteindre nos objectifs.
+La rareté influence nos choix. La comprendre peut nous aider à mieux prendre des décisions : nous sommes souvent confrontés à un choix entre des gains immédiats et des avantages à long terme, et ces compromis déterminent la voie que nous empruntons pour atteindre nos objectifs.
 
 ##### Exemple de préférence temporelle
 
@@ -68,8 +68,3 @@ Notre disposition à renoncer à une récompense plus importante à l'avenir en 
 * Que penses-tu de ta décision maintenant que l'activité est terminée ?
 * Pouvez-vous citer des exemples concrets où une forte préférence temporelle pourrait être néfaste et où une faible préférence temporelle pourrait être bénéfique ?
 * Quelles sont les conséquences possibles du fait de privilégier une préférence temporelle élevée plutôt qu'une préférence temporelle faible ?
-
-###### Ressources
-
-
-[▶ Regardez cette petite vidéo !](https://www.youtube.com/watch?v=InwVM6s7WoY)

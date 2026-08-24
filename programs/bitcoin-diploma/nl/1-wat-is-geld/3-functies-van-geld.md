@@ -14,7 +14,7 @@ Geld moet in de loop van de tijd zijn waarde behouden, waardoor het een nuttig m
 | --- | --- | --- | --- |
 | 14 maart 2019  | 3.846 dollar | 1.293 dollar | € 0,8817 |
 | 14 maart 2020 | 5.258 dollar | 1.529 dollar | € 0,90056 |
-| Winst/Verlies | +36,71% | +18,25 % | +2,14% |
+| Winst/Verlies | +36,71% | +18,25 % | +2,14 % |
 
 
 ##### Ruilmiddel
@@ -25,7 +25,7 @@ Met geld hoef je niet op zoek te gaan naar iemand die precies datgene wil hebben
 
 Geld biedt een universele maatstaf voor het meten van waarde, waardoor mensen de prijs van verschillende goederen en diensten kunnen aangeven en vergelijken. Dit zorgt voor een efficiëntere en transparantere markt, waar mensen weloverwogen beslissingen kunnen nemen over wat ze kopen en verkopen.
 
-Als je een nieuwe auto zou willen kopen, zou je de prijzen van verschillende autodealers kunnen vergelijken en op basis van de prijs in dollars een weloverwogen beslissing kunnen nemen over welke je wilt kopen. Zonder een rekeneenheid zou je de waarde van de ene auto met die van de andere moeten vergelijken aan de hand van iets anders, zoals het aantal koeien dat de auto waard was of de tijd die nodig was om de auto te maken.
+Als je een nieuwe auto zou willen kopen, zou je de prijzen van verschillende autodealers kunnen vergelijken en op basis van de prijs in dollars een weloverwogen beslissing kunnen nemen over welke je wilt kopen. Zonder een rekeneenheid zou je de waarde van de ene auto met die van de andere moeten vergelijken aan de hand van iets anders, zoals het aantal koeien dat hij waard was of de tijd die nodig was om de auto te maken.
 
 Dankzij deze drie functies kunnen economieën complex en dynamisch worden. Zonder geld zou het veel moeilijker zijn om goederen en diensten te kopen en te verkopen, en zou onze economie veel minder ontwikkeld zijn.
 
@@ -35,8 +35,8 @@ Dankzij deze drie functies kunnen economieën complex en dynamisch worden. Zonde
 > Mensen beseffen de waarde van iets pas als er een prijs in geld aan is gekoppeld.
 
 
-#### Oefening: Van welke functie van geld is dit een voorbeeld?
+#### Van welke functie van geld is dit een voorbeeld?
 
-* Evan besloot een deel van zijn wekelijkse salaris opzij te zetten om een puppy te kopen
+* Evan besloot een deel van zijn wekelijkse loon opzij te zetten om een puppy te kopen
 * Adam koopt twee stukken pizza voor 8,30 dollar
-* Marc kan maar niet beslissen of hij concertkaartjes voor 75 dollar moet kopen of een skipas voor 95 dollar.
+* Marc kan maar niet beslissen of hij concertkaartjes voor 75 dollar of een skipas voor 95 dollar moet kopen

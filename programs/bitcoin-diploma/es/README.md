@@ -98,3 +98,61 @@ No se requiere conocimiento técnico o financiero previo.
 ## Contribuir
 
 Se aceptan contribuciones, ediciones y sugerencias. Si desea mejorar el programa, abra un issue o envíe un pull request en este repositorio.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+|  |  | [La historia del Diploma de Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/0-front-matter/1-la-historia-del-diploma-de-bitcoin.md) |
+|  |  | [Prólogo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/0-front-matter/2-prologo.md) |
+| **[¿Qué es el dinero?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero)** | 1.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/0-introduccion.md) |
+|  | 1.1 | [Conversaciones sobre el dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/1-conversaciones-sobre-el-dinero.md) |
+|  | 1.2 | [Definición del dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/2-definicion-del-dinero.md) |
+|  | 1.3 | [Funciones del dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/3-funciones-del-dinero.md) |
+|  | 1.4 | [Propiedades del dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/4-propiedades-del-dinero.md) |
+|  | 1.5 | [Tipos de dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/5-tipos-de-dinero.md) |
+|  | 1.6 | [La psicología del dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/1-que-es-el-dinero/6-la-psicologia-del-dinero.md) |
+| **[La historia del dinero](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/2-la-historia-del-dinero)** | 2.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/2-la-historia-del-dinero/0-introduccion.md) |
+|  | 2.1 | [Del trueque a la moneda moderna](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/2-la-historia-del-dinero/1-del-trueque-a-la-moneda-moderna.md) |
+|  | 2.2 | [Moneda digital](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/2-la-historia-del-dinero/2-moneda-digital.md) |
+| **[¿Qué es el dinero fíat?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/3-que-es-el-dinero-fiat)** | 3.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/3-que-es-el-dinero-fiat/0-introduccion.md) |
+|  | 3.1 | [Breve historia del dinero fíat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/3-que-es-el-dinero-fiat/1-breve-historia-del-dinero-fiat.md) |
+|  | 3.2 | [El sistema fiat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/3-que-es-el-dinero-fiat/2-el-sistema-fiat.md) |
+|  | 3.3 | [Monedas digitales de bancos centrales](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/3-que-es-el-dinero-fiat/3-monedas-digitales-de-bancos-centrales.md) |
+| **[Cómo los problemas conducen a soluciones](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/4-como-los-problemas-conducen-a-soluciones)** | 4.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/4-como-los-problemas-conducen-a-soluciones/0-introduccion.md) |
+|  | 4.1 | [El dinero compra menos](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/4-como-los-problemas-conducen-a-soluciones/1-el-dinero-compra-menos.md) |
+|  | 4.2 | [La carga global de la deuda y la desigualdad social](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/4-como-los-problemas-conducen-a-soluciones/2-la-carga-global-de-la-deuda-y-la-desigualdad-social.md) |
+|  | 4.3 | [La búsqueda de una moneda descentralizada](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/4-como-los-problemas-conducen-a-soluciones/3-la-busqueda-de-una-moneda-descentralizada.md) |
+| **[¿Qué es Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/5-que-es-bitcoin)** | 5.0 | [La creación de Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/5-que-es-bitcoin/0-la-creacion-de-bitcoin.md) |
+|  | 5.1 | [¿Cómo funciona Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/5-que-es-bitcoin/1-como-funciona-bitcoin.md) |
+|  | 5.2 | [Bitcoin como dinero digital sólido](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/5-que-es-bitcoin/2-bitcoin-como-dinero-digital-solido.md) |
+| **[Cómo usar Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin)** | 6.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/0-introduccion.md) |
+|  | 6.1 | [Adquirir Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/1-adquirir-bitcoin.md) |
+|  | 6.2 | [Introducción a las billeteras](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/2-introduccion-a-las-billeteras.md) |
+|  | 6.3 | [Configuración de una billetera móvil](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/3-configuracion-de-una-billetera-movil.md) |
+|  | 6.4 | [Recibir y enviar transacciones](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/4-recibir-y-enviar-transacciones.md) |
+|  | 6.5 | [No confíes, verifica](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/6-como-usar-bitcoin/5-no-confies-verifica.md) |
+| **[Uso de Bitcoin en la vida diaria](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria)** | 7.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/0-introduccion.md) |
+|  | 7.1 | [La red Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/1-la-red-lightning.md) |
+|  | 7.2 | [Tipos de billeteras Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/2-tipos-de-billeteras-lightning.md) |
+|  | 7.3 | [Configuración de una billetera Bitcoin Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/3-configuracion-de-una-billetera-bitcoin-lightning.md) |
+|  | 7.4 | [Envío y recepción de transacciones Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/4-envio-y-recepcion-de-transacciones-lightning.md) |
+|  | 7.5 | [Comprar café y víveres con Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/7-uso-de-bitcoin-en-la-vida-diaria/5-comprar-cafe-y-viveres-con-bitcoin.md) |
+| **[Cómo funciona Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/8-como-funciona-bitcoin)** | 8.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/8-como-funciona-bitcoin/0-introduccion.md) |
+|  | 8.1 | [Seguridad mediante criptografía](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/8-como-funciona-bitcoin/1-seguridad-mediante-criptografia.md) |
+|  | 8.2 | [El modelo UTXO](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/8-como-funciona-bitcoin/2-el-modelo-utxo.md) |
+| **[¿Cómo funciona la minería de Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/9-como-funciona-la-mineria-de-bitcoin)** | 9.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/9-como-funciona-la-mineria-de-bitcoin/0-introduccion.md) |
+|  | 9.1 | [Nodos y mineros de Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/9-como-funciona-la-mineria-de-bitcoin/1-nodos-y-mineros-de-bitcoin.md) |
+|  | 9.2 | [¿Qué es la mempool?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/9-como-funciona-la-mineria-de-bitcoin/2-que-es-la-mempool.md) |
+|  | 9.3 | [Cómo funcionan las transacciones](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/9-como-funciona-la-mineria-de-bitcoin/3-como-funcionan-las-transacciones.md) |
+| **[¿Qué futuro puede construir Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin)** | 10.0 | [Introducción](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin/0-introduccion.md) |
+|  | 10.1 | [¿Qué son las monedas digitales de bancos centrales (CBDC)?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin/1-que-son-las-monedas-digitales-de-bancos-centrales-cbdc.md) |
+|  | 10.2 | [La filosofía de Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin/2-la-filosofia-de-bitcoin.md) |
+|  | 10.3 | [Los beneficios de Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin/3-los-beneficios-de-bitcoin.md) |
+|  | 10.4 | [Un futuro empoderado](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/10-que-futuro-puede-construir-bitcoin/4-un-futuro-empoderado.md) |
+|  |  | [Estudios de caso del mundo real](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/11-back-matter/1-estudios-de-caso-del-mundo-real.md) |
+|  |  | [Recursos adicionales](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/11-back-matter/2-recursos-adicionales.md) |
+|  |  | [Conceptos clave](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/11-back-matter/3-conceptos-clave.md) |
+|  |  | [Glosario](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/es/11-back-matter/4-glosario.md) |
+<!-- mfb:structure:end -->
