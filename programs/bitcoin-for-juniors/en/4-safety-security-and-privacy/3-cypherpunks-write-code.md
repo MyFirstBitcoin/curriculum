@@ -1,8 +1,28 @@
 # 4.3 Cypherpunks Write Code
 
-#### **PROCEDURE**
+_Craft, Experiential · Whole class, Individual · 45–60 min_
 
-##### **OPENING**
+Students are introduced to the idea of codes as a way to hide and protect information. Through a hands-on craft, learners build a simple cipher wheel and use it to encode and decode Bitcoin-related vocabulary. The activity combines fine motor skills, logical thinking, and early cryptographic concepts while reinforcing new terminology in a playful and concrete way.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Understand the meaning of encode and decode; recognize that changing a code changes the output; use a cipher wheel to encode and decode simple words; correctly decode and encode selected Bitcoin vocabulary.
+
+#### Materials
+
+* Printed cipher wheel templates with inner and outer alphabet rings (See Appendix A) (Appendix A)
+* Printed worksheet with encoded Bitcoin vocabulary (See Appendix B) (Appendix B, Bitcoin vocabulary worksheet)
+* Pencils, crayons, or markers
+* Pre-made cipher wheel for demo, Brads or split pins for fastening wheels, Extra practice worksheets (nice to have)
+* Scissors
+* Whiteboard or poster board
+* Projector demonstration, Left-handed scissors (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 **Teacher setup**
 
@@ -10,9 +30,7 @@
 1. Pre-cut one large demonstration cipher wheel or prepare a visual version for the board.
 1. Ensure scissors and pins are safely distributed.
 
-
-
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -25,7 +43,7 @@ _5 minutes_
 
 *  “Make a secret code tool and use it to hide and read words.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _35-45 minutes_
 
@@ -50,7 +68,7 @@ _35-45 minutes_
 1. Students fasten the circles together with a pin so the wheel can turn freely.
 1. Students test the wheel by aligning different letters.
 
-#### **Checkpoint**
+#### Key points
 
 1. Ask students to decode one word together as a class.
 1. Check that students understand how changing the wheel changes the result.
@@ -79,7 +97,7 @@ _2 minutes_
 * Allow students to keep their cipher wheels.
 * Final message to students: “Changing the code changes the message, but the meaning stays the same.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -97,3 +115,7 @@ _2 minutes_
 * Older students: Choose and record their own letter shift for others to solve.
 * ELL/Accessibility: visual alphabet guides and peer support.
 * Safety: blunt scissors and monitored pin use.
+
+#### Additional resources
+
+* Appendix C: 40–60 Bitcoin vocabulary word cards

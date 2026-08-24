@@ -1,14 +1,35 @@
 # 3.3 Invent The Future
 
-#### **PROCEDURE**
+_Craft, Presentation, Discussion · Small groups, Individual · 45–60 min_
 
-##### **OPENING**
+Students imagine the future of technology by inventing a new product or system and pitching it in a “Dragons’ Den” format. Learners reflect on how technology evolves, identify real problems to solve, and practice explaining ideas clearly. The activity encourages creativity, critical thinking, and communication while reinforcing the idea that innovation responds to needs over time.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Predict how technology might evolve in the future
+* Design a simple invention to solve a problem
+* Explain how and why their invention works
+* Practice presenting and defending an idea.
+
+#### Materials
+
+* Blank paper for sketches and notes
+* Pencils, crayons, or markers
+* Pitch Template (See Appendix A) (Appendix A, nice to have)
+* Whiteboard or poster space
+* Timer for pitches (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Arrange seating so teams can work together and later present to the front.
 1. Prepare board space to list examples of past, present, and emerging technologies.
 1. Decide how pitches will be timed and assessed.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5-10 minutes_
 
@@ -21,7 +42,7 @@ _5-10 minutes_
 
 *  “Invent a new technology and convince others that it’s a good idea.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30-40 minutes_
 
@@ -55,7 +76,7 @@ _30-40 minutes_
 * Ask what problems appeared most important to solve.
 * Ask what made a pitch convincing.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _5-10 minutes_
 
@@ -63,14 +84,14 @@ _5-10 minutes_
 1. Discuss how predictions can be right or wrong over time.
 1. Connect to real-world innovation and how ideas improve through feedback.
 
-##### **CLOSE**
+##### CLOSE
 
 1. Collect sketches and materials.
 1. Reset the classroom.
 1. Thank students for their creativity and effort.
 1. Final message: “Every invention starts as an idea someone was brave enough to share.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

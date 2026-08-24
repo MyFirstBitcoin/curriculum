@@ -1,12 +1,40 @@
 # 5.1 El dinero importa
 
-#### **PROCEDIMIENTO**
+_Simulation, Role play, Experiential · Individual · 90 min_
 
-##### **INICIO**
+Cuestiones de dinero es una simulación de economía en el aula en la que cada estudiante opera desde una base de Casa personal. Cada estudiante comienza con una ficha individual de CASA que muestra su nombre, tarjeta de desafío y objetivo financiero. Los estudiantes se mueven por un sistema económico compartido usando reglas de movimiento basadas en dados para ganar, ahorrar, invertir, pedir prestado y comerciar. La economía se introduce de manera progresiva antes de abrirse a un juego de roles autónomo, en el que los estudiantes persiguen objetivos individuales bajo reglas compartidas, límites de tiempo y límites de acceso. Las extensiones opcionales permiten ampliar el sistema hacia una economía más rica con negocios, costos de infraestructura y educación.
 
+#### Objectives
 
+Al finalizar esta actividad, los estudiantes podrán:
 
-##### **ACTIVIDAD PREVIA**
+* Identificar distintas formas en que las personas ganan dinero
+* Explicar el ahorro, la inversión, los préstamos y el comercio
+* Comprender cómo las reglas, el azar y el acceso afectan los resultados
+* Dar seguimiento al progreso hacia un objetivo financiero visible
+* Reflexionar sobre el esfuerzo, el riesgo, la equidad y la toma de decisiones
+
+#### Materials
+
+* Fichas individuales de CASA (papel o cartulina, una por estudiante)
+* Masilla adhesiva
+* Bolígrafos o marcadores
+* Fichas de monedas de oro
+* Dados
+* Calculadoras
+* Cartas de juego (baraja de 52 cartas)
+* Tarjetas de índice de desafíos
+* Fichas/tarjetas de grano y harina
+* Tarjeta de tasa bancaria
+* Temporizador o reloj visible (nice to have)
+* Mesas o pupitres organizados como estaciones
+* Espacio despejado en el aula para moverse
+
+#### Procedure
+
+##### INICIO
+
+##### ACTIVIDAD PREVIA
 
 _45 minutos_
 
@@ -51,7 +79,7 @@ Objetivo en palabras del estudiante
 
 *  “Empiezo en casa y trabajo para alcanzar mi meta de dinero.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30 minutos_
 
@@ -83,7 +111,7 @@ El docente demuestra:
 
 * Los estudiantes consideran con qué frecuencia regresaron al Hogar, qué estaciones usaron más y cómo las reglas de movimiento afectaron sus decisiones.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _15 minutos_
 
@@ -94,16 +122,14 @@ Discusión con toda la clase:
 * ¿En qué se sintió diferente ahorrar, invertir o pedir prestado?
 * ¿Cómo afectaron el acceso y el azar a los resultados?
 
-##### **CIERRE**
+##### CIERRE
 
 * ¿Tener una meta visible cambió la forma en que jugaste?
 * ¿Importó más la suerte o la planificación?
 * ¿Qué harías diferente la próxima vez?
 * ¿Hay alguna modificación a la economía que te gustaría ver?
 
-#### **NOTAS**
-
-
+#### Notes
 
 Debido a la complejidad de esta actividad, este juego puede dividirse en dos secciones: Parte 1 y Parte 2. Además, una vez que se hayan entendido las reglas, este juego puede repetirse una y otra vez tantas veces como les interese a los estudiantes.
 
@@ -129,3 +155,9 @@ Agrega nuevas estaciones de negocios como Panadería, Molino o Taller. Los negoc
 * Estudiantes más jóvenes: montos objetivo más pequeños, repeticiones opcionales de tirada, menos estaciones activas
 * ELL/Accesibilidad: íconos visuales en las estaciones y casillas de INICIO, apoyo de compañeros para los desafíos de lectura
 * Seguridad: caminar únicamente entre estaciones, mantener despejadas las rutas de movimiento
+
+#### Additional resources
+
+* Appendix A: Credencial de estudiante
+* Appendix B: Tarjetas de desafío (Leyenda)
+* Appendix C: Tabla de reglas de movimiento

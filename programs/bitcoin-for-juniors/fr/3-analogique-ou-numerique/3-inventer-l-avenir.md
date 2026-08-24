@@ -1,14 +1,35 @@
 # 3.3 Inventer l'avenir
 
-#### **PROCÉDURE**
+_Craft, Presentation, Discussion · Small groups, Individual · 45–60 min_
 
-##### **OUVERTURE**
+Les élèves imaginent l'avenir de la technologie en inventant un nouveau produit ou système et en le présentant selon le format de l'émission « Dragons’ Den ». Ils réfléchissent à l'évolution de la technologie, identifient des problèmes concrets à résoudre et s'entraînent à expliquer clairement leurs idées. Cette activité favorise la créativité, la réflexion critique et la communication, tout en renforçant l'idée que l'innovation répond à des besoins qui évoluent au fil du temps.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Prédisez comment la technologie pourrait évoluer à l'avenir
+* Concevez une invention simple pour résoudre un problème
+* Expliquer comment et pourquoi leur invention fonctionne
+* Entraînez-vous à présenter et à défendre une idée.
+
+#### Materials
+
+* Papier vierge pour croquis et notes
+* Crayons, crayons de couleur ou feutres
+* Modèle de présentation (voir annexe A) (Appendix A, nice to have)
+* Tableau blanc ou espace d'affichage
+* Minuterie pour les lancers (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Disposez les sièges de manière à ce que les équipes puissent travailler ensemble, puis faire leur présentation devant l'assemblée.
 1. Préparez un espace sur le tableau pour énumérer des exemples de technologies passées, actuelles et émergentes.
 1. Déterminez comment le temps alloué à chaque présentation sera géré et comment celles-ci seront évaluées.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 à 10 minutes_
 
@@ -21,7 +42,7 @@ _5 à 10 minutes_
 
 *  « Inventer une nouvelle technologie et convaincre les autres que c'est une bonne idée. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 à 40 minutes_
 
@@ -55,7 +76,7 @@ _30 à 40 minutes_
 * Demandez quels sont les problèmes qu'il vous a semblé le plus important de résoudre.
 * Demandez ce qui a rendu une présentation convaincante.
 
-##### **SUIVI**
+##### SUIVI
 
 _5 à 10 minutes_
 
@@ -63,14 +84,14 @@ _5 à 10 minutes_
 1. Expliquez en quoi les prévisions peuvent s'avérer justes ou erronées au fil du temps.
 1. Découvrez l'innovation dans la vie réelle et comment les idées s'améliorent grâce aux retours d'expérience.
 
-##### **FERMER**
+##### FERMER
 
 1. Rassemblez des croquis et des documents.
 1. Réaménager la salle de classe.
 1. Remerciez les élèves pour leur créativité et leurs efforts.
 1. Message de clôture : « Chaque invention commence par une idée que quelqu’un a eu le courage de partager. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

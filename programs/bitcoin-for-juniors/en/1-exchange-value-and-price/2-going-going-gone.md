@@ -1,8 +1,28 @@
 # 1.2 Going, Going, Gone!
 
-#### **PROCEDURE**
+_Role play, Auction · Whole class · 45 min_
 
-##### **OPENING**
+In this activity, students take part in a classroom auction using “shells” (or tokens) as a simple form of money. The class runs a live auction where everyday objects are sold one at a time to the highest bidder. As prices emerge in real time, students observe how scarcity (limited items and limited money) and demand (how many people want the same item) shape what something “costs.” A guided reflection links their auction outcomes to core ideas in value, exchange, and price formation, emphasizing that prices are not fixed and that different people value the same object differently.
+
+#### Objectives
+
+* Students experience scarcity and price formation by participating in a live auction.
+* They learn that objects gain value depending on how many people want them, and how limited they are.
+* Students understand that:
+  * Scarcity makes items more valuable.
+  * Prices are not fixed; they depend on demand.
+  * People value different things differently.
+
+#### Materials
+
+* 10 small classroom objects (fun or useful: stickers, pencils, snacks, erasers, funny hats, toys, etc.)
+* Shells (or paper tokens/coins if no shells available) — at least 3–5 per student
+* Pen & paper for recording bids
+* Whiteboard and markers, Auction bell or clap/signal (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 2 minutes
 
@@ -13,7 +33,7 @@
 
 * Use shells to bid in an auction and see how prices change when lots of people want the same thing and there aren’t many of them.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 5 minutes
 
@@ -21,7 +41,7 @@
 1. **Announce**: “These shells are your money. You’ll use them to buy things in today’s game.
 1. **Distribute** the shells and get students to count how many they possess.
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 30 minutes
 
@@ -49,7 +69,7 @@
 * Explain that once they have no more shells, they can not bid on any further items.
 * Students need to ‘budget’ for their items.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 1. Lay all items with their final prices on a board/wall.
 1. Ask:
@@ -60,11 +80,11 @@
 1. Highlight: Price comes from value _and_ scarcity.
 1. Define these terms and write them on the board.
 
-##### **CLOSE**
+##### CLOSE
 
 * Distribute the items to the winning bidders and congratulate them
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

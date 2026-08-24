@@ -1,8 +1,30 @@
 # 1.1 Ship Rekt
 
-#### **PROCEDURE**
+_Simulation, Role play, Game · Whole class · 60 min_
 
-##### **OPENING**
+In this 60 minute whole class simulation, students roleplay as shipwrecked survivors who must secure essential resources to “survive” a week on a desert island. Using playing cards to represent tools and supplies, learners begin with pure barter, practicing negotiation while encountering common trade barriers such as surplus, scarcity, and the coincidence of wants. A timed “Shell Hunt” then introduces commodity money, as students collect tokens that can be used to simplify exchange. With shells in circulation, the class enters a guided marketplace where students set prices, respond to supply and demand, and experience price discovery. The activity culminates in budgeting and a structured auction or trade round for “treasure” wishlist items, bridging to why money exists.
+
+#### Objectives
+
+* Students experience barter, the “coincidence of wants,” scarcity, supply/demand, price discovery, budgeting, and auctions.
+* Bridge to money: commodity money (shells) and why money helps trade.
+
+#### Materials
+
+* Playing cards
+* “Shells” (physical tokens: paper circles, buttons, craft shells)
+* Treasure chest (Small box/enveloppe)
+* Gift card (expired or fake $100 gift card)
+* Blank flash cards (or slips of paper)
+* Visual aids (See Appendix A & B), Treasure map, Reward stickers (Appendix A, Story visual aides, nice to have)
+* Timer/phone stopwatch
+* Whiteboard or screen
+* Marker pen
+* Whiteboard/markers, projector, bell/signal for time, music (optional for treasure hunt) (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 3 minutes
 
@@ -14,7 +36,7 @@
 
 * Trade objects to survive a week on the desert island.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 5 minutes
 
@@ -237,18 +259,18 @@ The wishlist items can be randomly distributed to the students. This can be expl
 * Ask students to THINK-PAIR-SHARE to find the key ideas.
 * As a class, formulate a plan to escape the island and find their way back to safety.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 * Quick write or drawing: “One thing I learned about **trade** or **money**.”
 * Gallery walk of price tags & auction results; discuss fairness and markets.
 * Optional challenge (older kids): Design a new island money (rules, supply cap, how to prevent cheating).
 
-##### **CLOSE**
+##### CLOSE
 
 * Gather all materials
 * Verify all playing cards have been returned to ensure equal distribution between all suites for another activity.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -268,3 +290,7 @@ The wishlist items can be randomly distributed to the students. This can be expl
 * Younger students trade fewer categories (just Food/Water); older students handle more complex needs and dynamic pricing.
 * ELL/Accessibility: Provide picture cards; sentence frames for offers; assign peer buddies.
 * Safety: Movement is walking only; clear boundaries; timed rounds.
+
+#### Additional resources
+
+* Appendix B: Trade Table

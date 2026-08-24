@@ -1,8 +1,30 @@
 # 1.3 Worth It
 
-#### **PROCEDURE**
+_Sorting, Discussion · Whole class, Individual · 45 min_
 
-##### **OPENING**
+Students explore the meaning of price by cutting out everyday items and placing them along a shared price line from cheap to expensive. Through comparison, discussion, and teacher guidance, learners develop a concrete understanding that price is the amount of money something costs and that prices can vary widely between items.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Understand that price means how much something costs in money
+* Recognize the difference between cheap and expensive items
+* Compare prices across different types of goods
+* Participate in group discussion and justification
+
+#### Materials
+
+* Old catalogues, magazines, or printed product sheets
+* Glue sticks or tape
+* Markers
+* Sticky notes or voting stickers (nice to have)
+* Child-safe scissors
+* Projector, Visual Aides (See Appendix A) (Appendix A, nice to have)
+
+#### Procedure
+
+##### OPENING
 
 _10 minutes_
 
@@ -10,9 +32,7 @@ _10 minutes_
 1. Ensure all contents of the catalog are age appropriate.
 1. If possible, attempt to hide the retail price of the items using a marker pen.
 
-
-
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -25,7 +45,7 @@ _5 minutes_
 
 *  “Learn how much things cost and tell the difference between cheap and expensive.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _25 minutes_
 
@@ -62,7 +82,7 @@ _25 minutes_
   * Small items can be expensive
   * Big items can sometimes be cheap
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _2 minutes_
 
@@ -74,14 +94,14 @@ Summarize:
 * Prices are different for different things
 * We can disagree, but money helps us decide
 
-##### **CLOSE**
+##### CLOSE
 
 1. Congratulate students for their participation.
 1. Take a moment for gratitude for the objects in their life.
 1. Ask students to return all materials and equipment.
 1. The project can be displayed or stored and can be added to later by the students.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -101,3 +121,7 @@ Summarize:
 * **Younger students:** pre-cut items
 * **ELL/Accessibility:** allow pointing instead of speaking
 * **Safety:** supervise scissor use
+
+#### Additional resources
+
+* Appendix B: High Price / Low Price Visual

@@ -1,8 +1,30 @@
 # 3.1 À mon époque
 
-#### **PROCÉDURE**
+_Matching, Craft, Discussion · Whole class, Pairs, Individual · 20 min_
 
-##### **OUVERTURE**
+Les élèves associent des technologies analogiques anciennes à leurs équivalents numériques modernes. À travers des exercices d'association visuelle, de coloriage et de discussion, les élèves découvrent comment les outils évoluent au fil du temps et comment l'innovation transforme la façon dont les gens vivent, travaillent et communiquent. Cette activité leur permet de prendre conscience dès leur plus jeune âge des progrès technologiques et des changements liés au temps.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Citer des exemples de technologies analogiques et numériques
+* Il faut comprendre que la technologie évolue avec le temps
+* Considérer l'innovation comme un processus d'amélioration et d'adaptation
+* Réfléchissez à l'impact de la technologie sur la vie quotidienne
+
+#### Materials
+
+* Fiche d'exercices correspondante imprimée (voir annexe A) (Appendix A, Paires de conversion analogique-numérique)
+* Crayons de couleur ou crayons de cire
+* Supports visuels (voir annexe B) (Appendix B, nice to have)
+* Tableau blanc ou tableau noir
+* Support visuel ou diaporama
+* Minuterie (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Veillez à ce que chaque élève dispose d'une surface de travail dégagée.
 1. Préparez le tableau ou le support visuel en y affichant des images de technologies anciennes.
@@ -11,7 +33,7 @@
 1. Montrez des exemples tels qu'une machine à écrire, un Walkman, une lampe à huile ou une cassette VHS.
 1. Demandez : « Avez-vous déjà vu ça ? » « Qu'utilisons-nous à la place aujourd'hui ? »
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _2 à 3 minutes_
 
@@ -24,7 +46,7 @@ _2 à 3 minutes_
 
 *  « Comparez les anciennes technologies aux nouvelles et constatez à quel point les choses ont changé. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _10 minutes_
 
@@ -50,7 +72,7 @@ _10 minutes_
 1. Vérifiez si les élèves parviennent à associer correctement la plupart des paires.
 1. Faites une petite pause si plusieurs élèves ont des difficultés et expliquez à l'aide de supports visuels.
 
-##### **SUIVI**
+##### SUIVI
 
 _3 à 5 minutes_
 
@@ -60,13 +82,13 @@ _3 à 5 minutes_
 1. Demandez-vous : « Les nouvelles technologies sont-elles toujours meilleures ? »
 1. Activité facultative en binôme : les élèves racontent à leur voisin une association surprenante qu’ils ont découverte.
 
-##### **FERMER**
+##### FERMER
 
 1. Rassemblez les fiches d'exercices et le matériel.
 1. Remerciez les élèves pour leur concentration et leurs efforts.
 1. Message de conclusion : « La technologie évolue avec le temps, mais chaque outil aide les gens à résoudre leurs problèmes à leur rythme. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -84,3 +106,7 @@ _3 à 5 minutes_
 * Élèves plus jeunes : exercices d'association guidés à l'aide d'illustrations au tableau
 * ELL/Accessibilité : images, langage simplifié, entraide entre pairs
 * Sécurité : activité en position assise, mouvements minimes
+
+#### Additional resources
+
+* Appendix C: Avez-vous déjà utilisé… ?

@@ -1,14 +1,39 @@
 # 4.4 Nostr
 
-#### **PROCÉDURE**
+_Simulation, Craft, Game · Small groups · 50–60 min_
 
-##### **OUVERTURE**
+En s'appuyant sur les activités précédentes consacrées à la confiance, à la transmission de messages et à leur interception, les élèves comparent désormais le transfert d'informations en clair à la communication chiffrée. Les élèves découvrent d’abord que la transmission d’informations nécessite de faire confiance à des intermédiaires et que les messages peuvent être interceptés ou altérés. Ils utilisent ensuite des roues de chiffrement pour protéger leurs messages, et constatent ainsi que les informations peuvent rester confidentielles même lorsqu’elles transitent par des canaux non fiables ou publics. Prérequis 4.2 - Téléphone 4.3 - Les cypherpunks écrivent du code
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Examinez en quoi la transmission d'informations repose sur la confiance accordée aux intermédiaires
+* Prendre conscience de la manière dont les messages peuvent être déformés ou altérés lorsqu'ils sont transmis ouvertement ;
+* Il faut comprendre que le chiffrement protège les informations même lorsque les intermédiaires ne sont pas fiables.
+* Savoir coder et décoder du vocabulaire à l'aide d'une roue de chiffrement.
+
+#### Materials
+
+* Fiches de mots ou de phrases préparées en vue de leur diffusion
+* Modèles de roues de chiffrement pour chaque élève (voir annexe A) (Appendix A, Modèle de roue de chiffrement)
+* Fiches ou feuilles vierges pour la transcription
+* Crayons ou feutres
+* Exemples de messages simples et complexes (voir annexe B) (Appendix B, nice to have)
+* Ciseaux
+* Goupilles fendues ou clous pour roues de chiffrement
+* Un espace de classe ouvert propice à l'activité physique
+* Minuterie (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Aménagez la salle en plaçant deux tables par équipe, bien espacées l'une de l'autre, afin de respecter la distanciation physique.
 1. Disposez des cartes de message ouvertes sur chaque table d'invités.
 1. Préparez le matériel nécessaire à la roue de chiffrement, mais gardez-le à l'abri des regards jusqu'à la phase 2.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -21,7 +46,7 @@ _5 minutes_
 
 *  « Trouver un meilleur moyen d'envoyer des messages sans que tout le monde doive être considéré comme digne de confiance. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _40 à 45 minutes_
 
@@ -73,7 +98,7 @@ _40 à 45 minutes_
 1. Demandez-vous s'il était encore nécessaire de faire confiance au coureur.
 1. Demandez qui contrôlait l'accès au message à chaque étape.
 
-##### **SUIVI**
+##### SUIVI
 
 _5 à 10 minutes_
 
@@ -81,7 +106,7 @@ _5 à 10 minutes_
 1. Vérifiez que ce cryptage permet aux messages de circuler en toute sécurité dans l'espace public.
 1. Faites le lien avec la question du choix entre les informations publiques et privées.
 
-##### **FERMER**
+##### FERMER
 
 5 minutes
 
@@ -89,7 +114,7 @@ _5 à 10 minutes_
 1. Permettez aux élèves de conserver leurs roues de chiffrement.
 1. Message final à l'attention des élèves : « Vous n'avez pas besoin de faire confiance à tout le monde lorsque vos messages sont protégés. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

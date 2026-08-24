@@ -1,8 +1,32 @@
 # 6.1 From Problem to Protocol
 
-#### **PROCEDURE**
+_Story time, Discussion, Reflection · Whole class, Pairs, Individual · 45–60 min_
 
-##### **OPENING**
+Students listen to the story of Satoshi and the Genesis of Bitcoin. Through guided pauses and discussion, they connect the narrative to prior lessons on value, scarcity, time and energy, analogue vs digital systems, and safety and privacy. The teacher uses a printed “white paper” prop to dramatize the moment Satoshi presents his idea to the world. Students reflect on how Bitcoin began as a proposal, required hard work to build, and depends on participants to keep the network alive.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Explain who Satoshi is in simple terms.
+* Describe what a white paper is.
+* Identify the Genesis Block as the beginning of Bitcoin.
+* Explain why Bitcoin requires time, energy, and shared rules.
+* Recognize that networks stay alive when people participate.
+
+#### Materials
+
+* Printed copy of the story (See Appendix A) (Appendix A, Mina and the Lemonade Stand (Example Story))
+* Printed “White Paper” prop (See Appendix B) (Appendix B, Simplified White Paper Prop)
+* Three keyword cards: VALUE - TIME & ENERGY - TRUST & PRIVACY (See Appendix C) (Appendix C)
+* Whiteboard and markers
+* Exit slips or small paper
+* Printed image of a chain of blocks, Small envelope labeled ‘BTC’ (nice to have)
+* Whiteboard or Projector (optional) (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 * Print the story and place the “White Paper” prop inside an envelope labeled BTC for a dramatic reveal.
 * Write on the board: What happens when money systems fail?
@@ -10,7 +34,7 @@
 * Draw a simple “BANK – CLOSED” sign on the board to spark curiosity.
 * Pre-select and mark 3–4 pause points in the story for guided discussion.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -24,7 +48,7 @@ _5 minutes_
 
 *  “We are going to learn how Bitcoin started and why people choose to keep it alive.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _20–25 minutes_
 
@@ -55,7 +79,7 @@ _20–25 minutes_
   * Analogue vs Digital – How is Bitcoin different from paper money?
   * Safety & Privacy – Why must we protect keys?
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _2 minutes_
 
@@ -66,7 +90,7 @@ _2 minutes_
 * Collect responses.
 * Set-up the next activity by mentioning that we will explore where Satoshi disappeared to.
 
-##### **CLOSE**
+##### CLOSE
 
 * Collect exit slips and any reflection sheets.
 * Ask students to return printed story copies, prompt cards, and materials to the designated area.
@@ -74,7 +98,7 @@ _2 minutes_
 * Ensure the white paper prop and appendix materials are stored safely for future use.
 * Prepare the room for the next class or transition students calmly to the next scheduled activity.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

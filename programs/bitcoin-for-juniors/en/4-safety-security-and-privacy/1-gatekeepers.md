@@ -1,14 +1,36 @@
 # 4.1 Gatekeepers
 
-#### **PROCEDURE**
+_Discussion, Sorting, Reflection · Whole class, Pairs, Individual · 30 min_
 
-##### **OPENING**
+Students explore the difference between public and private spaces and information through guided discussion and visual examples. Using familiar everyday situations, learners practice classifying what is usually public or private and reflect on the idea that individuals can choose what information they keep private or share. The activity builds early awareness of privacy, boundaries, and personal responsibility.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Distinguish between public and private spaces and information
+* Explain why some things should be kept private
+* Recognize that people can choose what they share
+* Practice respectful discussion and personal decision-making
+
+#### Materials
+
+* Visual aids or flash cards showing examples of places and information (See Appendix A) (Appendix A)
+* Student worksheet with checkboxes for Public / Private (See Appendix B) (Appendix B, Public vs Private worksheet)
+* Pencils or crayons
+* Whiteboard or poster board
+* Markers
+* Projector or screen for images (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Prepare visual aids or slides showing examples such as a park, bus, washroom, car, eye colour, password, bank PIN.
 1. Prepare the board with two headings: PUBLIC and PRIVATE.
 1. Place worksheets and writing materials where they can be easily distributed.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -20,7 +42,7 @@ _5 minutes_
 
 *  “Assess what things are public, what things are private, and what I want to share.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _20 minutes_
 
@@ -55,7 +77,7 @@ _20 minutes_
 * Ask: “Can something be private even if other people can see it?”
 * Guide students toward the idea that people choose what information they share.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _5 minutes_
 
@@ -63,13 +85,13 @@ _5 minutes_
 1. Students decide for each item whether they would keep it public or private.
 1. Emphasize that answers may be different for different people.
 
-##### **CLOSE**
+##### CLOSE
 
 1. Collect worksheets and materials.
 1. Summarize key idea: “You get to decide what information you share.”
 1. Final message to students: “Being smart about privacy helps keep you safe.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

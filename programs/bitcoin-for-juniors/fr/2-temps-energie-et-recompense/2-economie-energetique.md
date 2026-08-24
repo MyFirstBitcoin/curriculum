@@ -1,8 +1,32 @@
 # 2.2 Économie énergétique
 
-#### **PROCÉDURE**
+_Reflection, Sorting · Whole class, Individual · 35 min_
 
-##### **OUVERTURE**
+Les élèves étudient l'évolution de leur niveau d'énergie au fil de la journée en reportant leurs activités courantes sur un graphique commun à toute la classe et sur un « suivi d'énergie » personnel. En visualisant les pics et les baisses d'énergie au fil du temps, les élèves développent très tôt une conscience de soi concernant l'effort, le repos et la manière dont ils dépensent leur énergie. Cette activité jette les bases des leçons ultérieures sur la préférence temporelle, la valeur et la prise de décision réfléchie.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Prenez conscience que votre niveau d'énergie varie au fil de la journée
+* Identifier les activités qui produisent ou consomment de l'énergie
+* Visualiser ses schémas énergétiques quotidiens personnels
+* Commencez à réfléchir à la manière dont vous utilisez votre temps et votre énergie
+
+#### Materials
+
+* Fiches ou cartes illustrées représentant des activités quotidiennes (prendre son petit-déjeuner, se brosser les dents, aller à l'école à pied, faire ses devoirs, jouer dehors, regarder la télévision, dormir, etc.)
+* Fiches individuelles « Suivi de la consommation d'énergie » (voir annexe B) (Appendix B, Documents à distribuer sur le suivi de la consommation d'énergie)
+* Crayons de couleur, crayons à papier, feutres
+* Mini-images imprimées destinées aux personnes ne sachant pas écrire, supports visuels (voir annexe A) (Appendix A, Support visuel, nice to have)
+* Grand tableau blanc ou affiche pour le graphique « Energy Tracker » de la classe
+* Marqueurs pour tableau blanc
+* Du ruban adhésif ou des aimants pour les fiches
+* Projecteur ou minuterie visuelle (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Préparez un grand graphique « Suivi énergétique » au tableau ou sur une affiche :
 1. Axe horizontal : heure de la journée (lever du soleil → coucher du soleil)
@@ -11,7 +35,7 @@
 1. Préparez des documents à distribuer à chacun ainsi que du matériel pour écrire.
 1. Veillez à ce qu’il y ait suffisamment d’espace pour que les élèves puissent s’approcher du tableau en toute sécurité.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _3 à 5 minutes_
 
@@ -24,7 +48,7 @@ _3 à 5 minutes_
 
 * « Observe comment mon niveau d'énergie évolue au fil de la journée et ce qui me donne de l'énergie ou me permet de la puiser. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 minutes_
 
@@ -42,7 +66,7 @@ _30 minutes_
 1. Demandez : « Quand fais-tu généralement cela ? » et « Est-ce que cela te donne de l'énergie ou t'en enlève ? »
 1. Placez la carte sur le graphique en tenant compte des contributions des élèves.
 
-##### **1. Représentation graphique en groupe**
+##### 1. Représentation graphique en groupe
 
 _15 minutes_
 
@@ -54,7 +78,7 @@ _15 minutes_
 1. Prenez un peu de recul et examinez le graphique terminé.
 1. Demandez : « Qu'est-ce que tu remarques ? » « À quel moment l'énergie semble-t-elle la plus forte ? » « Que se passe-t-il plus tard dans la journée ? »
 
-##### **2. Représentation graphique individuelle**
+##### 2. Représentation graphique individuelle
 
 _10 à 15 minutes_
 
@@ -69,7 +93,7 @@ _2 minutes_
 1. Demandez : « À quel moment de la journée avez-vous le plus d'énergie ? » « Quelle activité vous demande le plus d'énergie ? » « Qu'est-ce qui vous aide à vous sentir plus reposé(e) ? » « Comment pourriez-vous mieux utiliser votre énergie ? »
 1. Pour les élèves plus âgés, posez les questions suivantes : « Que se passe-t-il si vous dépensez toute votre énergie dès le matin ? » et « Comment pouvons-nous économiser notre énergie pour les choses qui comptent vraiment ? »
 
-##### **SUIVI**
+##### SUIVI
 
 _3 minutes_
 
@@ -78,7 +102,7 @@ Révision du contenu avec les élèves
 1. Rappelez-vous que le niveau d'énergie varie au cours de la journée, que les activités ont des effets différents sur ce niveau et que chacun a son propre rythme énergétique.
 1. Poursuivez en expliquant que ces schémas influencent notre façon de travailler, de nous reposer, de nous divertir et de faire des choix.
 
-##### **FERMER**
+##### FERMER
 
 _5 minutes_
 
@@ -86,7 +110,7 @@ _5 minutes_
 1. Supprimez ou effacez le graphe de classes si nécessaire.
 1. Remerciez les élèves pour leur participation et insistez sur le fait que les ressources énergétiques sont limitées et que la manière dont nous les utilisons a son importance.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -102,3 +126,7 @@ _5 minutes_
 * Élèves plus jeunes : aide facultative d'un partenaire pour les élèves plus jeunes, cartes de dessin et d'images.
 * ELL/Accessibilité : supports visuels, démonstrations, aide d'un partenaire.
 * Sécurité : surveillez les mouvements à proximité du plongeoir.
+
+#### Additional resources
+
+* Appendix C: Agenda des activités

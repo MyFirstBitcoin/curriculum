@@ -1,14 +1,39 @@
 # 4.4 Nostr
 
-#### **PROCEDIMIENTO**
+_Simulation, Craft, Game · Small groups · 50–60 min_
 
-##### **APERTURA**
+A partir de actividades anteriores sobre confianza, transmisión de mensajes e interceptación, los estudiantes ahora comparan la transferencia abierta de información con la comunicación codificada. Primero, experimentan cómo transmitir información requiere confiar en intermediarios y cómo los mensajes pueden ser escuchados o alterados. Luego, introducen ruedas de cifrado para proteger los mensajes, descubriendo que la información puede permanecer privada incluso cuando pasa por canales públicos o no confiables. Prerrequisitos 4.2 - Teléfono 4.3 - Los cypherpunks escriben código
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Repasar cómo la transmisión de información requiere confiar en intermediarios
+* Reconocer cómo los mensajes pueden filtrarse o modificarse cuando se transmiten abiertamente;
+* Comprender que la codificación protege la información incluso cuando no se confía en los intermediarios
+* Codificar y decodificar vocabulario correctamente usando una rueda de cifrado.
+
+#### Materials
+
+* Tarjetas preparadas con palabras u oraciones para transmitir
+* Plantillas de ruedas de cifrado para cada estudiante (ver Apéndice A) (Appendix A, Plantilla de rueda de cifrado)
+* Hojas de trabajo o papel en blanco para la transcripción
+* Lápices o marcadores
+* Ejemplos de mensajes simples y complejos (ver Apéndice B) (Appendix B, nice to have)
+* Tijeras
+* Broches de dos patas o encuadernadores para ruedas de cifrado
+* Espacio abierto en el aula para moverse
+* Temporizador (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Organiza el salón con dos mesas por equipo colocadas bien separadas para crear distancia.
 1. Coloca tarjetas de mensaje abiertas en cada mesa del emisor.
 1. Prepara los materiales de la rueda de cifrado, pero mantenlos ocultos hasta la Fase 2.
 
-##### **ANTES DE LA ACTIVIDAD**
+##### ANTES DE LA ACTIVIDAD
 
 _5 minutos_
 
@@ -21,7 +46,7 @@ _5 minutos_
 
 *  “Encontrar una mejor manera de enviar mensajes sin que todos tengan que ser de confianza.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _40–45 minutos_
 
@@ -73,7 +98,7 @@ _40–45 minutos_
 1. Pregunta si la confianza en el mensajero seguía siendo necesaria.
 1. Pregunta quién controlaba el acceso al mensaje en cada fase.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _5-10 minutos_
 
@@ -81,7 +106,7 @@ _5-10 minutos_
 1. Repase que la codificación permite que los mensajes viajen por el espacio público de forma segura.
 1. Conecte esto con la idea de elegir qué información es pública o privada.
 
-##### **CIERRE**
+##### CIERRE
 
 5 minutos
 
@@ -89,7 +114,7 @@ _5-10 minutos_
 1. Permita que los estudiantes conserven sus ruedas de cifrado.
 1. Mensaje final para los estudiantes: “No necesitas confiar en todos cuando tu mensaje está protegido.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 

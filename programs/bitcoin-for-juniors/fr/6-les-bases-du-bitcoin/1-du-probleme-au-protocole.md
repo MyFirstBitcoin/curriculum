@@ -1,8 +1,32 @@
 # 6.1 Du problème au protocole
 
-#### **PROCÉDURE**
+_Story time, Discussion, Reflection · Whole class, Pairs, Individual · 45–60 min_
 
-##### **OUVERTURE**
+Les élèves écoutent l’histoire de Satoshi et de la genèse du Bitcoin. Grâce à des pauses guidées et à des discussions, ils font le lien entre ce récit et les leçons précédentes sur la valeur, la rareté, le temps et l’énergie, les systèmes analogiques par opposition aux systèmes numériques, ainsi que la sécurité et la vie privée. L’enseignant utilise un « livre blanc » imprimé comme accessoire pour mettre en scène le moment où Satoshi présente son idée au monde entier. Les élèves réfléchissent à la façon dont le Bitcoin a vu le jour sous la forme d’une proposition, a nécessité un travail acharné pour être mis en place et dépend des participants pour maintenir le réseau en activité.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Expliquez en termes simples qui est Satoshi.
+* Expliquez ce qu'est un livre blanc.
+* Considérer le bloc Genesis comme le point de départ du Bitcoin.
+* Expliquez pourquoi le Bitcoin nécessite du temps, de l'énergie et des règles communes.
+* Il faut garder à l'esprit que les réseaux ne peuvent perdurer que si les gens y participent.
+
+#### Materials
+
+* Version imprimée du récit (voir annexe A) (Appendix A, Mina et le stand de limonade (exemple d'histoire))
+* Accessoire « livre blanc » imprimé (voir annexe B) (Appendix B, Modèle simplifié de livre blanc)
+* Trois fiches de mots-clés : VALEUR - TEMPS ET ÉNERGIE - CONFIANCE ET VIE PRIVÉE (voir annexe C) (Appendix C)
+* Tableau blanc et marqueurs
+* Fiches de sortie ou petits morceaux de papier
+* Image imprimée représentant une chaîne de blocs, petite enveloppe portant la mention « BTC » (nice to have)
+* Tableau blanc ou projecteur (facultatif) (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 * Imprimez l'histoire et glissez l'accessoire « Livre blanc » dans une enveloppe portant la mention « BTC » pour un effet de surprise saisissant.
 * Écrivez au tableau : Que se passe-t-il lorsque les systèmes monétaires s'effondrent ?
@@ -10,7 +34,7 @@
 * Dessinez au tableau une simple pancarte « BANQUE – FERMÉ » pour éveiller la curiosité.
 * Sélectionnez au préalable et marquez 3 à 4 moments de pause dans le récit pour y mener une discussion guidée.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -24,7 +48,7 @@ _5 minutes_
 
 *  « Nous allons découvrir comment le Bitcoin a vu le jour et pourquoi les gens choisissent de le faire perdurer. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _20 à 25 minutes_
 
@@ -55,7 +79,7 @@ _20 à 25 minutes_
   * Analogique ou numérique ? En quoi le Bitcoin diffère-t-il de la monnaie fiduciaire ?
   * Sécurité et confidentialité – Pourquoi faut-il protéger les clés ?
 
-##### **SUIVI**
+##### SUIVI
 
 _2 minutes_
 
@@ -66,7 +90,7 @@ _2 minutes_
 * Recueillir les réponses.
 * Préparez l'activité suivante en précisant que nous allons découvrir où Satoshi a disparu.
 
-##### **FERMER**
+##### FERMER
 
 * Récupérez les fiches de sortie et les éventuelles fiches de réflexion.
 * Demandez aux élèves de rapporter les exemplaires imprimés de l'histoire, les fiches d'instructions et le matériel à l'endroit prévu à cet effet.
@@ -74,7 +98,7 @@ _2 minutes_
 * Veillez à ce que le document de référence et les annexes soient conservés en lieu sûr en vue d'une utilisation future.
 * Préparez la salle pour le cours suivant ou accompagnez les élèves sereinement vers l'activité suivante prévue au programme.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

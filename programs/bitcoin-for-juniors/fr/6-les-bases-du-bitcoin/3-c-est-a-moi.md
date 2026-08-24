@@ -1,14 +1,40 @@
 # 6.3 C'est à moi !
 
-#### **PROCÉDURE**
+_Simulation, Game · Whole class, Small groups · 45 min_
 
-##### **OUVERTURE**
+Dans cette activité, les apprenants simulent le minage de bitcoins en utilisant des cartes à jouer comme hachages et des mots de vocabulaire comme transactions. Les équipes retournent les cartes pour trouver des paires correspondantes. Lorsqu’elles trouvent deux cartes identiques, elles s’écrient « C’est à moi ! ». Une paire valide leur donne accès au mempool, où ils récupèrent un mot de vocabulaire lié au Bitcoin. Les mots sont regroupés en blocs et ne comptent qu’après confirmation. Le nombre de cartes dans le pool de minage représente la difficulté et est ajusté entre chaque manche. Les scores finaux sont calculés en comptant le nombre total de lettres des mots confirmés stockés dans le portefeuille de chaque équipe.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Expliquez que le minage nécessite des tentatives répétées
+* Expliquez comment le niveau de difficulté peut augmenter ou diminuer
+* Il faut comprendre que les transactions sont regroupées en blocs
+* Il faut comprendre que la confirmation précède la propriété
+* Établir un lien entre l'effort et la récompense
+
+#### Materials
+
+* 1 à 2 jeux de cartes
+* 40 à 60 fiches de vocabulaire sur le Bitcoin (voir annexe A) (Appendix A)
+* 1 enveloppe par équipe portant la mention « WALLET »
+* 1 grande enveloppe portant la mention « BLOCK »
+* Panneaux portant les inscriptions « MEMPOOL » et « MINING POOL »
+* Autocollants ou tampons pour valider les résultats, tableau blanc pour noter les scores (nice to have)
+* Minuterie
+* Une table ou un espace au sol pour disposer les cartes
+* Sonnerie ou signal sonore indiquant la fin d'un bloc (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1.  Récapitulons brièvement les termes clés : hash, minage, bloc, portefeuille, difficulté.
 1. Veillez à ce que vos explications soient courtes et concrètes.
 1. Expliquez-leur qu’aujourd’hui, ils doivent « faire leurs preuves » avant de gagner des mots.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -20,7 +46,7 @@ _5 minutes_
 
 *  « Je trouve une paire assortie et je dis “C’est à moi” pour gagner un mot pour mon portefeuille. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 minutes_
 
@@ -49,7 +75,7 @@ _30 minutes_
 1. Renvoyer les mots validés dans le « wallet » de chaque équipe.
 1. Seuls les mots validés sont pris en compte.
 
-##### **SUIVI**
+##### SUIVI
 
 _4 minutes_
 
@@ -59,13 +85,13 @@ _4 minutes_
 * Les mots plus longs ont-ils permis d'obtenir de meilleurs résultats ?
 * Est-ce que tout le monde a respecté les mêmes règles ?
 
-##### **FERMER**
+##### FERMER
 
 *  Rassemblez et comptez toutes les cartes à jouer, puis remettez-les dans leurs jeux respectifs.
 * Rassemblez toutes les cartes de mots, les porte-monnaie vides et l'enveloppe à blocs, puis empilez-les soigneusement.
 * Nettoyez la zone d'exploitation, effacez le tableau et vérifiez qu'il n'y a pas de cartes éparpillées sous les tables et les chaises.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

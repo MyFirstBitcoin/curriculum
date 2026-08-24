@@ -1,14 +1,37 @@
 # 2.5 Préférence temporelle
 
-#### **PROCÉDURE**
+_Story time, Discussion, Sorting · Whole class · 20 min_
 
-##### **OUVERTURE**
+Les élèves explorent la notion de préférence temporelle à travers un conte bien connu, « Les Trois Petits Cochons ». En écoutant l'histoire, en discutant des choix des personnages et en comparant les matériaux de construction, les élèves réfléchissent au compromis entre la commodité à court terme et la solidité à long terme. Cette activité aide les enfants à comprendre que l'effort et la patience peuvent mener à de meilleurs résultats à l'avenir.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Il faut garder à l'esprit que les décisions prises à la hâte peuvent avoir des conséquences ultérieures
+* Il faut comprendre que l'effort et la patience peuvent permettre d'obtenir de meilleurs résultats
+* Commencer à comprendre la notion de préférence temporelle en termes simples
+* Entraînez-vous à comparer différentes options et à expliquer votre raisonnement
+
+#### Materials
+
+* Livre d'histoires ou version illustrée imprimée de « Les Trois Petits Cochons »
+* Supports visuels représentant des maisons construites en paille, en bois et en briques (voir annexe A) (Appendix A)
+* Crayons de couleur ou feutres
+* Marionnettes ou silhouettes de personnages (nice to have)
+* Tableau blanc ou panneau d'affichage pour prendre des notes lors des discussions de groupe
+* Marqueurs
+* Projecteur ou écran destiné à l'affichage d'images (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Préparez le livre d'histoires et les supports visuels de manière à pouvoir les montrer facilement pendant la lecture.
 1. Préparez le tableau ou l'espace prévu pour l'affiche afin d'y noter les idées des élèves.
 1. Disposez les documents et les crayons de couleur à un endroit où ils pourront être distribués rapidement.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _3 minutes_
 
@@ -20,7 +43,7 @@ _3 minutes_
 
 *  « Écoute l'histoire et détermine quels choix étaient judicieux et pourquoi. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _15 minutes_
 
@@ -61,7 +84,7 @@ _15 minutes_
 * Soyez attentif aux raisonnements qui établissent un lien entre l'effort et le résultat.
 * Demandez : « Vous souvenez-vous d’une situation où le fait d’attendre vous a été utile ? »
 
-##### **SUIVI**
+##### SUIVI
 
 _3 à 5 minutes_
 
@@ -69,7 +92,7 @@ _3 à 5 minutes_
 * Appliquez le principe de la préférence temporelle à vos décisions quotidiennes, par exemple en mettant de côté des friandises ou en terminant votre travail avant d'aller jouer.
 * Insistez sur le fait que la patience et les efforts peuvent permettre d'obtenir de meilleurs résultats.
 
-##### **FERMER**
+##### FERMER
 
 _2 minutes_
 
@@ -78,9 +101,7 @@ _2 minutes_
 1. Remerciez les élèves d'avoir participé.
 1. Message final : « En travaillant plus dur aujourd’hui, on peut rendre sa vie plus sûre et plus facile demain. »
 
-#### **NOTES**
-
-
+#### Notes
 
 Si les enseignants le souhaitent, d'autres récits peuvent être choisis pour la lecture. Cette activité a pour objectif de discuter de l'importance de l'influence de la préférence temporelle sur les résultats.
 
@@ -101,7 +122,7 @@ Si les enseignants le souhaitent, d'autres récits peuvent être choisis pour la
 * ELL/Accessibilité : répétitions, images, langage simplifié
 * Sécurité : activité en position assise, mouvements minimes
 
-#### **RÉFÉRENCES**
+#### Additional resources
 
-* _Les trois petits cochons_ (conte populaire traditionnel)
-  * [https://en.wikipedia.org/wiki/The_Three_Little_Pigs](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* [Les trois petits cochons (conte populaire traditionnel)](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* Appendix B: Tableau comparatif des maisons

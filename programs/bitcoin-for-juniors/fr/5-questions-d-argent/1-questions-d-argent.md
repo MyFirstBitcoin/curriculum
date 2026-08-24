@@ -1,12 +1,40 @@
 # 5.1 Questions d'argent
 
-#### **PROCÉDURE**
+_Simulation, Role play, Experiential · Individual · 90 min_
 
-##### **OUVERTURE**
+« Money Matters » est une simulation économique en classe où chaque élève évolue à partir d’une base personnelle. Chaque élève commence avec une tuile « HOME » individuelle sur laquelle figurent son nom, sa carte de défi et son objectif financier. Les élèves évoluent au sein d’un système économique commun en suivant des règles de déplacement basées sur des dés pour gagner, épargner, investir, emprunter et échanger. Le fonctionnement de l’économie est présenté progressivement avant de déboucher sur un jeu de rôle autonome, dans lequel les élèves poursuivent des objectifs individuels dans le cadre de règles communes, de contraintes de temps et de limites d’accès. Des extensions facultatives permettent d’évoluer vers une économie plus riche, intégrant des entreprises, des coûts d’infrastructure et l’éducation.
 
+#### Objectives
 
+À l'issue de cette activité, les apprenants seront capables de :
 
-##### **AVANT L'ACTIVITÉ**
+* Identifier les différentes façons dont les gens gagnent leur vie
+* Expliquer l'épargne, l'investissement, l'emprunt et le commerce
+* Comprendre comment les règles, le hasard et l'accès influencent les résultats
+* Suivre les progrès accomplis vers un objectif financier concret
+* Réfléchissez aux notions d'effort, de risque, d'équité et de prise de décision
+
+#### Materials
+
+* Fiches « HOME » individuelles (en papier ou en carton, une par élève)
+* Pâte adhésive
+* Stylos ou feutres
+* Jetons en or
+* Dés
+* Calculatrices
+* Jeu de cartes (jeu de 52 cartes)
+* Fiches de défis
+* Jetons/cartes « céréales et farine »
+* Carte des taux bancaires
+* Minuterie ou horloge visible (nice to have)
+* Tables ou bureaux disposés en postes de travail
+* Libérer de l'espace dans la salle de classe pour pouvoir bouger
+
+#### Procedure
+
+##### OUVERTURE
+
+##### AVANT L'ACTIVITÉ
 
 _45 minutes_
 
@@ -51,7 +79,7 @@ L'objectif selon les mots de l'étudiant
 
 *  « Je commence chez moi et je travaille pour atteindre mon objectif financier. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 minutes_
 
@@ -83,7 +111,7 @@ L'enseignant fait une démonstration :
 
 * Les apprenants ont réfléchi à la fréquence à laquelle ils rentraient chez eux, aux stations qu'ils empruntaient le plus souvent et à la manière dont les règles de circulation influençaient leurs choix.
 
-##### **SUIVI**
+##### SUIVI
 
 _15 minutes_
 
@@ -94,16 +122,14 @@ Discussion avec toute la classe :
 * En quoi épargner, investir ou emprunter vous a-t-il semblé différent ?
 * Dans quelle mesure l'accès et le hasard ont-ils influencé les résultats ?
 
-##### **FERMER**
+##### FERMER
 
 * Le fait d'avoir un objectif précis a-t-il changé ta façon de jouer ?
 * Qu'est-ce qui a compté le plus : la chance ou la préparation ?
 * Que feriez-vous différemment la prochaine fois ?
 * Y a-t-il des changements que vous aimeriez voir apporter à l'économie ?
 
-#### **NOTES**
-
-
+#### Notes
 
 Compte tenu de la complexité de cette activité, ce jeu peut être divisé en deux parties : Partie 1 et Partie 2. De plus, une fois les règles comprises, ce jeu peut être rejoué autant de fois que les élèves le souhaitent.
 
@@ -129,3 +155,9 @@ Ajoutez de nouveaux types d'entreprises, telles qu'une boulangerie, un moulin ou
 * Élèves plus jeunes : objectifs moins élevés, relances facultatives, moins de postes actifs
 * ELL/Accessibilité : icônes visuelles sur les stations et les vignettes « Accueil », aide entre pairs pour les difficultés de lecture
 * Sécurité : circulation à pied uniquement entre les stations ; voies de circulation dégagées et entretenues
+
+#### Additional resources
+
+* Appendix A: Carte d'étudiant
+* Appendix B: Cartes de défi (Légende)
+* Appendix C: Tableau des règles de déplacement

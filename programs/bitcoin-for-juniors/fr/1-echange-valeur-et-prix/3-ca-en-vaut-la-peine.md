@@ -1,8 +1,30 @@
 # 1.3 Ça en vaut la peine
 
-#### **PROCÉDURE**
+_Sorting, Discussion · Whole class, Individual · 45 min_
 
-##### **OUVERTURE**
+Les élèves explorent la notion de prix en découpant des objets du quotidien et en les plaçant sur une échelle de prix commune, du moins cher au plus cher. Grâce à la comparaison, à la discussion et aux conseils de l'enseignant, les élèves acquièrent une compréhension concrète du fait que le prix correspond à la somme d'argent que coûte un objet et que les prix peuvent varier considérablement d'un objet à l'autre.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Il faut comprendre que le prix correspond au montant en argent que coûte quelque chose.
+* Savoir faire la différence entre les articles bon marché et ceux qui sont chers
+* Comparer les prix de différents types de produits
+* Participer à la discussion en groupe et à la justification
+
+#### Materials
+
+* Anciens catalogues, magazines ou fiches techniques imprimées
+* Bâtons de colle ou ruban adhésif
+* Marqueurs
+* Post-it ou autocollants de vote (nice to have)
+* Ciseaux à l'épreuve des enfants
+* Projecteur, supports visuels (voir annexe A) (Appendix A, Support visuel, nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 _10 minutes_
 
@@ -10,9 +32,7 @@ _10 minutes_
 1. Assurez-vous que tous les contenus du catalogue sont adaptés à l'âge des enfants.
 1. Si possible, essayez de masquer le prix de vente des articles à l'aide d'un marqueur.
 
-
-
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -25,7 +45,7 @@ _5 minutes_
 
 *  « Apprends à connaître le prix des choses et à faire la différence entre ce qui est bon marché et ce qui est cher. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _25 minutes_
 
@@ -62,7 +82,7 @@ _25 minutes_
   * Les petits articles peuvent coûter cher
   * Les articles volumineux peuvent parfois être bon marché
 
-##### **SUIVI**
+##### SUIVI
 
 _2 minutes_
 
@@ -74,14 +94,14 @@ Résumé :
 * Les prix varient selon les produits.
 * On peut ne pas être d'accord, mais l'argent nous aide à prendre une décision
 
-##### **FERMER**
+##### FERMER
 
 1. Félicitez les élèves pour leur participation.
 1. Prenez un moment pour exprimer votre gratitude envers les objets qui font partie de leur vie.
 1. Demandez aux élèves de rendre tout le matériel et l'équipement.
 1. Le projet peut être affiché ou enregistré, et les élèves peuvent y ajouter des éléments ultérieurement.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -101,3 +121,7 @@ Résumé :
 * **Les plus jeunes élèves :** produits prédécoupés
 * **ELL/Accessibilité :** permettre de montrer du doigt au lieu de parler
 * **Sécurité :** surveiller l'utilisation des ciseaux
+
+#### Additional resources
+
+* Appendix B: Représentation graphique « Prix élevé / Prix bas »

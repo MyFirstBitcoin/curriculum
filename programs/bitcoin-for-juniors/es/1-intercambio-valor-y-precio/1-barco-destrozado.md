@@ -1,8 +1,30 @@
 # 1.1 Barco destrozado
 
-#### **PROCEDIMIENTO**
+_Simulation, Role play, Game · Whole class · 60 min_
 
-##### **APERTURA**
+En esta simulación de 60 minutos con toda la clase, los estudiantes interpretan a sobrevivientes de un naufragio que deben conseguir recursos esenciales para “sobrevivir” una semana en una isla desierta. Usando naipes para representar herramientas y suministros, los alumnos comienzan con trueque puro, practicando la negociación mientras enfrentan barreras comerciales comunes como excedentes, escasez y la coincidencia de necesidades. Luego, una “Búsqueda de conchas” cronometrada introduce el dinero mercancía, mientras los estudiantes recolectan fichas que pueden usarse para simplificar el intercambio. Con las conchas en circulación, la clase entra en un mercado guiado donde los estudiantes fijan precios, responden a la oferta y la demanda, y experimentan el descubrimiento de precios. La actividad culmina con la elaboración de presupuestos y una subasta estructurada o ronda de intercambio de artículos de “tesoro” de la lista de deseos, conectando con por qué existe el dinero.
+
+#### Objectives
+
+* Los estudiantes experimentan el trueque, la “coincidencia de necesidades”, la escasez, la oferta/demanda, el descubrimiento de precios, la elaboración de presupuestos y las subastas.
+* Puente hacia el dinero: dinero mercancía (conchas) y por qué el dinero facilita el comercio.
+
+#### Materials
+
+* Naipes
+* “Conchas” (fichas físicas: círculos de papel, botones, conchas para manualidades)
+* Cofre del tesoro (caja pequeña/sobre)
+* Tarjeta de regalo (tarjeta de regalo vencida o falsa de 100 MXN)
+* Tarjetas didácticas en blanco (o tiras de papel)
+* Apoyos visuales (ver Apéndices A y B), mapa del tesoro, calcomanías de recompensa (nice to have)
+* Temporizador/cronómetro del teléfono
+* Pizarrón blanco o pantalla
+* Marcador
+* Pizarrón blanco/marcadores, proyector, campana/señal para indicar el tiempo, música (opcional para la búsqueda del tesoro) (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 3 minutos
 
@@ -14,7 +36,7 @@
 
 * Intercambiar objetos para sobrevivir una semana en la isla desierta.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 5 minutos
 
@@ -237,18 +259,18 @@ Los artículos de la lista de deseos se pueden distribuir aleatoriamente entre l
 * Pedir a los estudiantes que PIENSEN, TRABAJEN EN PAREJA Y COMPARTAN para encontrar las ideas clave.
 * Como clase, formular un plan para escapar de la isla y encontrar el camino de regreso a un lugar seguro.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 * Escritura rápida o dibujo: “Una cosa que aprendí sobre el **intercambio** o el **dinero**.”
 * Recorrido de galería de etiquetas de precios y resultados de la subasta; conversar sobre la justicia y los mercados.
 * Desafío opcional (niños mayores): Diseñar un nuevo dinero para la isla (reglas, límite de oferta, cómo prevenir trampas).
 
-##### **CIERRE**
+##### CIERRE
 
 * Reunir todos los materiales
 * Verificar que se hayan devuelto todos los naipes para asegurar una distribución equitativa entre todos los palos para otra actividad.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -268,3 +290,8 @@ Los artículos de la lista de deseos se pueden distribuir aleatoriamente entre l
 * Los estudiantes más pequeños intercambian menos categorías (solo comida/agua); los estudiantes mayores manejan necesidades más complejas y precios dinámicos.
 * Estudiantes de español/Accesibilidad: Proporciona tarjetas con imágenes; estructuras de frases para hacer ofertas; asigna compañeros de apoyo.
 * Seguridad: Solo se permite caminar; límites claros; rondas cronometradas.
+
+#### Additional resources
+
+* Appendix A: Ayudas visuales para la historia
+* Appendix B: Tabla de comercio

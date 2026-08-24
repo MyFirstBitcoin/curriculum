@@ -1,14 +1,40 @@
 # 6.2 Satoshi, où es-tu ?
 
-#### **PROCÉDURE**
+_Creative writing, Experiential, Role play · Small groups, Individual · 60 min_
 
-##### **OUVERTURE**
+Dans cette leçon, les élèves construisent une histoire à partir de quatre idées indépendantes notées sur des post-it. Ils commencent par se remémorer l’histoire précédente dans laquelle Satoshi avait disparu et émettent des hypothèses sur l’endroit où il a pu aller. Les élèves développent ensuite quatre idées à partir de suggestions guidées et les organisent selon une structure comprenant un début, un milieu et une fin. Grâce à un partage structuré et à un échange de post-it, ils révisent leurs récits pour y intégrer de nouvelles contraintes. La leçon se termine soit par une version finale écrite ou illustrée, soit par un court jeu de rôle théâtral s'appuyant sur un arc narratif élaboré par la classe.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Organiser les idées en introduction, développement et conclusion
+* Construire un récit cohérent à partir d'éléments indépendants
+* Adapter un récit lorsque de nouvelles contraintes apparaissent
+* Participer à des séances structurées de partage d'expériences entre pairs
+* Participer à une courte pièce de théâtre
+
+#### Materials
+
+* Post-it (4 par élève)
+* Feutres ou crayons
+* Document à distribuer comportant trois colonnes : Début / Milieu / Fin (voir annexe A) (Appendix A, Modèle de fiche de travail pour les élèves à trois colonnes)
+* Tableau blanc
+* Minuterie
+* Post-it colorés, minuteur (nice to have)
+* Tableau blanc
+* Marqueurs
+* Sonnerie ou signal indiquant les transitions (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 * Préparez de l'espace sur le tableau blanc pour y tracer plus tard trois colonnes.
 * Veillez à ce que les marqueurs soient à portée de main.
 * Vérifier les signaux de synchronisation et la disposition des groupes.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _8 minutes_
 
@@ -25,7 +51,7 @@ _8 minutes_
 
 *  « Nous allons transformer ces petites idées en une histoire à part entière. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 minutes_
 
@@ -59,7 +85,7 @@ Option 1 : Les élèves rédigent une version finale (pour les plus grands) ou d
 
 Option 2 : Rassemblez des post-it et construisez au hasard un arc narratif pour la classe au tableau. En petits groupes, les élèves créent un jeu de rôle de 2 minutes en utilisant tous les éléments du tableau. Après les représentations, identifiez brièvement le tournant et la fin de chaque scénario.
 
-##### **SUIVI**
+##### SUIVI
 
 _2 minutes_
 
@@ -69,7 +95,7 @@ _2 minutes_
   * Qu'est-ce qui fait la force d'un milieu de terrain ?
   * Quels changements y a-t-il eu entre votre première version et votre version finale ?
 
-##### **FERMER**
+##### FERMER
 
 * Rassemblez les post-it et les documents distribués.
 * Nettoyer le plan de travail et le matériel.
@@ -77,7 +103,7 @@ _2 minutes_
 * Réaménager la salle de classe.
 * Conservez ou remettez les travaux des élèves de manière appropriée.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

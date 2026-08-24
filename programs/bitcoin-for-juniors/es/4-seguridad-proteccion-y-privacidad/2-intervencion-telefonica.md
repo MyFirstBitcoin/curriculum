@@ -1,14 +1,36 @@
 # 4.2 Intervención telefónica
 
-#### **PROCEDIMIENTO**
+_Simulation, Discussion, Experiential · Whole class, Small groups · 40–50 min_
 
-##### **APERTURA**
+Los estudiantes exploran cómo cambia la información según quién la transmite y quién tiene permiso para escucharla. Mediante una serie de juegos breves de transmisión de mensajes con reglas cambiantes, los estudiantes experimentan de primera mano la confianza, los errores y la interferencia intencional. La reflexión se centra en cómo los mensajes pueden cambiar, filtrarse o protegerse, y en quién debería decidir quién tiene acceso a la información.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Experimentar cómo puede cambiar la información cuando se transmite de una persona a otra
+* Reconocer la diferencia entre errores y cambios intencionales
+* Comprender que no todas las personas deberían escuchar todos los mensajes
+* Empezar a pensar de manera crítica sobre la confianza, la privacidad y el control de la información
+
+#### Materials
+
+* Tarjetas preparadas con mensajes cortos y largos (para referencia del docente) (ver Apéndice A) (Appendix A, Ejemplos de mensajes simples y complejos)
+* Papel y lápiz para la variante de dictado en movimiento
+* Hoja sencilla de códigos con símbolos o sustituciones para el mensaje bloqueado opcional (ver Apéndice B) (Appendix B, Código de símbolos simples, nice to have)
+* Espacio abierto en el aula para moverse
+* Pizarra o cartulina para notas de reflexión
+* Temporizador (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Preparar mensajes simples y complejos con anticipación.
 1. Decidir grupos de 6 a 8 estudiantes.
 1. Despejar el espacio para que los estudiantes puedan formar filas o moverse con seguridad.
 
-##### **PREACTIVIDAD**
+##### PREACTIVIDAD
 
 _5 minutos_
 
@@ -21,7 +43,7 @@ _5 minutos_
 
 *  “Ver qué le pasa a un mensaje cuando diferentes personas lo transmiten.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30-35 minutos_
 
@@ -88,7 +110,7 @@ _30-35 minutos_
 1. Pregunte quién debería decidir.
 1. Permita que los estudiantes identifiquen el problema con sus propias palabras.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _5-10 minutos_
 
@@ -96,7 +118,7 @@ _5-10 minutos_
 1. Refuerce que la confianza depende de reglas y límites.
 1. Conéctelo con lecciones anteriores sobre información pública versus privada.
 
-##### **CIERRE**
+##### CIERRE
 
 _5 minutos_
 
@@ -104,7 +126,7 @@ _5 minutos_
 1. Restablezca la disposición del aula.
 1. Mensaje final para los estudiantes: Tener cuidado con la información ayuda a proteger a las personas.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 

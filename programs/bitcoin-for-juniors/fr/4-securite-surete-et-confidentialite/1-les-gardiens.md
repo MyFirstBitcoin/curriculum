@@ -1,14 +1,36 @@
 # 4.1 Les gardiens
 
-#### **PROCÉDURE**
+_Discussion, Sorting, Reflection · Whole class, Pairs, Individual · 30 min_
 
-##### **OUVERTURE**
+Les élèves explorent la différence entre les espaces publics et privés ainsi qu'entre les informations publiques et privées, à travers des discussions guidées et des exemples visuels. À partir de situations quotidiennes familières, les élèves s'entraînent à classer ce qui relève généralement du domaine public ou privé, et réfléchissent à l'idée selon laquelle chacun peut choisir quelles informations garder pour soi ou partager. Cette activité permet de sensibiliser les élèves dès leur plus jeune âge à la vie privée, aux limites à respecter et à la responsabilité personnelle.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Faire la distinction entre les espaces publics et privés, ainsi qu'entre les informations publiques et privées
+* Expliquez pourquoi certaines choses doivent rester privées
+* Reconnaissez que chacun est libre de choisir ce qu'il souhaite partager
+* Adopter une attitude respectueuse dans les discussions et dans la prise de décisions personnelles
+
+#### Materials
+
+* Supports visuels ou fiches illustrées présentant des exemples de lieux et d'informations (voir annexe A) (Appendix A, Support visuel)
+* Fiche d'exercice de l'élève avec cases à cocher « Public » / « Privé » (voir annexe B) (Appendix B, Fiche de travail « Public vs privé »)
+* Crayons à papier ou crayons de couleur
+* Tableau blanc ou carton d'affichage
+* Marqueurs
+* Projecteur ou écran pour images (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Préparez des supports visuels ou des diapositives présentant des exemples tels qu’un parc, un bus, des toilettes, une voiture, la couleur des yeux, un mot de passe ou un code PIN bancaire.
 1. Préparez le tableau en y inscrivant deux rubriques : « PUBLIC » et « PRIVÉ ».
 1. Disposez les fiches d'exercices et le matériel d'écriture à un endroit où ils pourront être facilement distribués.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -20,7 +42,7 @@ _5 minutes_
 
 *  « Déterminer ce qui relève de la sphère publique, ce qui relève de la sphère privée, et ce que je souhaite partager. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _20 minutes_
 
@@ -55,7 +77,7 @@ _20 minutes_
 * Demandez : « Est-ce qu’une chose peut être privée même si d’autres personnes peuvent la voir ? »
 * Aidez les élèves à comprendre que chacun choisit les informations qu’il souhaite partager.
 
-##### **SUIVI**
+##### SUIVI
 
 _5 minutes_
 
@@ -63,13 +85,13 @@ _5 minutes_
 1. Les élèves décident, pour chaque élément, s'ils souhaitent le rendre public ou privé.
 1. Insistez sur le fait que les réponses peuvent varier d'une personne à l'autre.
 
-##### **FERMER**
+##### FERMER
 
 1. Rassemblez les fiches d'exercices et le matériel.
 1. Résumez l'idée principale : « C'est vous qui décidez quelles informations vous souhaitez partager. »
 1. Message final à l'attention des élèves : « En adoptant une attitude responsable en matière de vie privée, vous contribuez à votre propre sécurité. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

@@ -1,8 +1,34 @@
 # 2.3 C'est pas juste !
 
-#### **PROCÉDURE**
+_Game, Discussion, Experiential · Whole class, Small groups, Pairs, Individual · 60 min_
 
-##### **OUVERTURE**
+Les élèves explorent la notion d'équité en participant à une série de petits jeux qui distribuent des récompenses de différentes manières. Grâce à cette expérience directe, ils comparent des systèmes inéquitables, des systèmes aléatoires, des systèmes basés sur l'effort et le principe de la « preuve de travail ». Les réactions émotionnelles sont encouragées et mises à profit pour favoriser une réflexion structurée. Cette activité permet d'acquérir une compréhension fondamentale de l'équité, de la récompense et de l'égalité des chances.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Découvrir et identifier les systèmes inéquitables, aléatoires, fondés sur l'effort et équitables
+* Il faut comprendre que toutes les récompenses ne se méritent pas de la même manière
+* Reconnaître que l'équité passe par des règles équitables et l'égalité des chances
+* Développer le vocabulaire et la conscience émotionnelle autour des notions d'effort, de récompense et d'équité
+* Se préparer sur le plan conceptuel à la « preuve de travail »
+
+#### Materials
+
+* Des perles ou de petits jetons symbolisant des récompenses (« My Stack »)
+* Fiches ou images illustrant des caractéristiques ou des attributs (couleur des cheveux, vêtements, dates d'anniversaire, etc.)
+* Papier à dessin et crayons
+* Dés
+* Jeu de cartes
+* Support visuel (voir annexe A), étiquettes pour chaque phase (inéquitable, aléatoire, travail, preuve de travail) (Appendix A, nice to have)
+* Minuterie ou chronomètre
+* Une table centrale ou un meuble servant de « banque »
+* Espace ouvert dédié aux jeux de mouvement
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Dégagez un espace suffisamment grand pour les épreuves physiques.
 1. Préparez une « réserve » centrale contenant toutes les perles.
@@ -10,7 +36,7 @@
 1. Préparez des étiquettes pour chaque manche du jeu.
 1. Disposez le matériel de manière à ce que les transitions entre les séries soient rapides.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -24,7 +50,7 @@ _5 minutes_
 
 *  « Découvre quels jeux sont équitables et lesquels ne le sont pas, et pourquoi. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _45 minutes_
 
@@ -40,7 +66,7 @@ _45 minutes_
 1. Expliquez comment on gagne des perles et comment on les rend à la banque.
 1. Montrez l'exemple en adoptant des réactions respectueuses face à la victoire, à la défaite et aux désaccords.
 
-##### **1er tour : Inéquitable**
+##### 1er tour : Inéquitable
 
 _10 minutes_
 
@@ -49,7 +75,7 @@ _10 minutes_
 1. Demandez : « Était-ce juste ? » « Tout le monde a-t-il eu les mêmes chances ? » « Les efforts fournis ont-ils compté ? »
 1. Remettez toutes les perles à la banque.
 
-##### **2e tour : Au hasard**
+##### 2e tour : Au hasard
 
 _10 minutes_
 
@@ -58,7 +84,7 @@ _10 minutes_
 1. Demandez : « Était-ce équitable ? » « Est-ce que c’est l’effort qui a déterminé le vainqueur ? »
 1. Si la classe estime que c'était injuste, remettez toutes les perles à la banque.
 
-##### **3e manche : Travail**
+##### 3e manche : Travail
 
 _10 minutes_
 
@@ -67,7 +93,7 @@ _10 minutes_
 1. Demandez : « Était-ce équitable pour tout le monde ? » « Tout le monde a-t-il pu participer de manière égale ? »
 1. Rendez les jetons, à moins que la classe ne reconnaisse que le système était équitable.
 
-##### **4e étape : Preuve de travail**
+##### 4e étape : Preuve de travail
 
 _10 minutes_
 
@@ -79,12 +105,10 @@ _10 minutes_
 
 Facultatif : désigner un élève à tour de rôle pour vérifier les résultats avant que les récompenses ne soient validées.
 
-#### **Point de contrôle**
+#### Key points
 
 1. Faites une brève pause après chaque tour pour recueillir les avis des élèves.
 1. Notez quels systèmes ont été rejetés et lesquels ont été jugés équitables.
-
-#### **Réflexion**
 
 * Demandez aux élèves ce que chaque jeu leur a fait ressentir.
 * Demandez ce qui a rendu ce dernier match différent des autres.
@@ -109,7 +133,7 @@ _5 minutes_
 1. Remerciez les élèves de s'être exprimés avec respect.
 1. Message final aux élèves : « Les systèmes équitables garantissent à chacun les mêmes règles et les mêmes chances. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -127,3 +151,8 @@ _5 minutes_
 * Pour les plus jeunes : moins de dés ou des lancers partagés.
 * ELL/Accessibilité : repères visuels, démonstration, système de binôme.
 * Sécurité : surveillez les activités physiques exigeantes et proposez des alternatives.
+
+#### Additional resources
+
+* Appendix B: Exemples de jeux déloyaux
+* Appendix C: Exemples de jeux aléatoires

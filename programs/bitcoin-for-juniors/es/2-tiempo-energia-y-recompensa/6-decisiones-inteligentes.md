@@ -1,15 +1,41 @@
 # 2.6 Decisiones inteligentes
 
-#### **PROCEDIMIENTO**
+_Discussion, Visual, Craft, Game · Whole class, Small groups, Pairs, Individual · 60 min_
 
-##### **APERTURA**
+Los estudiantes exploran cómo las decisiones cotidianas afectan los resultados a largo plazo al conectar la preferencia temporal con la alimentación, la salud, el trabajo, el juego y la educación. Mediante el diálogo, un eje visual de preferencia temporal, el diseño creativo de un superhéroe y un juego de comparación divertido, los estudiantes reflexionan sobre cómo las pequeñas decisiones diarias construyen fortaleza, enfoque y éxito futuro.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Comprender que pensar a largo plazo conduce a mejores resultados
+* Aplicar la preferencia temporal a las decisiones cotidianas
+* Reflexionar sobre hábitos relacionados con la salud, la alimentación, el aprendizaje y el trabajo
+* Reconocer que las pequeñas decisiones se acumulan con el tiempo
+
+#### Materials
+
+* Plantillas de superhéroes (ver Apéndice A) (Appendix A, Plantilla de superhéroe)
+* Preferencia temporal (ver Apéndice B) (Appendix B, Ejemplos del eje de preferencia temporal)
+* Lápices de colores, crayones o marcadores
+* Cuentas o fichas para recompensas
+* Dulces o pequeños premios (opcional)
+* Guía de puntuación de estadísticas de héroe (ver Apéndice C) (Appendix C, Guía de puntuación de estadísticas del héroe)
+* Pizarra o espacio grande para carteles
+* Marcadores
+* Pegamento y tijeras (opcional)
+* Temporizador o reloj visual de cuenta regresiva (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Prepara la pizarra con espacio para un eje de preferencia temporal (_Ver Apéndice B_).
 1. Organiza las plantillas de superhéroes, los materiales para colorear y los materiales del juego.
 1. Prepara cuentas y premios opcionales.
 1. Asegura un espacio despejado para la discusión en grupo y el juego posterior.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _10 minutos_
 
@@ -23,7 +49,7 @@ _10 minutos_
 
 *  “Aprender cómo mis decisiones de hoy pueden hacerme más fuerte después.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _45 minutos_
 
@@ -39,7 +65,7 @@ _45 minutos_
 
 **Llevar a cabo**
 
-##### **1. Discusión: Decisiones cotidianas**
+##### 1. Discusión: Decisiones cotidianas
 
 _20 minutos_
 
@@ -48,7 +74,7 @@ _20 minutos_
 1. Pregunta a los estudiantes dónde corresponde cada decisión en el eje.
 1. Invita a los estudiantes a justificar sus ubicaciones.
 
-##### **2. Diseña tu superhéroe**
+##### 2. Diseña tu superhéroe
 
 _25 minutos_
 
@@ -56,7 +82,7 @@ _25 minutos_
 1. Indica a los estudiantes que le pongan nombre a su héroe, coloreen el disfraz y elijan sus favoritos en cada categoría. Fomenta la creatividad y la imaginación.
 1. Revisa las decisiones de los estudiantes y asigna puntos de fuerza a cada héroe según la preferencia temporal.
 
-##### **3. Batalla de superhéroes y reflexión**
+##### 3. Batalla de superhéroes y reflexión
 
 _15 minutos_
 
@@ -75,7 +101,7 @@ _15 minutos_
 * Pregunta: “¿Hay una elección que quieras mejorar?”
 * Invita a los estudiantes a nombrar una acción de baja preferencia temporal que podrían probar esta semana.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _10 minutos_
 
@@ -83,7 +109,7 @@ _10 minutos_
 1. Refuerza que el esfuerzo de ahora a menudo conduce a mejores resultados más adelante.
 1. Conéctalo con la vida real pidiendo a los estudiantes que identifiquen un hábito que puedan practicar hoy.
 
-##### **CIERRE**
+##### CIERRE
 
 _5 minutos_
 
@@ -91,9 +117,7 @@ _5 minutos_
 1. Agradece a los estudiantes por su creatividad y honestidad.
 1. Mensaje final: “Los futuros sólidos se construyen una pequeña decisión a la vez.”
 
-
-
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -111,7 +135,6 @@ _5 minutos_
 * ELL/Accesibilidad: apoyos visuales, modelado, apoyo de un compañero
 * Seguridad: supervisa el uso de tijeras y el movimiento
 
-#### **REFERENCIAS**
+#### Additional resources
 
-*  La prueba del malvavisco: dominar el autocontrol.
-  * [https://psycnet.apa.org/record/2014-43233-000](https://psycnet.apa.org/record/2014-43233-000)
+* [La prueba del malvavisco: dominar el autocontrol.](https://psycnet.apa.org/record/2014-43233-000)

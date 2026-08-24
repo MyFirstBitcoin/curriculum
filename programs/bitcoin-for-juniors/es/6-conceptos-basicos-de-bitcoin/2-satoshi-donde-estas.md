@@ -1,14 +1,40 @@
 # 6.2 Satoshi, ¿dónde estás?
 
-#### **PROCEDIMIENTO**
+_Creative writing, Experiential, Role play · Small groups, Individual · 60 min_
 
-##### **APERTURA**
+En esta lección, los estudiantes construyen una historia usando cuatro ideas independientes escritas en notas adhesivas. Comienzan recordando la historia anterior en la que Satoshi desapareció y especulan sobre a dónde podría haber ido. Luego, los estudiantes generan cuatro ideas a partir de indicaciones guiadas y las organizan en una estructura de inicio, desarrollo y final. Mediante el intercambio estructurado y un intercambio de notas adhesivas, revisan sus narraciones para incluir nuevas condiciones. La lección concluye con un borrador final escrito o ilustrado, o con una breve representación dramática usando un arco narrativo generado por la clase.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Ordenar ideas en inicio, desarrollo y final
+* Construir una narración lógica a partir de elementos independientes
+* Adaptar una historia cuando se introduzcan nuevas condiciones
+* Participar en una narración estructurada entre pares
+* Colaborar en una breve representación dramática
+
+#### Materials
+
+* Notas adhesivas (4 por estudiante)
+* Marcadores o lápices
+* Hoja de trabajo con tres columnas: Inicio / Desarrollo / Final (ver Apéndice A) (Appendix A, Plantilla de material para estudiantes de tres columnas)
+* Pizarrón
+* Temporizador
+* Notas adhesivas de colores, temporizador (nice to have)
+* Pizarrón
+* Marcadores
+* Campana o señal para las transiciones (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 * Prepare espacio en la pizarra para una configuración posterior de tres columnas.
 * Asegúrese de que los marcadores estén accesibles.
 * Confirme las señales de tiempo y la organización de los grupos.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _8 minutos_
 
@@ -25,7 +51,7 @@ _8 minutos_
 
 *  “Vamos a convertir pequeñas ideas en una historia completa.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30 minutos_
 
@@ -59,7 +85,7 @@ Opción 1Los estudiantes escriben un borrador final (estudiantes mayores) o dibu
 
 Opción 2Recoja las notas adhesivas y construya al azar un arco narrativo de la clase en la pizarra. En grupos pequeños, los estudiantes crean una dramatización de 2 minutos usando todos los elementos de la pizarra. Después de las presentaciones, identifique brevemente el punto de giro y el final de cada una.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _2 minutos_
 
@@ -69,7 +95,7 @@ _2 minutos_
   * ¿Qué hace que un desarrollo sea sólido?
   * ¿Qué cambió de tu primera versión a tu versión final?
 
-##### **CIERRE**
+##### CIERRE
 
 * Recoja las notas adhesivas y las hojas de trabajo.
 * Limpiar el pizarrón y los materiales.
@@ -77,7 +103,7 @@ _2 minutos_
 * Restablecer la disposición del aula.
 * Guardar o entregar el trabajo de los estudiantes según corresponda.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 

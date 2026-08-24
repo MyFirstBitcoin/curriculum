@@ -1,8 +1,28 @@
 # 1.2 Ça part, ça part, c'est parti !
 
-#### **PROCÉDURE**
+_Role play, Auction · Whole class · 45 min_
 
-##### **OUVERTURE**
+Dans cette activité, les élèves participent à une vente aux enchères en classe en utilisant des « coquillages » (ou jetons) comme forme simple de monnaie. La classe organise une vente aux enchères en direct où des objets du quotidien sont vendus un par un au plus offrant. À mesure que les prix s’établissent en temps réel, les élèves observent comment la rareté (nombre limité d’articles et d’argent) et la demande (nombre de personnes souhaitant acquérir le même article) déterminent le « coût » d’un objet. Une réflexion guidée établit un lien entre les résultats de leur vente aux enchères et les concepts fondamentaux de la valeur, de l’échange et de la formation des prix, en soulignant que les prix ne sont pas fixes et que différentes personnes attribuent une valeur différente à un même objet.
+
+#### Objectives
+
+* Les élèves découvrent les notions de rareté et de formation des prix en participant à une vente aux enchères en direct.
+* Ils apprennent que la valeur des objets dépend du nombre de personnes qui les convoitent et de leur rareté.
+* Les élèves comprennent que :
+  * La rareté confère davantage de valeur aux objets.
+  * Les prix ne sont pas fixes ; ils dépendent de la demande.
+  * Chacun accorde une importance différente aux choses.
+
+#### Materials
+
+* 10 petits objets de classe (amusants ou utiles : autocollants, crayons, friandises, gommes, chapeaux rigolos, jouets, etc.)
+* Des coquillages (ou des jetons/pièces en papier si vous n'en avez pas) — au moins 3 à 5 par élève
+* Stylo et papier pour noter les offres
+* Tableau blanc et marqueurs, cloche d'enchères ou signal (applaudissements ou autre) (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 2 minutes
 
@@ -13,7 +33,7 @@
 
 * Utilisez des jetons pour enchérir lors d'une vente aux enchères et observez comment les prix évoluent lorsque de nombreuses personnes souhaitent acquérir le même article et que celui-ci est disponible en quantité limitée.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 5 minutes
 
@@ -21,7 +41,7 @@
 1. **Annonce**: « Ces coquillages, c'est votre argent. Vous les utiliserez pour acheter des objets dans la partie d'aujourd'hui. »
 1. **Diffuser** les coquillages et demander aux élèves de compter combien ils en ont.
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 30 minutes
 
@@ -49,7 +69,7 @@
 * Expliquez-leur qu'une fois qu'ils n'ont plus de jetons, ils ne peuvent plus enchérir sur aucun autre article.
 * Les élèves doivent « établir un budget » pour leurs achats.
 
-##### **SUIVI**
+##### SUIVI
 
 1. Disposez tous les articles avec leurs prix définitifs sur un tableau ou un mur.
 1. Demandez :
@@ -60,11 +80,11 @@
 1. À retenir : le prix découle de la valeur _et_ pénurie.
 1. Définissez ces termes et inscrivez-les au tableau.
 
-##### **FERMER**
+##### FERMER
 
 * Remettez les lots aux enchérisseurs gagnants et félicitez-les
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

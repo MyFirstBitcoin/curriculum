@@ -1,8 +1,32 @@
 # 2.2 Energy Economy
 
-#### **PROCEDURE**
+_Reflection, Sorting · Whole class, Individual · 35 min_
 
-##### **OPENING**
+Students explore how their energy changes throughout the day by plotting common activities on a shared class graph and a personal Energy Tracker. By visualizing energy highs and lows across time, learners build early self-awareness about effort, rest, and how energy is spent. This activity lays the foundation for later lessons on time preference, value, and intentional decision-making.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Recognize that energy levels change throughout the day
+* Identify activities that give or use energy
+* Visualize personal daily energy patterns
+* Begin reflecting on how time and energy are used
+
+#### Materials
+
+* Flashcards or image cards of daily activities (eating breakfast, brushing teeth, walking to school, homework, playing outside, watching TV, sleeping, etc.)
+* Individual Energy Tracker handouts (See Appendix B) (Appendix B)
+* Crayons, pencils, markers
+* Printed mini images for non-writers, Visual Aids (See Appendix A) (Appendix A, nice to have)
+* Large whiteboard or poster for class Energy Tracker graph
+* Whiteboard markers
+* Tape or magnets for flashcards
+* Projector or visual timer (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Prepare a large Energy Tracker graph on the board or poster:
 1. Horizontal axis: Time of Day (Sunrise → Sunset)
@@ -11,7 +35,7 @@
 1. Prepare individual handouts and writing materials.
 1. Ensure clear space for students to approach the board safely.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _3-5 minutes_
 
@@ -24,7 +48,7 @@ _3-5 minutes_
 
 * "See how my energy changes during the day and what uses or gives me energy."
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30 minutes_
 
@@ -42,7 +66,7 @@ _30 minutes_
 1. Ask: "When do you usually do this?" and "Does this give you energy or take energy?"
 1. Place the card on the graph using student input.
 
-##### **1. Group Graphing**
+##### 1. Group Graphing
 
 _15 minutes_
 
@@ -54,7 +78,7 @@ _15 minutes_
 1. Step back and review the completed graph.
 1. Ask: "What do you notice?" "When does energy seem highest?" "What happens later in the day?"
 
-##### **2. Individual Graphing**
+##### 2. Individual Graphing
 
 _10–15 minutes_
 
@@ -69,7 +93,7 @@ _2 minutes_
 1. Ask: "What time of day do you have the most energy?" "Which activity uses the most energy?" "What helps you feel more rested?" "How could you use your energy better?"
 1. For older students ask: "What happens if all your energy is used in the morning?" and "How can we save energy for things that matter?"
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _3 minutes_
 
@@ -78,7 +102,7 @@ Content review with students
 1. Review that energy changes during the day, activities affect energy differently, and people have different energy patterns.
 1. Connect forward by explaining that these patterns affect how we work, rest, play, and make choices.
 
-##### **CLOSE**
+##### CLOSE
 
 _5 minutes_
 
@@ -86,7 +110,7 @@ _5 minutes_
 1. Remove or clear the class graph if needed.
 1. Thank students for participating and reinforce the message that energy is limited and how we use it matters.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -102,3 +126,7 @@ _5 minutes_
 * Younger students: Optional partner support for younger students, drawing and image cards.
 * ELL/Accessibility: visuals, modeling, partner support.
 * Safety: supervise movement near the board.
+
+#### Additional resources
+
+* Appendix C: Activity Planner

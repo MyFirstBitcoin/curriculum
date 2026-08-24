@@ -1,15 +1,37 @@
 # 3.2 Vota con los pies
 
-#### **PROCEDIMIENTO**
+_Debate, Experiential · Whole class, Small groups · 20–25 min_
 
-##### **APERTURA**
+Los estudiantes se ubican físicamente en el aula para mostrar si prefieren tecnologías antiguas o nuevas. Al moverse, debatir y explicar sus elecciones, los estudiantes comparan herramientas analógicas y digitales, consideran ventajas y desventajas, y practican el desacuerdo respetuoso. La actividad refuerza el aprendizaje previo sobre la evolución tecnológica, a la vez que aumenta la participación mediante el movimiento.
+
+#### Objectives
+
+Al final de esta actividad, los estudiantes podrán:
+
+* Comparar tecnologías antiguas y nuevas y explicar sus preferencias
+* Identificar ventajas y desventajas de diferentes herramientas
+* Practicar cómo expresar opiniones y escuchar a los demás
+* Participar en una discusión cooperativa mediante el movimiento y el debate
+
+#### Materials
+
+* Hojas de trabajo completadas de emparejamiento Analógico vs. digital (Ver 3.1 - Evolución de la tecnología)
+* Etiquetas o letreros opcionales para ANTIGUO, CENTRO, NUEVO
+* Cuentas o estrellas opcionales como premios para el debate
+* Papel para póster y marcadores opcionales
+* Espacio despejado en el aula para moverse
+* Temporizador o campana para las transiciones (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Confirme que los estudiantes hayan completado la hoja de trabajo de emparejamiento Analógico vs. digital.
 1. Pida a los estudiantes que saquen y revisen brevemente sus emparejamientos.
 1. Explique el propósito de la actividad: “Ahora vamos a compartir nuestras opiniones sobre las tecnologías antiguas y nuevas.”
 1. Enfatice que no hay respuestas correctas o incorrectas.
 
-##### **ANTES DE LA ACTIVIDAD**
+##### ANTES DE LA ACTIVIDAD
 
 _3-5 minutos_
 
@@ -23,7 +45,7 @@ _3-5 minutos_
 
 *  “Mostrar qué tecnología prefiero y explicar por qué.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _10-15 minutos_
 
@@ -61,7 +83,7 @@ _10-15 minutos_
 * Pregunte qué par de tecnologías fue el más difícil de elegir.
 * Refuerce que distintas preferencias pueden seguir siendo válidas.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _3-5 minutos_
 
@@ -71,7 +93,7 @@ _3-5 minutos_
 
 Las extensiones opcionales incluyen debates breves, argumentos asignados o crear una gráfica de votación de la clase.
 
-##### **CIERRE**
+##### CIERRE
 
 _2 minutos_
 
@@ -80,7 +102,7 @@ _2 minutos_
 1. Agradezca a los estudiantes por su participación respetuosa.
 1. Mensaje final para los estudiantes: “Toda tecnología tiene su momento y su lugar, y lo que importa es cómo pensamos sobre nuestras herramientas y cómo las usamos.”
 
-#### **NOTAS**
+#### Notes
 
 * Use esta lección para fomentar el pensamiento crítico _sin juzgar_
 * Equilibre la diversión y la concentración: fomente la actividad física mientras mantiene el orden en el aula

@@ -1,14 +1,36 @@
 # 4.2 Wire Tap
 
-#### **PROCEDURE**
+_Simulation, Discussion, Experiential · Whole class, Small groups · 40–50 min_
 
-##### **OPENING**
+Students explore how information changes depending on who carries it and who is allowed to hear it. Through a series of short message-passing games with changing rules, learners experience trust, mistakes, and intentional interference firsthand. Reflection focuses on how messages can change, leak, or be protected, and who should decide who gets access to information.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Experience how information can change when passed between people
+* Recognize the difference between mistakes and intentional changes
+* Understand that not everyone should hear every message
+* Begin thinking critically about trust, privacy, and control of information
+
+#### Materials
+
+* Prepared short and long message cards (for teacher reference) (See Appendix A) (Appendix A, Example simple and complex messages)
+* Paper and pencil for running dictation variant
+* Simple symbol or substitution code sheet for optional locked message (See Appendix B) (Appendix B, Simple symbol code, nice to have)
+* Open classroom space for movement
+* Whiteboard or poster board for reflection notes
+* Timer (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Prepare simple and complex messages in advance.
 1. Decide team groupings of 6–8 students.
 1. Clear space so students can line up or move safely.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -21,7 +43,7 @@ _5 minutes_
 
 *  “See what happens to a message when different people carry it.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30-35 minutes_
 
@@ -88,7 +110,7 @@ _30-35 minutes_
 1. Ask who should decide.
 1. Allow students to name the problem in their own words.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _5-10 minutes_
 
@@ -96,7 +118,7 @@ _5-10 minutes_
 1. Reinforce that trust depends on rules and boundaries.
 1. Connect to earlier lessons on public versus private information.
 
-##### **CLOSE**
+##### CLOSE
 
 _5 minutes_
 
@@ -104,7 +126,7 @@ _5 minutes_
 1. Reset the classroom layout.
 1. Final message to students: Being careful with information helps protect people.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

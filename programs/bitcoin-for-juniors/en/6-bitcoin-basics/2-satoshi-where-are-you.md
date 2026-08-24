@@ -1,14 +1,40 @@
 # 6.2 Satoshi, Where Are You?
 
-#### **PROCEDURE**
+_Creative writing, Experiential, Role play · Small groups, Individual · 60 min_
 
-##### **OPENING**
+In this lesson, students construct a story using four independent ideas written on sticky notes. They begin by recalling the earlier story in which Satoshi disappeared and speculate about where he might have gone. Students then generate four ideas from guided prompts and organize them into a beginning, middle, and end structure. Through structured sharing and a sticky note swap, they revise their narratives to include new constraints. The lesson concludes with either a written or illustrated final draft, or a short dramatic role play using a class-generated story arc.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Sequence ideas into beginning, middle, and end
+* Construct a logical narrative from independent elements
+* Adapt a story when new constraints are introduced
+* Participate in structured peer storytelling
+* Collaborate in a short dramatic performance
+
+#### Materials
+
+* Sticky notes (4 per student)
+* Markers or pencils
+* Handout with three columns: Beginning / Middle / End (See Appendix A) (Appendix A, Three-column student handout template)
+* Whiteboard
+* Timer
+* Colored sticky notes, TImer (nice to have)
+* Whiteboard
+* Markers
+* Bell or signal for transitions (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 * Prepare whiteboard space for later three-column setup.
 * Ensure markers are accessible.
 * Confirm timing signals and group arrangements.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _8 minutes_
 
@@ -25,7 +51,7 @@ _8 minutes_
 
 *  “We are going to turn small ideas into a full story.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30 minutes_
 
@@ -59,7 +85,7 @@ Option 1Students write a final draft (older learners) or draw a three-panel vers
 
 Option 2Collect sticky notes and randomly build a class story arc on the board. In small groups, students create a 2-minute role play using all board elements. After performances, briefly identify the turning point and ending in each.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _2 minutes_
 
@@ -69,7 +95,7 @@ _2 minutes_
   * What makes a middle strong?
   * What changed from your first version to your final version?
 
-##### **CLOSE**
+##### CLOSE
 
 * Collect sticky notes and handouts.
 * Clear board and materials.
@@ -77,7 +103,7 @@ _2 minutes_
 * Reset classroom layout.
 * Store or submit student work appropriately.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

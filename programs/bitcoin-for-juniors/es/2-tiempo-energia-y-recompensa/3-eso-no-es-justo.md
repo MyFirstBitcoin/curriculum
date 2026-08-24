@@ -1,8 +1,34 @@
 # 2.3 ¡Eso no es justo!
 
-#### **PROCEDIMIENTO**
+_Game, Discussion, Experiential · Whole class, Small groups, Pairs, Individual · 60 min_
 
-##### **APERTURA**
+Los estudiantes exploran la idea de la justicia participando en una secuencia de juegos cortos que distribuyen recompensas de distintas maneras. A través de la experiencia directa, los estudiantes comparan sistemas injustos, sistemas aleatorios, sistemas basados en el esfuerzo y la Prueba de Trabajo. Las respuestas emocionales son bienvenidas y se utilizan para apoyar una reflexión estructurada. La actividad construye una comprensión fundamental de la justicia, la recompensa y la igualdad de oportunidades.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Experimentar e identificar sistemas injustos, aleatorios, basados en el esfuerzo y justos
+* Comprender que no todas las recompensas se ganan de la misma manera
+* Reconocer que la justicia requiere reglas iguales e igualdad de oportunidades
+* Desarrollar vocabulario y conciencia emocional en torno al esfuerzo, la recompensa y la justicia
+* Prepararse conceptualmente para la Prueba de Trabajo
+
+#### Materials
+
+* Cuentas o fichas pequeñas para representar recompensas (“Mi pila”)
+* Tarjetas didácticas o imágenes que muestren cualidades o atributos (color de cabello, ropa, cumpleaños, etc.)
+* Papel para dibujar y lápices
+* Dados
+* Baraja de cartas
+* Apoyo visual (ver Apéndice A), etiquetas para cada ronda (Injusto, Aleatorio, Trabajo, Prueba de Trabajo) (Appendix A, nice to have)
+* Temporizador o cronómetro
+* Mesa central o recipiente que actúe como el “banco”
+* Espacio abierto para juegos basados en el movimiento
+
+#### Procedure
+
+##### APERTURA
 
 1. Despeja un área de tamaño adecuado para los desafíos físicos.
 1. Prepara un “banco” central con todas las cuentas.
@@ -10,7 +36,7 @@
 1. Prepara etiquetas para cada ronda del juego.
 1. Coloca los materiales de modo que las transiciones entre rondas sean rápidas.
 
-##### **PRE-ACTIVIDAD**
+##### PRE-ACTIVIDAD
 
 _5 minutos_
 
@@ -24,7 +50,7 @@ _5 minutos_
 
 *  “Probar qué juegos son justos y cuáles no, y por qué.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _45 minutos_
 
@@ -40,7 +66,7 @@ _45 minutos_
 1. Demuestra cómo se ganan las cuentas y cómo se devuelven al banco.
 1. Modela reacciones respetuosas al ganar, perder y estar en desacuerdo.
 
-##### **Ronda 1: Injusta**
+##### Ronda 1: Injusta
 
 _10 minutos_
 
@@ -49,7 +75,7 @@ _10 minutos_
 1. Pregunta: “¿Fue justo?” “¿Todos tuvieron la misma oportunidad?” “¿Importó el esfuerzo?”
 1. Devuelve todas las cuentas al banco.
 
-##### **Ronda 2: Azar**
+##### Ronda 2: Azar
 
 _10 minutos_
 
@@ -58,7 +84,7 @@ _10 minutos_
 1. Pregunta: “¿Fue justo?” “¿El esfuerzo decidió quién ganó?”
 1. Si la clase acuerda que fue injusto, devuelve todas las cuentas al banco.
 
-##### **Ronda 3: Trabajo**
+##### Ronda 3: Trabajo
 
 _10 minutos_
 
@@ -67,7 +93,7 @@ _10 minutos_
 1. Pregunta: “¿Fue justo para todos?” “¿Todos pudieron participar por igual?”
 1. Devuelve las cuentas a menos que la clase acuerde que el sistema fue justo.
 
-##### **Ronda 4: Prueba de Trabajo**
+##### Ronda 4: Prueba de Trabajo
 
 _10 minutos_
 
@@ -79,12 +105,10 @@ _10 minutos_
 
 Opcional: asigna a un estudiante de forma rotativa para verificar los resultados antes de confirmar las recompensas.
 
-#### **Punto de control**
+#### Key points
 
 1. Haz una breve pausa después de cada ronda para recoger las opiniones de los estudiantes.
 1. Registra qué sistemas fueron rechazados y cuáles fueron aceptados como justos.
-
-#### **Reflexión**
 
 * Pregunta a los estudiantes cómo los hizo sentir cada juego.
 * Pregunta qué hizo que el juego final se sintiera diferente.
@@ -109,7 +133,7 @@ _5 minutos_
 1. Agradece a los estudiantes por participar con respeto.
 1. Mensaje final para los estudiantes: “Los sistemas justos dan a todos las mismas reglas y la misma oportunidad.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -127,3 +151,8 @@ _5 minutos_
 * Estudiantes más pequeños: menos dados o tiradas compartidas.
 * Aprendices del idioma/Accesibilidad: apoyos visuales, modelado, sistema de compañeros.
 * Seguridad: supervisa los desafíos físicos y permite alternativas.
+
+#### Additional resources
+
+* Appendix B: Ejemplos de juegos injustos
+* Appendix C: Ejemplos de juegos aleatorios

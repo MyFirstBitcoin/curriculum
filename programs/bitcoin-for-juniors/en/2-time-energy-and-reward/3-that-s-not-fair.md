@@ -1,8 +1,34 @@
 # 2.3 That's Not Fair!
 
-#### **PROCEDURE**
+_Game, Discussion, Experiential · Whole class, Small groups, Pairs, Individual · 60 min_
 
-##### **OPENING**
+Students explore the idea of fairness by participating in a sequence of short games that distribute rewards in different ways. Through direct experience, learners compare unfair systems, random systems, effort-based systems, and Proof of Work. Emotional responses are welcomed and used to support structured reflection. The activity builds a foundational understanding of fairness, reward, and equal opportunity.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Experience and identify unfair, random, effort-based, and fair systems
+* Understand that not all rewards are earned equally
+* Recognize that fairness requires equal rules and equal opportunity
+* Build vocabulary and emotional awareness around effort, reward, and fairness
+* Prepare conceptually for Proof of Work
+
+#### Materials
+
+* Beads or small tokens to represent rewards (“My Stack”)
+* Flashcards or images showing qualities or attributes (hair colour, clothing, birthdays, etc.)
+* Drawing paper and pencils
+* Dice
+* Deck of playing cards
+* Visual support (See Appendix A), Labels for each round (Unfair, Random, Work, Proof of Work) (Appendix A, Visual Aid, nice to have)
+* Timer or stopwatch
+* Central table or container to act as the “bank”
+* Open space for movement-based games
+
+#### Procedure
+
+##### OPENING
 
 1. Clear a suitably sized area for physical challenges.
 1. Prepare a central “bank” with all beads.
@@ -10,7 +36,7 @@
 1. Prepare labels for each game round.
 1. Lay out materials so transitions between rounds are quick.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -24,7 +50,7 @@ _5 minutes_
 
 *  “Test out which games are fair and which ones aren’t, and why.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _45 minutes_
 
@@ -40,7 +66,7 @@ _45 minutes_
 1. Demonstrate how beads are earned and returned to the bank.
 1. Model respectful reactions to winning, losing, and disagreement.
 
-##### **Round 1: Unfair**
+##### Round 1: Unfair
 
 _10 minutes_
 
@@ -49,7 +75,7 @@ _10 minutes_
 1. Ask: “Was that fair?” “Did everyone have the same chance?” “Did effort matter?”
 1. Return all beads to the bank.
 
-##### **Round 2: Random**
+##### Round 2: Random
 
 _10 minutes_
 
@@ -58,7 +84,7 @@ _10 minutes_
 1. Ask: “Was this fair?” “Did effort decide the winner?”
 1. If the class agrees it was unfair, return all beads to the bank.
 
-##### **Round 3: Work**
+##### Round 3: Work
 
 _10 minutes_
 
@@ -67,7 +93,7 @@ _10 minutes_
 1. Ask: “Was this fair for everyone?” “Could everyone participate equally?”
 1. Return beads unless the class agrees the system was fair.
 
-##### **Round 4: Proof of Work**
+##### Round 4: Proof of Work
 
 _10 minutes_
 
@@ -79,12 +105,10 @@ _10 minutes_
 
 Optional: assign a rotating student to verify results before rewards are confirmed.
 
-#### **Checkpoint**
+#### Key points
 
 1. Pause briefly after each round to collect student judgments.
 1. Record which systems were rejected and which were accepted as fair.
-
-#### **Reflection**
 
 * Ask students how each game made them feel.
 * Ask what made the final game feel different.
@@ -109,7 +133,7 @@ _5 minutes_
 1. Thank students for engaging respectfully.
 1. Final message to students: “Fair systems give everyone the same rules and the same chance.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -127,3 +151,8 @@ _5 minutes_
 * Younger students: fewer dice or shared rolls.
 * ELL/Accessibility: visual cues, modeling, buddy system.
 * Safety: supervise physical challenges and allow alternatives.
+
+#### Additional resources
+
+* Appendix B: Example unfair games
+* Appendix C: Examples of Random Games

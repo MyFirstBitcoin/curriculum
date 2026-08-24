@@ -1,14 +1,36 @@
 # 4.1 Guardianes de acceso
 
-#### **PROCEDIMIENTO**
+_Discussion, Sorting, Reflection · Whole class, Pairs, Individual · 30 min_
 
-##### **APERTURA**
+Los estudiantes exploran la diferencia entre espacios e información públicos y privados mediante una discusión guiada y ejemplos visuales. Usando situaciones cotidianas conocidas, los estudiantes practican clasificar lo que normalmente es público o privado y reflexionan sobre la idea de que las personas pueden elegir qué información mantienen en privado o comparten. La actividad desarrolla una conciencia inicial sobre la privacidad, los límites y la responsabilidad personal.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Distinguir entre espacios e información públicos y privados
+* Explicar por qué algunas cosas deben mantenerse en privado
+* Reconocer que las personas pueden elegir qué comparten
+* Practicar el diálogo respetuoso y la toma de decisiones personales
+
+#### Materials
+
+* Ayudas visuales o tarjetas didácticas que muestren ejemplos de lugares e información (ver Apéndice A) (Appendix A, Apoyo visual)
+* Hoja de trabajo para estudiantes con casillas para Público / Privado (ver Apéndice B) (Appendix B, Hoja de trabajo: público vs. privado)
+* Lápices o crayones
+* Pizarra blanca o cartulina
+* Marcadores
+* Proyector o pantalla para imágenes (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Prepara apoyos visuales o diapositivas que muestren ejemplos como un parque, autobús, baño, auto, color de ojos, contraseña, NIP bancario.
 1. Prepara el pizarrón con dos encabezados: PÚBLICO y PRIVADO.
 1. Coloca las hojas de trabajo y los materiales de escritura donde se puedan distribuir fácilmente.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -20,7 +42,7 @@ _5 minutos_
 
 *  “Evaluar qué cosas son públicas, qué cosas son privadas y qué quiero compartir.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _20 minutos_
 
@@ -55,7 +77,7 @@ _20 minutos_
 * Pregunta: “¿Algo puede ser privado incluso si otras personas pueden verlo?”
 * Guía a los estudiantes hacia la idea de que las personas eligen qué información comparten.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _5 minutos_
 
@@ -63,13 +85,13 @@ _5 minutos_
 1. Los estudiantes deciden para cada elemento si lo mantendrían público o privado.
 1. Enfatiza que las respuestas pueden ser diferentes para distintas personas.
 
-##### **CIERRE**
+##### CIERRE
 
 1. Recoge las hojas de trabajo y los materiales.
 1. Resume la idea clave: “Tú decides qué información compartes.”
 1. Mensaje final para los estudiantes: “Ser inteligente con la privacidad ayuda a mantenerte seguro.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 

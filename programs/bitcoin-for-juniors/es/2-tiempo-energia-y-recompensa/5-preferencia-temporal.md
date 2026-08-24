@@ -1,14 +1,37 @@
 # 2.5 Preferencia temporal
 
-#### **PROCEDIMIENTO**
+_Story time, Discussion, Sorting · Whole class · 20 min_
 
-##### **APERTURA**
+Los estudiantes exploran el concepto de preferencia temporal a través de un cuento conocido, Los tres cerditos. Al escuchar el cuento, discutir las decisiones de los personajes y comparar materiales de construcción, los estudiantes reflexionan sobre la conveniencia a corto plazo frente a la fortaleza a largo plazo. La actividad ayuda a los niños a comprender que el esfuerzo y la paciencia pueden llevar a mejores resultados más adelante.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Reconocer que las decisiones tomadas rápidamente pueden tener consecuencias más adelante
+* Comprender que el esfuerzo y la paciencia pueden llevar a mejores resultados
+* Empezar a comprender la idea de la preferencia temporal en términos sencillos
+* Practicar la comparación de opciones y la explicación de su razonamiento
+
+#### Materials
+
+* Libro de cuentos o versión visual impresa de Los tres cerditos
+* Ayudas visuales que muestren casas hechas de paja, palitos y ladrillos (ver Apéndice A) (Appendix A)
+* Crayones o marcadores
+* Títeres o recortes de personajes (nice to have)
+* Pizarra blanca o cartulina para las notas de la discusión grupal
+* Marcadores
+* Proyector o pantalla para mostrar imágenes (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Prepara el libro de cuentos y los apoyos visuales para que sean fáciles de mostrar mientras lees.
 1. Prepara el pizarrón o el espacio para carteles para escribir las ideas de los estudiantes.
 1. Coloca las hojas de trabajo y los crayones donde puedan repartirse rápidamente.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _3 minutos_
 
@@ -20,7 +43,7 @@ _3 minutos_
 
 *  «Escuchar el cuento y decidir qué decisiones fueron inteligentes y por qué».
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _15 minutos_
 
@@ -61,7 +84,7 @@ _15 minutos_
 * Escuche si hay razonamientos que conecten el esfuerzo con el resultado.
 * Pregunte: “¿Puedes pensar en algún momento en que esperar te haya ayudado?”
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _3-5 minutos_
 
@@ -69,7 +92,7 @@ _3-5 minutos_
 * Aplique la preferencia temporal a decisiones cotidianas, como guardar golosinas o terminar el trabajo antes de jugar.
 * Refuerce que la paciencia y el esfuerzo pueden llevar a mejores resultados.
 
-##### **CIERRE**
+##### CIERRE
 
 _2 minutos_
 
@@ -78,9 +101,7 @@ _2 minutos_
 1. Agradezca a los estudiantes por participar.
 1. Mensaje final: “Trabajar más duro ahora puede hacer que la vida sea más segura y fácil más adelante.”
 
-#### **NOTAS**
-
-
+#### Notes
 
 Si los docentes lo prefieren, se pueden seleccionar otros cuentos para la lectura. El enfoque de esta actividad es hablar sobre la importancia de cómo la preferencia temporal puede afectar los resultados.
 
@@ -101,7 +122,7 @@ Si los docentes lo prefieren, se pueden seleccionar otros cuentos para la lectur
 * Estudiantes de inglés/Accesibilidad: repetición, imágenes, lenguaje simplificado
 * Seguridad: actividad sentada, movimiento mínimo
 
-#### **REFERENCIAS**
+#### Additional resources
 
-* _Los tres cerditos_ (cuento tradicional)
-  * [https://en.wikipedia.org/wiki/The_Three_Little_Pigs](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* [Los tres cerditos (cuento tradicional)](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* Appendix B: Tabla comparativa de casas

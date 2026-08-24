@@ -1,14 +1,37 @@
 # 2.5 Time Preference
 
-#### **PROCEDURE**
+_Story time, Discussion, Sorting · Whole class · 20 min_
 
-##### **OPENING**
+Students explore the concept of time preference through a familiar story, The Three Little Pigs. By listening to the story, discussing character choices, and comparing building materials, learners reflect on short-term convenience versus long-term strength. The activity helps children understand that effort and patience can lead to better outcomes later.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Recognize that choices made quickly can have consequences later
+* Understand that effort and patience can lead to stronger outcomes
+* Begin to grasp the idea of time preference in simple terms
+* Practice comparing options and explaining their reasoning
+
+#### Materials
+
+* Storybook or printed visual version of The Three Little Pigs
+* Visual aids showing houses made of straw, sticks, and bricks (See Appendix A) (Appendix A)
+* Crayons or markers
+* Puppets or character cut-outs (nice to have)
+* Whiteboard or poster board for group discussion notes
+* Markers
+* Projector or screen for displaying images (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Prepare the storybook and visual aids so they are easy to show while reading.
 1. Set up the board or poster space for writing student ideas.
 1. Place handouts and crayons where they can be distributed quickly.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _3 minutes_
 
@@ -20,7 +43,7 @@ _3 minutes_
 
 *  “Listen to the story and decide which choices were smart and why.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _15 minutes_
 
@@ -61,7 +84,7 @@ _15 minutes_
 * Listen for reasoning that connects effort to outcome.
 * Ask: “Can you think of a time when waiting helped you?”
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _3-5 minutes_
 
@@ -69,7 +92,7 @@ _3-5 minutes_
 * Apply time preference to everyday decisions such as saving treats or finishing work before playing.
 * Reinforce that patience and effort can lead to better results.
 
-##### **CLOSE**
+##### CLOSE
 
 _2 minutes_
 
@@ -78,9 +101,7 @@ _2 minutes_
 1. Thank students for participating.
 1. Final message: “Working harder now can make life safer and easier later.”
 
-#### **NOTES**
-
-
+#### Notes
 
 If teachers prefer, other stories can be selected for reading. The focus of this activity is to discuss the importance of how time preference can affect outcomes.
 
@@ -101,7 +122,7 @@ If teachers prefer, other stories can be selected for reading. The focus of this
 * ELL/Accessibility: repetition, images, simplified language
 * Safety: seated activity, minimal movement
 
-#### **REFERENCES**
+#### Additional resources
 
-* _The Three Little Pigs_ (traditional folktale)
-  * [https://en.wikipedia.org/wiki/The_Three_Little_Pigs](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* [The Three Little Pigs (traditional folktale)](https://en.wikipedia.org/wiki/The_Three_Little_Pigs)
+* Appendix B: House comparison chart

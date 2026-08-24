@@ -1,8 +1,30 @@
 # 1.3 Vale la pena
 
-#### **PROCEDIMIENTO**
+_Sorting, Discussion · Whole class, Individual · 45 min_
 
-##### **APERTURA**
+Los estudiantes exploran el significado del precio recortando artículos cotidianos y colocándolos en una línea de precios compartida, de barato a caro. Mediante la comparación, la discusión y la orientación del docente, los estudiantes desarrollan una comprensión concreta de que el precio es la cantidad de dinero que cuesta algo y de que los precios pueden variar mucho entre distintos artículos.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Entender que el precio significa cuánto cuesta algo en dinero
+* Reconocer la diferencia entre artículos baratos y caros
+* Comparar precios entre diferentes tipos de bienes
+* Participar en discusiones grupales y justificar sus ideas
+
+#### Materials
+
+* Catálogos antiguos, revistas u hojas de productos impresas
+* Barras de pegamento o cinta adhesiva
+* Marcadores
+* Notas adhesivas o calcomanías para votar (nice to have)
+* Tijeras seguras para niños
+* Proyector, apoyos visuales (ver Apéndice A) (Appendix A, Apoyo visual, nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 _10 minutos_
 
@@ -10,9 +32,7 @@ _10 minutos_
 1. Asegúrese de que todo el contenido del catálogo sea apropiado para la edad.
 1. Si es posible, intente ocultar el precio de venta de los artículos usando un marcador.
 
-
-
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -25,7 +45,7 @@ _5 minutos_
 
 *  “Aprender cuánto cuestan las cosas y distinguir entre barato y caro.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _25 minutos_
 
@@ -62,7 +82,7 @@ _25 minutos_
   * Los artículos pequeños pueden ser caros
   * Los artículos grandes a veces pueden ser baratos
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _2 minutos_
 
@@ -74,14 +94,14 @@ Resuma:
 * Los precios son distintos para cosas diferentes
 * Podemos no estar de acuerdo, pero el dinero nos ayuda a decidir
 
-##### **CIERRE**
+##### CIERRE
 
 1. Felicite a los estudiantes por su participación.
 1. Dedique un momento a agradecer por los objetos en su vida.
 1. Pida a los estudiantes que devuelvan todos los materiales y el equipo.
 1. El proyecto puede exhibirse o guardarse, y los estudiantes pueden agregarle más cosas después.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -101,3 +121,7 @@ Resuma:
 * **Estudiantes más jóvenes:** artículos precortados
 * **Estudiantes aprendiendo inglés/Accesibilidad:** permitir señalar en lugar de hablar
 * **Seguridad:** supervisar el uso de tijeras
+
+#### Additional resources
+
+* Appendix B: Visual de precio alto / precio bajo

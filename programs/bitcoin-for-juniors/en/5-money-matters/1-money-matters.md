@@ -1,12 +1,40 @@
 # 5.1 Money Matters
 
-#### **PROCEDURE**
+_Simulation, Role play, Experiential · Individual · 90 min_
 
-##### **OPENING**
+Money Matters is a classroom economy simulation where each learner operates from a personal Home base. Each student begins with an individual HOME tile displaying their name, challenge card, and financial objective. Learners move through a shared economic system using dice-based movement rules to earn, save, invest, borrow, and trade. The economy is introduced progressively before opening into autonomous role-play, where learners pursue individual goals under shared rules, time constraints, and access limits. Optional extensions allow the system to scale into a richer economy with businesses, infrastructure costs, and education.
 
+#### Objectives
 
+By the end of this activity, learners will:
 
-##### **PRE-ACTIVITY**
+* Identify different ways people earn money
+* Explain saving, investing, borrowing, and trade
+* Understand how rules, chance, and access affect outcomes
+* Track progress toward a visible financial objective
+* Reflect on effort, risk, fairness, and decision-making
+
+#### Materials
+
+* Individual HOME tiles (paper or card stock, one per student)
+* Sticky tack
+* Pens or markers
+* Gold coin tokens
+* Dice
+* Calculators
+* Playing cards (52-card deck)
+* Challenge index cards
+* Grain and flour tokens/cards
+* Bank rate card
+* Timer or visible clock (nice to have)
+* Tables or desks arranged as stations
+* Clear classroom space for movement
+
+#### Procedure
+
+##### OPENING
+
+##### PRE-ACTIVITY
 
 _45 minutes_
 
@@ -51,7 +79,7 @@ Objective In Student’s Words
 
 *  “I start at home and work toward my money goal.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30 minutes_
 
@@ -83,7 +111,7 @@ Teacher demonstrates:
 
 * Learners consider how often they returned Home, which stations they used most, and how movement rules affected their choices.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _15 minutes_
 
@@ -94,16 +122,14 @@ Whole-class discussion:
 * How did saving, investing, or borrowing feel different?
 * How did access and chance affect outcomes?
 
-##### **CLOSE**
+##### CLOSE
 
 * Did having a visible goal change how you played?
 * Did luck or planning matter more?
 * What would you do differently next time?
 * Are there any modifications to the economy you would like to see?
 
-#### **NOTES**
-
-
+#### Notes
 
 Due to the complexity of this activity, this game can be spread across two sections Part 1 & Part 2. Also, once the rules have been understood, this game can be repeated over and over as many times as students are interested.
 
@@ -129,3 +155,9 @@ Add new business stations such as Bakery, Mill, or Workshop. Businesses buy inpu
 * Younger students: Smaller target amounts, Optional rerolls, Fewer active stations
 * ELL/Accessibility: Visual icons on stations and HOME tiles, Peer support for reading challenges
 * Safety: Walking only between stations, Clear movement paths maintained
+
+#### Additional resources
+
+* Appendix A: Student Card
+* Appendix B: Challenge Cards (Legend)
+* Appendix C: Movement Rules Table

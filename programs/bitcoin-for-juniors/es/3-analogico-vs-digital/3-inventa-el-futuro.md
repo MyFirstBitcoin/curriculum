@@ -1,14 +1,35 @@
 # 3.3 Inventa el futuro
 
-#### **PROCEDIMIENTO**
+_Craft, Presentation, Discussion · Small groups, Individual · 45–60 min_
 
-##### **APERTURA**
+Los estudiantes imaginan el futuro de la tecnología inventando un nuevo producto o sistema y presentándolo en un formato tipo “Dragons’ Den”. Los estudiantes reflexionan sobre cómo evoluciona la tecnología, identifican problemas reales por resolver y practican cómo explicar ideas con claridad. La actividad fomenta la creatividad, el pensamiento crítico y la comunicación, a la vez que refuerza la idea de que la innovación responde a necesidades a lo largo del tiempo.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Predecir cómo podría evolucionar la tecnología en el futuro
+* Diseñar un invento sencillo para resolver un problema
+* Explicar cómo y por qué funciona su invento
+* Practicar la presentación y defensa de una idea.
+
+#### Materials
+
+* Papel en blanco para bocetos y notas
+* Lápices, crayones o marcadores
+* Plantilla de presentación (ver Apéndice A) (Appendix A, nice to have)
+* Pizarrón o espacio para carteles
+* Temporizador para las presentaciones (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Organiza los asientos para que los equipos puedan trabajar juntos y luego presentar al frente.
 1. Prepara espacio en el pizarrón para enumerar ejemplos de tecnologías del pasado, del presente y emergentes.
 1. Decide cómo se cronometrarán y evaluarán las presentaciones.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5-10 minutos_
 
@@ -21,7 +42,7 @@ _5-10 minutos_
 
 *  “Inventa una nueva tecnología y convence a otros de que es una buena idea.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30-40 minutos_
 
@@ -55,7 +76,7 @@ _30-40 minutos_
 * Pregunta qué problemas parecieron más importantes de resolver.
 * Pregunta qué hizo que una presentación fuera convincente.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _5-10 minutos_
 
@@ -63,14 +84,14 @@ _5-10 minutos_
 1. Comenta cómo las predicciones pueden ser correctas o incorrectas con el tiempo.
 1. Conecta con la innovación del mundo real y cómo las ideas mejoran mediante la retroalimentación.
 
-##### **CIERRE**
+##### CIERRE
 
 1. Recoge los bocetos y materiales.
 1. Restablece el orden del salón de clases.
 1. Agradece a los estudiantes por su creatividad y esfuerzo.
 1. Mensaje final: “Todo invento comienza como una idea que alguien tuvo la valentía de compartir.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del salón de clases**
 

@@ -1,14 +1,38 @@
 # 2.1 Trabajo, descanso y juego
 
-#### **PROCEDIMIENTO**
+_Experiential, Reflection · Whole class, Pairs, Individual · 45 min_
 
-##### **APERTURA**
+Los estudiantes exploran cómo las actividades cotidianas pueden agruparse en trabajo, descanso y juego. Mediante una actividad de clasificación compartida y un mapeo individual de rutinas, los estudiantes reflexionan sobre cómo usan su tiempo a lo largo del día. La actividad desarrolla una conciencia inicial sobre el equilibrio, la energía y el uso intencional del tiempo.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Identificar y clasificar actividades como trabajo, descanso o juego
+* Reflexionar sobre cómo se distribuye su tiempo en la vida diaria
+* Reconocer la importancia del equilibrio entre trabajo, descanso y juego
+* Comenzar a relacionar el uso del tiempo con la energía y el bienestar
+
+#### Materials
+
+* Tarjetas didácticas con actividades diarias comunes (por ejemplo, cepillarse los dientes, hacer la tarea, fútbol, videojuegos, dormir, cocinar, leer)
+* Hojas de rutina en blanco:
+* Lápices, crayones, marcadores
+* Tarjetas en blanco adicionales para actividades creadas por los estudiantes, ayudas visuales (ver Apéndice A) (Appendix A, Apoyo visual, nice to have)
+* Cartel grande o espacio en el pizarrón dividido en TRABAJO – DESCANSO – JUEGO (ver Apéndice B) (Appendix B, Diagrama de Venn)
+* Pizarrón blanco o espacio en la pared
+* Cinta adhesiva o imanes para pegar las tarjetas
+* Temporizador o reloj visual (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 _3 minutos_
 
 1.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5-10 minutos_
 
@@ -29,7 +53,7 @@ _5-10 minutos_
 
 * "Explorar lo que hago para trabajar, descansar y jugar, y ver si tengo un buen equilibrio."
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30 minutos_
 
@@ -97,7 +121,7 @@ Discusión más profunda opcional:
 * "¿Qué pasa si hay demasiado trabajo?"
 * "¿Qué pasa si no hay descanso ni juego?"
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _5 minutos_
 
@@ -113,14 +137,14 @@ _5 minutos_
 
 1. Extensión opcional para casa: Los estudiantes preguntan a un padre, madre o cuidador cómo eran el trabajo, el descanso y el juego cuando tenían la misma edad.
 
-##### **CIERRE**
+##### CIERRE
 
 1. Recoger las tarjetas didácticas y los materiales impresos
 1. Quitar o borrar el póster si es necesario
 1. Agradecer a los estudiantes por participar
 1. Mensaje final de cierre para los estudiantes: "La rutina de cada persona es diferente, pero el equilibrio importa."
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 

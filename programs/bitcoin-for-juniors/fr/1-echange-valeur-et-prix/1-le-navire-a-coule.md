@@ -1,8 +1,30 @@
 # 1.1 Le navire a coulé
 
-#### **PROCÉDURE**
+_Simulation, Role play, Game · Whole class · 60 min_
 
-##### **OUVERTURE**
+Au cours de cette simulation de 60 minutes menée avec toute la classe, les élèves incarnent des naufragés qui doivent se procurer les ressources indispensables pour « survivre » une semaine sur une île déserte. À l’aide de cartes à jouer représentant des outils et des provisions, les élèves commencent par pratiquer le troc pur et simple, s’exerçant ainsi à la négociation tout en se heurtant à des obstacles commerciaux courants tels que l’excédent, la rareté et la coïncidence des besoins. Une « chasse aux coquillages » chronométrée introduit ensuite la monnaie-marchandise, les élèves collectant des jetons pouvant servir à simplifier les échanges. Une fois les coquillages mis en circulation, la classe entre dans un marché guidé où les élèves fixent les prix, réagissent à l’offre et à la demande, et découvrent le mécanisme de formation des prix. L’activité culmine par l’établissement d’un budget et une vente aux enchères structurée ou une séance d’échanges pour les objets figurant sur la liste de souhaits des « trésors », ce qui permet de faire le lien avec la raison d’être de l’argent.
+
+#### Objectives
+
+* Les élèves découvrent le troc, la « coïncidence des besoins », la rareté, l'offre et la demande, la formation des prix, l'établissement d'un budget et les enchères.
+* Le pont vers la monnaie : la monnaie-marchandise (les coquillages) et pourquoi la monnaie facilite les échanges.
+
+#### Materials
+
+* Cartes à jouer
+* « Coquillages » (jetons physiques : cercles en papier, boutons, coquillages décoratifs)
+* Coffre au trésor (petite boîte/enveloppe)
+* Carte cadeau (carte cadeau de 100 $ périmée ou contrefaite)
+* Fiches vierges (ou bouts de papier)
+* Supports visuels (voir annexes A et B), carte au trésor, autocollants de récompense (nice to have)
+* Minuterie / chronomètre du téléphone
+* Tableau blanc ou écran
+* Feuilleur
+* Tableau blanc/marqueurs, projecteur, sonnerie/signal pour indiquer l'heure, musique (facultatif pour la chasse au trésor) (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 3 minutes
 
@@ -14,7 +36,7 @@
 
 * Échangez des objets pour survivre une semaine sur une île déserte.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 5 minutes
 
@@ -237,18 +259,18 @@ Les objets de la liste de souhaits peuvent être distribués au hasard aux élè
 * Demandez aux élèves d'utiliser la méthode « Réfléchir - Travailler en binôme - Partager » pour identifier les idées clés.
 * En classe, élaborez un plan pour vous échapper de l'île et retrouver un lieu sûr.
 
-##### **SUIVI**
+##### SUIVI
 
 * Écriture ou dessin rapide : « Une chose que j’ai apprise à propos de… » **commerce** ou **argent**.”
 * Visite guidée d'une galerie présentant les étiquettes de prix et les résultats des ventes aux enchères ; discussion sur l'équité et les marchés.
 * Défi facultatif (pour les plus grands) : Créez une nouvelle monnaie pour l'île (règles, plafond d'approvisionnement, mesures anti-tricherie).
 
-##### **FERMER**
+##### FERMER
 
 * Rassemblez tout le matériel nécessaire
 * Vérifiez que toutes les cartes ont bien été rendues afin de garantir une répartition équitable entre toutes les couleurs pour une prochaine activité.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -268,3 +290,8 @@ Les objets de la liste de souhaits peuvent être distribués au hasard aux élè
 * Les plus jeunes élèves gèrent moins de catégories (uniquement « Nourriture/Eau ») ; les plus âgés gèrent des besoins plus complexes et une tarification dynamique.
 * ELL/Accessibilité : Fournir des cartes illustrées ; proposer des structures de phrases pour formuler des propositions ; désigner des binômes parmi les élèves.
 * Sécurité : les déplacements se font uniquement à pied ; limites clairement définies ; tours chronométrés.
+
+#### Additional resources
+
+* Appendix A: Supports visuels pour les récits
+* Appendix B: Tableau des échanges

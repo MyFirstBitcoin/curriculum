@@ -1,8 +1,30 @@
 # 1.4 What is value?
 
-#### **PROCEDURE**
+_Discussion, Craft · Whole class, Individual · 45 min_
 
-##### **OPENING**
+Students explore the concept of value by identifying everyday items from their own lives and positioning them on a shared visual chart. Through guided discussion and a collaborative wall-based activity, learners compare personal value with price and reflect on how value can change depending on perspective. The activity builds foundational understanding of value, price, and scarcity through discussion, movement, and visual thinking.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Understand that _value_ is based on personal and social needs.
+* Recognize the relationship between _price_ and _value_.
+* See that value is not fixed but changes depending on perspective.
+* Practice collaboration through shared discussion and group art.
+
+#### Materials
+
+* Sticky notes or index cards
+* Markers, pens or pencils
+* Tape or sticky putty
+* Low-tack tape (masking tape, washi tape, painters tape etc)
+* A selection objects from home (nice to have)
+* Whiteboard & markers (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 _10 minutes_
 
@@ -12,7 +34,7 @@ _10 minutes_
 
 **Note:** Using a whiteboard at the front of the class can be suitable for the activity. However, for maximum impact, it is best to carry out this activity in a separate location in the classroom so the art project can be displayed for a longer period of time.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -29,7 +51,7 @@ _5 minutes_
 * “Learn what things are valuable to us and why not everyone agrees.”
 * “Talk about why expensive things aren’t always valuable, and cheap things can still matter.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30-40 minutes_
 
@@ -76,7 +98,7 @@ _30-40 minutes_
   * Price is a number
   * Value is a judgment
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 * Review:
   * Price and value are not the same
@@ -93,7 +115,7 @@ _30-40 minutes_
 1. Ask students to return all materials and equipment.
 1. The project can be displayed or stored and can be added to later by the students.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -112,3 +134,8 @@ _30-40 minutes_
 * **Younger students**: pre-printed item cards
 * **ELL/Accessibility**: drawing instead of writing
 * **Safety**: supervise movement near walls
+
+#### Additional resources
+
+* Appendix A: Visual Aid
+* Appendix B: High Price/Low Price Visual

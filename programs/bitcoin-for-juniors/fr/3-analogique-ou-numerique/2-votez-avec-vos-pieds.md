@@ -1,15 +1,37 @@
 # 3.2 Votez avec vos pieds
 
-#### **PROCÉDURE**
+_Debate, Experiential · Whole class, Small groups · 20–25 min_
 
-##### **OUVERTURE**
+Les élèves se placent physiquement dans la salle de classe pour montrer s'ils préfèrent les technologies anciennes ou les plus récentes. En se déplaçant, en débattant et en expliquant leurs choix, les élèves comparent les outils analogiques et numériques, réfléchissent aux compromis à faire et s'entraînent à exprimer leur désaccord de manière respectueuse. Cette activité renforce les acquis antérieurs sur l'évolution technologique tout en renforçant l'implication des élèves grâce au mouvement.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Comparer les anciennes et les nouvelles technologies et expliquer vos préférences
+* Identifier les avantages et les inconvénients des différents outils
+* Entraînez-vous à exprimer vos opinions et à écouter les autres
+* Participer à une discussion collaborative à travers des activités physiques et des débats
+
+#### Materials
+
+* Fiches d'exercices « Analogique vs Numérique » remplies (voir 3.1 - Évolution de la technologie)
+* Étiquettes ou panneaux facultatifs pour « OLD », « CENTER » et « NEW »
+* Perles ou étoiles (facultatives) pour récompenser les participants au débat
+* Papier pour affiches et feutres (facultatif)
+* Libérer de l'espace dans la salle de classe pour pouvoir bouger
+* Minuteur ou sonnerie pour les transitions (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Vérifiez que les élèves ont bien rempli la fiche d'exercices « Analogique ou numérique ? ».
 1. Demandez aux élèves de ressortir leurs paires et de les passer brièvement en revue.
 1. Expliquez l'objectif de l'activité : « Nous allons maintenant échanger nos points de vue sur les anciennes et les nouvelles technologies. »
 1. Insistez sur le fait qu'il n'y a ni bonnes ni mauvaises réponses.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _3 à 5 minutes_
 
@@ -23,7 +45,7 @@ _3 à 5 minutes_
 
 *  « Indiquez quelle technologie je préfère et expliquez pourquoi. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _10 à 15 minutes_
 
@@ -61,7 +83,7 @@ _10 à 15 minutes_
 * Demandez quelle combinaison de technologies a été la plus difficile à choisir.
 * Insistez sur le fait que des préférences différentes peuvent tout de même être valables.
 
-##### **SUIVI**
+##### SUIVI
 
 _3 à 5 minutes_
 
@@ -71,7 +93,7 @@ _3 à 5 minutes_
 
 Parmi les extensions possibles, on peut citer de brefs débats, des arguments à défendre ou la création d'un tableau de vote pour la classe.
 
-##### **FERMER**
+##### FERMER
 
 _2 minutes_
 
@@ -80,7 +102,7 @@ _2 minutes_
 1. Remerciez les élèves pour leur participation respectueuse.
 1. Message final aux élèves : « Chaque technologie a son moment et son lieu de prédilection, et ce qui compte, c’est la manière dont nous concevons et utilisons nos outils. »
 
-#### **NOTES**
+#### Notes
 
 * Utilisez cette leçon pour développer l'esprit critique _sans porter de jugement_
 * Trouver le juste équilibre entre plaisir et concentration : encourager l'activité physique tout en préservant l'ordre dans la classe

@@ -1,14 +1,38 @@
 # 2.1 Work, Rest & Play
 
-#### **PROCEDURE**
+_Experiential, Reflection · Whole class, Pairs, Individual · 45 min_
 
-##### **OPENING**
+Students explore how everyday activities can be grouped into work, rest, and play. Through a shared classification activity and individual routine mapping, learners reflect on how they use their time across a day. The activity builds early awareness of balance, energy, and intentional time use.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Identify and classify activities as work, rest, or play
+* Reflect on how their time is distributed across daily life
+* Recognize the importance of balance between work, rest, and play
+* Begin connecting time use to energy and well-being
+
+#### Materials
+
+* Flashcards with common daily activities (e.g. brushing teeth, homework, soccer, video games, sleeping, cooking, reading)
+* Blank routine handouts:
+* Pencils, crayons, markers
+* Extra blank cards for student-created activities, Visual Aids (See Appendix A) (Appendix A, nice to have)
+* Large poster or board space divided into WORK – REST – PLAY (See Appendix B) (Appendix B, Venn Diagram)
+* Whiteboard or wall space
+* Tape or magnets for attaching cards
+* Timer or visual clock (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 _3 minutes_
 
 1.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5-10 minutes_
 
@@ -29,7 +53,7 @@ _5-10 minutes_
 
 * "Explore out what I do for work, rest, and play, and see if I have a good balance."
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30 minutes_
 
@@ -97,7 +121,7 @@ Optional deeper discussion:
 * "What happens if there is too much work?"
 * "What happens if there is no rest or play?"
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _5 minutes_
 
@@ -113,14 +137,14 @@ _5 minutes_
 
 1. Optional home extension: Students ask a parent or caregiver what work, rest, and play looked like when they were the same age.
 
-##### **CLOSE**
+##### CLOSE
 
 1. Collect flashcards and handouts
 1. Remove or clear the poster if needed
 1. Thank students for participating
 1. Final wrap-up message to students: "Everyone's routine looks different, but balance matters."
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

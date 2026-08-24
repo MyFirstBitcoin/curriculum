@@ -1,14 +1,40 @@
 # 6.3 ¡Es mío!
 
-#### **PROCEDIMIENTO**
+_Simulation, Game · Whole class, Small groups · 45 min_
 
-##### **APERTURA**
+En esta actividad, los estudiantes simulan la minería de Bitcoin usando cartas de juego como hashes y palabras de vocabulario como transacciones. Los equipos voltean cartas para encontrar pares coincidentes. Cuando encuentran dos cartas idénticas, dicen “Es mío”. Un par válido les da acceso a la mempool, donde recogen una palabra de vocabulario de Bitcoin. Las palabras se agrupan en bloques y solo cuentan después de la confirmación. La cantidad de cartas en el pool de minería representa la dificultad y se ajusta entre rondas. Las puntuaciones finales se calculan contando el número total de letras en las palabras confirmadas almacenadas en la billetera de cada equipo.
+
+#### Objectives
+
+Al final de esta actividad, los estudiantes podrán:
+
+* Explicar que la minería requiere intentos repetidos
+* Describir cómo la dificultad puede aumentar o disminuir
+* Entender que las transacciones se agrupan en bloques
+* Reconocer que la confirmación ocurre antes que la propiedad
+* Conectar el esfuerzo con la recompensa
+
+#### Materials
+
+* 1–2 barajas de cartas
+* 40–60 tarjetas con palabras de vocabulario de Bitcoin (ver Apéndice A) (Appendix A, 40–60 tarjetas de vocabulario de Bitcoin)
+* 1 sobre por equipo etiquetado BILLETERA
+* 1 sobre grande etiquetado BLOQUE
+* Letreros etiquetados MEMPOOL y POOL DE MINERÍA
+* Calcomanías o sellos para la confirmación, pizarra para registrar las puntuaciones (nice to have)
+* Temporizador
+* Mesa o espacio en el suelo para colocar las cartas
+* Campana o señal sonora para indicar la finalización del bloque (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1.  Repasa brevemente los términos clave: hash, minar, bloque, billetera, dificultad.
 1. Mantén las explicaciones breves y concretas.
 1. Explica que hoy deben “demostrar trabajo” antes de ganar palabras.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -20,7 +46,7 @@ _5 minutos_
 
 *  “Encuentro una pareja que coincida y digo ‘Es mío’ para ganar una palabra para mi billetera”.
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30 minutos_
 
@@ -49,7 +75,7 @@ _30 minutos_
 1. Devuelve las palabras confirmadas a la billetera de cada equipo.
 1. Solo cuentan las palabras confirmadas.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _4 minutos_
 
@@ -59,13 +85,13 @@ _4 minutos_
 * ¿Las palabras más largas dieron puntajes más altos?
 * ¿Todos siguieron las mismas reglas?
 
-##### **CIERRE**
+##### CIERRE
 
 *  Recoge y cuenta todos los naipes y devuélvelos a mazos completos.
 * Reúne todas las tarjetas de palabras, vacía las billeteras y el sobre de bloque, y apílalos de nuevo ordenadamente.
 * Despeja el área de minería, borra el pizarrón y revisa si hay cartas sueltas debajo de las mesas y sillas.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 

@@ -1,14 +1,38 @@
 # 2.1 Travail, repos et loisirs
 
-#### **PROCÉDURE**
+_Experiential, Reflection · Whole class, Pairs, Individual · 45 min_
 
-##### **OUVERTURE**
+Les élèves découvrent comment les activités quotidiennes peuvent être classées en trois catégories : le travail, le repos et les loisirs. À travers une activité de classification collective et une cartographie individuelle de leur emploi du temps, les élèves réfléchissent à la manière dont ils utilisent leur temps au cours d'une journée. Cette activité leur permet de prendre conscience dès leur plus jeune âge de l'importance de l'équilibre, de l'énergie et d'une utilisation réfléchie de leur temps.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Identifier et classer les activités en trois catégories : travail, repos ou loisirs
+* Réfléchissez à la manière dont leur temps est réparti au quotidien
+* Reconnaître l'importance de l'équilibre entre le travail, le repos et les loisirs
+* Commencer à établir un lien entre l'emploi du temps, l'énergie et le bien-être
+
+#### Materials
+
+* Fiches de révision sur les activités quotidiennes courantes (par exemple : se brosser les dents, faire ses devoirs, jouer au foot, jouer aux jeux vidéo, dormir, cuisiner, lire)
+* Fiches de cours vierges :
+* Crayons, crayons de couleur, feutres
+* Cartes vierges supplémentaires pour les activités créées par les élèves, supports visuels (voir annexe A) (Appendix A, Support visuel, nice to have)
+* Grande affiche ou panneau divisé en trois parties : TRAVAIL – REPOS – LOISIRS (voir annexe B) (Appendix B, Diagramme de Venn)
+* Tableau blanc ou espace mural
+* Du ruban adhésif ou des aimants pour fixer les cartes
+* Minuterie ou horloge visuelle (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 _3 minutes_
 
 1.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 à 10 minutes_
 
@@ -29,7 +53,7 @@ _5 à 10 minutes_
 
 * « Découvrez ce que je fais au travail, pendant mon temps libre et pour me divertir, et voyez si j'arrive à trouver un bon équilibre. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 minutes_
 
@@ -97,7 +121,7 @@ Approfondissement facultatif :
 * « Que se passe-t-il s'il y a trop de travail ? »
 * « Que se passe-t-il s'il n'y a ni repos ni loisirs ? »
 
-##### **SUIVI**
+##### SUIVI
 
 _5 minutes_
 
@@ -113,14 +137,14 @@ _5 minutes_
 
 1. Exercice complémentaire facultatif : Les élèves demandent à un parent ou à une personne de leur entourage à quoi ressemblaient le travail, le repos et les loisirs lorsqu’ils avaient le même âge qu’eux.
 
-##### **FERMER**
+##### FERMER
 
 1. Rassembler les fiches et les documents à distribuer
 1. Retirez ou effacez l'affiche si nécessaire
 1. Remerciez les élèves d'avoir participé
 1. Message de conclusion à l'intention des élèves : « Chacun a son propre rythme de vie, mais l'équilibre est essentiel. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

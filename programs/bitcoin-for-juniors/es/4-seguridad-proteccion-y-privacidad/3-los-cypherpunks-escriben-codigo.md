@@ -1,8 +1,28 @@
 # 4.3 Los cypherpunks escriben código
 
-#### **PROCEDIMIENTO**
+_Craft, Experiential · Whole class, Individual · 45–60 min_
 
-##### **APERTURA**
+Se introduce a los estudiantes a la idea de los códigos como una forma de ocultar y proteger información. Mediante una manualidad práctica, los estudiantes construyen una rueda de cifrado sencilla y la usan para codificar y decodificar vocabulario relacionado con Bitcoin. La actividad combina habilidades de motricidad fina, pensamiento lógico y conceptos criptográficos básicos, a la vez que refuerza nueva terminología de una manera lúdica y concreta.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Comprender el significado de codificar y decodificar; reconocer que cambiar un código cambia el resultado; usar una rueda de cifrado para codificar y decodificar palabras simples; decodificar y codificar correctamente vocabulario seleccionado de Bitcoin.
+
+#### Materials
+
+* Plantillas impresas de rueda de cifrado con anillos alfabéticos interno y externo (ver Apéndice A) (Appendix A, Plantilla de rueda de cifrado)
+* Hoja de trabajo impresa con vocabulario de Bitcoin codificado (ver Apéndice B) (Appendix B, Hoja de trabajo de vocabulario de Bitcoin)
+* Lápices, crayones o marcadores
+* Rueda de cifrado prefabricada para demostración, broches de dos patas o encuadernadores para sujetar las ruedas, hojas de trabajo adicionales para practicar (nice to have)
+* Tijeras
+* Pizarra blanca o cartulina para póster
+* Demostración con proyector, tijeras para zurdos (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 **Preparación del docente**
 
@@ -10,9 +30,7 @@
 1. Recortar con anticipación una rueda de cifrado grande para demostración o preparar una versión visual para la pizarra.
 1. Asegurarse de que las tijeras y los broches se distribuyan de forma segura.
 
-
-
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -25,7 +43,7 @@ _5 minutos_
 
 *  “Crear una herramienta de código secreto y usarla para ocultar y leer palabras.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _35-45 minutos_
 
@@ -50,7 +68,7 @@ _35-45 minutos_
 1. Los estudiantes unen los círculos con un broche para que la rueda pueda girar libremente.
 1. Los estudiantes prueban la rueda alineando diferentes letras.
 
-#### **Punto de control**
+#### Key points
 
 1. Pedir a los estudiantes que decodifiquen una palabra juntos como clase.
 1. Verificar que los estudiantes entiendan cómo al cambiar la rueda cambia el resultado.
@@ -79,7 +97,7 @@ _2 minutos_
 * Permitir que los estudiantes conserven sus ruedas de cifrado.
 * Mensaje final para los estudiantes: “Cambiar el código cambia el mensaje, pero el significado sigue siendo el mismo.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 
@@ -97,3 +115,7 @@ _2 minutos_
 * Estudiantes mayores: elijan y registren su propio desplazamiento de letras para que otros lo resuelvan.
 * Estudiantes de inglés como lengua adicional/Accesibilidad: guías visuales del alfabeto y apoyo de compañeros.
 * Seguridad: tijeras de punta roma y uso supervisado de alfileres.
+
+#### Additional resources
+
+* Appendix C: 40–60 tarjetas de vocabulario de Bitcoin

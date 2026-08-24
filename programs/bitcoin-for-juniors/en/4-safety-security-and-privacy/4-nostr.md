@@ -1,14 +1,39 @@
 # 4.4 Nostr
 
-#### **PROCEDURE**
+_Simulation, Craft, Game · Small groups · 50–60 min_
 
-##### **OPENING**
+Building on earlier activities about trust, message passing, and interception, students now compare open information transfer with encoded communication. Learners first experience how relaying information requires trusting intermediaries and how messages can be overheard or altered. They then introduce cipher wheels to protect messages, discovering that information can remain private even when passed through untrusted or public channels. Pre-requisites 4.2 - Telephone 4.3 - Cypherpunks Write Code
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Review how information transmission requires trust in intermediaries
+* Recognize how messages can leak or change when transmitted openly;
+* Understand that encoding protects information even when intermediaries are untrusted
+* Successfully encode and decode vocabulary using a cipher wheel.
+
+#### Materials
+
+* Prepared word or sentence cards for transmission
+* Cipher wheel templates for each student (See Appendix A) (Appendix A)
+* Worksheets or blank paper for transcription
+* Pencils or markers
+* Example simple and complex messages (See Appendix B) (Appendix B, nice to have)
+* Scissors
+* Split pins or brads for cipher wheels
+* Open classroom space for movement
+* Timer (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Arrange the room with two tables per team placed far apart to create distance.
 1. Place open message cards at each sender table.
 1. Prepare cipher wheel materials but keep them hidden until Phase 2.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -21,7 +46,7 @@ _5 minutes_
 
 *  “Find a better way to send messages without everyone needing to be trusted.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _40–45 minutes_
 
@@ -73,7 +98,7 @@ _40–45 minutes_
 1. Ask whether trust in the runner was still necessary.
 1. Ask who controlled access to the message in each phase.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _5-10 minutes_
 
@@ -81,7 +106,7 @@ _5-10 minutes_
 1. Review that encoding allows messages to travel through public space safely.
 1. Connect this to the idea of choosing what information is public or private.
 
-##### **CLOSE**
+##### CLOSE
 
 5 minutes
 
@@ -89,7 +114,7 @@ _5-10 minutes_
 1. Allow students to keep their cipher wheels.
 1. Final message to students: “You don’t need to trust everyone when your message is protected.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

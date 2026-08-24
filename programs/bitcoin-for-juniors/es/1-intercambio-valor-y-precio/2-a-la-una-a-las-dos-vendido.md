@@ -1,8 +1,28 @@
 # 1.2 ¡A la una, a las dos… vendido!
 
-#### **PROCEDIMIENTO**
+_Role play, Auction · Whole class · 45 min_
 
-##### **APERTURA**
+En esta actividad, los estudiantes participan en una subasta en el aula usando “conchas” (o fichas) como una forma simple de dinero. La clase realiza una subasta en vivo donde se venden objetos cotidianos, uno a la vez, al mejor postor. A medida que los precios surgen en tiempo real, los estudiantes observan cómo la escasez (artículos limitados y dinero limitado) y la demanda (cuántas personas quieren el mismo artículo) determinan cuánto “cuesta” algo. Una reflexión guiada conecta los resultados de su subasta con ideas clave sobre el valor, el intercambio y la formación de precios, enfatizando que los precios no son fijos y que distintas personas valoran el mismo objeto de manera diferente.
+
+#### Objectives
+
+* Los estudiantes experimentan la escasez y la formación de precios al participar en una subasta en vivo.
+* Aprenden que los objetos adquieren valor según cuántas personas los quieran y qué tan limitados sean.
+* Los estudiantes comprenden que:
+  * La escasez hace que los artículos sean más valiosos.
+  * Los precios no son fijos; dependen de la demanda.
+  * Las personas valoran distintas cosas de manera diferente.
+
+#### Materials
+
+* 10 objetos pequeños del aula (divertidos o útiles: calcomanías, lápices, bocadillos, borradores, sombreros graciosos, juguetes, etc.)
+* Conchas (o fichas/monedas de papel si no hay conchas disponibles) — al menos 3–5 por estudiante
+* Papel y bolígrafo para registrar las pujas
+* Pizarra y marcadores, campana de subasta o aplauso/señal (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 2 minutos
 
@@ -13,7 +33,7 @@
 
 * Usar conchas para pujar en una subasta y ver cómo cambian los precios cuando muchas personas quieren lo mismo y no hay muchos disponibles.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 5 minutos
 
@@ -21,7 +41,7 @@
 1. **Anuncia**: “Estas conchas son su dinero. Las usarán para comprar cosas en el juego de hoy.
 1. **Distribuye** las conchas y pide a los estudiantes que cuenten cuántas tienen.
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 30 minutos
 
@@ -49,7 +69,7 @@
 * Explica que, una vez que ya no tengan conchas, no podrán pujar por ningún otro objeto.
 * Los estudiantes necesitan ‘presupuestar’ sus objetos.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 1. Coloca todos los objetos con sus precios finales en un tablero o pared.
 1. Pregunta:
@@ -60,11 +80,11 @@
 1. Destaca: El precio proviene del valor _y_ la escasez.
 1. Define estos términos y escríbelos en la pizarra.
 
-##### **CERRAR**
+##### CERRAR
 
 * Distribuye los artículos a los postores ganadores y felicítalos
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 

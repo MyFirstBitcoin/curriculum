@@ -1,15 +1,36 @@
 # 2.4 That's Not Fair (Story Time)
 
-#### **PROCEDURE**
+_Story time, Discussion · Whole class · 30–40 min_
 
-##### **OPENING**
+Students listen to a teacher-read story in which characters receive rewards that may or may not match their effort. At key moments, the teacher pauses the story to invite discussion and judgment. Learners reflect on fairness, effort, luck, and unequal outcomes, building moral reasoning and vocabulary that supports later lessons on work, reward, and Proof of Work.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Identify situations that feel fair or unfair
+* Connect effort to reward through story events
+* Practice expressing opinions and emotions respectfully
+* Develop early moral reasoning using real examples
+
+#### Materials
+
+* One storybook selected by the teacher that includes effort and reward
+* Drawing paper and pencils or crayons
+* printed images of story characters, sticky notes to mark pause points in the story (nice to have)
+* Comfortable reading area (rug, chairs, circle seating)
+* Visual timer to pace discussion pauses (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Choose a story that clearly includes characters who work hard, characters who do not, and rewards that can be questioned (See Appendix A & B).
 1. Pre-read the story and mark 3–5 clear pause points where fairness can be discussed.
 1. Arrange seating so all students can see and hear clearly.
 1. Prepare drawing materials for the reflection activity.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _2 minutes_
 
@@ -22,7 +43,7 @@ _2 minutes_
 
 *  “Listen to a story and decide if the characters get what they deserve.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _20-25 minutes_
 
@@ -57,7 +78,7 @@ _20-25 minutes_
 * Ask: “Which character worked the hardest?”
 * Ask: “Did effort always lead to reward?”
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _10 minutes_
 
@@ -66,13 +87,13 @@ _10 minutes_
 1. Ask: “Should everyone get the same reward, or should effort matter?”
 1. Connect forward: “In future lessons, we’ll explore systems where effort is what decides rewards.”
 
-##### **CLOSE**
+##### CLOSE
 
 1. Collect drawing materials and tidy the reading space.
 1. Thank students for listening and sharing their ideas.
 1. Final wrap-up message to students: “Fairness is not just about outcomes, it’s about effort and opportunity.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -91,3 +112,8 @@ _10 minutes_
 * Younger students: yes/no fairness voting with thumbs
 * ELL/Accessibility: visual supports and simplified questions
 * Safety: seated activity, minimal movement
+
+#### Additional resources
+
+* Appendix A: Example of a suitable story
+* Appendix B: Other Examples

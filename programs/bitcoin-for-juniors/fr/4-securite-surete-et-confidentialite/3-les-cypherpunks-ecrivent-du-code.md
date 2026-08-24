@@ -1,8 +1,28 @@
 # 4.3 Les cypherpunks écrivent du code
 
-#### **PROCÉDURE**
+_Craft, Experiential · Whole class, Individual · 45–60 min_
 
-##### **OUVERTURE**
+Les élèves découvrent la notion de code comme moyen de dissimuler et de protéger des informations. Dans le cadre d'un atelier pratique, ils fabriquent une roue de chiffrement simple et l'utilisent pour chiffrer et déchiffrer du vocabulaire lié au Bitcoin. Cette activité allie la motricité fine, la réflexion logique et les premiers concepts de cryptographie, tout en ancrant la nouvelle terminologie de manière ludique et concrète.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Comprendre la signification des termes « encoder » et « décoder » ; comprendre que la modification d'un code entraîne une modification du résultat ; utiliser une roue de chiffrement pour encoder et décoder des mots simples ; décoder et encoder correctement certains termes du vocabulaire liés au Bitcoin.
+
+#### Materials
+
+* Gabarits imprimés de roues de chiffrement avec anneaux alphabétiques intérieur et extérieur (voir annexe A) (Appendix A, Modèle de roue de chiffrement)
+* Fiche d'exercice imprimée contenant le vocabulaire du Bitcoin sous forme codée (voir annexe B) (Appendix B, Fiche d'exercices sur le vocabulaire du Bitcoin)
+* Crayons, crayons de couleur ou feutres
+* Roue de chiffrement prête à l'emploi pour la démonstration, punaises ou goupilles fendues pour fixer les roues, fiches d'exercices supplémentaires (nice to have)
+* Ciseaux
+* Tableau blanc ou carton d'affichage
+* Démonstration avec un projecteur, ciseaux pour gauchers (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 **Configuration pour les enseignants**
 
@@ -10,9 +30,7 @@
 1. Découpez à l'avance une grande roue de chiffrement de démonstration ou préparez une version visuelle à afficher au tableau.
 1. Veillez à ce que les ciseaux et les épingles soient répartis de manière sûre.
 
-
-
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -25,7 +43,7 @@ _5 minutes_
 
 *  « Crée un outil de codage secret et utilise-le pour cacher et déchiffrer des mots. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _35 à 45 minutes_
 
@@ -50,7 +68,7 @@ _35 à 45 minutes_
 1. Les élèves assemblent les cercles à l'aide d'une épingle afin que la roue puisse tourner librement.
 1. Les élèves testent la roue en alignant différentes lettres.
 
-#### **Point de contrôle**
+#### Key points
 
 1. Demandez aux élèves de décoder un mot tous ensemble, en classe.
 1. Vérifiez que les élèves comprennent en quoi le fait de changer la roue modifie le résultat.
@@ -79,7 +97,7 @@ _2 minutes_
 * Permettez aux élèves de conserver leurs roues de chiffrement.
 * Message final aux élèves : « Changer le code change le message, mais le sens reste le même. »
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -97,3 +115,7 @@ _2 minutes_
 * Élèves plus âgés : choisir et noter leur propre permutation de lettres pour que les autres la résolvent.
 * ELL/Accessibilité : guides visuels de l'alphabet et entraide entre pairs.
 * Sécurité : ciseaux à bouts arrondis et utilisation des épingles sous surveillance.
+
+#### Additional resources
+
+* Appendix C: 40 à 60 fiches de vocabulaire sur le Bitcoin

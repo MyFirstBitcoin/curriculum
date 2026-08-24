@@ -1,8 +1,30 @@
 # 1.4 ¿Qué es el valor?
 
-#### **PROCEDIMIENTO**
+_Discussion, Craft · Whole class, Individual · 45 min_
 
-##### **INICIO**
+Los estudiantes exploran el concepto de valor al identificar objetos cotidianos de sus propias vidas y ubicarlos en una tabla visual compartida. Mediante una conversación guiada y una actividad colaborativa en la pared, los estudiantes comparan el valor personal con el precio y reflexionan sobre cómo el valor puede cambiar según la perspectiva. La actividad desarrolla una comprensión fundamental del valor, el precio y la escasez mediante el diálogo, el movimiento y el pensamiento visual.
+
+#### Objectives
+
+Al final de esta actividad, los estudiantes podrán:
+
+* Comprender que _el valor_ se basa en necesidades personales y sociales.
+* Reconocer la relación entre _el precio_ y _el valor_.
+* Ver que el valor no es fijo, sino que cambia según la perspectiva.
+* Practicar la colaboración mediante el diálogo compartido y el arte grupal.
+
+#### Materials
+
+* Notas adhesivas o fichas
+* Marcadores, bolígrafos o lápices
+* Cinta adhesiva o masilla adhesiva
+* Cinta adhesiva de baja adherencia (cinta de enmascarar, cinta washi, cinta de pintor, etc.)
+* Una selección de objetos del hogar (nice to have)
+* Pizarra blanca y marcadores (nice to have)
+
+#### Procedure
+
+##### INICIO
 
 _10 minutos_
 
@@ -12,7 +34,7 @@ _10 minutos_
 
 **Nota:** Usar un pizarrón blanco al frente de la clase puede ser adecuado para la actividad. Sin embargo, para lograr el mayor impacto, es mejor realizar esta actividad en un lugar separado dentro del aula para que el proyecto de arte pueda exhibirse durante más tiempo.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -29,7 +51,7 @@ _5 minutos_
 * “Aprender qué cosas son valiosas para nosotros y por qué no todos están de acuerdo.”
 * “Hablar sobre por qué las cosas caras no siempre son valiosas y las cosas baratas aún pueden importar.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30-40 minutos_
 
@@ -76,7 +98,7 @@ _30-40 minutos_
   * El precio es un número
   * El valor es un juicio
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 * Repaso:
   * El precio y el valor no son lo mismo
@@ -93,7 +115,7 @@ _30-40 minutos_
 1. Pida a los estudiantes que devuelvan todos los materiales y equipos.
 1. El proyecto puede exhibirse o guardarse, y los estudiantes pueden agregarle más contenido después.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -112,3 +134,8 @@ _30-40 minutos_
 * **Estudiantes más jóvenes**: tarjetas de artículos preimpresas
 * **ELL/Accesibilidad**: dibujar en lugar de escribir
 * **Seguridad**: supervise el movimiento cerca de las paredes
+
+#### Additional resources
+
+* Appendix A: Apoyo visual
+* Appendix B: Visual de precio alto/precio bajo

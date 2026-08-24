@@ -1,14 +1,36 @@
 # 4.2 Écoute téléphonique
 
-#### **PROCÉDURE**
+_Simulation, Discussion, Experiential · Whole class, Small groups · 40–50 min_
 
-##### **OUVERTURE**
+Les élèves explorent la manière dont l'information évolue en fonction de la personne qui la transmet et de celle qui est autorisée à l'entendre. À travers une série de petits jeux consistant à se passer des messages, dont les règles varient, les apprenants font l'expérience directe de la confiance, des erreurs et des interférences intentionnelles. La réflexion porte sur la manière dont les messages peuvent être modifiés, divulgués ou protégés, ainsi que sur la question de savoir qui devrait décider de l'accès à l'information.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Découvrez comment l'information peut évoluer lorsqu'elle est transmise d'une personne à l'autre
+* Distinguer les erreurs des modifications intentionnelles
+* Il faut comprendre que tout le monde ne doit pas nécessairement entendre tous les messages
+* Commencez à mener une réflexion critique sur la confiance, la vie privée et le contrôle de l'information
+
+#### Materials
+
+* Fiches de messages courts et longs préparées (à l'usage des enseignants) (voir annexe A) (Appendix A, Exemples de messages simples et complexes)
+* Variante avec papier et crayon pour la dictée en cours de route
+* Feuille de symboles simples ou de codes de substitution pour un message verrouillé facultatif (voir annexe B) (Appendix B, Code symbolique simple, nice to have)
+* Un espace de classe ouvert propice à l'activité physique
+* Tableau blanc ou panneau d'affichage pour noter ses réflexions
+* Minuterie (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 1. Préparez à l'avance des messages simples et complexes.
 1. Définissez des groupes de 6 à 8 élèves.
 1. Libérez l'espace afin que les élèves puissent se mettre en rang ou se déplacer en toute sécurité.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -21,7 +43,7 @@ _5 minutes_
 
 *  « Voyez ce qu’il advient d’un message lorsqu’il est transmis par différentes personnes. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 à 35 minutes_
 
@@ -88,7 +110,7 @@ _30 à 35 minutes_
 1. Demandez qui devrait en décider.
 1. Permettez aux élèves de formuler le problème avec leurs propres mots.
 
-##### **SUIVI**
+##### SUIVI
 
 _5 à 10 minutes_
 
@@ -96,7 +118,7 @@ _5 à 10 minutes_
 1. Insistez sur le fait que la confiance repose sur des règles et des limites.
 1. Faites le lien avec les leçons précédentes sur la distinction entre informations publiques et informations privées.
 
-##### **FERMER**
+##### FERMER
 
 _5 minutes_
 
@@ -104,7 +126,7 @@ _5 minutes_
 1. Réaménager la salle de classe.
 1. Dernier message à l'attention des élèves : faire preuve de prudence avec les informations permet de protéger les autres.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 

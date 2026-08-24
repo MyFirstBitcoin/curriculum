@@ -1,15 +1,37 @@
 # 3.2 Vote With Your Feet
 
-#### **PROCEDURE**
+_Debate, Experiential · Whole class, Small groups · 20–25 min_
 
-##### **OPENING**
+Students physically position themselves in the classroom to show whether they prefer older or newer technologies. By moving, debating, and explaining their choices, learners compare analogue and digital tools, consider trade-offs, and practice respectful disagreement. The activity reinforces prior learning on technological evolution while increasing engagement through movement.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Compare old and new technologies and explain preferences
+* Identify advantages and disadvantages of different tools
+* Practice expressing opinions and listening to others
+* Engage in cooperative discussion through movement and debate
+
+#### Materials
+
+* Completed Analogue vs Digital matching worksheets (See 3.1 - Evolution of Technology)
+* Optional labels or signs for OLD, CENTER, NEW
+* Optional beads or stars for debate rewards
+* Optional poster paper and markers
+* Clear classroom space for movement
+* Timer or bell for transitions (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Confirm students have completed the Analogue vs Digital matching worksheet.
 1. Ask students to retrieve and briefly review their matches.
 1. Explain the purpose of the activity: “Now we’re going to share our opinions about old and new technologies.”
 1. Emphasize that there are no right or wrong answers.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _3-5 minutes_
 
@@ -23,7 +45,7 @@ _3-5 minutes_
 
 *  “Show which technology I prefer and explain why.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _10-15 minutes_
 
@@ -61,7 +83,7 @@ _10-15 minutes_
 * Ask which technology pair was hardest to choose.
 * Reinforce that different preferences can still be valid.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _3-5 minutes_
 
@@ -71,7 +93,7 @@ _3-5 minutes_
 
 Optional extensions include short debates, assigned arguments, or creating a class vote chart.
 
-##### **CLOSE**
+##### CLOSE
 
 _2 minutes_
 
@@ -80,7 +102,7 @@ _2 minutes_
 1. Thank students for respectful participation.
 1. Final message to students: “Every technology has its time and place, and what matters is how we think about and use our tools.”
 
-#### **NOTES**
+#### Notes
 
 * Use this lesson to foster critical thinking _without judgment_
 * Balance fun and focus - encourage physical activity while maintaining classroom order

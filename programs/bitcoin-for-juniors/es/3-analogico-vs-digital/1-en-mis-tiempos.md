@@ -1,8 +1,30 @@
 # 3.1 En mis tiempos
 
-#### **PROCEDIMIENTO**
+_Matching, Craft, Discussion · Whole class, Pairs, Individual · 20 min_
 
-##### **APERTURA**
+Los estudiantes relacionan tecnologías analógicas antiguas con sus equivalentes digitales modernos. Mediante la asociación visual, el coloreado y la discusión, los estudiantes exploran cómo las herramientas evolucionan con el tiempo y cómo la innovación cambia la forma en que las personas viven, trabajan y se comunican. La actividad desarrolla una conciencia temprana sobre el progreso tecnológico y los cambios a lo largo del tiempo.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Identificar ejemplos de tecnologías analógicas y digitales
+* Comprender que la tecnología cambia con el tiempo
+* Reconocer la innovación como un proceso de mejora y adaptación
+* Reflexionar sobre cómo la tecnología afecta la vida diaria
+
+#### Materials
+
+* Hoja de trabajo impresa para relacionar (ver Apéndice A) (Appendix A, Pares de correspondencia de analógico a digital)
+* Lápices de colores o crayones
+* Apoyos visuales (ver Apéndice B) (Appendix B, Ayudas visuales, nice to have)
+* Pizarra blanca o pizarrón
+* Apoyo visual o presentación de diapositivas
+* Temporizador (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Asegúrese de que cada estudiante tenga una superficie despejada para trabajar.
 1. Prepare el pizarrón o la pantalla visual con imágenes de tecnologías antiguas.
@@ -11,7 +33,7 @@
 1. Muestre ejemplos como una máquina de escribir, un Walkman, una lámpara de aceite o una cinta VHS.
 1. Pregunte: “¿Han visto esto antes?” “¿Qué usamos hoy en su lugar?”
 
-##### **ANTES DE LA ACTIVIDAD**
+##### ANTES DE LA ACTIVIDAD
 
 _2-3 minutos_
 
@@ -24,7 +46,7 @@ _2-3 minutos_
 
 *  “Relacionar la tecnología antigua con la tecnología nueva y ver cómo han cambiado las cosas.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _10 minutos_
 
@@ -50,7 +72,7 @@ _10 minutos_
 1. Observe si los estudiantes pueden relacionar correctamente la mayoría de los pares.
 1. Haga una pausa breve si varios estudiantes tienen dificultades y aclare con apoyos visuales.
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _3-5 minutos_
 
@@ -60,13 +82,13 @@ _3-5 minutos_
 1. Pregunte: “¿Las tecnologías más nuevas siempre son mejores?”
 1. Actividad opcional en parejas: los estudiantes le cuentan a un compañero una relación sorprendente que aprendieron.
 
-##### **CIERRE**
+##### CIERRE
 
 1. Recoja las hojas de trabajo y los materiales.
 1. Agradezca a los estudiantes por su concentración y esfuerzo.
 1. Mensaje final: “La tecnología cambia con el tiempo, pero cada herramienta ayuda a las personas a resolver problemas en su propia época.”
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -84,3 +106,7 @@ _3-5 minutos_
 * Estudiantes más jóvenes: emparejamiento guiado con apoyos visuales en el pizarrón
 * Estudiantes que aprenden inglés/Accesibilidad: imágenes, lenguaje simplificado, apoyo de compañeros
 * Seguridad: actividad sentados, movimiento mínimo
+
+#### Additional resources
+
+* Appendix C: ¿Alguna vez has usado...?

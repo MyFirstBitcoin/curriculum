@@ -1,8 +1,32 @@
 # 2.2 Economía energética
 
-#### **PROCEDIMIENTO**
+_Reflection, Sorting · Whole class, Individual · 35 min_
 
-##### **APERTURA**
+Los estudiantes exploran cómo cambia su energía a lo largo del día ubicando actividades comunes en una gráfica compartida de la clase y en un Registro de Energía personal. Al visualizar los momentos de alta y baja energía a lo largo del tiempo, los estudiantes desarrollan una autoconciencia inicial sobre el esfuerzo, el descanso y cómo se gasta la energía. Esta actividad sienta las bases para lecciones posteriores sobre la preferencia temporal, el valor y la toma de decisiones intencional.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Reconocer que los niveles de energía cambian a lo largo del día
+* Identificar actividades que dan o consumen energía
+* Visualizar los patrones personales de energía diaria
+* Comenzar a reflexionar sobre cómo se usan el tiempo y la energía
+
+#### Materials
+
+* Tarjetas didácticas o tarjetas con imágenes de actividades diarias (desayunar, cepillarse los dientes, caminar a la escuela, hacer la tarea, jugar al aire libre, ver televisión, dormir, etc.)
+* Hojas individuales del Registro de Energía (ver Apéndice B) (Appendix B, Materiales del registro de energía)
+* Crayones, lápices, marcadores
+* Miniimágenes impresas para quienes aún no escriben, ayudas visuales (ver Apéndice A) (Appendix A, Apoyo visual, nice to have)
+* Pizarra grande o cartel para la gráfica del Registro de Energía de la clase
+* Marcadores para pizarra
+* Cinta adhesiva o imanes para las tarjetas didácticas
+* Proyector o temporizador visual (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Prepare una gráfica grande del Rastreador de energía en el pizarrón o en un cartel:
 1. Eje horizontal: hora del día (amanecer → atardecer)
@@ -11,7 +35,7 @@
 1. Prepare hojas de trabajo individuales y materiales de escritura.
 1. Asegúrese de que haya espacio despejado para que los estudiantes se acerquen al pizarrón de forma segura.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _3-5 minutos_
 
@@ -24,7 +48,7 @@ _3-5 minutos_
 
 * "Ver cómo cambia mi energía durante el día y qué me quita o me da energía."
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _30 minutos_
 
@@ -42,7 +66,7 @@ _30 minutos_
 1. Pregunte: "¿Cuándo suelen hacer esto?" y "¿Les da energía o les quita energía?"
 1. Coloque la tarjeta en la gráfica usando los aportes de los estudiantes.
 
-##### **1. Elaboración de gráficas en grupo**
+##### 1. Elaboración de gráficas en grupo
 
 _15 minutos_
 
@@ -54,7 +78,7 @@ _15 minutos_
 1. Dé un paso atrás y revise la gráfica completada.
 1. Pregunte: "¿Qué notan?" "¿Cuándo parece estar más alta la energía?" "¿Qué pasa más tarde en el día?"
 
-##### **2. Elaboración individual de gráficas**
+##### 2. Elaboración individual de gráficas
 
 _10–15 minutos_
 
@@ -69,7 +93,7 @@ _2 minutos_
 1. Pregunta: "¿En qué momento del día tienes más energía?" "¿Qué actividad usa más energía?" "¿Qué te ayuda a sentirte más descansado?" "¿Cómo podrías usar mejor tu energía?"
 1. Para estudiantes mayores, pregunta: "¿Qué pasa si usas toda tu energía por la mañana?" y "¿Cómo podemos ahorrar energía para las cosas que importan?"
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _3 minutos_
 
@@ -78,7 +102,7 @@ Repaso del contenido con los estudiantes
 1. Repasen que la energía cambia durante el día, que las actividades afectan la energía de diferentes maneras y que las personas tienen distintos patrones de energía.
 1. Conecta con lo siguiente explicando que estos patrones afectan cómo trabajamos, descansamos, jugamos y tomamos decisiones.
 
-##### **CIERRE**
+##### CIERRE
 
 _5 minutos_
 
@@ -86,7 +110,7 @@ _5 minutos_
 1. Retira o borra la gráfica de la clase si es necesario.
 1. Agradece a los estudiantes por participar y refuerza el mensaje de que la energía es limitada y que importa cómo la usamos.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Manejo del aula**
 
@@ -102,3 +126,7 @@ _5 minutos_
 * Estudiantes más pequeños: apoyo opcional de un compañero para estudiantes más pequeños, dibujos y tarjetas con imágenes.
 * Estudiantes de inglés (ELL)/Accesibilidad: recursos visuales, modelado, apoyo de un compañero.
 * Seguridad: supervisa el movimiento cerca del pizarrón.
+
+#### Additional resources
+
+* Appendix C: Planificador de actividades

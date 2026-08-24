@@ -1,14 +1,40 @@
 # 6.3 It's Mine!
 
-#### **PROCEDURE**
+_Simulation, Game · Whole class, Small groups · 45 min_
 
-##### **OPENING**
+In this activity, learners simulate Bitcoin mining using playing cards as hashes and vocabulary words as transactions. Teams flip cards to find matching pairs. When they find two identical cards, they say “It’s mine.” A valid pair gives them access to the mempool, where they collect one Bitcoin vocabulary word. Words are grouped into blocks and only count after confirmation. The number of cards in the mining pool represents difficulty and is adjusted between rounds. Final scores are calculated by counting the total number of letters in confirmed words stored in each team’s wallet.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Explain that mining requires repeated attempts
+* Describe how difficulty can increase or decrease
+* Understand that transactions are grouped into blocks
+* Recognize that confirmation comes before ownership
+* Connect effort to reward
+
+#### Materials
+
+* 1–2 decks of playing cards
+* 40–60 Bitcoin vocabulary word cards (See Appendix A) (Appendix A)
+* 1 envelope per team labeled WALLET
+* 1 large envelope labeled BLOCK
+* Signs labeled MEMPOOL and MINING POOL
+* Stickers or stamps for confirmation, Whiteboard for recording scores (nice to have)
+* Timer
+* Table or floor space for laying out cards
+* Bell or signal sound for block completion (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1.  Review key terms briefly: hash, mine, block, wallet, difficulty.
 1. Keep explanations short and concrete.
 1. Explain that today they must “prove work” before earning words.
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _5 minutes_
 
@@ -20,7 +46,7 @@ _5 minutes_
 
 *  “I find a matching pair and say ‘It’s mine’ to earn a word for my wallet.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _30 minutes_
 
@@ -49,7 +75,7 @@ _30 minutes_
 1. Return confirmed words to each team’s wallet.
 1. Only confirmed words count.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _4 minutes_
 
@@ -59,13 +85,13 @@ _4 minutes_
 * Did longer words give higher scores?
 * Did everyone follow the same rules?
 
-##### **CLOSE**
+##### CLOSE
 
 *  Collect and count all playing cards and return them to full decks.
 * Gather all word cards, empty wallets and the block envelope, and restack neatly.
 * Clear the mining area, erase the board, and check for loose cards under tables and chairs.
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 

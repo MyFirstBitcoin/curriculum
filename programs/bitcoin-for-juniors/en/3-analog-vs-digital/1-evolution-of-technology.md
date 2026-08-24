@@ -1,8 +1,30 @@
 # 3.1 Back In My Day
 
-#### **PROCEDURE**
+_Matching, Craft, Discussion · Whole class, Pairs, Individual · 20 min_
 
-##### **OPENING**
+Students match older analogue technologies with their modern digital equivalents. Through visual matching, colouring, and discussion, learners explore how tools evolve over time and how innovation changes the way people live, work, and communicate. The activity builds early awareness of technological progress and time-based change.
+
+#### Objectives
+
+By the end of this activity, learners will:
+
+* Identify examples of analogue and digital technologies
+* Understand that technology changes over time
+* Recognize innovation as a process of improvement and adaptation
+* Reflect on how technology affects daily life
+
+#### Materials
+
+* Printed matching worksheet (See Appendix A) (Appendix A, Analog to digital matching pairs)
+* Coloured pencils or crayons
+* Visual Aids (See Appendix B) (Appendix B, nice to have)
+* Whiteboard or chalkboard
+* Visual aid or slideshow
+* Timer (nice to have)
+
+#### Procedure
+
+##### OPENING
 
 1. Ensure every student has a clear surface to work on.
 1. Prepare the board or visual display with images of older technologies.
@@ -11,7 +33,7 @@
 1. Show examples such as a typewriter, Walkman, oil lamp, or VHS tape.
 1. Ask: “Have you seen this before?” “What do we use instead today?”
 
-##### **PRE-ACTIVITY**
+##### PRE-ACTIVITY
 
 _2-3 minutes_
 
@@ -24,7 +46,7 @@ _2-3 minutes_
 
 *  “Match old technology with new technology and see how things have changed.”
 
-##### **ACTIVITY**
+##### ACTIVITY
 
 _10 minutes_
 
@@ -50,7 +72,7 @@ _10 minutes_
 1. Observe whether students can correctly match most pairs.
 1. Pause briefly if several students struggle and clarify with visuals.
 
-##### **FOLLOW-UP**
+##### FOLLOW-UP
 
 _3-5 minutes_
 
@@ -60,13 +82,13 @@ _3-5 minutes_
 1. Ask: “Are newer technologies always better?”
 1. Optional pair-share: students tell a neighbour one surprising match they learned.
 
-##### **CLOSE**
+##### CLOSE
 
 1. Collect worksheets and materials.
 1. Thank students for their focus and effort.
 1. Final message: “Technology changes over time, but every tool helps people solve problems in their own time.”
 
-#### **NOTES**
+#### Notes
 
 ##### **Classroom management**
 
@@ -84,3 +106,7 @@ _3-5 minutes_
 * Younger students: guided matching with board visuals
 * ELL/Accessibility: images, simplified language, peer support
 * Safety: seated activity, minimal movement
+
+#### Additional resources
+
+* Appendix C: Have you Ever used...?

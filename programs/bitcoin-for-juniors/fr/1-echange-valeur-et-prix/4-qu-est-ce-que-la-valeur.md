@@ -1,8 +1,30 @@
 # 1.4 Qu'est-ce que la valeur ?
 
-#### **PROCÉDURE**
+_Discussion, Craft · Whole class, Individual · 45 min_
 
-##### **OUVERTURE**
+Les élèves explorent la notion de valeur en identifiant des objets du quotidien issus de leur propre vie et en les plaçant sur un tableau visuel commun. À travers une discussion guidée et une activité collaborative réalisée sur le mur, les élèves comparent la valeur personnelle à la valeur marchande et réfléchissent à la manière dont la valeur peut varier selon le point de vue. Cette activité permet d'acquérir des notions fondamentales sur la valeur, le prix et la rareté grâce à la discussion, au mouvement et à la réflexion visuelle.
+
+#### Objectives
+
+À l'issue de cette activité, les apprenants seront capables de :
+
+* Il faut comprendre que _valeur_ repose sur des besoins personnels et sociaux.
+* Identifier le lien entre _prix_ et _valeur_.
+* Notez que cette valeur n'est pas fixe, mais qu'elle varie en fonction du point de vue.
+* S'exercer à la collaboration à travers des discussions communes et des activités artistiques en groupe.
+
+#### Materials
+
+* Post-it ou fiches
+* Marqueurs, stylos ou crayons
+* Ruban adhésif ou pâte adhésive
+* Ruban adhésif à faible adhérence (ruban de masquage, ruban washi, ruban de peintre, etc.)
+* Une sélection d'objets de la maison (nice to have)
+* Tableau blanc et marqueurs (nice to have)
+
+#### Procedure
+
+##### OUVERTURE
 
 _10 minutes_
 
@@ -12,7 +34,7 @@ _10 minutes_
 
 **Remarque :** L'utilisation d'un tableau blanc à l'avant de la classe peut convenir pour cette activité. Toutefois, pour un effet optimal, il est préférable de réaliser cette activité dans un coin à part de la salle de classe, afin que le projet artistique puisse être exposé plus longtemps.
 
-##### **AVANT L'ACTIVITÉ**
+##### AVANT L'ACTIVITÉ
 
 _5 minutes_
 
@@ -29,7 +51,7 @@ _5 minutes_
 * « Découvrez ce qui a de la valeur à nos yeux et pourquoi tout le monde n'est pas d'accord là-dessus. »
 * « Expliquez pourquoi les choses chères n'ont pas toujours de la valeur, et pourquoi les choses bon marché peuvent tout de même avoir de l'importance. »
 
-##### **ACTIVITÉ**
+##### ACTIVITÉ
 
 _30 à 40 minutes_
 
@@ -76,7 +98,7 @@ _30 à 40 minutes_
   * Le prix, c'est un chiffre
   * La valeur est une appréciation
 
-##### **SUIVI**
+##### SUIVI
 
 * Critique :
   * Le prix et la valeur ne sont pas la même chose
@@ -93,7 +115,7 @@ _30 à 40 minutes_
 1. Demandez aux élèves de rendre tout le matériel et l'équipement.
 1. Le projet peut être affiché ou enregistré, et les élèves peuvent y ajouter des éléments ultérieurement.
 
-#### **NOTES**
+#### Notes
 
 ##### **Gestion de la classe**
 
@@ -112,3 +134,8 @@ _30 à 40 minutes_
 * **Les plus jeunes élèves**: fiches d'articles pré-imprimées
 * **ELL/Accessibilité**: dessiner plutôt qu'écrire
 * **Sécurité**: surveiller les déplacements près des murs
+
+#### Additional resources
+
+* Appendix A: Support visuel
+* Appendix B: Représentation graphique « Prix élevé / Prix bas »

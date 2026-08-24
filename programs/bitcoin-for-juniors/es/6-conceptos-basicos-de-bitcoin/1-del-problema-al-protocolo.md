@@ -1,8 +1,32 @@
 # 6.1 Del problema al protocolo
 
-#### **PROCEDIMIENTO**
+_Story time, Discussion, Reflection · Whole class, Pairs, Individual · 45–60 min_
 
-##### **APERTURA**
+Los estudiantes escuchan la historia de Satoshi y la Génesis de Bitcoin. Mediante pausas guiadas y discusión, conectan la narrativa con lecciones anteriores sobre valor, escasez, tiempo y energía, sistemas analógicos vs. digitales, y seguridad y privacidad. El docente usa un “libro blanco” impreso como recurso para dramatizar el momento en que Satoshi presenta su idea al mundo. Los estudiantes reflexionan sobre cómo Bitcoin comenzó como una propuesta, requirió mucho trabajo para construirse y depende de los participantes para mantener viva la red.
+
+#### Objectives
+
+Al finalizar esta actividad, los estudiantes podrán:
+
+* Explicar quién es Satoshi en términos sencillos.
+* Describir qué es un libro blanco.
+* Identificar el Bloque Génesis como el inicio de Bitcoin.
+* Explicar por qué Bitcoin requiere tiempo, energía y reglas compartidas.
+* Reconocer que las redes se mantienen vivas cuando las personas participan.
+
+#### Materials
+
+* Copia impresa de la historia (ver Apéndice A) (Appendix A, María y el puesto de limonada (Historia de ejemplo))
+* Recurso impreso del “Libro blanco” (ver Apéndice B) (Appendix B, Propuesta de Libro Blanco Simplificado)
+* Tres tarjetas de palabras clave: VALOR - TIEMPO Y ENERGÍA - CONFIANZA Y PRIVACIDAD (ver Apéndice C) (Appendix C)
+* Pizarra y marcadores
+* Boletos de salida o papel pequeño
+* Imagen impresa de una cadena de bloques, sobre pequeño etiquetado ‘BTC’ (nice to have)
+* Pizarra o proyector (opcional) (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 * Imprime la historia y coloca el objeto del “Libro Blanco” dentro de un sobre etiquetado BTC para una revelación dramática.
 * Escribe en el pizarrón: ¿Qué sucede cuando los sistemas monetarios fallan?
@@ -10,7 +34,7 @@
 * Dibuja en el pizarrón un letrero sencillo que diga “BANCO – CERRADO” para despertar la curiosidad.
 * Preselecciona y marca 3–4 puntos de pausa en la historia para una discusión guiada.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _5 minutos_
 
@@ -24,7 +48,7 @@ _5 minutos_
 
 *  “Vamos a aprender cómo empezó Bitcoin y por qué las personas eligen mantenerlo vivo.”
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _20–25 minutos_
 
@@ -55,7 +79,7 @@ _20–25 minutos_
   * Analógico vs. digital – ¿En qué se diferencia Bitcoin del dinero en papel?
   * Seguridad y privacidad – ¿Por qué debemos proteger las llaves?
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _2 minutos_
 
@@ -66,7 +90,7 @@ _2 minutos_
 * Recoge las respuestas.
 * Prepara la siguiente actividad mencionando que exploraremos adónde desapareció Satoshi.
 
-##### **CIERRE**
+##### CIERRE
 
 * Recoge los boletos de salida y cualquier hoja de reflexión.
 * Pide a los estudiantes que devuelvan las copias impresas de la historia, las tarjetas de indicaciones y los materiales al área designada.
@@ -74,7 +98,7 @@ _2 minutos_
 * Asegúrate de que el accesorio del libro blanco y los materiales del apéndice se guarden de forma segura para usarlos en el futuro.
 * Prepara el salón para la siguiente clase o guía a los estudiantes con calma hacia la próxima actividad programada.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 

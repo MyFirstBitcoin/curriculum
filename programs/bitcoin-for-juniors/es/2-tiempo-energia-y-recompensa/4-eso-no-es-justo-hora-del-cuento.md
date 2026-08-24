@@ -1,15 +1,36 @@
 # 2.4 Eso no es justo (Hora del cuento)
 
-#### **PROCEDIMIENTO**
+_Story time, Discussion · Whole class · 30–40 min_
 
-##### **APERTURA**
+Los estudiantes escuchan una historia leída por el docente en la que los personajes reciben recompensas que pueden corresponder o no a su esfuerzo. En momentos clave, el docente pausa la historia para invitar a la discusión y al juicio. Los estudiantes reflexionan sobre la justicia, el esfuerzo, la suerte y los resultados desiguales, desarrollando razonamiento moral y vocabulario que apoyará lecciones posteriores sobre trabajo, recompensa y Prueba de Trabajo.
+
+#### Objectives
+
+Al final de esta actividad, los estudiantes podrán:
+
+* Identificar situaciones que se sienten justas o injustas
+* Relacionar el esfuerzo con la recompensa a través de los acontecimientos de la historia
+* Practicar cómo expresar opiniones y emociones con respeto
+* Desarrollar un razonamiento moral inicial usando ejemplos reales
+
+#### Materials
+
+* Un libro de cuentos seleccionado por el docente que incluya esfuerzo y recompensa
+* Papel para dibujar y lápices o crayones
+* imágenes impresas de los personajes de la historia, notas adhesivas para marcar los puntos de pausa en la historia (nice to have)
+* Área de lectura cómoda (alfombra, sillas, asientos en círculo)
+* Temporizador visual para marcar el ritmo de las pausas de discusión (nice to have)
+
+#### Procedure
+
+##### APERTURA
 
 1. Elija una historia que incluya claramente personajes que trabajan duro, personajes que no lo hacen y recompensas que puedan cuestionarse (vea los Apéndices A y B).
 1. Lea la historia con anticipación y marque de 3 a 5 puntos claros de pausa donde se pueda hablar sobre la justicia.
 1. Organice los asientos para que todos los estudiantes puedan ver y escuchar con claridad.
 1. Prepare materiales de dibujo para la actividad de reflexión.
 
-##### **ACTIVIDAD PREVIA**
+##### ACTIVIDAD PREVIA
 
 _2 minutos_
 
@@ -22,7 +43,7 @@ _2 minutos_
 
 *  “Escuchar una historia y decidir si los personajes reciben lo que merecen”.
 
-##### **ACTIVIDAD**
+##### ACTIVIDAD
 
 _20-25 minutos_
 
@@ -57,7 +78,7 @@ _20-25 minutos_
 * Pregunte: “¿Qué personaje trabajó más duro?”
 * Pregunte: “¿El esfuerzo siempre llevó a una recompensa?”
 
-##### **SEGUIMIENTO**
+##### SEGUIMIENTO
 
 _10 minutos_
 
@@ -66,13 +87,13 @@ _10 minutos_
 1. Pregunte: “¿Todos deberían recibir la misma recompensa, o debería importar el esfuerzo?”
 1. Conecte con lo que viene: “En futuras lecciones, exploraremos sistemas en los que el esfuerzo es lo que decide las recompensas”.
 
-##### **CIERRE**
+##### CIERRE
 
 1. Recoja los materiales de dibujo y ordene el espacio de lectura.
 1. Agradezca a los estudiantes por escuchar y compartir sus ideas.
 1. Mensaje final de cierre para los estudiantes: “La justicia no se trata solo de los resultados, sino del esfuerzo y la oportunidad”.
 
-#### **NOTAS**
+#### Notes
 
 ##### **Gestión del aula**
 
@@ -91,3 +112,8 @@ _10 minutos_
 * Estudiantes más pequeños: votación con pulgares sobre si es justo o injusto (sí/no)
 * ELL/Accesibilidad: apoyos visuales y preguntas simplificadas
 * Seguridad: actividad sentados, movimiento mínimo
+
+#### Additional resources
+
+* Appendix A: Ejemplo de una historia adecuada
+* Appendix B: Otros ejemplos
