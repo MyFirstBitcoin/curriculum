@@ -1,20 +1,20 @@
 # Et ensuite ?
 
-###### La monnaie fiduciaire est défaillante par conception
+###### La monnaie fiduciaire est vouée à l'échec de par sa nature même
 
-Le système est conçu de manière à transférer progressivement le pouvoir d'achat des épargnants ordinaires vers ceux qui contrôlent l'émission monétaire. Ce n'est pas une théorie du complot, c'est visible dans les données et confirmé par l'histoire.
+Le système est conçu de telle manière qu'il transfère progressivement le pouvoir d'achat des épargnants ordinaires vers ceux qui contrôlent la masse monétaire. Il ne s'agit pas d'un complot : cela ressort clairement des données et est confirmé par l'histoire.
 
-###### Bitcoin est une véritable alternative
+###### Le Bitcoin est une véritable alternative
 
-Depuis 2009, il existe une forme de monnaie qui est rare, neutre et accessible à tous, qui rétablit les fonctions essentielles que la monnaie est censée remplir sans exiger de confiance envers une institution ou une autorité.
+Depuis 2009, il existe une forme de monnaie rare, neutre et accessible à tous, qui rétablit les fonctions essentielles que la monnaie est censée remplir sans nécessiter de faire confiance à une institution ou à une autorité quelconque.
 
-###### Commencer est plus facile qu'il n'y paraît
+###### Se lancer, c'est plus facile qu'il n'y paraît
 
-Téléchargez un portefeuille, apprenez à l'utiliser et commencez petit. Vous n'avez pas besoin de tout comprendre avant de faire le premier pas. La compréhension vient avec la pratique.
+Téléchargez un portefeuille, apprenez à vous en servir et commencez petit. Pas besoin de tout comprendre avant de vous lancer. C'est en pratiquant que l'on apprend.
 
-###### Ce n'est que le début
+###### Ce n'est qu'un début
 
-Le [Bitcoin Diploma](https://myfirstbitcoin.org/bitcoin-diploma-course/) est l'étape suivante, en s'appuyant sur ce que vous avez appris ici. Restez curieux, continuez à poser des questions, et bienvenue dans le terrier du lapin. Pour en savoir plus, rendez-vous sur [www.myfirstbitcoin.org](https://myfirstbitcoin.org)
+Le [Diplôme Bitcoin](https://myfirstbitcoin.org/bitcoin-diploma-course/) C'est la prochaine étape, qui s'appuie sur ce que vous avez appris ici. Restez curieux, continuez à poser des questions, et bienvenue dans le monde merveilleux de l'informatique. Pour en savoir plus, rendez-vous sur [www.myfirstbitcoin.org](https://myfirstbitcoin.org)
 
 
 
