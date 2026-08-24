@@ -1,0 +1,58 @@
+# Bitcoin for Organizations
+
+The vi edition of My First Bitcoin's **Bitcoin for Organizations** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+| **[Bitcoin và Quản lý Rủi ro](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro)** | 1.0 | [Giới thiệu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/0-gioi-thieu.md) |
+|  | 1.1 | [Nhận diện rủi ro](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/1-nhan-dien-rui-ro.md) |
+|  | 1.2 | [Xác định tác động](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/2-xac-inh-tac-ong.md) |
+|  | 1.3 | [Đánh giá tác động](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/3-anh-gia-tac-ong.md) |
+|  | 1.4 | [Đánh giá Rủi ro, Tác động và Các Kịch bản Tương lai](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/4-anh-gia-rui-ro-tac-ong-va-cac-kich-ban-tuong-lai.md) |
+|  | 1.5 | [Các biện pháp giảm thiểu và cơ hội](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/1-bitcoin-va-quan-ly-rui-ro/5-cac-bien-phap-giam-thieu-va-co-hoi.md) |
+| **[Xóa bỏ những hiểu lầm](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam)** | 2.1 | [Bitcoin không có giá trị nội tại](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/1-bitcoin-khong-co-gia-tri-noi-tai.md) |
+|  | 2.2 | [Bitcoin gây hại cho môi trường](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/2-bitcoin-gay-hai-cho-moi-truong.md) |
+|  | 2.3 | [Bitcoin quá chậm để trở thành tiền tệ toàn cầu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/3-bitcoin-qua-cham-e-tro-thanh-tien-te-toan-cau.md) |
+|  | 2.4 | [Không có sự đổi mới nào đang diễn ra trong Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/4-khong-co-su-oi-moi-nao-ang-dien-ra-trong-bitcoin.md) |
+|  | 2.5 | [Liệu các chính phủ có cấm Bitcoin không?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/5-lieu-cac-chinh-phu-co-cam-bitcoin-khong.md) |
+|  | 2.6 | [Có hàng ngàn đồng tiền khác](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/6-co-hang-ngan-ong-tien-khac.md) |
+|  | 2.7 | [Bitcoin không thực sự phi tập trung](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/7-bitcoin-khong-thuc-su-phi-tap-trung.md) |
+|  | 2.8 | [Bitcoin chưa được sử dụng rộng rãi, vậy nó có phải là tiền không?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/8-bitcoin-chua-uoc-su-dung-rong-rai-vay-no-co-phai-la-tien-khong.md) |
+|  | 2.9 | [Liệu một đồng tiền kỹ thuật số của ngân hàng trung ương (CBDC) có khiến Bitcoin trở nên lỗi thời không?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/9-lieu-mot-ong-tien-ky-thuat-so-cua-ngan-hang-trung-uong-cbdc-co-khien-bitcoin-tro-nen-loi-thoi-khong.md) |
+|  | 2.10 | [Liệu Bitcoin có bị vượt mặt bởi một công nghệ khác không?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/2-xoa-bo-nhung-hieu-lam/10-lieu-bitcoin-co-bi-vuot-mat-boi-mot-cong-nghe-khac-khong.md) |
+| **[Lịch sử kỹ thuật của Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin)** | 3.0 | [Giới thiệu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/0-gioi-thieu.md) |
+|  | 3.1 | [Sự phát triển của TCP/IP](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/1-su-phat-trien-cua-tcp-ip.md) |
+|  | 3.2 | [Mật mã khóa công khai và các giao thức](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/2-mat-ma-khoa-cong-khai-va-cac-giao-thuc.md) |
+|  | 3.3 | [DigiCash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/3-digicash.md) |
+|  | 3.4 | [Hashcash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/4-hashcash.md) |
+|  | 3.5 | [BitTorrent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/5-bittorrent.md) |
+|  | 3.6 | [Bằng chứng công việc có thể tái sử dụng](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/6-bang-chung-cong-viec-co-the-tai-su-dung.md) |
+|  | 3.7 | [Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/3-lich-su-ky-thuat-cua-bitcoin/7-bitcoin.md) |
+| **[Tác động đến các ngành công nghiệp](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep)** | 4.1 | [Bitcoin và Năng lượng](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/1-bitcoin-va-nang-luong.md) |
+|  | 4.2 | [Bitcoin và Quản lý Đầu tư](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/2-bitcoin-va-quan-ly-au-tu.md) |
+|  | 4.3 | [Ngân hàng và Thanh toán](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/3-ngan-hang-va-thanh-toan.md) |
+|  | 4.4 | [Tác động đối với ngành công nghệ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/4-tac-ong-oi-voi-nganh-cong-nghe.md) |
+|  | 4.5 | [Dịch vụ chuyên nghiệp](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/5-dich-vu-chuyen-nghiep.md) |
+|  | 4.6 | [Chính phủ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/6-chinh-phu.md) |
+|  | 4.7 | [Các tổ chức từ thiện và tổ chức phi lợi nhuận](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/4-tac-ong-en-cac-nganh-cong-nghiep/7-cac-to-chuc-tu-thien-va-to-chuc-phi-loi-nhuan.md) |
+| **[Tác động đến các chức năng nội bộ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/5-tac-ong-en-cac-chuc-nang-noi-bo)** | 5.1 | [Tác động của Bitcoin đối với các nhà lãnh đạo công nghệ thông tin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/5-tac-ong-en-cac-chuc-nang-noi-bo/1-tac-ong-cua-bitcoin-oi-voi-cac-nha-lanh-ao-cong-nghe-thong-tin.md) |
+|  | 5.2 | [Kho bạc Bitcoin là một khoản dự trữ Bitcoin mà một cá nhân, doanh nghiệp hoặc tổ chức giữ lại như một phần của tài sản hoặc nguồn vốn của mình. Thay vì chỉ giữ tiền mặt hoặc các tài sản truyền thống khác, họ chọn lưu trữ một phần giá trị của mình dưới dạng Bitcoin, thường với mục đích bảo vệ chống lại lạm phát, đa dạng hóa tài sản hoặc tận dụng tiềm năng tăng giá trị của Bitcoin trong tương lai.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/5-tac-ong-en-cac-chuc-nang-noi-bo/2-kho-bac-bitcoin-la-mot-khoan-du-tru-bitcoin-ma-mot-ca-nhan-doanh-nghiep-hoac-to-chuc-giu-lai-nhu-mot-phan-c-5c0fa179e1.md) |
+| **[Chấp nhận Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/6-chap-nhan-bitcoin)** | 6.1 | [Khám Phá Sự Khan Hiếm Kỹ Thuật Số](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/6-chap-nhan-bitcoin/1-kham-pha-su-khan-hiem-ky-thuat-so.md) |
+|  | 6.2 | [Chu kỳ Chấp nhận Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/6-chap-nhan-bitcoin/2-chu-ky-chap-nhan-bitcoin.md) |
+| **[Tương lai có thể của Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/7-tuong-lai-co-the-cua-bitcoin)** | 7.1 | [Tiềm năng tương lai của Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/7-tuong-lai-co-the-cua-bitcoin/1-tiem-nang-tuong-lai-cua-bitcoin.md) |
+|  | 7.2 | [Xây dựng lưới điện năng lượng tái tạo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/7-tuong-lai-co-the-cua-bitcoin/2-xay-dung-luoi-ien-nang-luong-tai-tao.md) |
+|  | 7.3 | [Cung cấp dịch vụ ngân hàng cho những người không (hoặc ít) được tiếp cận ngân hàng](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/7-tuong-lai-co-the-cua-bitcoin/3-cung-cap-dich-vu-ngan-hang-cho-nhung-nguoi-khong-hoac-it-uoc-tiep-can-ngan-hang.md) |
+|  | 7.4 | [Sự hội tụ của Bitcoin và AI](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/7-tuong-lai-co-the-cua-bitcoin/4-su-hoi-tu-cua-bitcoin-va-ai.md) |
+| **[Nền kinh tế Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin)** | 8.0 | [Giới thiệu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin/0-gioi-thieu.md) |
+|  | 8.1 | [Bản chất của sổ cái Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin/1-ban-chat-cua-so-cai-bitcoin.md) |
+|  | 8.2 | [Các chỉ số để phân tích sổ cái](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin/2-cac-chi-so-e-phan-tich-so-cai.md) |
+|  | 8.3 | [Tương lai của các chỉ số trên chuỗi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin/3-tuong-lai-cua-cac-chi-so-tren-chuoi.md) |
+|  | 8.4 | [Giao dịch Pizza Day](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/vi/8-nen-kinh-te-bitcoin/4-giao-dich-pizza-day.md) |
+<!-- mfb:structure:end -->

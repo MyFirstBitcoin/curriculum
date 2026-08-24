@@ -1,0 +1,58 @@
+# Bitcoin for Organizations
+
+The it edition of My First Bitcoin's **Bitcoin for Organizations** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+| **[Bitcoin e gestione del rischio](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio)** | 1.0 | [Introduzione](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/0-introduzione.md) |
+|  | 1.1 | [Identificare i rischi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/1-identificare-i-rischi.md) |
+|  | 1.2 | [Identificare gli impatti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/2-identificare-gli-impatti.md) |
+|  | 1.3 | [Valutare gli impatti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/3-valutare-gli-impatti.md) |
+|  | 1.4 | [Valutazione dei rischi, degli impatti e degli scenari futuri](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/4-valutazione-dei-rischi-degli-impatti-e-degli-scenari-futuri.md) |
+|  | 1.5 | [Mitigazioni e opportunità](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/1-bitcoin-e-gestione-del-rischio/5-mitigazioni-e-opportunita.md) |
+| **[Sfatare i malintesi](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi)** | 2.1 | [Bitcoin non ha valore intrinseco](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/1-bitcoin-non-ha-valore-intrinseco.md) |
+|  | 2.2 | [Bitcoin è dannoso per l'ambiente](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/2-bitcoin-e-dannoso-per-l-ambiente.md) |
+|  | 2.3 | [Bitcoin è troppo lento per essere una moneta globale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/3-bitcoin-e-troppo-lento-per-essere-una-moneta-globale.md) |
+|  | 2.4 | [Non c’è innovazione in Bitcoin.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/4-non-c-e-innovazione-in-bitcoin.md) |
+|  | 2.5 | [I governi vieteranno Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/5-i-governi-vieteranno-bitcoin.md) |
+|  | 2.6 | [Ci sono migliaia di altre monete](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/6-ci-sono-migliaia-di-altre-monete.md) |
+|  | 2.7 | [Bitcoin non è veramente decentralizzato](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/7-bitcoin-non-e-veramente-decentralizzato.md) |
+|  | 2.8 | [Bitcoin non è ampiamente utilizzato, quindi è denaro?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/8-bitcoin-non-e-ampiamente-utilizzato-quindi-e-denaro.md) |
+|  | 2.9 | [Una CBDC renderà Bitcoin obsoleto?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/9-una-cbdc-rendera-bitcoin-obsoleto.md) |
+|  | 2.10 | [Bitcoin sarà superato da un’altra tecnologia?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/2-sfatare-i-malintesi/10-bitcoin-sara-superato-da-un-altra-tecnologia.md) |
+| **[Storia tecnica di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin)** | 3.0 | [Introduzione](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/0-introduzione.md) |
+|  | 3.1 | [Lo sviluppo di TCP/IP](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/1-lo-sviluppo-di-tcp-ip.md) |
+|  | 3.2 | [Crittografia a chiave pubblica e protocolli](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/2-crittografia-a-chiave-pubblica-e-protocolli.md) |
+|  | 3.3 | [DigiCash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/3-digicash.md) |
+|  | 3.4 | [Hashcash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/4-hashcash.md) |
+|  | 3.5 | [BitTorrent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/5-bittorrent.md) |
+|  | 3.6 | [Prova di lavoro riutilizzabile](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/6-prova-di-lavoro-riutilizzabile.md) |
+|  | 3.7 | [Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/3-storia-tecnica-di-bitcoin/7-bitcoin.md) |
+| **[Impatto sui settori industriali](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali)** | 4.1 | [Bitcoin ed energia](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/1-bitcoin-ed-energia.md) |
+|  | 4.2 | [Bitcoin e gestione degli investimenti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/2-bitcoin-e-gestione-degli-investimenti.md) |
+|  | 4.3 | [Banche e pagamenti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/3-banche-e-pagamenti.md) |
+|  | 4.4 | [L’impatto sull’industria tecnologica](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/4-l-impatto-sull-industria-tecnologica.md) |
+|  | 4.5 | [Servizi professionali](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/5-servizi-professionali.md) |
+|  | 4.6 | [Governo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/6-governo.md) |
+|  | 4.7 | [Organizzazioni di beneficenza e senza scopo di lucro](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/4-impatto-sui-settori-industriali/7-organizzazioni-di-beneficenza-e-senza-scopo-di-lucro.md) |
+| **[Impatto sulle funzioni interne](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/5-impatto-sulle-funzioni-interne)** | 5.1 | [L’impatto di Bitcoin sui leader IT](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/5-impatto-sulle-funzioni-interne/1-l-impatto-di-bitcoin-sui-leader-it.md) |
+|  | 5.2 | [Cos’è un Bitcoin Treasury  Un Bitcoin Treasury è una riserva di bitcoin detenuta da un’azienda, un’organizzazione o un governo come parte delle proprie risorse finanziarie. Invece di mantenere solo valute tradizionali come euro o dollari, alcune entità scelgono di conservare una parte del loro patrimonio in bitcoin, considerandolo una riserva di valore o una copertura contro l’inflazione. Queste riserve possono essere utilizzate per diversificare gli investimenti, proteggere il potere d’acquisto o mostrare fiducia nella tecnologia Bitcoin.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/5-impatto-sulle-funzioni-interne/2-cos-e-un-bitcoin-treasury-un-bitcoin-treasury-e-una-riserva-di-bitcoin-detenuta-da-un-azienda-un-organizzaz-b6f92df3c3.md) |
+| **[Adopting Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/6-adopting-bitcoin)** | 6.1 | [La scoperta della scarsità digitale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/6-adopting-bitcoin/1-la-scoperta-della-scarsita-digitale.md) |
+|  | 6.2 | [Il ciclo di adozione di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/6-adopting-bitcoin/2-il-ciclo-di-adozione-di-bitcoin.md) |
+| **[Il possibile futuro di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/7-il-possibile-futuro-di-bitcoin)** | 7.1 | [Il potenziale futuro per Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/7-il-possibile-futuro-di-bitcoin/1-il-potenziale-futuro-per-bitcoin.md) |
+|  | 7.2 | [Costruire la rete energetica rinnovabile](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/7-il-possibile-futuro-di-bitcoin/2-costruire-la-rete-energetica-rinnovabile.md) |
+|  | 7.3 | [Bancare chi non ha accesso ai servizi bancari (o ne ha accesso limitato)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/7-il-possibile-futuro-di-bitcoin/3-bancare-chi-non-ha-accesso-ai-servizi-bancari-o-ne-ha-accesso-limitato.md) |
+|  | 7.4 | [La convergenza tra Bitcoin e l’intelligenza artificiale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/7-il-possibile-futuro-di-bitcoin/4-la-convergenza-tra-bitcoin-e-l-intelligenza-artificiale.md) |
+| **[L’economia di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin)** | 8.0 | [Introduzione](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin/0-introduzione.md) |
+|  | 8.1 | [La natura del registro di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin/1-la-natura-del-registro-di-bitcoin.md) |
+|  | 8.2 | [Metriche per l’analisi del registro](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin/2-metriche-per-l-analisi-del-registro.md) |
+|  | 8.3 | [Il futuro delle metriche on-chain](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin/3-il-futuro-delle-metriche-on-chain.md) |
+|  | 8.4 | [La transazione del Pizza Day](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/it/8-l-economia-di-bitcoin/4-la-transazione-del-pizza-day.md) |
+<!-- mfb:structure:end -->

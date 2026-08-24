@@ -1,0 +1,58 @@
+# Bitcoin for Organizations
+
+The ro edition of My First Bitcoin's **Bitcoin for Organizations** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+| **[Bitcoin și managementul riscului](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului)** | 1.0 | [Introducere](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/0-introducere.md) |
+|  | 1.1 | [Identificarea riscurilor](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/1-identificarea-riscurilor.md) |
+|  | 1.2 | [Identificarea impacturilor](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/2-identificarea-impacturilor.md) |
+|  | 1.3 | [Evaluarea impacturilor](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/3-evaluarea-impacturilor.md) |
+|  | 1.4 | [Evaluarea riscurilor, impacturilor și scenariilor viitoare](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/4-evaluarea-riscurilor-impacturilor-si-scenariilor-viitoare.md) |
+|  | 1.5 | [Măsuri de atenuare și oportunități](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/1-bitcoin-si-managementul-riscului/5-masuri-de-atenuare-si-oportunitati.md) |
+| **[Demontarea concepțiilor greșite](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite)** | 2.1 | [Bitcoin nu are valoare intrinsecă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/1-bitcoin-nu-are-valoare-intrinseca.md) |
+|  | 2.2 | [Bitcoin este dăunător pentru mediu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/2-bitcoin-este-daunator-pentru-mediu.md) |
+|  | 2.3 | [Bitcoin este prea lent pentru a fi o monedă globală](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/3-bitcoin-este-prea-lent-pentru-a-fi-o-moneda-globala.md) |
+|  | 2.4 | [Nu există inovație în Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/4-nu-exista-inovatie-in-bitcoin.md) |
+|  | 2.5 | [Vor interzice guvernele Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/5-vor-interzice-guvernele-bitcoin.md) |
+|  | 2.6 | [Există mii de alte monede](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/6-exista-mii-de-alte-monede.md) |
+|  | 2.7 | [Bitcoin nu este cu adevărat descentralizat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/7-bitcoin-nu-este-cu-adevarat-descentralizat.md) |
+|  | 2.8 | [Bitcoin nu este folosit pe scară largă, deci este el bani?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/8-bitcoin-nu-este-folosit-pe-scara-larga-deci-este-el-bani.md) |
+|  | 2.9 | [Va face o CBDC ca Bitcoin să devină inutil?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/9-va-face-o-cbdc-ca-bitcoin-sa-devina-inutil.md) |
+|  | 2.10 | [Va fi Bitcoin depășit de o altă tehnologie?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/2-demontarea-conceptiilor-gresite/10-va-fi-bitcoin-depasit-de-o-alta-tehnologie.md) |
+| **[Istoria tehnică a Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin)** | 3.0 | [Introducere](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/0-introducere.md) |
+|  | 3.1 | [Dezvoltarea TCP/IP](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/1-dezvoltarea-tcp-ip.md) |
+|  | 3.2 | [Criptografie cu cheie publică și protocoale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/2-criptografie-cu-cheie-publica-si-protocoale.md) |
+|  | 3.3 | [DigiCash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/3-digicash.md) |
+|  | 3.4 | [Hashcash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/4-hashcash.md) |
+|  | 3.5 | [BitTorrent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/5-bittorrent.md) |
+|  | 3.6 | [Dovadă de lucru reutilizabilă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/6-dovada-de-lucru-reutilizabila.md) |
+|  | 3.7 | [Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/3-istoria-tehnica-a-bitcoin/7-bitcoin.md) |
+| **[Impact asupra sectoarelor industriale](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale)** | 4.1 | [Bitcoin și energia](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/1-bitcoin-si-energia.md) |
+|  | 4.2 | [Bitcoin și administrarea investițiilor](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/2-bitcoin-si-administrarea-investitiilor.md) |
+|  | 4.3 | [Bănci și plăți](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/3-banci-si-plati.md) |
+|  | 4.4 | [Impactul asupra industriei tehnologice](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/4-impactul-asupra-industriei-tehnologice.md) |
+|  | 4.5 | [Servicii profesionale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/5-servicii-profesionale.md) |
+|  | 4.6 | [Guvern](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/6-guvern.md) |
+|  | 4.7 | [Organizații caritabile și organizații non-profit](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/4-impact-asupra-sectoarelor-industriale/7-organizatii-caritabile-si-organizatii-non-profit.md) |
+| **[Impact asupra funcțiilor interne](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/5-impact-asupra-functiilor-interne)** | 5.1 | [Impactul Bitcoin asupra liderilor IT](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/5-impact-asupra-functiilor-interne/1-impactul-bitcoin-asupra-liderilor-it.md) |
+|  | 5.2 | [Ce este un Bitcoin Treasury  Un Bitcoin Treasury este o rezervă de bitcoin deținută de o organizație, companie sau instituție, de obicei ca parte a strategiei sale financiare. Aceasta înseamnă că organizația păstrează o parte din fondurile sale în bitcoin, în loc să le țină doar în moneda locală sau în alte active tradiționale. Scopul poate fi divers: protejarea împotriva inflației, diversificarea portofoliului sau participarea la creșterea valorii bitcoinului.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/5-impact-asupra-functiilor-interne/2-ce-este-un-bitcoin-treasury-un-bitcoin-treasury-este-o-rezerva-de-bitcoin-detinuta-de-o-organizatie-compani-68eeefd507.md) |
+| **[Adoptarea Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/6-adoptarea-bitcoin)** | 6.1 | [Descoperirea rarității digitale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/6-adoptarea-bitcoin/1-descoperirea-raritatii-digitale.md) |
+|  | 6.2 | [Ciclul de adoptare a Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/6-adoptarea-bitcoin/2-ciclul-de-adoptare-a-bitcoin.md) |
+| **[Viitorul posibil al Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/7-viitorul-posibil-al-bitcoin)** | 7.1 | [Viitorul potențial al Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/7-viitorul-posibil-al-bitcoin/1-viitorul-potential-al-bitcoin.md) |
+|  | 7.2 | [Construirea rețelei de energie regenerabilă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/7-viitorul-posibil-al-bitcoin/2-construirea-retelei-de-energie-regenerabila.md) |
+|  | 7.3 | [Incluziunea financiară a persoanelor ne(bancarizate)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/7-viitorul-posibil-al-bitcoin/3-incluziunea-financiara-a-persoanelor-ne-bancarizate.md) |
+|  | 7.4 | [Convergența dintre Bitcoin și inteligența artificială](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/7-viitorul-posibil-al-bitcoin/4-convergenta-dintre-bitcoin-si-inteligenta-artificiala.md) |
+| **[Economia Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin)** | 8.0 | [Introducere](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin/0-introducere.md) |
+|  | 8.1 | [Natura registrului Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin/1-natura-registrului-bitcoin.md) |
+|  | 8.2 | [Metrice pentru analizarea registrului](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin/2-metrice-pentru-analizarea-registrului.md) |
+|  | 8.3 | [Viitorul metricilor on-chain](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin/3-viitorul-metricilor-on-chain.md) |
+|  | 8.4 | [Tranzacția de Ziua Pizza](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/ro/8-economia-bitcoin/4-tranzactia-de-ziua-pizza.md) |
+<!-- mfb:structure:end -->

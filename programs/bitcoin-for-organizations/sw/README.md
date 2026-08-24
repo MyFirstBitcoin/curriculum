@@ -1,0 +1,58 @@
+# Bitcoin for Organizations
+
+The sw edition of My First Bitcoin's **Bitcoin for Organizations** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+| **[Bitcoin na Usimamizi wa Hatari](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari)** | 1.0 | [Utangulizi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/0-utangulizi.md) |
+|  | 1.1 | [Kutambua hatari](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/1-kutambua-hatari.md) |
+|  | 1.2 | [Kutambua athari](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/2-kutambua-athari.md) |
+|  | 1.3 | [Kuchambua athari](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/3-kuchambua-athari.md) |
+|  | 1.4 | [Kuchambua Hatari, Athari, na Matukio ya Baadaye](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/4-kuchambua-hatari-athari-na-matukio-ya-baadaye.md) |
+|  | 1.5 | [Mikakati za kupunguza athari na fursa](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/1-bitcoin-na-usimamizi-wa-hatari/5-mikakati-za-kupunguza-athari-na-fursa.md) |
+| **[Kuvunja Dhana Potofu](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu)** | 2.1 | [Bitcoin haina thamani ya ndani](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/1-bitcoin-haina-thamani-ya-ndani.md) |
+|  | 2.2 | [Bitcoin ni mbaya kwa mazingira](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/2-bitcoin-ni-mbaya-kwa-mazingira.md) |
+|  | 2.3 | [Bitcoin ni polepole sana kuwa pesa ya kimataifa](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/3-bitcoin-ni-polepole-sana-kuwa-pesa-ya-kimataifa.md) |
+|  | 2.4 | [Hakuna ubunifu unaotokea kwenye Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/4-hakuna-ubunifu-unaotokea-kwenye-bitcoin.md) |
+|  | 2.5 | [Je, Serikali zitapiga marufuku Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/5-je-serikali-zitapiga-marufuku-bitcoin.md) |
+|  | 2.6 | [Kuna maelfu ya sarafu nyingine](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/6-kuna-maelfu-ya-sarafu-nyingine.md) |
+|  | 2.7 | [Bitcoin haijagawanywa kikamilifu kwa kweli](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/7-bitcoin-haijagawanywa-kikamilifu-kwa-kweli.md) |
+|  | 2.8 | [Bitcoin haitumiki sana, basi je, ni pesa?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/8-bitcoin-haitumiki-sana-basi-je-ni-pesa.md) |
+|  | 2.9 | [Je, CBDC itafanya Bitcoin isiwe na maana tena?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/9-je-cbdc-itafanya-bitcoin-isiwe-na-maana-tena.md) |
+|  | 2.10 | [Je, Bitcoin itashindwa na teknolojia nyingine?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/2-kuvunja-dhana-potofu/10-je-bitcoin-itashindwa-na-teknolojia-nyingine.md) |
+| **[Historia ya Kiufundi ya Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin)** | 3.0 | [Utangulizi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/0-utangulizi.md) |
+|  | 3.1 | [Maendeleo ya TCP/IP](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/1-maendeleo-ya-tcp-ip.md) |
+|  | 3.2 | [Kriptografia ya Ufunguo wa Umma na Itifaki](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/2-kriptografia-ya-ufunguo-wa-umma-na-itifaki.md) |
+|  | 3.3 | [DigiCash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/3-digicash.md) |
+|  | 3.4 | [Hashcash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/4-hashcash.md) |
+|  | 3.5 | [BitTorrent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/5-bittorrent.md) |
+|  | 3.6 | [Uthibitisho wa kazi unaoweza kutumika tena](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/6-uthibitisho-wa-kazi-unaoweza-kutumika-tena.md) |
+|  | 3.7 | [Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/3-historia-ya-kiufundi-ya-bitcoin/7-bitcoin.md) |
+| **[Athari kwa sekta mbalimbali za viwanda](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda)** | 4.1 | [Bitcoin na Nishati](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/1-bitcoin-na-nishati.md) |
+|  | 4.2 | [Bitcoin na Usimamizi wa Uwekezaji](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/2-bitcoin-na-usimamizi-wa-uwekezaji.md) |
+|  | 4.3 | [Huduma za Kibenki na Malipo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/3-huduma-za-kibenki-na-malipo.md) |
+|  | 4.4 | [Athari kwa Sekta ya Teknolojia](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/4-athari-kwa-sekta-ya-teknolojia.md) |
+|  | 4.5 | [Huduma za Kitaalamu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/5-huduma-za-kitaalamu.md) |
+|  | 4.6 | [Serikali](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/6-serikali.md) |
+|  | 4.7 | [Mashirika ya Hisani na Yasiyo ya Faida](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/4-athari-kwa-sekta-mbalimbali-za-viwanda/7-mashirika-ya-hisani-na-yasiyo-ya-faida.md) |
+| **[Athari kwa Kazi za Ndani](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/5-athari-kwa-kazi-za-ndani)** | 5.1 | [Athari ya Bitcoin kwa viongozi wa TEHAMA](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/5-athari-kwa-kazi-za-ndani/1-athari-ya-bitcoin-kwa-viongozi-wa-tehama.md) |
+|  | 5.2 | [Hazina ya Bitcoin ni akiba ya Bitcoin inayomilikiwa na shirika, kampuni, au taasisi kama sehemu ya mikakati yao ya kifedha. Badala ya kuweka akiba yao yote katika sarafu za kawaida kama vile shilingi au dola, taasisi hizi zinaamua kununua na kushikilia Bitcoin kama njia ya kuhifadhi thamani, kulinda dhidi ya mfumuko wa bei, au kama uwekezaji wa muda mrefu. Hazina ya Bitcoin inaweza kutumika pia kwa malipo, uwekezaji, au kama sehemu ya sera ya fedha ya kampuni.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/5-athari-kwa-kazi-za-ndani/2-hazina-ya-bitcoin-ni-akiba-ya-bitcoin-inayomilikiwa-na-shirika-kampuni-au-taasisi-kama-sehemu-ya-mikakati-y-3788221c3e.md) |
+| **[Kupitisha Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/6-kupitisha-bitcoin)** | 6.1 | [Ugunduzi wa Uhaba wa Kidijitali](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/6-kupitisha-bitcoin/1-ugunduzi-wa-uhaba-wa-kidijitali.md) |
+|  | 6.2 | [Mzunguko wa Upitishaji wa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/6-kupitisha-bitcoin/2-mzunguko-wa-upitishaji-wa-bitcoin.md) |
+| **[Mustakabali Unaowezekana wa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/7-mustakabali-unaowezekana-wa-bitcoin)** | 7.1 | [Uwezekano wa Mustakabali wa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/7-mustakabali-unaowezekana-wa-bitcoin/1-uwezekano-wa-mustakabali-wa-bitcoin.md) |
+|  | 7.2 | [Kujenga mtandao wa nishati mbadala](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/7-mustakabali-unaowezekana-wa-bitcoin/2-kujenga-mtandao-wa-nishati-mbadala.md) |
+|  | 7.3 | [Kuwapatia huduma za kibenki wasio na huduma za kibenki au wanaopata huduma kidogo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/7-mustakabali-unaowezekana-wa-bitcoin/3-kuwapatia-huduma-za-kibenki-wasio-na-huduma-za-kibenki-au-wanaopata-huduma-kidogo.md) |
+|  | 7.4 | [Muunganiko wa Bitcoin na AI](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/7-mustakabali-unaowezekana-wa-bitcoin/4-muunganiko-wa-bitcoin-na-ai.md) |
+| **[Uchumi wa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin)** | 8.0 | [Utangulizi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin/0-utangulizi.md) |
+|  | 8.1 | [Asili ya Daftari la Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin/1-asili-ya-daftari-la-bitcoin.md) |
+|  | 8.2 | [Vipimo vya Kuchambua Daftari la Kumbukumbu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin/2-vipimo-vya-kuchambua-daftari-la-kumbukumbu.md) |
+|  | 8.3 | [Mustakabali wa Vipimo vya On-Chain](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin/3-mustakabali-wa-vipimo-vya-on-chain.md) |
+|  | 8.4 | [Muamala wa Siku ya Pizza](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/sw/8-uchumi-wa-bitcoin/4-muamala-wa-siku-ya-pizza.md) |
+<!-- mfb:structure:end -->

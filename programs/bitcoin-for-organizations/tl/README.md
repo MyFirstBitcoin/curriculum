@@ -1,0 +1,58 @@
+# Bitcoin for Organizations
+
+The tl edition of My First Bitcoin's **Bitcoin for Organizations** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+| **[Bitcoin at Pamamahala ng Panganib](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib)** | 1.0 | [Panimula](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/0-panimula.md) |
+|  | 1.1 | [Pagtukoy ng mga panganib](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/1-pagtukoy-ng-mga-panganib.md) |
+|  | 1.2 | [Pagtukoy ng mga epekto](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/2-pagtukoy-ng-mga-epekto.md) |
+|  | 1.3 | [Pagsusuri ng mga epekto](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/3-pagsusuri-ng-mga-epekto.md) |
+|  | 1.4 | [Pagsusuri ng mga Panganib, Epekto, at mga Hinaharap na Scenario](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/4-pagsusuri-ng-mga-panganib-epekto-at-mga-hinaharap-na-scenario.md) |
+|  | 1.5 | [Mga paraan ng pag-iwas at mga oportunidad](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/1-bitcoin-at-pamamahala-ng-panganib/5-mga-paraan-ng-pag-iwas-at-mga-oportunidad.md) |
+| **[Pagwawaksi ng mga Maling Paniniwala](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala)** | 2.1 | [Walang likas na halaga ang Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/1-walang-likas-na-halaga-ang-bitcoin.md) |
+|  | 2.2 | [Masama ang Bitcoin para sa kalikasan.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/2-masama-ang-bitcoin-para-sa-kalikasan.md) |
+|  | 2.3 | [Masyadong mabagal ang Bitcoin para maging pandaigdigang pera.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/3-masyadong-mabagal-ang-bitcoin-para-maging-pandaigdigang-pera.md) |
+|  | 2.4 | [Walang nagaganap na inobasyon sa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/4-walang-nagaganap-na-inobasyon-sa-bitcoin.md) |
+|  | 2.5 | [Ipagbabawal ba ng mga gobyerno ang Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/5-ipagbabawal-ba-ng-mga-gobyerno-ang-bitcoin.md) |
+|  | 2.6 | [Mayroong libu-libong ibang mga coin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/6-mayroong-libu-libong-ibang-mga-coin.md) |
+|  | 2.7 | [Hindi talaga desentralisado ang Bitcoin.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/7-hindi-talaga-desentralisado-ang-bitcoin.md) |
+|  | 2.8 | [Hindi pa malawakang ginagamit ang Bitcoin, kaya ba ito ay pera?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/8-hindi-pa-malawakang-ginagamit-ang-bitcoin-kaya-ba-ito-ay-pera.md) |
+|  | 2.9 | [Magiging lipas na ba ang Bitcoin kapag nagkaroon ng CBDC?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/9-magiging-lipas-na-ba-ang-bitcoin-kapag-nagkaroon-ng-cbdc.md) |
+|  | 2.10 | [Malalampasan ba ng ibang teknolohiya ang Bitcoin?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/2-pagwawaksi-ng-mga-maling-paniniwala/10-malalampasan-ba-ng-ibang-teknolohiya-ang-bitcoin.md) |
+| **[Teknikal na Kasaysayan ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin)** | 3.0 | [Panimula](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/0-panimula.md) |
+|  | 3.1 | [Ang pagbuo ng TCP/IP](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/1-ang-pagbuo-ng-tcp-ip.md) |
+|  | 3.2 | [Kryptograpiya ng Pampublikong Susi at mga Protokol](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/2-kryptograpiya-ng-pampublikong-susi-at-mga-protokol.md) |
+|  | 3.3 | [DigiCash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/3-digicash.md) |
+|  | 3.4 | [Hashcash](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/4-hashcash.md) |
+|  | 3.5 | [BitTorrent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/5-bittorrent.md) |
+|  | 3.6 | [Nare-reuse na patunay ng paggawa](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/6-nare-reuse-na-patunay-ng-paggawa.md) |
+|  | 3.7 | [Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/3-teknikal-na-kasaysayan-ng-bitcoin/7-bitcoin.md) |
+| **[Epekto sa mga sektor ng industriya](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya)** | 4.1 | [Bitcoin at Enerhiya](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/1-bitcoin-at-enerhiya.md) |
+|  | 4.2 | [Bitcoin at Pamamahala ng Pamumuhunan](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/2-bitcoin-at-pamamahala-ng-pamumuhunan.md) |
+|  | 4.3 | [Pagba-banko at Pagbabayad](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/3-pagba-banko-at-pagbabayad.md) |
+|  | 4.4 | [Ang epekto sa Industriya ng Teknolohiya](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/4-ang-epekto-sa-industriya-ng-teknolohiya.md) |
+|  | 4.5 | [Propesyonal na Serbisyo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/5-propesyonal-na-serbisyo.md) |
+|  | 4.6 | [Pamahalaan](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/6-pamahalaan.md) |
+|  | 4.7 | [Mga Kawanggawa at Hindi Pangkalakal na Organisasyon](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/4-epekto-sa-mga-sektor-ng-industriya/7-mga-kawanggawa-at-hindi-pangkalakal-na-organisasyon.md) |
+| **[Epekto sa mga Panloob na Gawain](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/5-epekto-sa-mga-panloob-na-gawain)** | 5.1 | [Epekto ng Bitcoin sa mga lider ng IT](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/5-epekto-sa-mga-panloob-na-gawain/1-epekto-ng-bitcoin-sa-mga-lider-ng-it.md) |
+|  | 5.2 | [Ano ang Bitcoin Treasury](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/5-epekto-sa-mga-panloob-na-gawain/2-ano-ang-bitcoin-treasury.md) |
+| **[Pag-aampon ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/6-pag-aampon-ng-bitcoin)** | 6.1 | [Ang Pagkatuklas ng Digital na Kakulangan](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/6-pag-aampon-ng-bitcoin/1-ang-pagkatuklas-ng-digital-na-kakulangan.md) |
+|  | 6.2 | [Ang Siklo ng Pagsasagawa ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/6-pag-aampon-ng-bitcoin/2-ang-siklo-ng-pagsasagawa-ng-bitcoin.md) |
+| **[Posibleng Hinaharap ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/7-posibleng-hinaharap-ng-bitcoin)** | 7.1 | [Ang Posibleng Hinaharap para sa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/7-posibleng-hinaharap-ng-bitcoin/1-ang-posibleng-hinaharap-para-sa-bitcoin.md) |
+|  | 7.2 | [Pagtatayo ng renewable na grid ng Enerhiya](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/7-posibleng-hinaharap-ng-bitcoin/2-pagtatayo-ng-renewable-na-grid-ng-enerhiya.md) |
+|  | 7.3 | [Pagbibigay ng Serbisyo sa mga Walang (o Kulang sa) Serbisyong Pampinansyal](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/7-posibleng-hinaharap-ng-bitcoin/3-pagbibigay-ng-serbisyo-sa-mga-walang-o-kulang-sa-serbisyong-pampinansyal.md) |
+|  | 7.4 | [Ang Pagsasanib ng Bitcoin at AI](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/7-posibleng-hinaharap-ng-bitcoin/4-ang-pagsasanib-ng-bitcoin-at-ai.md) |
+| **[Ang Ekonomiya ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin)** | 8.0 | [Panimula](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin/0-panimula.md) |
+|  | 8.1 | [Ang Kalikasan ng Ledger ng Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin/1-ang-kalikasan-ng-ledger-ng-bitcoin.md) |
+|  | 8.2 | [Mga Sukatan para sa Pagsusuri ng Ledger](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin/2-mga-sukatan-para-sa-pagsusuri-ng-ledger.md) |
+|  | 8.3 | [Ang Hinaharap ng On-Chain Metrics](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin/3-ang-hinaharap-ng-on-chain-metrics.md) |
+|  | 8.4 | [Ang Transaksyon ng Pizza Day](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-for-organizations/tl/8-ang-ekonomiya-ng-bitcoin/4-ang-transaksyon-ng-pizza-day.md) |
+<!-- mfb:structure:end -->
