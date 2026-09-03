@@ -1,0 +1,17 @@
+# 8.18 Misconception bank
+
+Use these answers as educator preparation, not as speeches. First discover the learner's real question.
+
+
+| Learner claim or question | Beginner-safe response | Discussion prompt | Do not overclaim |
+| --- | --- | --- | --- |
+| “Bitcoin has no intrinsic value.” | Value depends on needs, preferences, properties, and context. Bitcoin has a market price and particular monetary capabilities, but usefulness and personal value vary. | Which observable properties or uses would be relevant to a value judgment? | Do not claim price proves social value or that value must rise. |
+| “Bitcoin uses too much energy.” | Proof of work deliberately consumes resources to make block production costly. A fair evaluation examines quantity, source, location, security function, and alternatives. | What comparison and current evidence would be needed? | Do not use outdated statistics or claim all energy is clean, wasted, or beneficial. |
+| “Bitcoin is too slow.” | Base-layer blocks arrive about every ten minutes on average and settlement confidence grows with confirmations. Lightning can support faster small payments, with different dependencies and failure points. | Too slow for which purpose and compared with which full settlement path? | Do not promise instant or guaranteed settlement. |
+| “Nothing is being built on Bitcoin.” | Wallets, payment tools, Lightning, node software, custody tools, and other services continue to develop. | Which layer or use is the learner asking about? | Do not turn changing projects into permanent global recommendations. |
+| “Governments will ban Bitcoin.” | Governments can regulate people, businesses, services, mining, banking links, and internet access. Rules differ and can change. A government does not have a single switch that edits every independent copy of Bitcoin's ledger. | What action, jurisdiction, and enforcement mechanism does the claim mean? | Do not promise legal immunity or tell learners to evade law. |
+| “There are thousands of other coins, so Bitcoin is obsolete.” | A large number of tokens does not answer questions about issuer, control, supply credibility, verification, security, history, or purpose. | Compare two systems using the same five criteria. | Do not dismiss without explaining the relevant distinction. |
+| “Bitcoin is controlled by miners.” | Miners propose blocks. Nodes reject blocks that violate the rules they enforce; users and services make economic choices; developers propose software. | What happens when a miner creates an invalid block? | Do not imply that every role has equal influence. |
+| “It is not widely used, so it cannot be money.” | Acceptability is one monetary property and varies by place. Bitcoin can perform money functions without performing them equally well everywhere. | Where is it accepted, for which purpose, and with what trade-offs? | Do not claim inevitable adoption. |
+| “CBDCs will replace Bitcoin.” | A CBDC and Bitcoin have different issuers, supply rules, permissions, and verification models. Whether one affects demand for another is a prediction, not a beginner fact. | Which problem is each system designed to solve? | Do not predict policy or markets as certainty. |
+| “A better technology will overtake Bitcoin.” | “Better” requires criteria. Speed, programmability, decentralization, security, monetary policy, verification, and adoption can trade off against one another. | Better for which purpose, and what is sacrificed? | Do not claim Bitcoin can never be displaced or improved. |
